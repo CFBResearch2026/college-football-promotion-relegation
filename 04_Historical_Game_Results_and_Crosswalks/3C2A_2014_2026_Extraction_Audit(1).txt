@@ -1,0 +1,21 @@
+California Community College Football (3C2A / CCCAA) 2014–2026 PROVISIONAL extraction
+Source: college football game by game results 2014.docx (ends October 14, 2026).
+2014 California community college candidate schools: 69; team-game rows: 7799; unique represented teams: 69.
+Historical classifications are 2014-based projections, NOT annual verified classifications. Newly entering programs may be missing; ceased programs may remain in crosswalk.
+Games include all opponents; postseason may be included; spring 2021 attribution and 2020 pandemic scheduling require manual review.
+2026 source is incomplete. Games may be missing from source. Ties flagged T if present.
+Unparsed dated lines: 0
+2014: 726 team-game rows; 69 schools
+2015: 720 team-game rows; 69 schools
+2016: 728 team-game rows; 69 schools
+2017: 710 team-game rows; 68 schools
+2018: 708 team-game rows; 68 schools
+2019: 706 team-game rows; 68 schools
+2020: 0 team-game rows; 0 schools
+2021: 681 team-game rows; 64 schools
+2022: 698 team-game rows; 66 schools
+2023: 696 team-game rows; 66 schools
+2024: 686 team-game rows; 65 schools
+2025: 694 team-game rows; 65 schools
+2026: 46 team-game rows; 46 schools
+2014 candidate roster: Allan Hancock, American River, Antelope Val CC, Bakersfield Col, Butte Col, Cabrillo, Cerritos Col, Chabot, Chaffey, Citrus Col, City Col San Fran, Coalinga, Col San Mateo, Col of the Canyons, Col of the Desert, Col of the Redwoods, Col of the Sequoias, Contra Costa, De Anza Col, Diablo Val, East LA Col, El Camino Col, El Camino-Compton, Feather River, Foothill Col, Fresno City Col, Fullerton Col, Gavilan, Glendale CA, Golden West, Grossmont, Hartnell, LA Harbor, LA Pierce, LA Southwest, LA Valley Col, Laney, Long Beach City Col, Los Medanos, Mendocino, Merced Col, Modesto JC, Monterey Peninsula, Moorpark, Mt San Antonio, Mt San Jacinto, Orange Coast, Palomar Col, Pasadena City Col, Reedley, Riverside CC, Sacramento City, Saddleback, San Bernardino Val, San Diego Mesa, San Joaquin Delta, San Jose City Col, Santa Ana Col, Santa Barbara City, Santa Monica Col, Santa Rosa JC, Shasta Col, Sierra Col, Siskiyous, Southwestern CA, Ventura Col, Victor Valley, West LA Col, Yuba

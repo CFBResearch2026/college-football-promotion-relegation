@@ -1,0 +1,4 @@
+﻿School_ID,Team,Issue,Action
+WESTERN,Western Illinois Leathernecks,Duplicate school directory entry with WESTERN_ILLINOIS,Confirm canonical School_ID; exclude duplicate from rating count
+MIAMI_OH,Miami (OH) RedHawks,Miami ambiguous without qualifier,Use Miami (OH) only
+MIAMI_FL,Miami Hurricanes,Miami ambiguous without qualifier,Use Miami only after verifying source convention

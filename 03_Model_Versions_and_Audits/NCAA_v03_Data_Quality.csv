@@ -1,0 +1,13 @@
+﻿Season,Source,Rows,Exact duplicate rows,Unscored or tied rows,Distinct team labels
+2014,NCAA_FBS_FCS_2014_Game_by_Game_Results(1).csv,3091,0,0,252
+2015,NCAA_FBS_FCS_2015_Game_by_Game_Results(1).csv,3017,0,0,253
+2016,NCAA_FBS_FCS_2016_Game_by_Game_Results(1).csv,3040,0,0,253
+2017,NCAA_FBS_FCS_2017_Game_by_Game_Results_REPAIRED(1).csv,3052,0,0,254
+2018,NCAA_FBS_FCS_2018_Game_by_Game_Results_REPAIRED(1).csv,3049,0,0,255
+2019,NCAA_FBS_FCS_2019_Game_by_Game_Results_REPAIRED(1).csv,3175,0,0,256
+2020,NCAA_FBS_FCS_2020_Game_by_Game_Results(1).csv,1679,0,0,229
+2021,NCAA_FBS_FCS_2021_Game_by_Game_Results(1).csv,3092,0,0,258
+2022,NCAA_FBS_FCS_2022_Game_by_Game_Results(1).csv,3137,0,0,261
+2023,NCAA_FBS_FCS_2023_Game_by_Game_Results(1).csv,3146,0,0,261
+2024,NCAA_FBS_FCS_2024_Game_by_Game_Results(1).csv,3273,0,0,263
+2025,NCAA_FBS_FCS_2025_Game_by_Game_Results(1).csv,3312,0,0,265

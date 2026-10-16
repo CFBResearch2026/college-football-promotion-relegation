@@ -1,0 +1,50 @@
+﻿School ID,Team,Old Tier,New Tier,Old Conference,New Conference,Rating
+OLD_DOMINION,Old Dominion Monarchs,1,2,Premier Atlantic,National Southeast,52.795
+EAST_CAROLINA,East Carolina Pirates,1,2,Premier Atlantic,National Southeast,51.895
+VIRGINIA,Virginia Cavaliers,1,2,Premier Atlantic,National Atlantic,54.702
+BUFFALO,University at Buffalo Bulls,1,2,Premier Atlantic,National Atlantic,49.659
+TENNESSEE,Tennessee Volunteers,1,1,Premier Great Lakes,Premier Southeast,67.986
+WESTERN_KENTUCKY,Western Kentucky Hilltoppers,1,1,Premier Great Lakes,Premier Heartland,62.016
+TEXAS_TECH,Texas Tech Red Raiders,1,1,Premier Heartland,Premier Mountain,63.998
+ARKANSAS_STATE,Arkansas State Red Wolves,1,2,Premier Heartland,National Heartland,52.492
+NEBRASKA,Nebraska Cornhuskers,1,2,Premier Heartland,National Great Lakes,52.365
+NEW_MEXICO,New Mexico Lobos,1,2,Premier Heartland,National Mountain,46.032
+TEXAS_STATE,Texas State Bobcats,1,2,Premier Mountain,National Pacific,51.824
+SACRAMENTO_STATE,Sacramento State Hornets,1,2,Premier Pacific,National Pacific,49.313
+MIAMI_FL,Miami Hurricanes,1,1,Premier Southeast,Premier Heartland,68.441
+SOUTH_FLORIDA,South Florida Bulls,1,1,Premier Southeast,Premier Heartland,54.812
+UCONN,UConn Huskies,1,2,Premier Southeast,National Atlantic,48.492
+VANDERBILT,Vanderbilt Commodores,1,2,Premier Southeast,National Great Lakes,50.479
+PITTSBURGH,Pittsburgh Panthers,2,1,National Atlantic,Premier Atlantic,56.739
+WEST_VIRGINIA,West Virginia Mountaineers,2,1,National Atlantic,Premier Atlantic,55.696
+KENTUCKY,Kentucky Wildcats,2,1,National Atlantic,Premier Atlantic,55.311
+MIAMI_OH,Miami RedHawks,2,1,National Great Lakes,Premier Great Lakes,58.786
+CINCINNATI,Cincinnati Bearcats,2,1,National Great Lakes,Premier Great Lakes,55.941
+AUBURN,Auburn Tigers,2,1,National Heartland,Premier Southeast,55.162
+AIR_FORCE,Air Force Falcons,2,1,National Mountain,Premier Pacific,56.938
+FIU,FIU Panthers,2,2,National Pacific,National Southeast,42.458
+WISCONSIN,Wisconsin Badgers,2,1,National Pacific,Premier Heartland,57.8
+SOUTH_CAROLINA,South Carolina Gamecocks,2,1,National Southeast,Premier Southeast,55.985
+FLORIDA_STATE,Florida State Seminoles,2,1,National Southeast,Premier Southeast,58.585
+FLORIDA,Florida Gators,2,1,National Southeast,Premier Atlantic,57.649
+SOUTHEAST_MISSOURI,Southeast Missouri Redhawks,3,4,Championship Midwest,Development Plains,45.156
+BROWN,Brown Bears,3,4,Championship Northeast,Development Northeast,39.816
+LAMAR,Lamar Cardinals,3,4,Championship Plains,Development Mountain,44.557
+GRAMBLING,Grambling State Tigers,3,4,Championship Plains,Development Mountain,45.598
+PRESBYTERIAN,Presbyterian Blue Hose,3,4,Championship Southeast,Development Midwest,43.166
+GARDNER_WEBB,Gardner-Webb Runnin' Bulldogs,3,4,Championship Southeast,Development Midwest,43.961
+UTRGV,UTRGV Vaqueros,3,3,Championship West,Championship Plains,55.713
+BETHUNE_COOKMAN,Bethune-Cookman Wildcats,4,4,Development Midwest,Development Plains,37.008
+STETSON,Stetson Hatters,4,4,Development Midwest,Development Pacific,32.854
+CENTRAL_ARKANSAS,Central Arkansas Bears,4,3,Development Mountain,Championship Plains,47.223
+TENNESSEE_STATE,Tennessee State Tigers,4,4,Development Mountain,Development Plains,41.378
+MURRAY_STATE,Murray State Racers,4,4,Development Mountain,Development Plains,26.181
+HOLY_CROSS,Holy Cross Crusaders,4,3,Development Northeast,Championship Northeast,49.07
+IDAHO,Idaho Vandals,4,3,Development Pacific,Championship West,50.493
+EAST_TEXAS_AM,East Texas A&M Lions,4,4,Development Pacific,Development Mountain,27.209
+EASTERN_KENTUCKY,Eastern Kentucky Colonels,4,3,Development Plains,Championship Midwest,47.515
+MERCYHURST,Mercyhurst Lakers,4,4,Development Plains,Development Southeast,44.571
+MERRIMACK,Merrimack Warriors,4,4,Development Plains,Development Pacific,41.058
+ROBERT_MORRIS,Robert Morris Colonials,4,4,Development Plains,Development Southeast,36.396
+TOWSON,Towson Tigers,4,3,Development Southeast,Championship Southeast,47.261
+PRINCETON,Princeton Tigers,4,3,Development Southeast,Championship Southeast,48.101

@@ -1,0 +1,12 @@
+DIII HISTORICAL CROSSWALK RECONCILIATION - LIMITED OFFICIAL VERIFICATION
+
+Crosswalk school-year rows: 12216
+Game rows before: 25212
+Game rows after: 25212
+Removed due to supported exit: 0
+IMPORTANT: This is NOT a fully verified crosswalk. Official NCAA historical PDF was not retrievable as a complete document in this environment. Only limited named transitions were checked against accessible excerpts.
+The game file is therefore provisional and may omit new DIII football entrants or include projected memberships. 2020 and 2026 are incomplete.
+Official source: https://fs.ncaa.org.s3.amazonaws.com/Docs/stats/football_records/D3.pdf
+2024-25 reclassification report: https://ncaaorg.s3.amazonaws.com/research/sportpart/2024-25RES_NCAAMembershipBreakdown.pdf
+Verified cases: Alfred State, Alvernia, McMurry, St. Thomas (Minnesota).
+Chronological game numbers in source remain provisional for incompletely recovered schedules.

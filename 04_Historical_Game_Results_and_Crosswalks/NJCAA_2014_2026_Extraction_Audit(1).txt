@@ -1,0 +1,21 @@
+NJCAA football 2014–2026 — PROVISIONAL BASELINE EXTRACTION
+Source: uploaded college football game by game results 2014.docx.
+2014 NJCAA candidate roster: 62 school names; explicitly excludes California 3C2A schools.
+Not an exhaustive NJCAA census. Historical membership, school aliases, new entrants and departures are not fully verified.
+All opponents retained; neutral site inferred when neither team marked @. Spring 2021 attribution requires checking.
+2026 results incomplete and source document stops October 14, 2026.
+Unparsed date lines: 0; total team-game records: 5828
+2014: 583 team-game rows, 62 baseline schools
+2015: 580 team-game rows, 62 baseline schools
+2016: 570 team-game rows, 62 baseline schools
+2017: 570 team-game rows, 62 baseline schools
+2018: 561 team-game rows, 62 baseline schools
+2019: 493 team-game rows, 54 baseline schools
+2020: 66 team-game rows, 13 baseline schools
+2021: 586 team-game rows, 50 baseline schools
+2022: 430 team-game rows, 49 baseline schools
+2023: 449 team-game rows, 49 baseline schools
+2024: 456 team-game rows, 49 baseline schools
+2025: 461 team-game rows, 49 baseline schools
+2026: 23 team-game rows, 23 baseline schools
+Baseline names: ASA, AZ Western, Ark Baptist, Blinn, Butler Co-KS, Central Lakes, Cisco JC, Coahoma CC, Coffeyville CC, Col of Dupage, Copiah-Lincoln, Dakota-Bottineau, Dodge City CC, E Mississippi CC, East Central CC, Eastern Arizona, Ellsworth CC, Erie CC, Fond du Lac T&CC, Fort Scott CC, Garden City CC, Georgia Mil, Glendale AZ, Highland CC KS, Hinds CC, Holmes CC, Hudson Val, Hutchinson CC, Independence CC, Iowa Cent, Iowa Western CC, Itasca CC, Itawamba CC, Jones Col, Kilgore, Lackawanna, Louisburg, MN St CTC, MN West C&T, MS Delta, MS Gulf Coast, Mesa CC, Mesabi Range, Monroe-NR, ND St Science, NE MS CC, NE OK A&M, NM Military, NW Mississippi, Nassau CC, Navarro, Pearl River CC, Phoenix Col, Pima CC, Ridgewater, Rochester C&T, SW Mississippi, Scottsdale CC, Snow Col, Trinity Valley CC, Tyler JC, Vermilion CC

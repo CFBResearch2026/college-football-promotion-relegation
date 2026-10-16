@@ -1,0 +1,21 @@
+NAIA 2014-2026 provisional extraction from uploaded multi-level game results DOCX
+IMPORTANT: NOT a complete historical NAIA dataset. Inclusion limited to schools labeled NAIA in the PRELIMINARY 2014 crosswalk, projected through 2026. Later entrants, departing programs and mistaken 2014 classifications require verification.
+2026 is in progress; 2020/2021 pandemic spring seasons require special season attribution verification.
+2014 NAIA baseline teams: 88
+Team-game rows: 10451
+Unparsed document lines: 0
+2014: 962 team-game rows; 88 teams
+2015: 928 team-game rows; 86 teams
+2016: 913 team-game rows; 85 teams
+2017: 910 team-game rows; 85 teams
+2018: 895 team-game rows; 84 teams
+2019: 894 team-game rows; 84 teams
+2020: 303 team-game rows; 45 teams
+2021: 1154 team-game rows; 82 teams
+2022: 873 team-game rows; 82 teams
+2023: 859 team-game rows; 80 teams
+2024: 859 team-game rows; 80 teams
+2025: 848 team-game rows; 79 teams
+2026: 53 team-game rows; 53 teams
+Game # indexes only extracted games. First NAIA season unknown; blank by design. Neutral site inferred when no @ symbol, subject to venue review.
+Unparsed examples: []

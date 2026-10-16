@@ -1,0 +1,267 @@
+﻿Competitive Tier,Proposed Conference,School ID,Institution,Team,2026 Subdivision,2026 Conference,State,2022-25 Weighted Win %,Seasons Available,Subdivision Performance Rank,Athletic Revenue FY2025,Operational Status,Academic Tier,Tier-1 Rivals in Same Conference,Notes
+1,Premier Atlantic,JAMES_MADISON,James Madison University,James Madison Dukes,FBS,Sun Belt,VA,0.7884,4,7,125000000.0,READY,TIER_3_STRONG_ACADEMIC,OLD_DOMINION,
+1,Premier Atlantic,OHIO,Ohio University,Ohio Bobcats,FBS,Mid-American,OH,0.7401,4,12,90000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Atlantic,PENN_STATE,Pennsylvania State University,Penn State Nittany Lions,FBS,Big Ten,PA,0.7114,4,15,260000000.0,READY,TIER_3_STRONG_ACADEMIC,PITTSBURGH,
+1,Premier Atlantic,NAVY,United States Naval Academy,Navy Midshipmen,FBS,American Athletic,MD,0.6619,4,28,90000000.0,READY,TIER_2_HIGHLY_SELECTIVE,ARMY,
+1,Premier Atlantic,DUKE,Duke University,Duke Blue Devils,FBS,Atlantic Coast Conference,NC,0.6581,4,30,167000000.0,READY,TIER_1_ELITE,,
+1,Premier Atlantic,ARMY,United States Military Academy,Army Black Knights,FBS,American Athletic,NY,0.6206,4,43,75000000.0,READY,TIER_2_HIGHLY_SELECTIVE,NAVY,
+1,Premier Atlantic,LIBERTY,Liberty University,Liberty Flames,FBS,Conference USA,VA,0.601,4,45,190000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Atlantic,NC_STATE,North Carolina State University,NC State Wolfpack,FBS,Atlantic Coast Conference,NC,0.5862,4,49,195000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Atlantic,UCONN,University of Connecticut,UConn Huskies,FBS,Independent,CT,0.565,4,54,117300000.0,CONDITIONALLY_READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Atlantic,EAST_CAROLINA,East Carolina University,East Carolina Pirates,FBS,American Athletic,NC,0.5436,4,56,105000000.0,READY,TIER_4_SOLID_ACADEMIC,NC_STATE,
+1,Premier Atlantic,OLD_DOMINION,Old Dominion University,Old Dominion Monarchs,FBS,Sun Belt,VA,0.5283,4,63,100000000.0,READY,TIER_4_SOLID_ACADEMIC,JAMES_MADISON,
+1,Premier Atlantic,PITTSBURGH,University of Pittsburgh,Pittsburgh Panthers,FBS,Atlantic Coast Conference,PA,0.5219,4,67,155000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Great Lakes,OHIO_STATE,Ohio State University,Ohio State Buckeyes,FBS,Big Ten,OH,0.8587,4,3,310000000.0,READY,TIER_3_STRONG_ACADEMIC,MICHIGAN,
+1,Premier Great Lakes,NOTRE_DAME,University of Notre Dame,Notre Dame Fighting Irish,FBS,Independent,IN,0.8134,4,5,290000000.0,READY,TIER_1_ELITE,,
+1,Premier Great Lakes,MICHIGAN,University of Michigan,Michigan Wolverines,FBS,Big Ten,MI,0.7676,4,9,250000000.0,READY,TIER_2_HIGHLY_SELECTIVE,OHIO_STATE,
+1,Premier Great Lakes,TENNESSEE,University of Tennessee Knoxville,Tennessee Volunteers,FBS,Southeastern Conference,TN,0.7085,4,17,245000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Great Lakes,INDIANA,Indiana University Bloomington,Indiana Hoosiers,FBS,Big Ten,IN,0.7022,4,18,210000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Great Lakes,LOUISVILLE,University of Louisville,Louisville Cardinals,FBS,Atlantic Coast Conference,KY,0.6871,4,23,172000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Great Lakes,TOLEDO,University of Toledo,Toledo Rockets,FBS,Mid-American,OH,0.6564,4,32,100000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Great Lakes,WESTERN_KENTUCKY,Western Kentucky University,Western Kentucky Hilltoppers,FBS,Conference USA,KY,0.6327,4,39,95000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Great Lakes,MIAMI_OH,Miami University,Miami RedHawks,FBS,Mid-American,OH,0.6007,4,46,90000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Great Lakes,MARSHALL,Marshall University,Marshall Thundering Herd,FBS,Sun Belt,WV,0.5681,4,52,110000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Great Lakes,VANDERBILT,Vanderbilt University,Vanderbilt Commodores,FBS,Southeastern Conference,TN,0.5216,4,68,175000000.0,READY,TIER_2_HIGHLY_SELECTIVE,TENNESSEE,
+1,Premier Great Lakes,WESTERN_MICHIGAN,Western Michigan University,Western Michigan Broncos,FBS,Mid-American,MI,0.516,4,69,85000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,NORTH_DAKOTA_STATE,North Dakota State University,North Dakota State Bison,FBS,Mountain West,ND,0.8509,4,4,65000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,OLE_MISS,University of Mississippi,Ole Miss Rebels,FBS,Southeastern Conference,MS,0.8003,4,6,210000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,MEMPHIS,University of Memphis,Memphis Tigers,FBS,American Athletic,TN,0.7085,4,16,150000000.0,READY,TIER_4_SOLID_ACADEMIC,OLE_MISS,
+1,Premier Heartland,MISSOURI,University of Missouri,Missouri Tigers,FBS,Southeastern Conference,MO,0.6923,4,21,190000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Heartland,IOWA,University of Iowa,Iowa Hawkeyes,FBS,Big Ten,IA,0.6641,4,27,210000000.0,READY,TIER_3_STRONG_ACADEMIC,IOWA_STATE,
+1,Premier Heartland,ILLINOIS,University of Illinois Urbana-Champaign,Illinois Fighting Illini,FBS,Big Ten,IL,0.6447,4,36,190000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Heartland,OKLAHOMA,University of Oklahoma,Oklahoma Sooners,FBS,Southeastern Conference,OK,0.6369,4,38,210000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,IOWA_STATE,Iowa State University,Iowa State Cyclones,FBS,Big 12,IA,0.6308,4,40,175000000.0,READY,TIER_4_SOLID_ACADEMIC,KANSAS_STATE,
+1,Premier Heartland,KANSAS_STATE,Kansas State University,Kansas State Wildcats,FBS,Big 12,KS,0.6279,4,41,165000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,MINNESOTA,University of Minnesota Twin Cities,Minnesota Golden Gophers,FBS,Big Ten,MN,0.5915,4,48,170000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Heartland,MISSOURI_STATE,Missouri State University,Missouri State Bears,FBS,Conference USA,MO,0.5276,4,64,65000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Heartland,ARKANSAS_STATE,Arkansas State University,Arkansas State Red Wolves,FBS,Sun Belt,AR,0.5071,4,70,70000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,MEMPHIS,
+1,Premier Mountain,TEXAS,University of Texas at Austin,Texas Longhorns,FBS,Southeastern Conference,TX,0.7816,4,8,352500000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Mountain,TULANE,Tulane University,Tulane Green Wave,FBS,American Athletic,LA,0.7521,4,11,155000000.0,READY,TIER_2_HIGHLY_SELECTIVE,LSU,
+1,Premier Mountain,SMU,Southern Methodist University,SMU Mustangs,FBS,Atlantic Coast Conference,TX,0.7209,4,14,151000000.0,READY,,TCU,
+1,Premier Mountain,TEXAS_TECH,Texas Tech University,Texas Tech Red Raiders,FBS,Big 12,TX,0.6831,4,24,205000000.0,READY,TIER_4_SOLID_ACADEMIC,TEXAS,
+1,Premier Mountain,LSU,Louisiana State University,LSU Tigers,FBS,Southeastern Conference,LA,0.6582,4,29,230000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Mountain,TCU,Texas Christian University,TCU Horned Frogs,FBS,Big 12,TX,0.6543,4,33,210000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Mountain,TEXAS_AM,Texas A&M University,Texas A&M Aggies,FBS,Southeastern Conference,TX,0.6534,4,34,280000000.0,READY,TIER_4_SOLID_ACADEMIC,TEXAS,
+1,Premier Mountain,UTSA,University of Texas at San Antonio,UTSA Roadrunners,FBS,American Athletic,TX,0.6045,4,44,130000000.0,READY,TIER_4_SOLID_ACADEMIC,TEXAS_STATE,
+1,Premier Mountain,NORTH_TEXAS,University of North Texas,North Texas Mean Green,FBS,American Athletic,TX,0.5951,4,47,115000000.0,READY,TIER_4_SOLID_ACADEMIC,SMU,
+1,Premier Mountain,TEXAS_STATE,Texas State University,Texas State Bobcats,FBS,Pac-12,TX,0.5518,4,55,105000000.0,READY,TIER_4_SOLID_ACADEMIC,UTSA,
+1,Premier Mountain,LOUISIANA,University of Louisiana at Lafayette,Louisiana Ragin' Cajuns,FBS,Sun Belt,LA,0.5374,4,58,95000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Mountain,HOUSTON,University of Houston,Houston Cougars,FBS,Big 12,TX,0.5226,4,66,165000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Pacific,OREGON,University of Oregon,Oregon Ducks,FBS,Big Ten,OR,0.8705,4,1,280000000.0,READY,TIER_3_STRONG_ACADEMIC,WASHINGTON,
+1,Premier Pacific,BYU,Brigham Young University,BYU Cougars,FBS,Big 12,UT,0.7255,4,13,150000000.0,READY,TIER_3_STRONG_ACADEMIC,UTAH,
+1,Premier Pacific,BOISE_STATE,Boise State University,Boise State Broncos,FBS,Pac-12,ID,0.7007,4,19,110000000.0,READY,TIER_4_SOLID_ACADEMIC,FRESNO_STATE,
+1,Premier Pacific,WASHINGTON,University of Washington,Washington Huskies,FBS,Big Ten,WA,0.6961,4,20,210000000.0,READY,TIER_3_STRONG_ACADEMIC,OREGON,
+1,Premier Pacific,UNLV,University of Nevada Las Vegas,UNLV Rebels,FBS,Mountain West,NV,0.6813,4,25,125000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Pacific,UTAH,University of Utah,Utah Utes,FBS,Big 12,UT,0.6494,4,35,190000000.0,,TIER_3_STRONG_ACADEMIC,BYU,
+1,Premier Pacific,USC,University of Southern California,USC Trojans,FBS,Big Ten,CA,0.6414,4,37,250000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+1,Premier Pacific,FRESNO_STATE,California State University Fresno,Fresno State Bulldogs,FBS,Pac-12,CA,0.6259,4,42,100000000.0,READY,TIER_4_SOLID_ACADEMIC,BOISE_STATE,
+1,Premier Pacific,ARIZONA,University of Arizona,Arizona Wildcats,FBS,Big 12,AZ,0.5657,4,53,176000000.0,READY,TIER_3_STRONG_ACADEMIC,ARIZONA_STATE,
+1,Premier Pacific,ARIZONA_STATE,Arizona State University,Arizona State Sun Devils,FBS,Big 12,AZ,0.5386,4,57,168000000.0,READY,TIER_3_STRONG_ACADEMIC,ARIZONA,
+1,Premier Pacific,WASHINGTON_STATE,Washington State University,Washington State Cougars,FBS,Pac-12,WA,0.5347,4,59,170000000.0,READY,TIER_4_SOLID_ACADEMIC,WASHINGTON,
+1,Premier Pacific,SACRAMENTO_STATE,California State University Sacramento,Sacramento State Hornets,FBS,Mid-American,CA,0.5346,4,61,65000000.0,DEVELOPMENT_REQUIRED,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,GEORGIA,University of Georgia,Georgia Bulldogs,FBS,Southeastern Conference,GA,0.87,4,2,250000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+1,Premier Southeast,ALABAMA,University of Alabama,Alabama Crimson Tide,FBS,Southeastern Conference,AL,0.7629,4,10,245000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,MIAMI_FL,University of Miami,Miami Hurricanes,FBS,Atlantic Coast Conference,FL,0.6878,4,22,230000000.0,READY,TIER_2_HIGHLY_SELECTIVE,FLORIDA_STATE,
+1,Premier Southeast,JACKSONVILLE_STATE,Jacksonville State University,Jacksonville State Gamecocks,FBS,Conference USA,AL,0.6765,4,26,78000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,CLEMSON,Clemson University,Clemson Tigers,FBS,Atlantic Coast Conference,SC,0.6572,4,31,205000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,TROY,Troy University,Troy Trojans,FBS,Sun Belt,AL,0.5843,4,50,95000000.0,READY,TIER_4_SOLID_ACADEMIC,SOUTH_ALABAMA,
+1,Premier Southeast,GEORGIA_TECH,Georgia Institute of Technology,Georgia Tech Yellow Jackets,FBS,Atlantic Coast Conference,GA,0.5765,4,51,163000000.0,READY,TIER_2_HIGHLY_SELECTIVE,GEORGIA,
+1,Premier Southeast,GEORGIA_SOUTHERN,Georgia Southern University,Georgia Southern Eagles,FBS,Sun Belt,GA,0.5346,4,60,90000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,SOUTH_FLORIDA,University of South Florida,South Florida Bulls,FBS,American Athletic,FL,0.5331,4,62,145000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,COASTAL_CAROLINA,Coastal Carolina University,Coastal Carolina Chanticleers,FBS,Sun Belt,SC,0.5254,4,65,100000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+1,Premier Southeast,FLORIDA_STATE,Florida State University,Florida State Seminoles,FBS,Atlantic Coast Conference,FL,0.5001,4,71,210000000.0,READY,TIER_3_STRONG_ACADEMIC,MIAMI_FL,
+1,Premier Southeast,SOUTH_ALABAMA,University of South Alabama,South Alabama Jaguars,FBS,Sun Belt,AL,0.4967,4,72,105000000.0,READY,TIER_4_SOLID_ACADEMIC,TROY,
+2,National Atlantic,VIRGINIA,University of Virginia,Virginia Cavaliers,FBS,Atlantic Coast Conference,VA,0.494,4,75,180000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Atlantic,SYRACUSE,Syracuse University,Syracuse Orange,FBS,Atlantic Coast Conference,NY,0.4898,4,77,155000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Atlantic,BUFFALO,University at Buffalo,University at Buffalo Bulls,FBS,Mid-American,NY,0.4785,4,81,85000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Atlantic,RUTGERS,Rutgers University,Rutgers Scarlet Knights,FBS,Big Ten,NJ,0.4692,4,85,155000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Atlantic,WEST_VIRGINIA,West Virginia University,West Virginia Mountaineers,FBS,Big 12,WV,0.4616,4,87,150000000.0,,TIER_4_SOLID_ACADEMIC,,
+2,National Atlantic,MARYLAND,University of Maryland College Park,Maryland Terrapins,FBS,Big Ten,MD,0.4321,4,98,160000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Atlantic,BOSTON_COLLEGE,Boston College,Boston College Eagles,FBS,Atlantic Coast Conference,MA,0.3708,4,115,141000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Atlantic,TEMPLE,Temple University,Temple Owls,FBS,American Athletic,PA,0.3083,4,127,115000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Atlantic,KENT_STATE,Kent State University,Kent State Golden Flashes,FBS,Mid-American,OH,0.2183,4,135,65000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,
+2,National Atlantic,UMASS,University of Massachusetts Amherst,UMass Minutemen,FBS,Mid-American,MA,0.1158,4,137,90000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,CINCINNATI,University of Cincinnati,Cincinnati Bearcats,FBS,Big 12,OH,0.4585,4,89,145000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Great Lakes,BOWLING_GREEN,Bowling Green State University,Bowling Green Falcons,FBS,Mid-American,OH,0.4567,4,90,75000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,NORTHWESTERN,Northwestern University,Northwestern Wildcats,FBS,Big Ten,IL,0.4347,4,95,180000000.0,READY,TIER_1_ELITE,,
+2,National Great Lakes,EASTERN_MICHIGAN,Eastern Michigan University,Eastern Michigan Eagles,FBS,Mid-American,MI,0.4332,4,97,70000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,WISCONSIN,University of Wisconsin Madison,Wisconsin Badgers,FBS,Big Ten,WI,0.4301,4,100,220000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Great Lakes,CENTRAL_MICHIGAN,Central Michigan University,Central Michigan Chippewas,FBS,Mid-American,MI,0.4235,4,102,75000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,NORTHERN_ILLINOIS,Northern Illinois University,Northern Illinois Huskies,FBS,Mountain West,IL,0.4231,4,103,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,MICHIGAN_STATE,Michigan State University,Michigan State Spartans,FBS,Big Ten,MI,0.3692,4,116,190000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,BALL_STATE,Ball State University,Ball State Cardinals,FBS,Mid-American,IN,0.3192,4,123,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Great Lakes,AKRON,University of Akron,Akron Zips,FBS,Mid-American,OH,0.3042,4,128,65000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,
+2,National Great Lakes,PURDUE,Purdue University,Purdue Boilermakers,FBS,Big Ten,IN,0.231,4,134,180000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Heartland,KENTUCKY,University of Kentucky,Kentucky Wildcats,FBS,Southeastern Conference,KY,0.4343,4,96,185000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,AUBURN,Auburn University,Auburn Tigers,FBS,Southeastern Conference,AL,0.4265,4,101,225000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,LOUISIANA_TECH,Louisiana Tech University,Louisiana Tech Bulldogs,FBS,Conference USA,LA,0.4183,4,106,70000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,SAM_HOUSTON,Sam Houston State University,Sam Houston Bearkats,FBS,Conference USA,TX,0.4163,4,107,65000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,KENNESAW_STATE,Kennesaw State University,Kennesaw State Owls,FBS,Conference USA,GA,0.4141,4,108,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,RICE,Rice University,Rice Owls,FBS,American Athletic,TX,0.3862,4,112,105000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Heartland,MISSISSIPPI_STATE,Mississippi State University,Mississippi State Bulldogs,FBS,Southeastern Conference,MS,0.3663,4,118,160000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,SOUTHERN_MISS,University of Southern Mississippi,Southern Miss Golden Eagles,FBS,Sun Belt,MS,0.3385,4,120,90000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,UAB,University of Alabama at Birmingham,UAB Blazers,FBS,American Athletic,AL,0.335,4,121,105000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,MIDDLE_TENNESSEE,Middle Tennessee State University,Middle Tennessee Blue Raiders,FBS,Conference USA,TN,0.3158,4,126,80000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Heartland,ULM,University of Louisiana Monroe,ULM Warhawks,FBS,Sun Belt,LA,0.2925,4,129,60000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,
+2,National Mountain,AIR_FORCE,United States Air Force Academy,Air Force Falcons,FBS,Mountain West,CO,0.494,4,76,70000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Mountain,NEBRASKA,University of Nebraska-Lincoln,Nebraska Cornhuskers,FBS,Big Ten,NE,0.485,4,78,220000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Mountain,KANSAS,University of Kansas,Kansas Jayhawks,FBS,Big 12,KS,0.4831,4,79,178000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Mountain,NEW_MEXICO,University of New Mexico,New Mexico Lobos,FBS,Mountain West,NM,0.4623,4,86,82000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Mountain,BAYLOR,Baylor University,Baylor Bears,FBS,Big 12,TX,0.4454,4,92,185000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Mountain,WYOMING,University of Wyoming,Wyoming Cowboys,FBS,Mountain West,WY,0.414,4,109,95000000.0,READY,TIER_4_SOLID_ACADEMIC,COLORADO_STATE,
+2,National Mountain,COLORADO,University of Colorado Boulder,Colorado Buffaloes,FBS,Big 12,CO,0.3794,4,114,195000000.0,READY,TIER_3_STRONG_ACADEMIC,NEBRASKA,
+2,National Mountain,COLORADO_STATE,Colorado State University,Colorado State Rams,FBS,Pac-12,CO,0.3671,4,117,115000000.0,READY,TIER_4_SOLID_ACADEMIC,WYOMING,
+2,National Mountain,ARKANSAS,University of Arkansas,Arkansas Razorbacks,FBS,Southeastern Conference,AR,0.3632,4,119,190000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Mountain,OKLAHOMA_STATE,Oklahoma State University,Oklahoma State Cowboys,FBS,Big 12,OK,0.3313,4,122,200000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Mountain,TULSA,University of Tulsa,Tulsa Golden Hurricane,FBS,American Athletic,OK,0.3192,4,125,95000000.0,READY,TIER_4_SOLID_ACADEMIC,OKLAHOMA_STATE,
+2,National Pacific,HAWAII,University of Hawaiʻi at Mānoa,Hawaiʻi Rainbow Warriors,FBS,Mountain West,HI,0.4819,4,80,85000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Pacific,CALIFORNIA,University of California Berkeley,California Golden Bears,FBS,Atlantic Coast Conference,CA,0.4718,4,84,160000000.0,READY,TIER_2_HIGHLY_SELECTIVE,STANFORD,
+2,National Pacific,SAN_DIEGO_STATE,San Diego State University,San Diego State Aztecs,FBS,Pac-12,CA,0.4606,4,88,125000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Pacific,SAN_JOSE_STATE,San José State University,San José State Spartans,FBS,Mountain West,CA,0.4433,4,93,85000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Pacific,UCLA,University of California Los Angeles,UCLA Bruins,FBS,Big Ten,CA,0.4379,4,94,170000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Pacific,UTAH_STATE,Utah State University,Utah State Aggies,FBS,Pac-12,UT,0.4231,4,104,85000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Pacific,OREGON_STATE,Oregon State University,Oregon State Beavers,FBS,Pac-12,OR,0.4187,4,105,150000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Pacific,NEW_MEXICO_STATE,New Mexico State University,New Mexico State Aggies,FBS,Conference USA,NM,0.4083,4,110,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,UTEP,
+2,National Pacific,STANFORD,Stanford University,Stanford Cardinal,FBS,Atlantic Coast Conference,CA,0.2792,4,130,190000000.0,READY,TIER_1_ELITE,CALIFORNIA,
+2,National Pacific,UTEP,University of Texas at El Paso,UTEP Miners,FBS,Mountain West,TX,0.2425,4,132,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,NEW_MEXICO_STATE,
+2,National Pacific,NEVADA,University of Nevada Reno,Nevada Wolf Pack,FBS,Mountain West,NV,0.2151,4,136,70000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+2,National Southeast,SOUTH_CAROLINA,University of South Carolina,South Carolina Gamecocks,FBS,Southeastern Conference,SC,0.496,4,73,200000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Southeast,WAKE_FOREST,Wake Forest University,Wake Forest Demon Deacons,FBS,Atlantic Coast Conference,NC,0.4956,4,74,120000000.0,CONDITIONALLY_READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Southeast,APP_STATE,Appalachian State University,Appalachian State Mountaineers,FBS,Sun Belt,NC,0.4774,4,82,100000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Southeast,NORTH_CAROLINA,University of North Carolina at Chapel Hill,North Carolina Tar Heels,FBS,Atlantic Coast Conference,NC,0.4741,4,83,187000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,
+2,National Southeast,FLORIDA,University of Florida,Florida Gators,FBS,Southeastern Conference,FL,0.4529,4,91,220000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Southeast,UCF,University of Central Florida,UCF Knights,FBS,Big 12,FL,0.4309,4,99,150000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Southeast,FIU,Florida International University,FIU Panthers,FBS,Conference USA,FL,0.4051,4,111,63000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,FLORIDA_ATLANTIC,
+2,National Southeast,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Virginia Tech Hokies,FBS,Atlantic Coast Conference,VA,0.3799,4,113,190000000.0,READY,TIER_3_STRONG_ACADEMIC,,
+2,National Southeast,FLORIDA_ATLANTIC,Florida Atlantic University,Florida Atlantic Owls,FBS,American Athletic,FL,0.3192,4,124,92000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,FIU,
+2,National Southeast,GEORGIA_STATE,Georgia State University,Georgia State Panthers,FBS,Sun Belt,GA,0.266,4,131,100000000.0,READY,TIER_4_SOLID_ACADEMIC,,
+2,National Southeast,CHARLOTTE,University of North Carolina at Charlotte,Charlotte 49ers,FBS,American Athletic,NC,0.2417,4,133,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,
+3,Championship Midwest,UT_MARTIN,University of Tennessee at Martin,UT Martin Skyhawks,FCS,Ohio Valley Conference,TN,0.7273,1,10,50000000.0,READY,TIER_4_SOLID_ACADEMIC,TENNESSEE_STATE,Partial historical coverage
+3,Championship Midwest,MERCER,Mercer University,Mercer Bears,FCS,Southern Conference,GA,0.6923,1,15,80000000.0,READY,TIER_3_STRONG_ACADEMIC,SAMFORD,Partial historical coverage
+3,Championship Midwest,SOUTHERN_ILLINOIS,Southern Illinois University Carbondale,Southern Illinois Salukis,FCS,Missouri Valley Football Conference,IL,0.6667,1,18,65000000.0,READY,TIER_4_SOLID_ACADEMIC,ILLINOIS_STATE,Partial historical coverage
+3,Championship Midwest,BUTLER,Butler University,Butler Bulldogs,FCS,Pioneer Football League,IN,0.6538,2,20,55000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Midwest,CHATTANOOGA,University of Tennessee at Chattanooga,Chattanooga Mocs,FCS,Southern Conference,TN,0.5969,2,28,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Midwest,EASTERN_KENTUCKY,Eastern Kentucky University,Eastern Kentucky Colonels,FCS,United Athletic Conference,KY,0.5473,2,35,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Midwest,ILLINOIS_STATE,Illinois State University,Illinois State Redbirds,FCS,Missouri Valley Football Conference,IL,0.5455,1,36,75000000.0,READY,TIER_4_SOLID_ACADEMIC,SOUTHERN_ILLINOIS,Partial historical coverage
+3,Championship Midwest,NORTHERN_IOWA,University of Northern Iowa,Northern Iowa Panthers,FCS,Missouri Valley Football Conference,IA,0.5455,1,40,75000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Midwest,SAMFORD,Samford University,Samford Bulldogs,FCS,Southern Conference,AL,0.5455,1,42,65000000.0,READY,TIER_3_STRONG_ACADEMIC,MERCER,Partial historical coverage
+3,Championship Midwest,TENNESSEE_STATE,Tennessee State University,Tennessee State Tigers,FCS,Ohio Valley Conference,TN,0.5455,1,45,60000000.0,READY,TIER_4_SOLID_ACADEMIC,UT_MARTIN,Partial historical coverage
+3,Championship Midwest,AUSTIN_PEAY,Austin Peay State University,Austin Peay Governors,FCS,United Athletic Conference,TN,0.5096,2,49,70000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Midwest,ALABAMA_AM,Alabama A&M University,Alabama A&M Bulldogs,FCS,Southwestern Athletic Conference,AL,0.4808,2,55,50000000.0,READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+3,Championship Northeast,HARVARD,Harvard University,Harvard Crimson,FCS,Ivy League,MA,0.8,2,3,130000000.0,READY,TIER_1_ELITE,YALE,Partial historical coverage
+3,Championship Northeast,LAFAYETTE,Lafayette College,Lafayette Leopards,FCS,Patriot League,PA,0.75,1,7,95000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship Northeast,DARTMOUTH,Dartmouth College,Dartmouth Big Green,FCS,Ivy League,NH,0.7154,2,12,95000000.0,READY,TIER_1_ELITE,,Partial historical coverage
+3,Championship Northeast,YALE,Yale University,Yale Bulldogs,FCS,Ivy League,CT,0.7,1,14,130000000.0,READY,TIER_1_ELITE,HARVARD,Partial historical coverage
+3,Championship Northeast,HOLY_CROSS,College of the Holy Cross,Holy Cross Crusaders,FCS,Patriot League,MA,0.6364,1,21,100000000.0,READY,,,Partial historical coverage
+3,Championship Northeast,NEW_HAMPSHIRE,University of New Hampshire,New Hampshire Wildcats,FCS,Coastal Athletic Association,NH,0.5455,1,38,70000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Northeast,RHODE_ISLAND,University of Rhode Island,Rhode Island Rams,FCS,Coastal Athletic Association,RI,0.5455,1,41,70000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Northeast,COLUMBIA,Columbia University,Columbia Lions,FCS,Ivy League,NY,0.5308,2,47,110000000.0,READY,TIER_1_ELITE,,Partial historical coverage
+3,Championship Northeast,ALBANY,University at Albany SUNY,Albany Great Danes,FCS,Coastal Athletic Association,NY,0.5026,2,50,55000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Northeast,PRINCETON,Princeton University,Princeton Tigers,FCS,Ivy League,NJ,0.5,1,52,120000000.0,READY,TIER_1_ELITE,YALE,Partial historical coverage
+3,Championship Northeast,STONEHILL,Stonehill College,Stonehill Skyhawks,FCS,Northeast Conference,MA,0.5,1,53,50000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Northeast,MERRIMACK,Merrimack College,Merrimack Warriors,FCS,Independent,MA,0.4545,1,58,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,INCARNATE_WORD,University of the Incarnate Word,Incarnate Word Cardinals,FCS,Southland Conference,TX,0.8,1,4,55000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,TARLETON_STATE,Tarleton State University,Tarleton State Texans,FCS,United Athletic Conference,TX,0.7273,1,9,75000000.0,READY,TIER_4_SOLID_ACADEMIC,ABILENE_CHRISTIAN,Partial historical coverage
+3,Championship Plains,FLORIDA_AM,Florida A&M University,Florida A&M Rattlers,FCS,Southwestern Athletic Conference,FL,0.7271,2,11,85000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,JACKSON_STATE,Jackson State University,Jackson State Tigers,FCS,Southwestern Athletic Conference,MS,0.6364,1,22,100000000.0,READY,TIER_4_SOLID_ACADEMIC,SOUTHERN,Partial historical coverage
+3,Championship Plains,ALABAMA_STATE,Alabama State University,Alabama State Hornets,FCS,Southwestern Athletic Conference,AL,0.6058,2,27,65000000.0,READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+3,Championship Plains,ABILENE_CHRISTIAN,Abilene Christian University,Abilene Christian Wildcats,FCS,United Athletic Conference,TX,0.5632,2,31,55000000.0,READY,TIER_4_SOLID_ACADEMIC,TARLETON_STATE,Partial historical coverage
+3,Championship Plains,ALCORN_STATE,Alcorn State University,Alcorn State Braves,FCS,Southwestern Athletic Conference,MS,0.5577,2,33,40000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,JACKSON_STATE,Partial historical coverage
+3,Championship Plains,CENTRAL_ARKANSAS,University of Central Arkansas,Central Arkansas Bears,FCS,United Athletic Conference,AR,0.5577,2,34,60000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,LAMAR,Lamar University,Lamar Cardinals,FCS,Southland Conference,TX,0.5455,1,37,70000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,NICHOLLS,Nicholls State University,Nicholls Colonels,FCS,Southland Conference,LA,0.5455,1,39,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,SOUTHERN,Southern University and A&M College,Southern Jaguars,FCS,Southwestern Athletic Conference,LA,0.5455,1,43,80000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Plains,PRAIRIE_VIEW_AM,Prairie View A&M University,Prairie View A&M Panthers,FCS,Southwestern Athletic Conference,TX,0.5,1,51,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,VILLANOVA,Villanova University,Villanova Wildcats,FCS,Patriot League,PA,0.7692,1,6,110000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship Southeast,NC_CENTRAL,North Carolina Central University,North Carolina Central Eagles,FCS,Mid-Eastern Athletic Conference,NC,0.75,1,8,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,RICHMOND,University of Richmond,Richmond Spiders,FCS,Patriot League,VA,0.6923,1,16,90000000.0,READY,TIER_3_STRONG_ACADEMIC,WILLIAM_MARY,Partial historical coverage
+3,Championship Southeast,DUQUESNE,Duquesne University,Duquesne Dukes,FCS,Northeast Conference,PA,0.6664,2,19,65000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,WESTERN_CAROLINA,Western Carolina University,Western Carolina Catamounts,FCS,Southern Conference,NC,0.6364,1,24,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,WILLIAM_MARY,College of William & Mary,William & Mary Tribe,FCS,Patriot League,VA,0.6364,1,25,90000000.0,READY,,RICHMOND,Partial historical coverage
+3,Championship Southeast,YOUNGSTOWN_STATE,Youngstown State University,Youngstown State Penguins,FCS,Missouri Valley Football Conference,OH,0.6154,1,26,70000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,DAVIDSON,Davidson College,Davidson Wildcats,FCS,Pioneer Football League,NC,0.5839,2,29,75000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship Southeast,ELON,Elon University,Elon Phoenix,FCS,Coastal Athletic Association,NC,0.5192,2,48,65000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship Southeast,FURMAN,Furman University,Furman Paladins,FCS,Southern Conference,SC,0.4828,2,54,70000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,DAYTON,University of Dayton,Dayton Flyers,FCS,Pioneer Football League,OH,0.4685,2,56,70000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship Southeast,GEORGETOWN,Georgetown University,Georgetown Hoyas,FCS,Patriot League,DC,0.4545,1,57,130000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship West,SOUTH_DAKOTA_STATE,South Dakota State University,South Dakota State Jackrabbits,FCS,Missouri Valley Football Conference,SD,1.0,1,1,90000000.0,READY,TIER_3_STRONG_ACADEMIC,SOUTH_DAKOTA,Partial historical coverage
+3,Championship West,MONTANA,University of Montana,Montana Grizzlies,FCS,Big Sky Conference,MT,0.8667,1,2,95000000.0,READY,TIER_3_STRONG_ACADEMIC,MONTANA_STATE,Partial historical coverage
+3,Championship West,SOUTH_DAKOTA,University of South Dakota,South Dakota Coyotes,FCS,Missouri Valley Football Conference,SD,0.7692,1,5,70000000.0,READY,TIER_3_STRONG_ACADEMIC,SOUTH_DAKOTA_STATE,Partial historical coverage
+3,Championship West,DRAKE,Drake University,Drake Bulldogs,FCS,Pioneer Football League,IA,0.7016,2,13,75000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship West,MONTANA_STATE,Montana State University,Montana State Bobcats,FCS,Big Sky Conference,MT,0.6667,1,17,90000000.0,READY,TIER_3_STRONG_ACADEMIC,MONTANA,Partial historical coverage
+3,Championship West,UC_DAVIS,University of California Davis,UC Davis Aggies,FCS,Big Sky Conference,CA,0.6364,1,23,70000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+3,Championship West,NORTH_DAKOTA,University of North Dakota,North Dakota Fighting Hawks,FCS,Missouri Valley Football Conference,ND,0.5833,1,30,80000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+3,Championship West,IDAHO,University of Idaho,Idaho Vandals,FCS,Big Sky Conference,ID,0.5591,4,32,75000000.0,READY,TIER_3_STRONG_ACADEMIC,MONTANA,
+3,Championship West,SOUTHERN_UTAH,Southern Utah University,Southern Utah Thunderbirds,FCS,Big Sky Conference,UT,0.5455,1,44,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,NORTHERN_ARIZONA,Partial historical coverage
+3,Championship West,WEBER_STATE,Weber State University,Weber State Wildcats,FCS,Big Sky Conference,UT,0.5455,1,46,55000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+3,Championship West,NORTHERN_ARIZONA,Northern Arizona University,Northern Arizona Lumberjacks,FCS,Big Sky Conference,AZ,0.4545,1,59,50000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,SOUTHERN_UTAH,Partial historical coverage
+3,Championship West,PORTLAND_STATE,Portland State University,Portland State Vikings,FCS,Big Sky Conference,OR,0.4545,1,60,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,SOUTH_CAROLINA_STATE,South Carolina State University,South Carolina State Bulldogs,FCS,Mid-Eastern Athletic Conference,SC,0.4545,1,61,55000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,GARDNER_WEBB,Gardner-Webb University,Gardner-Webb Runnin' Bulldogs,FCS,Ohio Valley Conference,NC,0.4391,2,65,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,CHARLESTON_SOUTHERN,Partial historical coverage
+4,Development Midwest,PRESBYTERIAN,Presbyterian College,Presbyterian Blue Hose,FCS,Pioneer Football League,SC,0.3636,1,75,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,CAMPBELL,Campbell University,Campbell Fighting Camels,FCS,Coastal Athletic Association,NC,0.3365,2,83,60000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,NORFOLK_STATE,Norfolk State University,Norfolk State Spartans,FCS,Mid-Eastern Athletic Conference,VA,0.2727,1,88,60000000.0,READY,,,Partial historical coverage
+4,Development Midwest,STETSON,Stetson University,Stetson Hatters,FCS,Pioneer Football League,FL,0.2727,1,91,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,CITADEL,The Citadel The Military College of South Carolina,The Citadel Bulldogs,FCS,Southern Conference,SC,0.2404,2,96,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Midwest,BETHUNE_COOKMAN,Bethune-Cookman University,Bethune-Cookman Wildcats,FCS,Southwestern Athletic Conference,FL,0.2115,2,98,50000000.0,READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+4,Development Midwest,CHARLESTON_SOUTHERN,Charleston Southern University,Charleston Southern Buccaneers,FCS,Ohio Valley Conference,SC,0.2019,2,99,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,GARDNER_WEBB,Partial historical coverage
+4,Development Midwest,WOFFORD,Wofford College,Wofford Terriers,FCS,Southern Conference,SC,0.1818,1,105,60000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+4,Development Midwest,NC_AT,North Carolina A&T State University,North Carolina A&T Aggies,FCS,Coastal Athletic Association,NC,0.0909,1,108,70000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,GRAMBLING,Grambling State University,Grambling State Tigers,FCS,Southwestern Athletic Conference,LA,0.4327,2,66,75000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,TENNESSEE_TECH,Tennessee Technological University,Tennessee Tech Golden Eagles,FCS,Southern Conference,TN,0.3636,1,78,55000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,LINDENWOOD,Lindenwood University,Lindenwood Lions,FCS,Ohio Valley Conference,MO,0.3,1,87,55000000.0,READY,TIER_4_SOLID_ACADEMIC,SOUTHEAST_MISSOURI,Partial historical coverage
+4,Development Mountain,NORTH_ALABAMA,University of North Alabama,North Alabama Lions,FCS,United Athletic Conference,AL,0.2727,1,89,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,SOUTHEASTERN_LOUISIANA,Southeastern Louisiana University,Southeastern Louisiana Lions,FCS,Southland Conference,LA,0.2727,1,90,55000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,ARKANSAS_PINE_BLUFF,University of Arkansas at Pine Bluff,Arkansas-Pine Bluff Golden Lions,FCS,Southwestern Athletic Conference,AR,0.2212,2,97,40000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+4,Development Mountain,MURRAY_STATE,Murray State University,Murray State Racers,FCS,Missouri Valley Football Conference,KY,0.1818,1,102,60000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Mountain,MISSISSIPPI_VALLEY,Mississippi Valley State University,Mississippi Valley State Delta Devils,FCS,Southwestern Athletic Conference,MS,,0,120,35000000.0,CONDITIONALLY_READY,,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Mountain,NORTHWESTERN_STATE,Northwestern State University,Northwestern State Demons,FCS,Southland Conference,LA,0.0,1,111,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+4,Development Mountain,SOUTHEAST_MISSOURI,Southeast Missouri State University,Southeast Missouri Redhawks,FCS,Ohio Valley Conference,MO,,0,123,55000000.0,READY,TIER_4_SOLID_ACADEMIC,LINDENWOOD,No usable historical record; provisional placement; Partial historical coverage
+4,Development Mountain,WEST_FLORIDA,University of West Florida,West Florida Argonauts,FCS,United Athletic Conference,FL,,0,128,40000000.0,DEVELOPMENT_REQUIRED,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Mountain,WEST_GEORGIA,University of West Georgia,West Georgia Wolves,FCS,United Athletic Conference,GA,,0,129,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Northeast,CENTRAL_CONNECTICUT,Central Connecticut State University,Central Connecticut Blue Devils,FCS,Northeast Conference,CT,0.426,2,68,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,SACRED_HEART,Partial historical coverage
+4,Development Northeast,BROWN,Brown University,Brown Bears,FCS,Ivy League,RI,0.3846,2,71,80000000.0,READY,TIER_1_ELITE,,Partial historical coverage
+4,Development Northeast,MARIST,Marist College,Marist Red Foxes,FCS,Pioneer Football League,NY,0.3636,1,72,60000000.0,CONDITIONALLY_READY,TIER_3_STRONG_ACADEMIC,SACRED_HEART,Partial historical coverage
+4,Development Northeast,BRYANT,Bryant University,Bryant Bulldogs,FCS,Coastal Athletic Association,RI,0.3269,2,84,45000000.0,CONDITIONALLY_READY,TIER_3_STRONG_ACADEMIC,SACRED_HEART,Partial historical coverage
+4,Development Northeast,COLGATE,Colgate University,Colgate Raiders,FCS,Patriot League,NY,0.3269,2,85,85000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+4,Development Northeast,FORDHAM,Fordham University,Fordham Rams,FCS,Patriot League,NY,0.3269,2,86,100000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+4,Development Northeast,MAINE,University of Maine,Maine Black Bears,FCS,Coastal Athletic Association,ME,0.1818,1,101,55000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+4,Development Northeast,SACRED_HEART,Sacred Heart University,Sacred Heart Pioneers,FCS,Coastal Athletic Association,CT,0.1818,1,103,48000000.0,CONDITIONALLY_READY,TIER_3_STRONG_ACADEMIC,BRYANT,Partial historical coverage
+4,Development Northeast,LIU,Long Island University,LIU Sharks,FCS,Northeast Conference,NY,,0,118,75000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Northeast,NEW_HAVEN,University of New Haven,New Haven Chargers,FCS,Northeast Conference,CT,,0,121,40000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Northeast,STONY_BROOK,Stony Brook University,Stony Brook Seawolves,FCS,Coastal Athletic Association,NY,0.0,1,112,70000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+4,Development Pacific,SAN_DIEGO,University of San Diego,San Diego Toreros,FCS,Pioneer Football League,CA,0.3636,1,77,85000000.0,READY,TIER_3_STRONG_ACADEMIC,,Partial historical coverage
+4,Development Pacific,IDAHO_STATE,Idaho State University,Idaho State Bengals,FCS,Big Sky Conference,ID,0.3558,2,81,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+4,Development Pacific,EASTERN_WASHINGTON,Eastern Washington University,Eastern Washington Eagles,FCS,Big Sky Conference,WA,0.3462,2,82,42000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Pacific,STEPHEN_F_AUSTIN,Stephen F. Austin State University,Stephen F. Austin Lumberjacks,FCS,Southland Conference,TX,0.2727,1,92,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Pacific,TEXAS_SOUTHERN,Texas Southern University,Texas Southern Tigers,FCS,Southwestern Athletic Conference,TX,0.2727,1,93,70000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Pacific,CAL_POLY,California Polytechnic State University,Cal Poly Mustangs,FCS,Big Sky Conference,CA,0.2727,2,95,45000000.0,CONDITIONALLY_READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+4,Development Pacific,UTAH_TECH,Utah Tech University,Utah Tech Trailblazers,FCS,Big Sky Conference,UT,0.1818,1,104,45000000.0,CONDITIONALLY_READY,,,Partial historical coverage
+4,Development Pacific,MCNEESE,McNeese State University,McNeese Cowboys,FCS,Southland Conference,LA,0.0909,1,107,60000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Pacific,EAST_TEXAS_AM,East Texas A&M University,East Texas A&M Lions,FCS,Southland Conference,TX,,0,115,60000000.0,READY,TIER_4_SOLID_ACADEMIC,STEPHEN_F_AUSTIN,No usable historical record; provisional placement; Partial historical coverage
+4,Development Pacific,HOUSTON_CHRISTIAN,Houston Christian University,Houston Christian Huskies,FCS,Southland Conference,TX,,0,117,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Pacific,NORTHERN_COLORADO,University of Northern Colorado,Northern Colorado Bears,FCS,Big Sky Conference,CO,0.0,1,110,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Pacific,UTRGV,University of Texas Rio Grande Valley,UTRGV Vaqueros,FCS,Southland Conference,TX,,0,125,70000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,EASTERN_ILLINOIS,Eastern Illinois University,Eastern Illinois Panthers,FCS,Ohio Valley Conference,IL,0.4519,2,63,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,WESTERN_ILLINOIS,Partial historical coverage
+4,Development Plains,MOREHEAD_STATE,Morehead State University,Morehead State Eagles,FCS,Pioneer Football League,KY,0.3636,1,74,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Plains,ROBERT_MORRIS,Robert Morris University,Robert Morris Colonials,FCS,Northeast Conference,PA,0.3636,1,76,65000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Plains,VALPARAISO,Valparaiso University,Valparaiso Beacons,FCS,Pioneer Football League,IN,0.2727,1,94,55000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Plains,INDIANA_STATE,Indiana State University,Indiana State Sycamores,FCS,Missouri Valley Football Conference,IN,0.0909,1,106,55000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,WESTERN_ILLINOIS,Partial historical coverage
+4,Development Plains,CHICAGO_STATE,Chicago State University,Chicago State Cougars,FCS,Independent,IL,,0,114,30000000.0,DEVELOPMENT_REQUIRED,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,ETSU,East Tennessee State University,ETSU Buccaneers,FCS,Southern Conference,TN,,0,116,60000000.0,READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,MERCYHURST,Mercyhurst University,Mercyhurst Lakers,FCS,Northeast Conference,PA,,0,119,45000000.0,CONDITIONALLY_READY,,ROBERT_MORRIS,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,ST_THOMAS,University of St. Thomas,St. Thomas Tommies,FCS,Pioneer Football League,MN,,0,124,75000000.0,READY,,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,VMI,Virginia Military Institute,VMI Keydets,FCS,Southern Conference,VA,,0,126,45000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,WESTERN_ILLINOIS,Western Illinois University,Western Illinois Leathernecks,FCS,Ohio Valley Conference,IL,,0,127,45000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,EASTERN_ILLINOIS,No usable historical record; provisional placement; Partial historical coverage
+4,Development Plains,WESTERN,Western Illinois University,Western Illinois Leathernecks,FCS,Ohio Valley Conference,IL,0.0,1,113,,,,,Partial historical coverage
+4,Development Southeast,TOWSON,Towson University,Towson Tigers,FCS,Coastal Athletic Association,MD,0.4545,1,62,75000000.0,READY,,,Partial historical coverage
+4,Development Southeast,BUCKNELL,Bucknell University,Bucknell Bison,FCS,Patriot League,PA,0.4423,2,64,80000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+4,Development Southeast,HAMPTON,Hampton University,Hampton Pirates,FCS,Coastal Athletic Association,VA,0.4327,2,67,50000000.0,READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Southeast,HOWARD,Howard University,Howard Bison,FCS,Mid-Eastern Athletic Conference,DC,0.4038,2,69,85000000.0,READY,TIER_3_STRONG_ACADEMIC,HAMPTON,Partial historical coverage
+4,Development Southeast,MORGAN_STATE,Morgan State University,Morgan State Bears,FCS,Mid-Eastern Athletic Conference,MD,0.4,1,70,55000000.0,READY,TIER_4_SOLID_ACADEMIC,HOWARD,Partial historical coverage
+4,Development Southeast,MONMOUTH,Monmouth University,Monmouth Hawks,FCS,Coastal Athletic Association,NJ,0.3636,1,73,65000000.0,READY,,,Partial historical coverage
+4,Development Southeast,WAGNER,Wagner College,Wagner Seahawks,FCS,Northeast Conference,NY,0.3636,1,79,80000000.0,CONDITIONALLY_READY,TIER_4_SOLID_ACADEMIC,,Partial historical coverage
+4,Development Southeast,CORNELL,Cornell University,Cornell Big Red,FCS,Ivy League,NY,0.3577,2,80,100000000.0,READY,TIER_1_ELITE,PENN,Partial historical coverage
+4,Development Southeast,LEHIGH,Lehigh University,Lehigh Mountain Hawks,FCS,Patriot League,PA,0.1818,1,100,105000000.0,READY,TIER_2_HIGHLY_SELECTIVE,,Partial historical coverage
+4,Development Southeast,DELAWARE_STATE,Delaware State University,Delaware State Hornets,FCS,Mid-Eastern Athletic Conference,DE,0.0865,2,109,40000000.0,CONDITIONALLY_READY,TIER_5_MISSION_SPECIALIZED_OR_DEVELOPING,,Partial historical coverage
+4,Development Southeast,PENN,University of Pennsylvania,Penn Quakers,FCS,Ivy League,PA,,0,122,120000000.0,READY,TIER_1_ELITE,,No usable historical record; provisional placement; Partial historical coverage

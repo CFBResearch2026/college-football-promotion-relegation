@@ -1,0 +1,138 @@
+﻿FBS Rank,Tier,Conference Slot,School,School ID,v0.9 Overall Rank,v0.9 Rating,Recent Games,Recent Win Rate,State,Roster Status
+1,1,Tier 01 A,Ohio State University,OHIO_STATE,1,78.5783,43,0.8615,OH,v0.9 FBS; EA CFB 27 roster unverified
+2,1,Tier 01 A,University of Oregon,OREGON,2,75.7416,43,0.8851,OR,v0.9 FBS; EA CFB 27 roster unverified
+3,1,Tier 01 A,University of Georgia,GEORGIA,3,75.6225,42,0.8506,GA,v0.9 FBS; EA CFB 27 roster unverified
+4,1,Tier 01 A,University of Notre Dame,NOTRE_DAME,4,74.5316,41,0.8347,IN,v0.9 FBS; EA CFB 27 roster unverified
+5,1,Tier 01 A,University of Alabama,ALABAMA,5,72.0522,42,0.7514,AL,v0.9 FBS; EA CFB 27 roster unverified
+6,1,Tier 01 A,University of Texas at Austin,TEXAS,6,70.5696,43,0.8077,TX,v0.9 FBS; EA CFB 27 roster unverified
+7,1,Tier 01 A,University of Mississippi,OLE_MISS,7,70.2235,41,0.8301,MS,v0.9 FBS; EA CFB 27 roster unverified
+8,1,Tier 01 A,University of Michigan,MICHIGAN,8,69.8727,41,0.7532,MI,v0.9 FBS; EA CFB 27 roster unverified
+9,1,Tier 01 A,Pennsylvania State University,PENN_STATE,9,68.6778,42,0.7002,PA,v0.9 FBS; EA CFB 27 roster unverified
+10,1,Tier 01 A,University of Miami,MIAMI_FL,10,66.7442,42,0.7354,FL,v0.9 FBS; EA CFB 27 roster unverified
+11,1,Tier 01 A,James Madison University,JAMES_MADISON,11,66.6344,40,0.7993,VA,v0.9 FBS; EA CFB 27 roster unverified
+12,1,Tier 01 A,University of Oklahoma,OKLAHOMA,12,65.7668,39,0.6631,OK,v0.9 FBS; EA CFB 27 roster unverified
+13,1,Tier 01 B,Indiana University Bloomington,INDIANA,13,65.5631,41,0.7875,IN,v0.9 FBS; EA CFB 27 roster unverified
+14,1,Tier 01 B,Southern Methodist University,SMU,14,65.5335,41,0.7498,TX,v0.9 FBS; EA CFB 27 roster unverified
+15,1,Tier 01 B,Boise State University,BOISE_STATE,15,64.9794,42,0.6987,ID,v0.9 FBS; EA CFB 27 roster unverified
+16,1,Tier 01 B,University of Washington,WASHINGTON,16,64.9686,41,0.6834,WA,v0.9 FBS; EA CFB 27 roster unverified
+17,1,Tier 01 B,Louisiana State University,LSU,17,64.8519,39,0.6499,LA,v0.9 FBS; EA CFB 27 roster unverified
+18,1,Tier 01 B,Clemson University,CLEMSON,18,64.6268,40,0.64,SC,v0.9 FBS; EA CFB 27 roster unverified
+19,1,Tier 01 B,North Dakota State University,NORTH_DAKOTA_STATE,19,64.5942,44,0.8553,ND,v0.9 FBS; EA CFB 27 roster unverified
+20,1,Tier 01 B,Brigham Young University,BYU,20,64.5825,39,0.7517,UT,v0.9 FBS; EA CFB 27 roster unverified
+21,1,Tier 01 B,Texas A&M University,TEXAS_AM,23,64.2936,39,0.6888,TX,v0.9 FBS; EA CFB 27 roster unverified
+22,1,Tier 01 B,University of Tennessee Knoxville,TENNESSEE,24,64.0957,39,0.6879,TN,v0.9 FBS; EA CFB 27 roster unverified
+23,1,Tier 01 B,University of Missouri,MISSOURI,25,64.0294,39,0.7268,MO,v0.9 FBS; EA CFB 27 roster unverified
+24,1,Tier 01 B,University of Iowa,IOWA,26,64.0158,40,0.6722,IA,v0.9 FBS; EA CFB 27 roster unverified
+25,2,Tier 02 A,University of Louisville,LOUISVILLE,27,64.0086,40,0.6982,KY,v0.9 FBS; EA CFB 27 roster unverified
+26,2,Tier 02 A,University of Memphis,MEMPHIS,28,63.7647,39,0.7339,TN,v0.9 FBS; EA CFB 27 roster unverified
+27,2,Tier 02 A,University of Utah,UTAH,29,63.2036,38,0.6458,UT,v0.9 FBS; EA CFB 27 roster unverified
+28,2,Tier 02 A,Texas Tech University,TEXAS_TECH,30,63.1554,40,0.6981,TX,v0.9 FBS; EA CFB 27 roster unverified
+29,2,Tier 02 A,Tulane University,TULANE,31,62.8866,42,0.7365,LA,v0.9 FBS; EA CFB 27 roster unverified
+30,2,Tier 02 A,University of Southern California,USC,32,62.3916,39,0.6198,CA,v0.9 FBS; EA CFB 27 roster unverified
+31,2,Tier 02 A,Kansas State University,KANSAS_STATE,33,62.3263,38,0.6186,KS,v0.9 FBS; EA CFB 27 roster unverified
+32,2,Tier 02 A,Iowa State University,IOWA_STATE,34,62.1386,39,0.6785,IA,v0.9 FBS; EA CFB 27 roster unverified
+33,2,Tier 02 A,Ohio University,OHIO,35,61.2258,40,0.745,OH,v0.9 FBS; EA CFB 27 roster unverified
+34,2,Tier 02 A,Texas Christian University,TCU,36,60.6632,38,0.6267,TX,v0.9 FBS; EA CFB 27 roster unverified
+35,2,Tier 02 A,United States Naval Academy,NAVY,37,60.6493,38,0.7169,MD,v0.9 FBS; EA CFB 27 roster unverified
+36,2,Tier 02 A,University of Toledo,TOLEDO,38,60.6042,40,0.6609,OH,v0.9 FBS; EA CFB 27 roster unverified
+37,2,Tier 02 B,Duke University,DUKE,39,59.9644,40,0.6527,NC,v0.9 FBS; EA CFB 27 roster unverified
+38,2,Tier 02 B,United States Military Academy,ARMY,41,59.0449,39,0.6471,NY,v0.9 FBS; EA CFB 27 roster unverified
+39,2,Tier 02 B,University of Nevada Las Vegas,UNLV,42,58.9061,42,0.7209,NV,v0.9 FBS; EA CFB 27 roster unverified
+40,2,Tier 02 B,University of Illinois Urbana-Champaign,ILLINOIS,43,58.6741,38,0.6537,IL,v0.9 FBS; EA CFB 27 roster unverified
+41,2,Tier 02 B,North Carolina State University,NC_STATE,45,58.0835,39,0.5818,NC,v0.9 FBS; EA CFB 27 roster unverified
+42,2,Tier 02 B,Western Kentucky University,WESTERN_KENTUCKY,46,57.9139,40,0.6296,KY,v0.9 FBS; EA CFB 27 roster unverified
+43,2,Tier 02 B,University of Minnesota Twin Cities,MINNESOTA,47,57.5948,39,0.5765,MN,v0.9 FBS; EA CFB 27 roster unverified
+44,2,Tier 02 B,Arizona State University,ARIZONA_STATE,48,57.3491,39,0.5935,AZ,v0.9 FBS; EA CFB 27 roster unverified
+45,2,Tier 02 B,Liberty University,LIBERTY,50,57.1906,38,0.6121,VA,v0.9 FBS; EA CFB 27 roster unverified
+46,2,Tier 02 B,University of Arizona,ARIZONA,51,56.8952,38,0.5949,AZ,v0.9 FBS; EA CFB 27 roster unverified
+47,2,Tier 02 B,Georgia Institute of Technology,GEORGIA_TECH,52,56.8311,39,0.6004,GA,v0.9 FBS; EA CFB 27 roster unverified
+48,2,Tier 02 B,University of Texas at San Antonio,UTSA,53,56.6648,39,0.5774,TX,v0.9 FBS; EA CFB 27 roster unverified
+49,3,Tier 03 A,Miami University,MIAMI_OH,55,56.6327,42,0.6215,OH,v0.9 FBS; EA CFB 27 roster unverified
+50,3,Tier 03 A,Jacksonville State University,JACKSONVILLE_STATE,57,56.2878,41,0.6547,AL,v0.9 FBS; EA CFB 27 roster unverified
+51,3,Tier 03 A,University of North Texas,NORTH_TEXAS,58,56.1741,39,0.6206,TX,v0.9 FBS; EA CFB 27 roster unverified
+52,3,Tier 03 A,Washington State University,WASHINGTON_STATE,59,56.0683,38,0.5365,WA,v0.9 FBS; EA CFB 27 roster unverified
+53,3,Tier 03 A,California State University Fresno,FRESNO_STATE,60,55.9422,39,0.6127,CA,v0.9 FBS; EA CFB 27 roster unverified
+54,3,Tier 03 A,Marshall University,MARSHALL,61,55.8014,38,0.5538,WV,v0.9 FBS; EA CFB 27 roster unverified
+55,3,Tier 03 A,University of South Florida,SOUTH_FLORIDA,62,55.7416,39,0.6004,FL,v0.9 FBS; EA CFB 27 roster unverified
+56,3,Tier 03 A,Florida State University,FLORIDA_STATE,63,55.5324,38,0.4789,FL,v0.9 FBS; EA CFB 27 roster unverified
+57,3,Tier 03 A,University of South Carolina,SOUTH_CAROLINA,64,55.5219,37,0.4842,SC,v0.9 FBS; EA CFB 27 roster unverified
+58,3,Tier 03 A,Troy University,TROY,66,55.306,40,0.5544,AL,v0.9 FBS; EA CFB 27 roster unverified
+59,3,Tier 03 A,University of Florida,FLORIDA,68,55.2014,37,0.4562,FL,v0.9 FBS; EA CFB 27 roster unverified
+60,3,Tier 03 A,University of Pittsburgh,PITTSBURGH,69,54.7775,38,0.5014,PA,v0.9 FBS; EA CFB 27 roster unverified
+61,3,Tier 03 B,University of Louisiana at Lafayette,LOUISIANA,70,54.6402,40,0.553,LA,v0.9 FBS; EA CFB 27 roster unverified
+62,3,Tier 03 B,Auburn University,AUBURN,71,54.4433,37,0.4287,AL,v0.9 FBS; EA CFB 27 roster unverified
+63,3,Tier 03 B,University of Virginia,VIRGINIA,72,54.1969,38,0.5395,VA,v0.9 FBS; EA CFB 27 roster unverified
+64,3,Tier 03 B,Old Dominion University,OLD_DOMINION,73,54.1657,38,0.574,VA,v0.9 FBS; EA CFB 27 roster unverified
+65,3,Tier 03 B,Texas State University,TEXAS_STATE,74,54.1335,39,0.5844,TX,v0.9 FBS; EA CFB 27 roster unverified
+66,3,Tier 03 B,University of Wisconsin Madison,WISCONSIN,76,53.919,37,0.4165,WI,v0.9 FBS; EA CFB 27 roster unverified
+67,3,Tier 03 B,University of Nebraska-Lincoln,NEBRASKA,78,53.6419,38,0.5095,NE,v0.9 FBS; EA CFB 27 roster unverified
+68,3,Tier 03 B,University of Houston,HOUSTON,79,53.6385,37,0.5171,TX,v0.9 FBS; EA CFB 27 roster unverified
+69,3,Tier 03 B,Appalachian State University,APP_STATE,80,53.5914,38,0.4785,NC,v0.9 FBS; EA CFB 27 roster unverified
+70,3,Tier 03 B,University of Kansas,KANSAS,83,53.1836,37,0.4906,KS,v0.9 FBS; EA CFB 27 roster unverified
+71,3,Tier 03 B,East Carolina University,EAST_CAROLINA,85,53.1046,38,0.5401,NC,v0.9 FBS; EA CFB 27 roster unverified
+72,3,Tier 03 B,Vanderbilt University,VANDERBILT,86,53.0875,38,0.5446,TN,v0.9 FBS; EA CFB 27 roster unverified
+73,4,Tier 04 A,University of Kentucky,KENTUCKY,88,52.9053,37,0.4212,KY,v0.9 FBS; EA CFB 27 roster unverified
+74,4,Tier 04 A,Western Michigan University,WESTERN_MICHIGAN,89,52.8737,39,0.5402,MI,v0.9 FBS; EA CFB 27 roster unverified
+75,4,Tier 04 A,Georgia Southern University,GEORGIA_SOUTHERN,90,52.8657,39,0.5455,GA,v0.9 FBS; EA CFB 27 roster unverified
+76,4,Tier 04 A,Baylor University,BAYLOR,91,52.7627,37,0.4479,TX,v0.9 FBS; EA CFB 27 roster unverified
+77,4,Tier 04 A,United States Air Force Academy,AIR_FORCE,92,52.7207,37,0.4578,CO,v0.9 FBS; EA CFB 27 roster unverified
+78,4,Tier 04 A,West Virginia University,WEST_VIRGINIA,93,52.7035,38,0.4726,WV,v0.9 FBS; EA CFB 27 roster unverified
+79,4,Tier 04 A,University of California Berkeley,CALIFORNIA,95,52.4919,39,0.4925,CA,v0.9 FBS; EA CFB 27 roster unverified
+80,4,Tier 04 A,Wake Forest University,WAKE_FOREST,96,52.4873,37,0.4847,NC,v0.9 FBS; EA CFB 27 roster unverified
+81,4,Tier 04 A,University of Cincinnati,CINCINNATI,97,52.4152,37,0.4272,OH,v0.9 FBS; EA CFB 27 roster unverified
+82,4,Tier 04 A,Coastal Carolina University,COASTAL_CAROLINA,99,52.3169,39,0.5004,SC,v0.9 FBS; EA CFB 27 roster unverified
+83,4,Tier 04 A,University of North Carolina at Chapel Hill,NORTH_CAROLINA,101,52.1698,38,0.4526,NC,v0.9 FBS; EA CFB 27 roster unverified
+84,4,Tier 04 A,University of Central Florida,UCF,102,52.0716,37,0.4006,FL,v0.9 FBS; EA CFB 27 roster unverified
+85,4,Tier 04 B,Virginia Polytechnic Institute and State University,VIRGINIA_TECH,103,51.7452,38,0.4005,VA,v0.9 FBS; EA CFB 27 roster unverified
+86,4,Tier 04 B,Northwestern University,NORTHWESTERN,104,51.7324,38,0.4914,IL,v0.9 FBS; EA CFB 27 roster unverified
+87,4,Tier 04 B,Rutgers University,RUTGERS,106,51.4046,38,0.4918,NJ,v0.9 FBS; EA CFB 27 roster unverified
+88,4,Tier 04 B,University of California Los Angeles,UCLA,107,51.4045,37,0.4043,CA,v0.9 FBS; EA CFB 27 roster unverified
+89,4,Tier 04 B,Syracuse University,SYRACUSE,109,51.387,38,0.49,NY,v0.9 FBS; EA CFB 27 roster unverified
+90,4,Tier 04 B,Arkansas State University,ARKANSAS_STATE,111,50.8251,39,0.5455,AR,v0.9 FBS; EA CFB 27 roster unverified
+91,4,Tier 04 B,San Diego State University,SAN_DIEGO_STATE,112,50.7777,37,0.4569,CA,v0.9 FBS; EA CFB 27 roster unverified
+92,4,Tier 04 B,University of Connecticut,UCONN,113,50.5647,38,0.587,CT,v0.9 FBS; EA CFB 27 roster unverified
+93,4,Tier 04 B,University of Maryland College Park,MARYLAND,114,50.3923,37,0.409,MD,v0.9 FBS; EA CFB 27 roster unverified
+94,4,Tier 04 B,University of South Alabama,SOUTH_ALABAMA,117,50.2184,38,0.4599,AL,v0.9 FBS; EA CFB 27 roster unverified
+95,4,Tier 04 B,University of Colorado Boulder,COLORADO,118,50.1956,37,0.4311,CO,v0.9 FBS; EA CFB 27 roster unverified
+96,4,Tier 04 B,University of Hawaiʻi at Mānoa,HAWAII,132,49.3251,38,0.5223,HI,v0.9 FBS; EA CFB 27 roster unverified
+97,5,Tier 05 A,University of Arkansas,ARKANSAS,134,49.0781,37,0.3426,AR,v0.9 FBS; EA CFB 27 roster unverified
+98,5,Tier 05 A,University at Buffalo,BUFFALO,137,48.9955,37,0.4758,NY,v0.9 FBS; EA CFB 27 roster unverified
+99,5,Tier 05 A,Michigan State University,MICHIGAN_STATE,143,48.8257,36,0.3621,MI,v0.9 FBS; EA CFB 27 roster unverified
+100,5,Tier 05 A,Utah State University,UTAH_STATE,146,48.7757,38,0.4196,UT,v0.9 FBS; EA CFB 27 roster unverified
+101,5,Tier 05 A,Bowling Green State University,BOWLING_GREEN,151,48.6874,38,0.4599,OH,v0.9 FBS; EA CFB 27 roster unverified
+102,5,Tier 05 A,Northern Illinois University,NORTHERN_ILLINOIS,152,48.66,38,0.4553,IL,v0.9 FBS; EA CFB 27 roster unverified
+103,5,Tier 05 A,Missouri State University,MISSOURI_STATE,153,48.589,36,0.5421,MO,v0.9 FBS; EA CFB 27 roster unverified
+104,5,Tier 05 A,Boston College,BOSTON_COLLEGE,154,48.5706,38,0.396,MA,v0.9 FBS; EA CFB 27 roster unverified
+105,5,Tier 05 A,Oklahoma State University,OKLAHOMA_STATE,157,48.3736,38,0.3171,OK,v0.9 FBS; EA CFB 27 roster unverified
+106,5,Tier 05 A,Oregon State University,OREGON_STATE,158,48.3324,37,0.3715,OR,v0.9 FBS; EA CFB 27 roster unverified
+107,5,Tier 05 A,Louisiana Tech University,LOUISIANA_TECH,161,48.2276,38,0.4472,LA,v0.9 FBS; EA CFB 27 roster unverified
+108,5,Tier 05 A,Mississippi State University,MISSISSIPPI_STATE,163,48.1988,37,0.3197,MS,v0.9 FBS; EA CFB 27 roster unverified
+109,5,Tier 05 B,University of Wyoming,WYOMING,171,47.8938,37,0.4015,WY,v0.9 FBS; EA CFB 27 roster unverified
+110,5,Tier 05 B,University of New Mexico,NEW_MEXICO,173,47.782,37,0.5125,NM,v0.9 FBS; EA CFB 27 roster unverified
+111,5,Tier 05 B,San José State University,SAN_JOSE_STATE,174,47.7222,38,0.4279,CA,v0.9 FBS; EA CFB 27 roster unverified
+112,5,Tier 05 B,California State University Sacramento,SACRAMENTO_STATE,184,47.2355,37,0.4794,CA,v0.9 FBS; EA CFB 27 roster unverified
+113,5,Tier 05 B,Central Michigan University,CENTRAL_MICHIGAN,189,46.9616,37,0.4402,MI,v0.9 FBS; EA CFB 27 roster unverified
+114,5,Tier 05 B,Kennesaw State University,KENNESAW_STATE,198,46.3738,35,0.4542,GA,v0.9 FBS; EA CFB 27 roster unverified
+115,5,Tier 05 B,Sam Houston State University,SAM_HOUSTON,225,44.9985,37,0.406,TX,v0.9 FBS; EA CFB 27 roster unverified
+116,5,Tier 05 B,Rice University,RICE,232,44.8336,38,0.3878,TX,v0.9 FBS; EA CFB 27 roster unverified
+117,5,Tier 05 B,Colorado State University,COLORADO_STATE,235,44.7925,37,0.3911,CO,v0.9 FBS; EA CFB 27 roster unverified
+118,5,Tier 05 B,Eastern Michigan University,EASTERN_MICHIGAN,245,44.4561,37,0.3959,MI,v0.9 FBS; EA CFB 27 roster unverified
+119,5,Tier 05 B,Florida International University,FIU,248,44.2957,37,0.4198,FL,v0.9 FBS; EA CFB 27 roster unverified
+120,5,Tier 05 B,University of Alabama at Birmingham,UAB,254,44.0306,36,0.3046,AL,v0.9 FBS; EA CFB 27 roster unverified
+121,6,Tier 06 A,Stanford University,STANFORD,265,43.7112,36,0.2835,CA,v0.9 FBS; EA CFB 27 roster unverified
+122,6,Tier 06 A,Florida Atlantic University,FLORIDA_ATLANTIC,267,43.6811,36,0.3046,FL,v0.9 FBS; EA CFB 27 roster unverified
+123,6,Tier 06 A,New Mexico State University,NEW_MEXICO_STATE,272,43.4945,39,0.4054,NM,v0.9 FBS; EA CFB 27 roster unverified
+124,6,Tier 06 A,University of Southern Mississippi,SOUTHERN_MISS,303,42.4691,37,0.316,MS,v0.9 FBS; EA CFB 27 roster unverified
+125,6,Tier 06 A,Temple University,TEMPLE,317,41.9066,36,0.317,PA,v0.9 FBS; EA CFB 27 roster unverified
+126,6,Tier 06 A,Georgia State University,GEORGIA_STATE,323,41.7618,37,0.2617,GA,v0.9 FBS; EA CFB 27 roster unverified
+127,6,Tier 06 A,Ball State University,BALL_STATE,334,41.3615,36,0.3046,IN,v0.9 FBS; EA CFB 27 roster unverified
+128,6,Tier 06 A,Purdue University,PURDUE,336,41.3017,36,0.1801,IN,v0.9 FBS; EA CFB 27 roster unverified
+129,6,Tier 06 A,University of Tulsa,TULSA,340,41.159,36,0.3046,OK,v0.9 FBS; EA CFB 27 roster unverified
+130,6,Tier 06 A,Middle Tennessee State University,MIDDLE_TENNESSEE,362,40.5743,36,0.2711,TN,v0.9 FBS; EA CFB 27 roster unverified
+131,6,Tier 06 A,University of Louisiana Monroe,ULM,387,39.7215,36,0.2864,LA,v0.9 FBS; EA CFB 27 roster unverified
+132,6,Tier 06 A,University of Nevada Reno,NEVADA,393,39.6597,37,0.2225,NV,v0.9 FBS; EA CFB 27 roster unverified
+133,6,Tier 06 B,University of Akron,AKRON,406,39.2247,36,0.3247,OH,v0.9 FBS; EA CFB 27 roster unverified
+134,6,Tier 06 B,University of North Carolina at Charlotte,CHARLOTTE,463,37.3453,36,0.2404,NC,v0.9 FBS; EA CFB 27 roster unverified
+135,6,Tier 06 B,University of Texas at El Paso,UTEP,500,36.9713,36,0.2165,TX,v0.9 FBS; EA CFB 27 roster unverified
+136,6,Tier 06 B,Kent State University,KENT_STATE,592,34.234,36,0.1887,OH,v0.9 FBS; EA CFB 27 roster unverified
+137,6,Tier 06 B,University of Massachusetts Amherst,UMASS,693,30.4473,36,0.1207,MA,v0.9 FBS; EA CFB 27 roster unverified

@@ -1,0 +1,134 @@
+ESPN’s 2024–25 FCS standings are transcribed below in CSV format. Overall records include postseason games where applicable. `N/A` denotes FCS independents, for which ESPN does not list a conference record. 
+
+```csv
+Season,Team,Classification,Conference,Overall Wins,Overall Losses,Conference Wins,Conference Losses
+2024,Montana State Bobcats,FCS,Big Sky Conference,15,1,8,0
+2024,UC Davis Aggies,FCS,Big Sky Conference,11,3,7,1
+2024,Idaho Vandals,FCS,Big Sky Conference,10,4,6,2
+2024,Northern Arizona Lumberjacks,FCS,Big Sky Conference,8,5,6,2
+2024,Montana Grizzlies,FCS,Big Sky Conference,9,5,5,3
+2024,Idaho State Bengals,FCS,Big Sky Conference,5,7,3,5
+2024,Eastern Washington Eagles,FCS,Big Sky Conference,4,8,3,5
+2024,Weber State Wildcats,FCS,Big Sky Conference,4,8,3,5
+2024,Portland State Vikings,FCS,Big Sky Conference,3,8,3,5
+2024,Cal Poly Mustangs,FCS,Big Sky Conference,3,8,2,6
+2024,Sacramento State Hornets,FCS,Big Sky Conference,3,9,1,7
+2024,Northern Colorado Bears,FCS,Big Sky Conference,1,11,1,7
+2024,Richmond Spiders,FCS,Coastal Athletic Association,10,3,8,0
+2024,Rhode Island Rams,FCS,Coastal Athletic Association,11,3,7,1
+2024,Villanova Wildcats,FCS,Coastal Athletic Association,10,4,6,2
+2024,Delaware Blue Hens,FCS,Coastal Athletic Association,9,2,6,2
+2024,New Hampshire Wildcats,FCS,Coastal Athletic Association,8,5,6,2
+2024,Stony Brook Seawolves,FCS,Coastal Athletic Association,8,4,5,3
+2024,Towson Tigers,FCS,Coastal Athletic Association,7,5,5,3
+2024,Elon Phoenix,FCS,Coastal Athletic Association,6,6,5,3
+2024,William & Mary Tribe,FCS,Coastal Athletic Association,7,5,4,4
+2024,Monmouth Hawks,FCS,Coastal Athletic Association,6,6,4,4
+2024,Maine Black Bears,FCS,Coastal Athletic Association,5,7,3,5
+2024,Albany Great Danes,FCS,Coastal Athletic Association,4,8,2,6
+2024,Hampton Pirates,FCS,Coastal Athletic Association,5,7,2,6
+2024,Campbell Fighting Camels,FCS,Coastal Athletic Association,3,9,1,7
+2024,Bryant Bulldogs,FCS,Coastal Athletic Association,2,10,0,8
+2024,North Carolina A&T Aggies,FCS,Coastal Athletic Association,1,11,0,8
+2024,Merrimack Warriors,FCS,FCS Independents,5,6,N/A,N/A
+2024,Sacred Heart Pioneers,FCS,FCS Independents,5,6,N/A,N/A
+2024,Harvard Crimson,FCS,Ivy League,8,2,5,2
+2024,Dartmouth Big Green,FCS,Ivy League,8,2,5,2
+2024,Columbia Lions,FCS,Ivy League,7,3,5,2
+2024,Yale Bulldogs,FCS,Ivy League,7,3,4,3
+2024,Cornell Big Red,FCS,Ivy League,4,6,3,4
+2024,Princeton Tigers,FCS,Ivy League,3,7,2,5
+2024,Pennsylvania Quakers,FCS,Ivy League,4,6,2,5
+2024,Brown Bears,FCS,Ivy League,3,7,2,5
+2024,South Carolina State Bulldogs,FCS,Mid-Eastern Athletic Conference,9,3,5,0
+2024,North Carolina Central Eagles,FCS,Mid-Eastern Athletic Conference,8,3,4,1
+2024,Morgan State Bears,FCS,Mid-Eastern Athletic Conference,6,6,3,2
+2024,Norfolk State Spartans,FCS,Mid-Eastern Athletic Conference,4,8,2,3
+2024,Howard Bison,FCS,Mid-Eastern Athletic Conference,4,8,1,4
+2024,Delaware State Hornets,FCS,Mid-Eastern Athletic Conference,1,11,0,5
+2024,North Dakota State Bison,FCS,Missouri Valley Football Conference,14,2,7,1
+2024,South Dakota State Jackrabbits,FCS,Missouri Valley Football Conference,12,3,7,1
+2024,South Dakota Coyotes,FCS,Missouri Valley Football Conference,11,3,7,1
+2024,Missouri State Bears,FCS,Missouri Valley Football Conference,8,4,6,2
+2024,Illinois State Redbirds,FCS,Missouri Valley Football Conference,10,4,6,2
+2024,Youngstown State Penguins,FCS,Missouri Valley Football Conference,4,8,3,5
+2024,Indiana State Sycamores,FCS,Missouri Valley Football Conference,4,8,3,5
+2024,North Dakota Fighting Hawks,FCS,Missouri Valley Football Conference,5,7,2,6
+2024,Southern Illinois Salukis,FCS,Missouri Valley Football Conference,4,8,2,6
+2024,Northern Iowa Panthers,FCS,Missouri Valley Football Conference,3,9,1,7
+2024,Murray State Racers,FCS,Missouri Valley Football Conference,1,11,0,8
+2024,Central Connecticut Blue Devils,FCS,Northeast Conference,7,6,5,1
+2024,Duquesne Dukes,FCS,Northeast Conference,8,3,5,1
+2024,Robert Morris Colonials,FCS,Northeast Conference,7,5,4,2
+2024,Long Island University Sharks,FCS,Northeast Conference,4,8,3,3
+2024,Wagner Seahawks,FCS,Northeast Conference,4,8,2,4
+2024,St. Francis (PA) Red Flash,FCS,Northeast Conference,4,7,2,4
+2024,Mercyhurst Lakers,FCS,Northeast Conference,4,7,0,0
+2024,Stonehill Skyhawks,FCS,Northeast Conference,1,10,0,6
+2024,Southeast Missouri State Redhawks,FCS,Ohio Valley Conference,9,4,6,2
+2024,Tennessee Tech Golden Eagles,FCS,Ohio Valley Conference,7,5,6,2
+2024,UT Martin Skyhawks,FCS,Ohio Valley Conference,9,5,6,2
+2024,Tennessee State Tigers,FCS,Ohio Valley Conference,9,4,6,2
+2024,Lindenwood Lions,FCS,Ohio Valley Conference,5,7,4,4
+2024,Western Illinois Leathernecks,FCS,Ohio Valley Conference,4,8,3,5
+2024,Gardner-Webb Runnin' Bulldogs,FCS,Ohio Valley Conference,4,8,3,5
+2024,Eastern Illinois Panthers,FCS,Ohio Valley Conference,3,9,2,6
+2024,Charleston Southern Buccaneers,FCS,Ohio Valley Conference,1,11,0,8
+2024,Lehigh Mountain Hawks,FCS,Patriot League,9,4,5,1
+2024,Holy Cross Crusaders,FCS,Patriot League,6,6,5,1
+2024,Bucknell Bison,FCS,Patriot League,6,6,4,2
+2024,Lafayette Leopards,FCS,Patriot League,6,6,2,4
+2024,Georgetown Hoyas,FCS,Patriot League,5,6,2,4
+2024,Fordham Rams,FCS,Patriot League,2,10,2,4
+2024,Colgate Raiders,FCS,Patriot League,2,10,1,5
+2024,Drake Bulldogs,FCS,Pioneer Football League,8,3,7,1
+2024,San Diego Toreros,FCS,Pioneer Football League,8,3,6,2
+2024,Butler Bulldogs,FCS,Pioneer Football League,9,3,5,3
+2024,Morehead State Eagles,FCS,Pioneer Football League,7,5,5,3
+2024,St. Thomas-Minnesota Tommies,FCS,Pioneer Football League,6,6,5,3
+2024,Dayton Flyers,FCS,Pioneer Football League,6,5,4,4
+2024,Davidson Wildcats,FCS,Pioneer Football League,6,5,4,4
+2024,Presbyterian Blue Hose,FCS,Pioneer Football League,6,6,4,4
+2024,Valparaiso Beacons,FCS,Pioneer Football League,4,7,2,5
+2024,Marist Red Foxes,FCS,Pioneer Football League,1,10,1,7
+2024,Stetson Hatters,FCS,Pioneer Football League,2,9,0,7
+2024,Mercer Bears,FCS,Southern Conference,11,3,7,1
+2024,Western Carolina Catamounts,FCS,Southern Conference,7,5,6,2
+2024,Chattanooga Mocs,FCS,Southern Conference,7,5,5,3
+2024,East Tennessee State Buccaneers,FCS,Southern Conference,7,5,5,3
+2024,Samford Bulldogs,FCS,Southern Conference,4,7,3,4
+2024,The Citadel Bulldogs,FCS,Southern Conference,5,7,3,5
+2024,Wofford Terriers,FCS,Southern Conference,5,7,3,5
+2024,Furman Paladins,FCS,Southern Conference,3,8,2,5
+2024,VMI Keydets,FCS,Southern Conference,1,11,1,7
+2024,Incarnate Word Cardinals,FCS,Southland Conference,11,3,7,0
+2024,SE Louisiana Lions,FCS,Southland Conference,7,5,6,1
+2024,Stephen F. Austin Lumberjacks,FCS,Southland Conference,7,5,4,3
+2024,Lamar Cardinals,FCS,Southland Conference,7,5,4,3
+2024,Houston Christian Huskies,FCS,Southland Conference,5,7,3,4
+2024,McNeese Cowboys,FCS,Southland Conference,6,6,3,4
+2024,East Texas A&M Lions,FCS,Southland Conference,3,9,2,4
+2024,Nicholls Colonels,FCS,Southland Conference,4,8,2,5
+2024,Northwestern State Demons,FCS,Southland Conference,0,12,0,7
+2024,Jackson State Tigers,FCS,Southwestern Athletic Conference (East),12,2,8,0
+2024,Florida A&M Rattlers,FCS,Southwestern Athletic Conference (East),7,5,5,3
+2024,Alabama State Hornets,FCS,Southwestern Athletic Conference (East),7,5,5,3
+2024,Alabama A&M Bulldogs,FCS,Southwestern Athletic Conference (East),6,6,4,4
+2024,Bethune-Cookman Wildcats,FCS,Southwestern Athletic Conference (East),2,10,2,6
+2024,Mississippi Valley State Delta Devils,FCS,Southwestern Athletic Conference (East),1,11,1,7
+2024,Southern Jaguars,FCS,Southwestern Athletic Conference (West),8,5,7,1
+2024,Alcorn State Braves,FCS,Southwestern Athletic Conference (West),6,6,5,3
+2024,Texas Southern Tigers,FCS,Southwestern Athletic Conference (West),5,6,4,4
+2024,Prairie View A&M Panthers,FCS,Southwestern Athletic Conference (West),5,7,3,5
+2024,Grambling Tigers,FCS,Southwestern Athletic Conference (West),5,7,2,6
+2024,Arkansas-Pine Bluff Golden Lions,FCS,Southwestern Athletic Conference (West),3,9,2,6
+2024,Abilene Christian Wildcats,FCS,United Athletic Conference,9,5,7,1
+2024,Tarleton State Texans,FCS,United Athletic Conference,10,4,6,2
+2024,Eastern Kentucky Colonels,FCS,United Athletic Conference,8,5,6,2
+2024,Southern Utah Thunderbirds,FCS,United Athletic Conference,7,5,6,2
+2024,Central Arkansas Bears,FCS,United Athletic Conference,6,6,3,5
+2024,Austin Peay Governors,FCS,United Athletic Conference,4,8,3,5
+2024,North Alabama Lions,FCS,United Athletic Conference,3,9,3,5
+2024,West Georgia Wolves,FCS,United Athletic Conference,4,7,1,7
+2024,Utah Tech Trailblazers,FCS,United Athletic Conference,1,11,1,7
+```
