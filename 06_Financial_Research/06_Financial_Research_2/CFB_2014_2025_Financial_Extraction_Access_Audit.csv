@@ -1,0 +1,7 @@
+Task,Status,Evidence_URL,Next_Action
+Source access,BLOCKED: registration/terms acceptance required for raw download,https://knightnewhousedata.org/form/data-download,User obtains authorized Knight-Newhouse raw export and uploads it
+2014-2025 public institution bulk data,NOT EXTRACTED,https://knightnewhousedata.org/reports,Load authorized raw export; retain metric definitions and fiscal years
+Historical FBS/FCS classification,UNVERIFIED in game-derived queue,,Join audited season-specific classification crosswalk; exclude DII/NAIA opponents
+Private institution finances,NOT EXTRACTED,https://projects.propublica.org/nonprofits/,Obtain NCAA financial reports or school disclosures; do not assume school Form 990 exists
+Conference 990 Schedule I,NOT EXTRACTED,https://projects.propublica.org/nonprofits/,Extract conference-year organization payments and reconcile to school receipts
+Existing sourced school amounts,16 rows carried forward; not newly reverified against original returns,,"Verify source amount, fiscal year, metric and original document"

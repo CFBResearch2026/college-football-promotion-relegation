@@ -1,0 +1,25 @@
+﻿Fiscal_Year,Subdivision,School_Year_Rows,Total Revenues_Populated,Total Expenses_Populated,Total Football Spending_Populated,Total Institutional/Government Support and Student Fees_Populated,"Conference/NCAA Distributions, Media Rights, and Post-Season Football_Populated",Validation
+2014,FBS,109,106,106,106,106,106,Partial coverage: review institution-specific blanks
+2014,FCS,77,77,77,77,77,77,Partial coverage: review institution-specific blanks
+2015,FBS,111,109,109,109,109,109,Partial coverage: review institution-specific blanks
+2015,FCS,76,76,76,76,76,76,Partial coverage: review institution-specific blanks
+2016,FBS,112,108,108,108,108,108,Partial coverage: review institution-specific blanks
+2016,FCS,75,75,75,75,75,75,Partial coverage: review institution-specific blanks
+2017,FBS,113,110,110,110,110,110,Partial coverage: review institution-specific blanks
+2017,FCS,76,76,76,76,76,76,Partial coverage: review institution-specific blanks
+2018,FBS,112,109,0,109,0,109,Source export omits expense/support fields
+2018,FCS,78,78,0,78,0,78,Source export omits expense/support fields
+2019,FBS,112,109,109,109,109,109,Partial coverage: review institution-specific blanks
+2019,FCS,79,78,78,78,78,78,Partial coverage: review institution-specific blanks
+2020,FBS,112,109,109,109,109,109,Partial coverage: review institution-specific blanks
+2020,FCS,76,75,75,75,75,75,Partial coverage: review institution-specific blanks
+2021,FBS,112,109,109,109,109,109,Partial coverage: review institution-specific blanks
+2021,FCS,78,78,78,78,78,78,Partial coverage: review institution-specific blanks
+2022,FBS,112,110,0,109,0,110,Source export omits expense/support fields
+2022,FCS,78,78,0,78,0,78,Source export omits expense/support fields
+2023,FBS,112,110,0,110,0,110,Source export omits expense/support fields
+2023,FCS,78,78,0,77,0,78,Source export omits expense/support fields
+2024,FBS,112,109,109,109,109,109,Partial coverage: review institution-specific blanks
+2024,FCS,81,80,80,78,80,80,Partial coverage: review institution-specific blanks
+2025,FBS,113,113,113,113,113,113,Partial coverage: review institution-specific blanks
+2025,FCS,75,75,75,75,75,75,Partial coverage: review institution-specific blanks

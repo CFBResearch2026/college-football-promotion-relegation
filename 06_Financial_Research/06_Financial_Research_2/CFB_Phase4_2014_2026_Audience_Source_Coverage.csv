@@ -1,0 +1,14 @@
+season,cfbtrack_rated_games,cfbtrack_mean_viewers_millions,ratings_reference_published_audience_windows,ratings_reference_total_national_windows,source_url,notes
+2014,399,2.29,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2015,400,2.25,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2016,377,2.3,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2017,389,2.23,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2018,347,2.41,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2019,364,2.42,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2020,291,2.11,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2021,378,2.24,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2022,389,2.25,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2023,495,1.98,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2024,472,2.03,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2025,335,2.29,,,https://cfbtrack.com/media?minGames=25&preset=all&team=254&view=viewership,CFBTrack rated sample; not all games; aggregate only; not game-level extraction
+2026,,,210,296,https://ratingsreference.com/league/cfb?year=2026,As of 2026-10-14; ongoing season; audience figure availability only; 2026 calendar includes prior-season postseason

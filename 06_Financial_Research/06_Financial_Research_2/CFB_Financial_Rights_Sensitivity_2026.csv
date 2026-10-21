@@ -1,0 +1,25 @@
+﻿Audience_Uplift_Assumption,Rights_Value_Realization_Factor,Reference_Annual_P4_Rights_Millions,Illustrative_Incremental_Rights_Millions,Illustrative_Payout_Protection_Gap_Millions,Residual_Gap_Millions,Gap_Covered_Pct,Interpretation
+0,0.25,2480,0.0,1470,1470.0,0.0,Scenario only; no demonstrated causal relationship or new contract award
+0,0.5,2480,0.0,1470,1470.0,0.0,Scenario only; no demonstrated causal relationship or new contract award
+0,1.0,2480,0.0,1470,1470.0,0.0,Scenario only; no demonstrated causal relationship or new contract award
+0.025,0.25,2480,15.5,1470,1454.5,1.05,Scenario only; no demonstrated causal relationship or new contract award
+0.025,0.5,2480,31.0,1470,1439.0,2.11,Scenario only; no demonstrated causal relationship or new contract award
+0.025,1.0,2480,62.0,1470,1408.0,4.22,Scenario only; no demonstrated causal relationship or new contract award
+0.05,0.25,2480,31.0,1470,1439.0,2.11,Scenario only; no demonstrated causal relationship or new contract award
+0.05,0.5,2480,62.0,1470,1408.0,4.22,Scenario only; no demonstrated causal relationship or new contract award
+0.05,1.0,2480,124.0,1470,1346.0,8.44,Scenario only; no demonstrated causal relationship or new contract award
+0.1,0.25,2480,62.0,1470,1408.0,4.22,Scenario only; no demonstrated causal relationship or new contract award
+0.1,0.5,2480,124.0,1470,1346.0,8.44,Scenario only; no demonstrated causal relationship or new contract award
+0.1,1.0,2480,248.0,1470,1222.0,16.87,Scenario only; no demonstrated causal relationship or new contract award
+0.15,0.25,2480,93.0,1470,1377.0,6.33,Scenario only; no demonstrated causal relationship or new contract award
+0.15,0.5,2480,186.0,1470,1284.0,12.65,Scenario only; no demonstrated causal relationship or new contract award
+0.15,1.0,2480,372.0,1470,1098.0,25.31,Scenario only; no demonstrated causal relationship or new contract award
+0.2,0.25,2480,124.0,1470,1346.0,8.44,Scenario only; no demonstrated causal relationship or new contract award
+0.2,0.5,2480,248.0,1470,1222.0,16.87,Scenario only; no demonstrated causal relationship or new contract award
+0.2,1.0,2480,496.0,1470,974.0,33.74,Scenario only; no demonstrated causal relationship or new contract award
+0.3,0.25,2480,186.0,1470,1284.0,12.65,Scenario only; no demonstrated causal relationship or new contract award
+0.3,0.5,2480,372.0,1470,1098.0,25.31,Scenario only; no demonstrated causal relationship or new contract award
+0.3,1.0,2480,744.0,1470,726.0,50.61,Scenario only; no demonstrated causal relationship or new contract award
+0.5,0.25,2480,310.0,1470,1160.0,21.09,Scenario only; no demonstrated causal relationship or new contract award
+0.5,0.5,2480,620.0,1470,850.0,42.18,Scenario only; no demonstrated causal relationship or new contract award
+0.5,1.0,2480,1240.0,1470,230.0,84.35,Scenario only; no demonstrated causal relationship or new contract award

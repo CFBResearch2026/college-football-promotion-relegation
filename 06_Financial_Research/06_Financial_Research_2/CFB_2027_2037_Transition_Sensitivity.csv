@@ -1,0 +1,81 @@
+implementation_year,conference,hypothetical_flat_annual_payout_million,reported_FY2025_full_share_average_million,illustrative_shortfall_per_full_share_school_million,illustrative_shortfall_across_approx_full_share_count_million,reported_contract_end_year,contract_still_within_reported_term,source_status
+2027,Big Ten,40,79.9,39.900000000000006,638.4000000000001,2030,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,SEC,40,72.4,32.400000000000006,453.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,ACC,40,47.1,7.100000000000001,99.40000000000002,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big 12,40,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big Ten,50,79.9,29.900000000000006,478.4000000000001,2030,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,SEC,50,72.4,22.400000000000006,313.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,ACC,50,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big 12,50,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big Ten,60,79.9,19.900000000000006,318.4000000000001,2030,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,SEC,60,72.4,12.400000000000006,173.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,ACC,60,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big 12,60,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big Ten,70,79.9,9.900000000000006,158.4000000000001,2030,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,SEC,70,72.4,2.4000000000000057,33.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,ACC,70,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big 12,70,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big Ten,80,79.9,0.0,0.0,2030,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,SEC,80,72.4,0.0,0.0,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,ACC,80,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2027,Big 12,80,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big Ten,40,79.9,39.900000000000006,638.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2031,SEC,40,72.4,32.400000000000006,453.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,ACC,40,47.1,7.100000000000001,99.40000000000002,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big 12,40,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big Ten,50,79.9,29.900000000000006,478.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2031,SEC,50,72.4,22.400000000000006,313.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,ACC,50,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big 12,50,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big Ten,60,79.9,19.900000000000006,318.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2031,SEC,60,72.4,12.400000000000006,173.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,ACC,60,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big 12,60,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big Ten,70,79.9,9.900000000000006,158.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2031,SEC,70,72.4,2.4000000000000057,33.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,ACC,70,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big 12,70,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big Ten,80,79.9,0.0,0.0,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2031,SEC,80,72.4,0.0,0.0,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,ACC,80,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2031,Big 12,80,39.5,0.0,0.0,2031,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big Ten,40,79.9,39.900000000000006,638.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,SEC,40,72.4,32.400000000000006,453.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,ACC,40,47.1,7.100000000000001,99.40000000000002,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big 12,40,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big Ten,50,79.9,29.900000000000006,478.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,SEC,50,72.4,22.400000000000006,313.6000000000001,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,ACC,50,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big 12,50,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big Ten,60,79.9,19.900000000000006,318.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,SEC,60,72.4,12.400000000000006,173.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,ACC,60,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big 12,60,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big Ten,70,79.9,9.900000000000006,158.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,SEC,70,72.4,2.4000000000000057,33.60000000000008,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,ACC,70,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big 12,70,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big Ten,80,79.9,0.0,0.0,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2034,SEC,80,72.4,0.0,0.0,2034,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,ACC,80,47.1,0.0,0.0,2036,True,Reported conference average plus assumed payout; not a school-level forecast
+2034,Big 12,80,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big Ten,40,79.9,39.900000000000006,638.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,SEC,40,72.4,32.400000000000006,453.6000000000001,2034,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,ACC,40,47.1,7.100000000000001,99.40000000000002,2036,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big 12,40,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big Ten,50,79.9,29.900000000000006,478.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,SEC,50,72.4,22.400000000000006,313.6000000000001,2034,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,ACC,50,47.1,0.0,0.0,2036,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big 12,50,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big Ten,60,79.9,19.900000000000006,318.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,SEC,60,72.4,12.400000000000006,173.60000000000008,2034,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,ACC,60,47.1,0.0,0.0,2036,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big 12,60,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big Ten,70,79.9,9.900000000000006,158.4000000000001,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,SEC,70,72.4,2.4000000000000057,33.60000000000008,2034,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,ACC,70,47.1,0.0,0.0,2036,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big 12,70,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big Ten,80,79.9,0.0,0.0,2030,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,SEC,80,72.4,0.0,0.0,2034,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,ACC,80,47.1,0.0,0.0,2036,False,Reported conference average plus assumed payout; not a school-level forecast
+2037,Big 12,80,39.5,0.0,0.0,2031,False,Reported conference average plus assumed payout; not a school-level forecast

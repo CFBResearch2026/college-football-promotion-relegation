@@ -1,0 +1,11 @@
+season,entity,metric,value,unit,scope_note,source_locator,source_url,verification_status
+2024,ESPN platforms,per_game_mean,1900000,viewers,ESPN platforms; reported 19% YoY increase,p1 refs 2,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,ABC,per_game_mean,5800000,viewers,ABC average; 56% YoY increase,p1 ref 2,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,FOX Big Noon Saturday,window_mean,5060000,viewers,Through 13 weeks; not full season,p1 ref 3,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,SEC,conference_aggregate,589000000,viewer_impressions,Definition/overlap unverified,p1,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,Big Ten,conference_aggregate,471000000,viewer_impressions,Definition/overlap unverified,p1,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,ACC,conference_aggregate,208000000,viewer_impressions,Definition/overlap unverified,p1,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,CFP national championship,game_mean,22100000,viewers,2024 season championship played Jan 2025,p2 ref 11,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,CFP quarterfinals,round_mean,16900000,viewers,Not individual game records,"p2 refs 9,10",https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,CFP semifinals,round_mean,19200000,viewers,Not individual game records,"p2 refs 9,10",https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report
+2024,ESPN bowl coverage,per_game_mean,2700000,viewers,Bowl season average,p2 ref 12,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_marketing_report

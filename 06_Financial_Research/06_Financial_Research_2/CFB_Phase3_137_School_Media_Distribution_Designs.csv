@@ -1,0 +1,1234 @@
+﻿Total_Annual_Pool_USD,Distribution_Design,School_ID,School,Proposed_Level,Proposed_Conference,FY2025_Financial_Basis,FY2025_Combined_Receipts_Observed_USD,FY2025_Receipts_Comparable,Illustrative_Annual_Base_Distribution_USD,Illustrative_Annual_Payment_After_5M_Incremental_Cost_USD,Illustrative_Full_Receipt_Displacement_Gap_USD,Contractual_Loss_Verified,Not_Actual_Media_Valuation
+4000000000,Equal_School,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,29197080.29,24197080.29,68642321.71,False,True
+4000000000,Equal_School,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,29197080.29,24197080.29,40014255.71,False,True
+4000000000,Equal_School,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,29197080.29,24197080.29,43673936.71,False,True
+4000000000,Equal_School,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,29197080.29,24197080.29,50869534.71,False,True
+4000000000,Equal_School,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,29197080.29,24197080.29,4406632.71,False,True
+4000000000,Equal_School,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,29197080.29,24197080.29,43598928.71,False,True
+4000000000,Equal_School,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,29197080.29,24197080.29,51425602.71,False,True
+4000000000,Equal_School,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,29197080.29,24197080.29,60386167.71,False,True
+4000000000,Equal_School,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,29197080.29,24197080.29,51429282.71,False,True
+4000000000,Equal_School,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,29197080.29,24197080.29,18664569.71,False,True
+4000000000,Equal_School,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,29197080.29,24197080.29,46248881.71,False,True
+4000000000,Equal_School,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,29197080.29,24197080.29,24943414.71,False,True
+4000000000,Equal_School,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,29197080.29,24197080.29,36497562.71,False,True
+4000000000,Equal_School,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,29197080.29,24197080.29,36839311.71,False,True
+4000000000,Equal_School,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,29197080.29,24197080.29,32566261.71,False,True
+4000000000,Equal_School,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,29197080.29,24197080.29,51913164.71,False,True
+4000000000,Equal_School,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,29197080.29,24197080.29,19760313.71,False,True
+4000000000,Equal_School,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,29197080.29,24197080.29,14517314.71,False,True
+4000000000,Equal_School,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,29197080.29,24197080.29,10612745.71,False,True
+4000000000,Equal_School,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,29197080.29,24197080.29,10169803.71,False,True
+4000000000,Equal_School,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,29197080.29,24197080.29,18141448.71,False,True
+4000000000,Equal_School,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,29197080.29,24197080.29,54534599.71,False,True
+4000000000,Equal_School,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,29197080.29,24197080.29,18950620.71,False,True
+4000000000,Equal_School,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,29197080.29,24197080.29,51363596.71,False,True
+4000000000,Equal_School,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,29197080.29,24197080.29,15240315.71,False,True
+4000000000,Equal_School,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,29197080.29,24197080.29,8640412.71,False,True
+4000000000,Equal_School,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,29197080.29,24197080.29,25972992.71,False,True
+4000000000,Equal_School,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,29197080.29,24197080.29,705999.71,False,True
+4000000000,Equal_School,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,29197080.29,24197080.29,18471735.71,False,True
+4000000000,Equal_School,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,29197080.29,24197080.29,36612402.71,False,True
+4000000000,Equal_School,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,29197080.29,24197080.29,47565085.71,False,True
+4000000000,Equal_School,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,29197080.29,24197080.29,41347374.71,False,True
+4000000000,Equal_School,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,29197080.29,24197080.29,18155323.71,False,True
+4000000000,Equal_School,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,29197080.29,24197080.29,48723866.71,False,True
+4000000000,Equal_School,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,29197080.29,24197080.29,64153819.71,False,True
+4000000000,Equal_School,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,29197080.29,24197080.29,18857324.71,False,True
+4000000000,Equal_School,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,29197080.29,24197080.29,53813559.71,False,True
+4000000000,Equal_School,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,29197080.29,24197080.29,11216140.71,False,True
+4000000000,Equal_School,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,29197080.29,24197080.29,22733725.71,False,True
+4000000000,Equal_School,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,29197080.29,24197080.29,18871624.71,False,True
+4000000000,Equal_School,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,29197080.29,24197080.29,49270162.71,False,True
+4000000000,Equal_School,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,29197080.29,24197080.29,48066209.71,False,True
+4000000000,Equal_School,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,29197080.29,24197080.29,33711817.71,False,True
+4000000000,Equal_School,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,29197080.29,24197080.29,9705706.71,False,True
+4000000000,Equal_School,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,29197080.29,24197080.29,37187198.71,False,True
+4000000000,Equal_School,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,29197080.29,24197080.29,49136853.71,False,True
+4000000000,Equal_School,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,29197080.29,24197080.29,18318055.71,False,True
+4000000000,Equal_School,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,29197080.29,24197080.29,33277413.71,False,True
+4000000000,Equal_School,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,29197080.29,24197080.29,48518825.71,False,True
+4000000000,Equal_School,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,29197080.29,24197080.29,,False,True
+4000000000,Equal_School,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Equal_School,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,29197080.29,24197080.29,0,False,True
+4000000000,Tier_Weighted,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,52356020.94,47356020.94,45483381.06,False,True
+4000000000,Tier_Weighted,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,52356020.94,47356020.94,16855315.06,False,True
+4000000000,Tier_Weighted,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,52356020.94,47356020.94,20514996.06,False,True
+4000000000,Tier_Weighted,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+4000000000,Tier_Weighted,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,52356020.94,47356020.94,27710594.06,False,True
+4000000000,Tier_Weighted,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,52356020.94,47356020.94,0,False,True
+4000000000,Tier_Weighted,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,52356020.94,47356020.94,20439988.06,False,True
+4000000000,Tier_Weighted,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,52356020.94,47356020.94,28266662.06,False,True
+4000000000,Tier_Weighted,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,52356020.94,47356020.94,37227227.06,False,True
+4000000000,Tier_Weighted,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+4000000000,Tier_Weighted,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,52356020.94,47356020.94,0,False,True
+4000000000,Tier_Weighted,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,52356020.94,47356020.94,0,False,True
+4000000000,Tier_Weighted,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,52356020.94,47356020.94,28270342.06,False,True
+4000000000,Tier_Weighted,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+4000000000,Tier_Weighted,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,47120418.85,42120418.85,0,False,True
+4000000000,Tier_Weighted,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,47120418.85,42120418.85,741231.15,False,True
+4000000000,Tier_Weighted,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,47120418.85,42120418.85,28325543.15,False,True
+4000000000,Tier_Weighted,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,47120418.85,42120418.85,7020076.15,False,True
+4000000000,Tier_Weighted,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,47120418.85,42120418.85,0,False,True
+4000000000,Tier_Weighted,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,47120418.85,42120418.85,,False,True
+4000000000,Tier_Weighted,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,47120418.85,42120418.85,18574224.15,False,True
+4000000000,Tier_Weighted,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,47120418.85,42120418.85,18915973.15,False,True
+4000000000,Tier_Weighted,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,47120418.85,42120418.85,14642923.15,False,True
+4000000000,Tier_Weighted,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,47120418.85,42120418.85,33989826.15,False,True
+4000000000,Tier_Weighted,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,47120418.85,42120418.85,1836975.15,False,True
+4000000000,Tier_Weighted,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,47120418.85,42120418.85,0,False,True
+4000000000,Tier_Weighted,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,47120418.85,42120418.85,0,False,True
+4000000000,Tier_Weighted,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,47120418.85,42120418.85,0,False,True
+4000000000,Tier_Weighted,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+4000000000,Tier_Weighted,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+4000000000,Tier_Weighted,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,41884816.75,36884816.75,5453712.25,False,True
+4000000000,Tier_Weighted,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+4000000000,Tier_Weighted,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+4000000000,Tier_Weighted,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,41884816.75,36884816.75,41846863.25,False,True
+4000000000,Tier_Weighted,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,41884816.75,36884816.75,6262884.25,False,True
+4000000000,Tier_Weighted,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,41884816.75,36884816.75,0,False,True
+4000000000,Tier_Weighted,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,36649214.66,31649214.66,43911462.34,False,True
+4000000000,Tier_Weighted,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,36649214.66,31649214.66,7788181.34,False,True
+4000000000,Tier_Weighted,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,36649214.66,31649214.66,,False,True
+4000000000,Tier_Weighted,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,36649214.66,31649214.66,1188278.34,False,True
+4000000000,Tier_Weighted,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,36649214.66,31649214.66,18520858.34,False,True
+4000000000,Tier_Weighted,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,36649214.66,31649214.66,0,False,True
+4000000000,Tier_Weighted,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,36649214.66,31649214.66,11019601.34,False,True
+4000000000,Tier_Weighted,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,31413612.57,26413612.57,34395870.43,False,True
+4000000000,Tier_Weighted,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,31413612.57,26413612.57,45348553.43,False,True
+4000000000,Tier_Weighted,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,31413612.57,26413612.57,,False,True
+4000000000,Tier_Weighted,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,31413612.57,26413612.57,39130842.43,False,True
+4000000000,Tier_Weighted,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,31413612.57,26413612.57,15938791.43,False,True
+4000000000,Tier_Weighted,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,31413612.57,26413612.57,46507334.43,False,True
+4000000000,Tier_Weighted,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,31413612.57,26413612.57,61937287.43,False,True
+4000000000,Tier_Weighted,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,31413612.57,26413612.57,0,False,True
+4000000000,Tier_Weighted,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,31413612.57,26413612.57,16640792.43,False,True
+4000000000,Tier_Weighted,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,26178010.47,21178010.47,,False,True
+4000000000,Tier_Weighted,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,26178010.47,21178010.47,56832629.53,False,True
+4000000000,Tier_Weighted,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,26178010.47,21178010.47,,False,True
+4000000000,Tier_Weighted,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,26178010.47,21178010.47,14235210.53,False,True
+4000000000,Tier_Weighted,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,26178010.47,21178010.47,,False,True
+4000000000,Tier_Weighted,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,26178010.47,21178010.47,25752795.53,False,True
+4000000000,Tier_Weighted,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,26178010.47,21178010.47,0,False,True
+4000000000,Tier_Weighted,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,20942408.38,15942408.38,27126296.62,False,True
+4000000000,Tier_Weighted,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,20942408.38,15942408.38,,False,True
+4000000000,Tier_Weighted,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,20942408.38,15942408.38,57524834.62,False,True
+4000000000,Tier_Weighted,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,20942408.38,15942408.38,56320881.62,False,True
+4000000000,Tier_Weighted,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,20942408.38,15942408.38,,False,True
+4000000000,Tier_Weighted,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,20942408.38,15942408.38,41966489.62,False,True
+4000000000,Tier_Weighted,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,20942408.38,15942408.38,17960378.62,False,True
+4000000000,Tier_Weighted,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,20942408.38,15942408.38,45441870.62,False,True
+4000000000,Tier_Weighted,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,20942408.38,15942408.38,0,False,True
+4000000000,Tier_Weighted,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,15706806.28,10706806.28,62627127.72,False,True
+4000000000,Tier_Weighted,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,15706806.28,10706806.28,,False,True
+4000000000,Tier_Weighted,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,15706806.28,10706806.28,31808329.72,False,True
+4000000000,Tier_Weighted,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,15706806.28,10706806.28,12587299.72,False,True
+4000000000,Tier_Weighted,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,15706806.28,10706806.28,46767687.72,False,True
+4000000000,Tier_Weighted,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,15706806.28,10706806.28,0,False,True
+4000000000,Tier_Weighted,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,10471204.19,5471204.19,,False,True
+4000000000,Tier_Weighted,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,10471204.19,5471204.19,,False,True
+4000000000,Tier_Weighted,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,10471204.19,5471204.19,0,False,True
+4000000000,Tier_Weighted,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,5235602.09,235602.09,,False,True
+4000000000,Tier_Weighted,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,5235602.09,235602.09,72480303.91,False,True
+4000000000,Tier_Weighted,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,5235602.09,235602.09,,False,True
+4000000000,Tier_Weighted,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,5235602.09,235602.09,2071861.91,False,True
+4000000000,Tier_Weighted,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,5235602.09,235602.09,1284178.91,False,True
+4000000000,Tier_Weighted,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,5235602.09,235602.09,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,44502617.8,39502617.8,53336784.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,44502617.8,39502617.8,24708718.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,44502617.8,39502617.8,28368399.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,44502617.8,39502617.8,35563997.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,44502617.8,39502617.8,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,44502617.8,39502617.8,28293391.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,44502617.8,39502617.8,36120065.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,44502617.8,39502617.8,45080630.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,44502617.8,39502617.8,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,44502617.8,39502617.8,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,44502617.8,39502617.8,36123745.2,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,40052356.02,35052356.02,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,40052356.02,35052356.02,7809293.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,40052356.02,35052356.02,35393605.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,40052356.02,35052356.02,14088138.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,40052356.02,35052356.02,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,40052356.02,35052356.02,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,40052356.02,35052356.02,25642286.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,40052356.02,35052356.02,25984035.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,40052356.02,35052356.02,21710985.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,40052356.02,35052356.02,41057888.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,40052356.02,35052356.02,8905037.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,40052356.02,35052356.02,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,40052356.02,35052356.02,3662038.98,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,40052356.02,35052356.02,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,35602094.24,30602094.24,3764789.76,False,True
+4000000000,Tier_Weighted_15pct_Reserve,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,35602094.24,30602094.24,11736434.76,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,35602094.24,30602094.24,48129585.76,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,35602094.24,30602094.24,12545606.76,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,35602094.24,30602094.24,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,31151832.46,26151832.46,49408844.54,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,31151832.46,26151832.46,13285563.54,False,True
+4000000000,Tier_Weighted_15pct_Reserve,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,31151832.46,26151832.46,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,31151832.46,26151832.46,6685660.54,False,True
+4000000000,Tier_Weighted_15pct_Reserve,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,31151832.46,26151832.46,24018240.54,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,31151832.46,26151832.46,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,31151832.46,26151832.46,16516983.54,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,26701570.68,21701570.68,39107912.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,26701570.68,21701570.68,50060595.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,26701570.68,21701570.68,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,26701570.68,21701570.68,43842884.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,26701570.68,21701570.68,20650833.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,26701570.68,21701570.68,51219376.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,26701570.68,21701570.68,66649329.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,26701570.68,21701570.68,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,26701570.68,21701570.68,21352834.32,False,True
+4000000000,Tier_Weighted_15pct_Reserve,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,22251308.9,17251308.9,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,22251308.9,17251308.9,60759331.1,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,22251308.9,17251308.9,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,22251308.9,17251308.9,18161912.1,False,True
+4000000000,Tier_Weighted_15pct_Reserve,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,22251308.9,17251308.9,2444218.1,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,22251308.9,17251308.9,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,22251308.9,17251308.9,29679497.1,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,22251308.9,17251308.9,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,17801047.12,12801047.12,30267657.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,17801047.12,12801047.12,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,17801047.12,12801047.12,60666195.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,17801047.12,12801047.12,59462242.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,17801047.12,12801047.12,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,17801047.12,12801047.12,45107850.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,17801047.12,12801047.12,21101739.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,17801047.12,12801047.12,48583231.88,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,17801047.12,12801047.12,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,13350785.34,8350785.34,64983148.66,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,13350785.34,8350785.34,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,13350785.34,8350785.34,34164350.66,False,True
+4000000000,Tier_Weighted_15pct_Reserve,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,13350785.34,8350785.34,14943320.66,False,True
+4000000000,Tier_Weighted_15pct_Reserve,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,13350785.34,8350785.34,49123708.66,False,True
+4000000000,Tier_Weighted_15pct_Reserve,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,13350785.34,8350785.34,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,8900523.56,3900523.56,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,8900523.56,3900523.56,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,8900523.56,3900523.56,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,4450261.78,-549738.22,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,4450261.78,-549738.22,73265644.22,False,True
+4000000000,Tier_Weighted_15pct_Reserve,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,4450261.78,-549738.22,,False,True
+4000000000,Tier_Weighted_15pct_Reserve,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,4450261.78,-549738.22,2857202.22,False,True
+4000000000,Tier_Weighted_15pct_Reserve,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,4450261.78,-549738.22,2069519.22,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,4450261.78,-549738.22,0,False,True
+4000000000,Tier_Weighted_15pct_Reserve,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,4450261.78,-549738.22,0,False,True
+6000000000,Equal_School,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,43795620.44,38795620.44,54043781.56,False,True
+6000000000,Equal_School,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,43795620.44,38795620.44,25415715.56,False,True
+6000000000,Equal_School,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,43795620.44,38795620.44,29075396.56,False,True
+6000000000,Equal_School,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,43795620.44,38795620.44,36270994.56,False,True
+6000000000,Equal_School,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,43795620.44,38795620.44,29000388.56,False,True
+6000000000,Equal_School,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,43795620.44,38795620.44,36827062.56,False,True
+6000000000,Equal_School,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,43795620.44,38795620.44,45787627.56,False,True
+6000000000,Equal_School,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,43795620.44,38795620.44,36830742.56,False,True
+6000000000,Equal_School,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,43795620.44,38795620.44,4066029.56,False,True
+6000000000,Equal_School,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,43795620.44,38795620.44,31650341.56,False,True
+6000000000,Equal_School,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,43795620.44,38795620.44,10344874.56,False,True
+6000000000,Equal_School,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,43795620.44,38795620.44,21899022.56,False,True
+6000000000,Equal_School,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,43795620.44,38795620.44,22240771.56,False,True
+6000000000,Equal_School,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,43795620.44,38795620.44,17967721.56,False,True
+6000000000,Equal_School,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,43795620.44,38795620.44,37314624.56,False,True
+6000000000,Equal_School,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,43795620.44,38795620.44,5161773.56,False,True
+6000000000,Equal_School,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,43795620.44,38795620.44,3542908.56,False,True
+6000000000,Equal_School,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,43795620.44,38795620.44,39936059.56,False,True
+6000000000,Equal_School,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,43795620.44,38795620.44,4352080.56,False,True
+6000000000,Equal_School,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,43795620.44,38795620.44,36765056.56,False,True
+6000000000,Equal_School,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,43795620.44,38795620.44,641775.56,False,True
+6000000000,Equal_School,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,43795620.44,38795620.44,11374452.56,False,True
+6000000000,Equal_School,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,43795620.44,38795620.44,3873195.56,False,True
+6000000000,Equal_School,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,43795620.44,38795620.44,22013862.56,False,True
+6000000000,Equal_School,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,43795620.44,38795620.44,32966545.56,False,True
+6000000000,Equal_School,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,43795620.44,38795620.44,26748834.56,False,True
+6000000000,Equal_School,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,43795620.44,38795620.44,3556783.56,False,True
+6000000000,Equal_School,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,43795620.44,38795620.44,34125326.56,False,True
+6000000000,Equal_School,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,43795620.44,38795620.44,49555279.56,False,True
+6000000000,Equal_School,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,43795620.44,38795620.44,4258784.56,False,True
+6000000000,Equal_School,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,43795620.44,38795620.44,39215019.56,False,True
+6000000000,Equal_School,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,43795620.44,38795620.44,8135185.56,False,True
+6000000000,Equal_School,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,43795620.44,38795620.44,4273084.56,False,True
+6000000000,Equal_School,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,43795620.44,38795620.44,34671622.56,False,True
+6000000000,Equal_School,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,43795620.44,38795620.44,33467669.56,False,True
+6000000000,Equal_School,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,43795620.44,38795620.44,19113277.56,False,True
+6000000000,Equal_School,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,43795620.44,38795620.44,22588658.56,False,True
+6000000000,Equal_School,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,43795620.44,38795620.44,34538313.56,False,True
+6000000000,Equal_School,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,43795620.44,38795620.44,3719515.56,False,True
+6000000000,Equal_School,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,43795620.44,38795620.44,18678873.56,False,True
+6000000000,Equal_School,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,43795620.44,38795620.44,33920285.56,False,True
+6000000000,Equal_School,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,43795620.44,38795620.44,,False,True
+6000000000,Equal_School,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Equal_School,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,43795620.44,38795620.44,0,False,True
+6000000000,Tier_Weighted,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,78534031.41,73534031.41,19305370.59,False,True
+6000000000,Tier_Weighted,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,78534031.41,73534031.41,,False,True
+6000000000,Tier_Weighted,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,78534031.41,73534031.41,1532583.59,False,True
+6000000000,Tier_Weighted,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,78534031.41,73534031.41,2088651.59,False,True
+6000000000,Tier_Weighted,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,78534031.41,73534031.41,11049216.59,False,True
+6000000000,Tier_Weighted,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,78534031.41,73534031.41,,False,True
+6000000000,Tier_Weighted,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,78534031.41,73534031.41,0,False,True
+6000000000,Tier_Weighted,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,78534031.41,73534031.41,2092331.59,False,True
+6000000000,Tier_Weighted,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,78534031.41,73534031.41,,False,True
+6000000000,Tier_Weighted,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,70680628.27,65680628.27,4765333.73,False,True
+6000000000,Tier_Weighted,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,70680628.27,65680628.27,,False,True
+6000000000,Tier_Weighted,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,70680628.27,65680628.27,10429616.73,False,True
+6000000000,Tier_Weighted,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,70680628.27,65680628.27,0,False,True
+6000000000,Tier_Weighted,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,62827225.13,57827225.13,,False,True
+6000000000,Tier_Weighted,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,62827225.13,57827225.13,,False,True
+6000000000,Tier_Weighted,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,62827225.13,57827225.13,,False,True
+6000000000,Tier_Weighted,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,62827225.13,57827225.13,,False,True
+6000000000,Tier_Weighted,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,62827225.13,57827225.13,20904454.87,False,True
+6000000000,Tier_Weighted,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,62827225.13,57827225.13,0,False,True
+6000000000,Tier_Weighted,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,54973821.99,49973821.99,25586855.01,False,True
+6000000000,Tier_Weighted,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,54973821.99,49973821.99,,False,True
+6000000000,Tier_Weighted,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,54973821.99,49973821.99,196251.01,False,True
+6000000000,Tier_Weighted,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,54973821.99,49973821.99,0,False,True
+6000000000,Tier_Weighted,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,47120418.85,42120418.85,18689064.15,False,True
+6000000000,Tier_Weighted,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,47120418.85,42120418.85,29641747.15,False,True
+6000000000,Tier_Weighted,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,47120418.85,42120418.85,,False,True
+6000000000,Tier_Weighted,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,47120418.85,42120418.85,23424036.15,False,True
+6000000000,Tier_Weighted,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,47120418.85,42120418.85,231985.15,False,True
+6000000000,Tier_Weighted,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,47120418.85,42120418.85,30800528.15,False,True
+6000000000,Tier_Weighted,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,47120418.85,42120418.85,46230481.15,False,True
+6000000000,Tier_Weighted,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,47120418.85,42120418.85,0,False,True
+6000000000,Tier_Weighted,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,47120418.85,42120418.85,933986.15,False,True
+6000000000,Tier_Weighted,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,39267015.71,34267015.71,,False,True
+6000000000,Tier_Weighted,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,39267015.71,34267015.71,43743624.29,False,True
+6000000000,Tier_Weighted,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,39267015.71,34267015.71,,False,True
+6000000000,Tier_Weighted,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,39267015.71,34267015.71,1146205.29,False,True
+6000000000,Tier_Weighted,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,39267015.71,34267015.71,,False,True
+6000000000,Tier_Weighted,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,39267015.71,34267015.71,12663790.29,False,True
+6000000000,Tier_Weighted,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,39267015.71,34267015.71,0,False,True
+6000000000,Tier_Weighted,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,31413612.57,26413612.57,16655092.43,False,True
+6000000000,Tier_Weighted,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,31413612.57,26413612.57,,False,True
+6000000000,Tier_Weighted,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,31413612.57,26413612.57,47053630.43,False,True
+6000000000,Tier_Weighted,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,31413612.57,26413612.57,45849677.43,False,True
+6000000000,Tier_Weighted,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,31413612.57,26413612.57,,False,True
+6000000000,Tier_Weighted,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,31413612.57,26413612.57,31495285.43,False,True
+6000000000,Tier_Weighted,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,31413612.57,26413612.57,7489174.43,False,True
+6000000000,Tier_Weighted,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,31413612.57,26413612.57,34970666.43,False,True
+6000000000,Tier_Weighted,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,31413612.57,26413612.57,0,False,True
+6000000000,Tier_Weighted,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,23560209.42,18560209.42,54773724.58,False,True
+6000000000,Tier_Weighted,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,23560209.42,18560209.42,,False,True
+6000000000,Tier_Weighted,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,23560209.42,18560209.42,23954926.58,False,True
+6000000000,Tier_Weighted,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,23560209.42,18560209.42,4733896.58,False,True
+6000000000,Tier_Weighted,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,23560209.42,18560209.42,38914284.58,False,True
+6000000000,Tier_Weighted,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,23560209.42,18560209.42,0,False,True
+6000000000,Tier_Weighted,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,15706806.28,10706806.28,,False,True
+6000000000,Tier_Weighted,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,15706806.28,10706806.28,,False,True
+6000000000,Tier_Weighted,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,15706806.28,10706806.28,0,False,True
+6000000000,Tier_Weighted,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,7853403.14,2853403.14,,False,True
+6000000000,Tier_Weighted,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,7853403.14,2853403.14,69862502.86,False,True
+6000000000,Tier_Weighted,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,7853403.14,2853403.14,,False,True
+6000000000,Tier_Weighted,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,7853403.14,2853403.14,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,66753926.7,61753926.7,31085475.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,66753926.7,61753926.7,2457409.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,66753926.7,61753926.7,6117090.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,66753926.7,61753926.7,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,66753926.7,61753926.7,13312688.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,66753926.7,61753926.7,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,66753926.7,61753926.7,6042082.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,66753926.7,61753926.7,13868756.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,66753926.7,61753926.7,22829321.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,66753926.7,61753926.7,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,66753926.7,61753926.7,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,66753926.7,61753926.7,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,66753926.7,61753926.7,13872436.3,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,66753926.7,61753926.7,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,60078534.03,55078534.03,15367427.97,False,True
+6000000000,Tier_Weighted_15pct_Reserve,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,60078534.03,55078534.03,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,60078534.03,55078534.03,5616108.97,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,60078534.03,55078534.03,5957857.97,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,60078534.03,55078534.03,1684807.97,False,True
+6000000000,Tier_Weighted_15pct_Reserve,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,60078534.03,55078534.03,21031710.97,False,True
+6000000000,Tier_Weighted_15pct_Reserve,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,60078534.03,55078534.03,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,53403141.36,48403141.36,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,53403141.36,48403141.36,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,53403141.36,48403141.36,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,53403141.36,48403141.36,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,53403141.36,48403141.36,30328538.64,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,53403141.36,48403141.36,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,46727748.69,41727748.69,33832928.31,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,46727748.69,41727748.69,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,46727748.69,41727748.69,8442324.31,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,46727748.69,41727748.69,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,46727748.69,41727748.69,941067.31,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,40052356.02,35052356.02,25757126.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,40052356.02,35052356.02,36709809.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,40052356.02,35052356.02,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,40052356.02,35052356.02,30492098.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,40052356.02,35052356.02,7300047.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,40052356.02,35052356.02,37868590.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,40052356.02,35052356.02,53298543.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,40052356.02,35052356.02,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,40052356.02,35052356.02,8002048.98,False,True
+6000000000,Tier_Weighted_15pct_Reserve,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,33376963.35,28376963.35,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,33376963.35,28376963.35,49633676.65,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,33376963.35,28376963.35,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,33376963.35,28376963.35,7036257.65,False,True
+6000000000,Tier_Weighted_15pct_Reserve,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,33376963.35,28376963.35,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,33376963.35,28376963.35,18553842.65,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,33376963.35,28376963.35,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,26701570.68,21701570.68,21367134.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,26701570.68,21701570.68,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,26701570.68,21701570.68,51765672.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,26701570.68,21701570.68,50561719.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,26701570.68,21701570.68,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,26701570.68,21701570.68,36207327.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,26701570.68,21701570.68,12201216.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,26701570.68,21701570.68,39682708.32,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,26701570.68,21701570.68,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,20026178.01,15026178.01,58307755.99,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,20026178.01,15026178.01,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,20026178.01,15026178.01,27488957.99,False,True
+6000000000,Tier_Weighted_15pct_Reserve,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,20026178.01,15026178.01,8267927.99,False,True
+6000000000,Tier_Weighted_15pct_Reserve,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,20026178.01,15026178.01,42448315.99,False,True
+6000000000,Tier_Weighted_15pct_Reserve,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,20026178.01,15026178.01,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,13350785.34,8350785.34,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,13350785.34,8350785.34,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,13350785.34,8350785.34,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,6675392.67,1675392.67,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,6675392.67,1675392.67,71040513.33,False,True
+6000000000,Tier_Weighted_15pct_Reserve,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,6675392.67,1675392.67,,False,True
+6000000000,Tier_Weighted_15pct_Reserve,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,6675392.67,1675392.67,632071.33,False,True
+6000000000,Tier_Weighted_15pct_Reserve,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,6675392.67,1675392.67,0,False,True
+6000000000,Tier_Weighted_15pct_Reserve,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,6675392.67,1675392.67,0,False,True
+8000000000,Equal_School,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,58394160.58,53394160.58,39445241.42,False,True
+8000000000,Equal_School,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,58394160.58,53394160.58,10817175.42,False,True
+8000000000,Equal_School,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,58394160.58,53394160.58,14476856.42,False,True
+8000000000,Equal_School,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,58394160.58,53394160.58,21672454.42,False,True
+8000000000,Equal_School,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,58394160.58,53394160.58,14401848.42,False,True
+8000000000,Equal_School,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,58394160.58,53394160.58,22228522.42,False,True
+8000000000,Equal_School,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,58394160.58,53394160.58,31189087.42,False,True
+8000000000,Equal_School,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,58394160.58,53394160.58,22232202.42,False,True
+8000000000,Equal_School,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,58394160.58,53394160.58,17051801.42,False,True
+8000000000,Equal_School,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,58394160.58,53394160.58,7300482.42,False,True
+8000000000,Equal_School,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,58394160.58,53394160.58,7642231.42,False,True
+8000000000,Equal_School,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,58394160.58,53394160.58,3369181.42,False,True
+8000000000,Equal_School,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,58394160.58,53394160.58,22716084.42,False,True
+8000000000,Equal_School,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,58394160.58,53394160.58,25337519.42,False,True
+8000000000,Equal_School,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,58394160.58,53394160.58,22166516.42,False,True
+8000000000,Equal_School,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,58394160.58,53394160.58,7415322.42,False,True
+8000000000,Equal_School,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,58394160.58,53394160.58,18368005.42,False,True
+8000000000,Equal_School,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,58394160.58,53394160.58,12150294.42,False,True
+8000000000,Equal_School,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,58394160.58,53394160.58,19526786.42,False,True
+8000000000,Equal_School,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,58394160.58,53394160.58,34956739.42,False,True
+8000000000,Equal_School,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,58394160.58,53394160.58,24616479.42,False,True
+8000000000,Equal_School,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,58394160.58,53394160.58,20073082.42,False,True
+8000000000,Equal_School,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,58394160.58,53394160.58,18869129.42,False,True
+8000000000,Equal_School,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,58394160.58,53394160.58,4514737.42,False,True
+8000000000,Equal_School,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,58394160.58,53394160.58,7990118.42,False,True
+8000000000,Equal_School,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,58394160.58,53394160.58,19939773.42,False,True
+8000000000,Equal_School,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,58394160.58,53394160.58,4080333.42,False,True
+8000000000,Equal_School,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,58394160.58,53394160.58,19321745.42,False,True
+8000000000,Equal_School,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,58394160.58,53394160.58,,False,True
+8000000000,Equal_School,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Equal_School,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,58394160.58,53394160.58,0,False,True
+8000000000,Tier_Weighted,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,104712041.88,99712041.88,,False,True
+8000000000,Tier_Weighted,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,104712041.88,99712041.88,,False,True
+8000000000,Tier_Weighted,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,104712041.88,99712041.88,0,False,True
+8000000000,Tier_Weighted,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,104712041.88,99712041.88,,False,True
+8000000000,Tier_Weighted,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,94240837.7,89240837.7,,False,True
+8000000000,Tier_Weighted,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,94240837.7,89240837.7,0,False,True
+8000000000,Tier_Weighted,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,83769633.51,78769633.51,,False,True
+8000000000,Tier_Weighted,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,83769633.51,78769633.51,,False,True
+8000000000,Tier_Weighted,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,83769633.51,78769633.51,,False,True
+8000000000,Tier_Weighted,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,83769633.51,78769633.51,,False,True
+8000000000,Tier_Weighted,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,83769633.51,78769633.51,0,False,True
+8000000000,Tier_Weighted,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,73298429.32,68298429.32,7262247.68,False,True
+8000000000,Tier_Weighted,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,73298429.32,68298429.32,,False,True
+8000000000,Tier_Weighted,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,73298429.32,68298429.32,0,False,True
+8000000000,Tier_Weighted,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,62827225.13,57827225.13,2982257.87,False,True
+8000000000,Tier_Weighted,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,62827225.13,57827225.13,13934940.87,False,True
+8000000000,Tier_Weighted,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,62827225.13,57827225.13,,False,True
+8000000000,Tier_Weighted,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,62827225.13,57827225.13,7717229.87,False,True
+8000000000,Tier_Weighted,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,62827225.13,57827225.13,15093721.87,False,True
+8000000000,Tier_Weighted,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,62827225.13,57827225.13,30523674.87,False,True
+8000000000,Tier_Weighted,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,62827225.13,57827225.13,0,False,True
+8000000000,Tier_Weighted,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+8000000000,Tier_Weighted,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,52356020.94,47356020.94,30654619.06,False,True
+8000000000,Tier_Weighted,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+8000000000,Tier_Weighted,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,52356020.94,47356020.94,,False,True
+8000000000,Tier_Weighted,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,52356020.94,47356020.94,0,False,True
+8000000000,Tier_Weighted,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,41884816.75,36884816.75,6183888.25,False,True
+8000000000,Tier_Weighted,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+8000000000,Tier_Weighted,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,41884816.75,36884816.75,36582426.25,False,True
+8000000000,Tier_Weighted,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,41884816.75,36884816.75,35378473.25,False,True
+8000000000,Tier_Weighted,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,41884816.75,36884816.75,,False,True
+8000000000,Tier_Weighted,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,41884816.75,36884816.75,21024081.25,False,True
+8000000000,Tier_Weighted,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,41884816.75,36884816.75,24499462.25,False,True
+8000000000,Tier_Weighted,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,41884816.75,36884816.75,0,False,True
+8000000000,Tier_Weighted,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,31413612.57,26413612.57,46920321.43,False,True
+8000000000,Tier_Weighted,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,31413612.57,26413612.57,,False,True
+8000000000,Tier_Weighted,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,31413612.57,26413612.57,16101523.43,False,True
+8000000000,Tier_Weighted,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,31413612.57,26413612.57,31060881.43,False,True
+8000000000,Tier_Weighted,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,31413612.57,26413612.57,0,False,True
+8000000000,Tier_Weighted,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,20942408.38,15942408.38,,False,True
+8000000000,Tier_Weighted,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,20942408.38,15942408.38,,False,True
+8000000000,Tier_Weighted,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,20942408.38,15942408.38,0,False,True
+8000000000,Tier_Weighted,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,10471204.19,5471204.19,,False,True
+8000000000,Tier_Weighted,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,10471204.19,5471204.19,67244701.81,False,True
+8000000000,Tier_Weighted,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,10471204.19,5471204.19,,False,True
+8000000000,Tier_Weighted,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,10471204.19,5471204.19,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OHIO_STATE,Ohio State University,1,ACC,Knight-Newhouse FY2025,97839402.0,True,89005235.6,84005235.6,8834166.4,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OREGON,University of Oregon,1,ACC,Knight-Newhouse FY2025,69211336.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,GEORGIA,University of Georgia,1,ACC,Knight-Newhouse FY2025,72871017.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NOTRE_DAME,University of Notre Dame,1,ACC,EADA 2024-25 (not directly comparable),,False,89005235.6,84005235.6,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ALABAMA,University of Alabama,1,ACC,Knight-Newhouse FY2025,80066615.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TEXAS,University of Texas at Austin,1,ACC,Knight-Newhouse FY2025,33603713.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OLE_MISS,University of Mississippi,1,ACC,Knight-Newhouse FY2025,72796009.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MICHIGAN,University of Michigan,1,ACC,Knight-Newhouse FY2025,80622683.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,PENN_STATE,Pennsylvania State University,1,ACC,Knight-Newhouse FY2025,89583248.0,True,89005235.6,84005235.6,578012.4,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MIAMI_FL,University of Miami,1,ACC,EADA 2024-25 (not directly comparable),,False,89005235.6,84005235.6,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,JAMES_MADISON,James Madison University,1,ACC,Knight-Newhouse FY2025,4129802.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA,University of Oklahoma,1,ACC,Knight-Newhouse FY2025,16550441.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,INDIANA,Indiana University Bloomington,1,ACC,Knight-Newhouse FY2025,80626363.0,True,89005235.6,84005235.6,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SMU,Southern Methodist University,1,ACC,EADA 2024-25 (not directly comparable),,False,89005235.6,84005235.6,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BOISE_STATE,Boise State University,2,American,Knight-Newhouse FY2025,20191958.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WASHINGTON,University of Washington,2,American,Knight-Newhouse FY2025,47861650.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,LSU,Louisiana State University,2,American,Knight-Newhouse FY2025,75445962.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,CLEMSON,Clemson University,2,American,Knight-Newhouse FY2025,54140495.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NORTH_DAKOTA_STATE,North Dakota State University,2,American,Knight-Newhouse FY2025,3346537.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BYU,Brigham Young University,2,American,EADA 2024-25 (not directly comparable),,False,80104712.04,75104712.04,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TEXAS_AM,Texas A&M University,2,American,Knight-Newhouse FY2025,65694643.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TENNESSEE,University of Tennessee Knoxville,2,American,Knight-Newhouse FY2025,66036392.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MISSOURI,University of Missouri,2,American,Knight-Newhouse FY2025,61763342.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,IOWA,University of Iowa,2,American,Knight-Newhouse FY2025,81110245.0,True,80104712.04,75104712.04,1005532.96,False,True
+8000000000,Tier_Weighted_15pct_Reserve,LOUISVILLE,University of Louisville,2,American,Knight-Newhouse FY2025,48957394.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MEMPHIS,University of Memphis,2,American,Knight-Newhouse FY2025,12079648.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UTAH,University of Utah,2,American,Knight-Newhouse FY2025,43714395.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TEXAS_TECH,Texas Tech University,2,American,Knight-Newhouse FY2025,39809826.0,True,80104712.04,75104712.04,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TULANE,Tulane University,3,Big 12,EADA 2024-25 (not directly comparable),,False,71204188.48,66204188.48,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,USC,University of Southern California,3,Big 12,EADA 2024-25 (not directly comparable),,False,71204188.48,66204188.48,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,KANSAS_STATE,Kansas State University,3,Big 12,Knight-Newhouse FY2025,39366884.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,IOWA_STATE,Iowa State University,3,Big 12,Knight-Newhouse FY2025,47338529.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OHIO,Ohio University,3,Big 12,Knight-Newhouse FY2025,4406767.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TCU,Texas Christian University,3,Big 12,EADA 2024-25 (not directly comparable),,False,71204188.48,66204188.48,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NAVY,United States Naval Academy,3,Big 12,Knight-Newhouse FY2025,13989631.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TOLEDO,University of Toledo,3,Big 12,Knight-Newhouse FY2025,5178988.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,DUKE,Duke University,3,Big 12,EADA 2024-25 (not directly comparable),,False,71204188.48,66204188.48,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ARMY,United States Military Academy,3,Big 12,Knight-Newhouse FY2025,12370007.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UNLV,University of Nevada Las Vegas,3,Big 12,Knight-Newhouse FY2025,8636563.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ILLINOIS,University of Illinois Urbana-Champaign,3,Big 12,Knight-Newhouse FY2025,83731680.0,True,71204188.48,66204188.48,12527491.52,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NC_STATE,North Carolina State University,3,Big 12,Knight-Newhouse FY2025,48147701.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WESTERN_KENTUCKY,Western Kentucky University,3,Big 12,Knight-Newhouse FY2025,4901363.0,True,71204188.48,66204188.48,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MINNESOTA,University of Minnesota Twin Cities,4,Big Ten,Knight-Newhouse FY2025,80560677.0,True,62303664.92,57303664.92,18257012.08,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ARIZONA_STATE,Arizona State University,4,Big Ten,Knight-Newhouse FY2025,44437396.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,LIBERTY,Liberty University,4,Big Ten,EADA 2024-25 (not directly comparable),,False,62303664.92,57303664.92,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ARIZONA,University of Arizona,4,Big Ten,Knight-Newhouse FY2025,37837493.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,GEORGIA_TECH,Georgia Institute of Technology,4,Big Ten,Knight-Newhouse FY2025,55170073.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UTSA,University of Texas at San Antonio,4,Big Ten,Knight-Newhouse FY2025,5957459.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MIAMI_OH,Miami University,4,Big Ten,Knight-Newhouse FY2025,4656646.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,JACKSONVILLE_STATE,Jacksonville State University,4,Big Ten,Knight-Newhouse FY2025,5918916.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NORTH_TEXAS,University of North Texas,4,Big Ten,Knight-Newhouse FY2025,5950418.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WASHINGTON_STATE,Washington State University,4,Big Ten,Knight-Newhouse FY2025,29903080.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,FRESNO_STATE,California State University Fresno,4,Big Ten,Knight-Newhouse FY2025,8928285.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MARSHALL,Marshall University,4,Big Ten,Knight-Newhouse FY2025,3222897.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SOUTH_FLORIDA,University of South Florida,4,Big Ten,Knight-Newhouse FY2025,13514065.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,FLORIDA_STATE,Florida State University,4,Big Ten,Knight-Newhouse FY2025,47668816.0,True,62303664.92,57303664.92,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SOUTH_CAROLINA,University of South Carolina,5,Conference USA,Knight-Newhouse FY2025,65809483.0,True,53403141.36,48403141.36,12406341.64,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TROY,Troy University,5,Conference USA,Knight-Newhouse FY2025,2251448.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,FLORIDA,University of Florida,5,Conference USA,Knight-Newhouse FY2025,76762166.0,True,53403141.36,48403141.36,23359024.64,False,True
+8000000000,Tier_Weighted_15pct_Reserve,PITTSBURGH,University of Pittsburgh,5,Conference USA,EADA 2024-25 (not directly comparable),,False,53403141.36,48403141.36,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,LOUISIANA,University of Louisiana at Lafayette,5,Conference USA,Knight-Newhouse FY2025,4790285.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,AUBURN,Auburn University,5,Conference USA,Knight-Newhouse FY2025,70544455.0,True,53403141.36,48403141.36,17141313.64,False,True
+8000000000,Tier_Weighted_15pct_Reserve,VIRGINIA,University of Virginia,5,Conference USA,Knight-Newhouse FY2025,47352404.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OLD_DOMINION,Old Dominion University,5,Conference USA,Knight-Newhouse FY2025,2904380.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TEXAS_STATE,Texas State University,5,Conference USA,Knight-Newhouse FY2025,3403052.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WISCONSIN,University of Wisconsin Madison,5,Conference USA,Knight-Newhouse FY2025,77920947.0,True,53403141.36,48403141.36,24517805.64,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NEBRASKA,University of Nebraska-Lincoln,5,Conference USA,Knight-Newhouse FY2025,93350900.0,True,53403141.36,48403141.36,39947758.64,False,True
+8000000000,Tier_Weighted_15pct_Reserve,HOUSTON,University of Houston,5,Conference USA,Knight-Newhouse FY2025,18478012.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,APP_STATE,Appalachian State University,5,Conference USA,Knight-Newhouse FY2025,3054982.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,KANSAS,University of Kansas,5,Conference USA,Knight-Newhouse FY2025,48054405.0,True,53403141.36,48403141.36,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,EAST_CAROLINA,East Carolina University,6,MAC,Knight-Newhouse FY2025,12232222.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,VANDERBILT,Vanderbilt University,6,MAC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,KENTUCKY,University of Kentucky,6,MAC,Knight-Newhouse FY2025,83010640.0,True,44502617.8,39502617.8,38508022.2,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WESTERN_MICHIGAN,Western Michigan University,6,MAC,Knight-Newhouse FY2025,4472182.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,GEORGIA_SOUTHERN,Georgia Southern University,6,MAC,Knight-Newhouse FY2025,3534449.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BAYLOR,Baylor University,6,MAC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,AIR_FORCE,United States Air Force Academy,6,MAC,Knight-Newhouse FY2025,6508425.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WEST_VIRGINIA,West Virginia University,6,MAC,Knight-Newhouse FY2025,40413221.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,CALIFORNIA,University of California Berkeley,6,MAC,Knight-Newhouse FY2025,24695527.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WAKE_FOREST,Wake Forest University,6,MAC,EADA 2024-25 (not directly comparable),,False,44502617.8,39502617.8,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,CINCINNATI,University of Cincinnati,6,MAC,Knight-Newhouse FY2025,20634363.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,COASTAL_CAROLINA,Coastal Carolina University,6,MAC,Knight-Newhouse FY2025,3645260.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,MAC,Knight-Newhouse FY2025,51930806.0,True,44502617.8,39502617.8,7428188.2,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UCF,University of Central Florida,6,MAC,Knight-Newhouse FY2025,20865983.0,True,44502617.8,39502617.8,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,Mountain West,Knight-Newhouse FY2025,48068705.0,True,35602094.24,30602094.24,12466610.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NORTHWESTERN,Northwestern University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,RUTGERS,Rutgers University,7,Mountain West,Knight-Newhouse FY2025,78467243.0,True,35602094.24,30602094.24,42865148.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UCLA,University of California Los Angeles,7,Mountain West,Knight-Newhouse FY2025,77263290.0,True,35602094.24,30602094.24,41661195.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SYRACUSE,Syracuse University,7,Mountain West,EADA 2024-25 (not directly comparable),,False,35602094.24,30602094.24,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ARKANSAS_STATE,Arkansas State University,7,Mountain West,Knight-Newhouse FY2025,2886220.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SAN_DIEGO_STATE,San Diego State University,7,Mountain West,Knight-Newhouse FY2025,8588507.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UCONN,University of Connecticut,7,Mountain West,Knight-Newhouse FY2025,9572165.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MARYLAND,University of Maryland College Park,7,Mountain West,Knight-Newhouse FY2025,62908898.0,True,35602094.24,30602094.24,27306803.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SOUTH_ALABAMA,University of South Alabama,7,Mountain West,Knight-Newhouse FY2025,3368618.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,COLORADO,University of Colorado Boulder,7,Mountain West,Knight-Newhouse FY2025,38902787.0,True,35602094.24,30602094.24,3300692.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,HAWAII,University of Hawaiʻi at Mānoa,7,Mountain West,Knight-Newhouse FY2025,8358199.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ARKANSAS,University of Arkansas,7,Mountain West,Knight-Newhouse FY2025,66384279.0,True,35602094.24,30602094.24,30782184.76,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BUFFALO,University at Buffalo,7,Mountain West,Knight-Newhouse FY2025,3860707.0,True,35602094.24,30602094.24,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MICHIGAN_STATE,Michigan State University,8,Pac-12,Knight-Newhouse FY2025,78333934.0,True,26701570.68,21701570.68,51632363.32,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UTAH_STATE,Utah State University,8,Pac-12,Knight-Newhouse FY2025,11633808.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BOWLING_GREEN,Bowling Green State University,8,Pac-12,Knight-Newhouse FY2025,2935130.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NORTHERN_ILLINOIS,Northern Illinois University,8,Pac-12,Knight-Newhouse FY2025,4239171.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MISSOURI_STATE,Missouri State University,8,Pac-12,Knight-Newhouse FY2025,860420.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BOSTON_COLLEGE,Boston College,8,Pac-12,EADA 2024-25 (not directly comparable),,False,26701570.68,21701570.68,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OKLAHOMA_STATE,Oklahoma State University,8,Pac-12,Knight-Newhouse FY2025,47515136.0,True,26701570.68,21701570.68,20813565.32,False,True
+8000000000,Tier_Weighted_15pct_Reserve,OREGON_STATE,Oregon State University,8,Pac-12,Knight-Newhouse FY2025,28294106.0,True,26701570.68,21701570.68,1592535.32,False,True
+8000000000,Tier_Weighted_15pct_Reserve,LOUISIANA_TECH,Louisiana Tech University,8,Pac-12,Knight-Newhouse FY2025,3877294.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MISSISSIPPI_STATE,Mississippi State University,8,Pac-12,Knight-Newhouse FY2025,62474494.0,True,26701570.68,21701570.68,35772923.32,False,True
+8000000000,Tier_Weighted_15pct_Reserve,WYOMING,University of Wyoming,8,Pac-12,Knight-Newhouse FY2025,7566782.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO,University of New Mexico,8,Pac-12,Knight-Newhouse FY2025,8402092.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SAN_JOSE_STATE,San José State University,8,Pac-12,Knight-Newhouse FY2025,9732874.0,True,26701570.68,21701570.68,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SACRAMENTO_STATE,California State University Sacramento,9,SEC,Knight-Newhouse FY2025,1827937.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,CENTRAL_MICHIGAN,Central Michigan University,9,SEC,Knight-Newhouse FY2025,3574123.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,KENNESAW_STATE,Kennesaw State University,9,SEC,Knight-Newhouse FY2025,4683717.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SAM_HOUSTON,Sam Houston State University,9,SEC,Knight-Newhouse FY2025,4686077.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,RICE,Rice University,9,SEC,EADA 2024-25 (not directly comparable),,False,17801047.12,12801047.12,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,COLORADO_STATE,Colorado State University,9,SEC,Knight-Newhouse FY2025,8278734.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,EASTERN_MICHIGAN,Eastern Michigan University,9,SEC,Knight-Newhouse FY2025,4375806.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,FIU,Florida International University,9,SEC,Knight-Newhouse FY2025,4110492.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UAB,University of Alabama at Birmingham,9,SEC,Knight-Newhouse FY2025,6430926.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,STANFORD,Stanford University,9,SEC,EADA 2024-25 (not directly comparable),,False,17801047.12,12801047.12,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,FLORIDA_ATLANTIC,Florida Atlantic University,9,SEC,Knight-Newhouse FY2025,6628876.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NEW_MEXICO_STATE,New Mexico State University,9,SEC,Knight-Newhouse FY2025,4457404.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,SOUTHERN_MISS,University of Southern Mississippi,9,SEC,Knight-Newhouse FY2025,2899580.0,True,17801047.12,12801047.12,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TEMPLE,Temple University,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,8900523.56,3900523.56,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,GEORGIA_STATE,Georgia State University,10,Sun Belt,Knight-Newhouse FY2025,2841671.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,BALL_STATE,Ball State University,10,Sun Belt,Knight-Newhouse FY2025,3956989.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,PURDUE,Purdue University,10,Sun Belt,Knight-Newhouse FY2025,77715906.0,True,8900523.56,3900523.56,68815382.44,False,True
+8000000000,Tier_Weighted_15pct_Reserve,TULSA,University of Tulsa,10,Sun Belt,EADA 2024-25 (not directly comparable),,False,8900523.56,3900523.56,,False,True
+8000000000,Tier_Weighted_15pct_Reserve,MIDDLE_TENNESSEE,Middle Tennessee State University,10,Sun Belt,Knight-Newhouse FY2025,4399851.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,ULM,University of Louisiana Monroe,10,Sun Belt,Knight-Newhouse FY2025,2813774.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,NEVADA,University of Nevada Reno,10,Sun Belt,Knight-Newhouse FY2025,7307464.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,AKRON,University of Akron,10,Sun Belt,Knight-Newhouse FY2025,4122979.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,CHARLOTTE,University of North Carolina at Charlotte,10,Sun Belt,Knight-Newhouse FY2025,6519781.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UTEP,University of Texas at El Paso,10,Sun Belt,Knight-Newhouse FY2025,486949.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,KENT_STATE,Kent State University,10,Sun Belt,Knight-Newhouse FY2025,3904386.0,True,8900523.56,3900523.56,0,False,True
+8000000000,Tier_Weighted_15pct_Reserve,UMASS,University of Massachusetts Amherst,10,Sun Belt,Knight-Newhouse FY2025,1736764.0,True,8900523.56,3900523.56,0,False,True

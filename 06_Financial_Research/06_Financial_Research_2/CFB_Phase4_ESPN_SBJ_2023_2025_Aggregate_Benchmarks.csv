@@ -1,0 +1,9 @@
+season,publication_date,publisher,scope,metric,value,methodology_notes,source_url
+2023,1/10/2024,ESPN,40 bowl games average,average_viewers_per_game,4600000,all ESPN platforms bowl slate,https://espnpressroom.com/press-release/espn-delivers-record-viewership-across-college-football-playoff-and-new-years-six/
+2023,1/10/2024,ESPN,seven CFP and NY6 games,average_viewers_per_game,15100000,seven games,https://espnpressroom.com/press-release/espn-delivers-record-viewership-across-college-football-playoff-and-new-years-six/
+2023,1/10/2024,ESPN,non-NY6 bowls,average_viewers_per_game,2400000,33 games,https://espnpressroom.com/press-release/espn-delivers-record-viewership-across-college-football-playoff-and-new-years-six/
+2025,10/31/2025,Sports Business Journal,ABC ESPN ESPN2 ESPNU through Week 9,average_viewers_per_game,2300000,up 20% YoY under Big Data + Panel; panel-only up 13%,https://www.sportsbusinessjournal.com/Articles/2025/10/31/espn-networks-experiencing-best-cfb-season-on-tv-since-2009/
+2025,10/31/2025,Sports Business Journal,ABC through Week 9,average_viewers_per_game,7100000,record average as reported,https://www.sportsbusinessjournal.com/Articles/2025/10/31/espn-networks-experiencing-best-cfb-season-on-tv-since-2009/
+2025,10/31/2025,Sports Business Journal,ABC 3:30pm through Week 9,average_viewers_per_game,8200000,up 44% YoY,https://www.sportsbusinessjournal.com/Articles/2025/10/31/espn-networks-experiencing-best-cfb-season-on-tv-since-2009/
+2025,10/31/2025,Sports Business Journal,ABC primetime through Week 9,average_viewers_per_game,8000000,up 14% YoY,https://www.sportsbusinessjournal.com/Articles/2025/10/31/espn-networks-experiencing-best-cfb-season-on-tv-since-2009/
+2025,10/31/2025,Sports Business Journal,College GameDay through Week 9,average_viewers_per_episode,2800000,not a game telecast; exclude from game model,https://www.sportsbusinessjournal.com/Articles/2025/10/31/espn-networks-experiencing-best-cfb-season-on-tv-since-2009/

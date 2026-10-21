@@ -1,0 +1,19 @@
+season,game_date,team_1,team_2,network,source,reported_viewers,source_url,verification_status,notes
+2024,12/7/2024,Georgia,Texas,ABC / ESPN,DIRECTV,16600000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,agreement on rounded reported viewers
+2024,12/7/2024,Georgia,Texas,ABC / ESPN,Crosscheck,16600000,https://www.sportsmediawatch.com/2024/12/big-ten-championship-ratings-oregon-penn-state-cbs-viewership/,secondary_reported,agreement on rounded reported viewers
+2024,10/19/2024,Georgia,Texas,ABC,DIRECTV,13200000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,DIRECTV rounds 13.19M to 13.2M
+2024,10/19/2024,Georgia,Texas,ABC,Crosscheck,13190000,https://www.sportsmediawatch.com/2024/12/michigan-ohio-state-ratings-least-watched-seven-years/,secondary_reported,DIRECTV rounds 13.19M to 13.2M
+2024,11/2/2024,Ohio State,Penn State,FOX,DIRECTV,9770000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,Sports Media Watch cites 9.77M
+2024,11/2/2024,Ohio State,Penn State,FOX,Crosscheck,9770000,https://www.sportsmediawatch.com/2024/12/michigan-ohio-state-ratings-least-watched-seven-years/,secondary_reported,Sports Media Watch cites 9.77M
+2024,12/7/2024,Oregon,Penn State,CBS,DIRECTV,10500000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,agreement
+2024,12/7/2024,Oregon,Penn State,CBS,Crosscheck,10500000,https://www.sportsmediawatch.com/2024/12/big-ten-championship-ratings-oregon-penn-state-cbs-viewership/,secondary_reported,agreement
+2024,8/24/2024,Georgia Tech,Florida State,ESPN,DIRECTV,4990000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,Cross-checked published audience; DIRECTV rounded where applicable
+2024,8/24/2024,Georgia Tech,Florida State,ESPN,Crosscheck,4990000,https://www.footballscoop.com/2025/03/03/the-100-most-watched-games-of-the-2024-college-football-season,secondary_reported,Cross-checked published audience; DIRECTV rounded where applicable
+2024,12/7/2024,Clemson,SMU,ABC,DIRECTV,5980000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,Cross-checked published audience; DIRECTV rounded where applicable
+2024,12/7/2024,Clemson,SMU,ABC,Crosscheck,5980000,https://ratingsreference.com/team/cfb-clemson?year=2024,secondary_reported,Cross-checked published audience; DIRECTV rounded where applicable
+2024,11/30/2024,Texas,Texas A&M,,DIRECTV,9500000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,DIRECTV 9.5M vs Ratings Reference 9.45M; possible rounding
+2024,11/30/2024,Texas,Texas A&M,,Crosscheck,9450000,https://ratingsreference.com/league/cfb?year=2024,secondary_reported,DIRECTV 9.5M vs Ratings Reference 9.45M; possible rounding
+2024,11/30/2024,Auburn,Alabama,ABC,DIRECTV,7400000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,Independent published telecast figure; preserve DIRECTV value as distinct observation
+2024,11/30/2024,Auburn,Alabama,ABC,Crosscheck,7160000,https://ratingsreference.com/team/cfb-auburn?year=2024,secondary_reported,Independent published telecast figure; preserve DIRECTV value as distinct observation
+2024,11/30/2024,Michigan,Ohio State,FOX,DIRECTV,12300000,https://restaurant.org/getmedia/154bd0fd-9d98-4cec-9af0-7cc5050056d9/2025-College-Football-Deep-Dive.pdf,secondary_reported,agreement
+2024,11/30/2024,Michigan,Ohio State,FOX,Crosscheck,12300000,https://www.sportsmediawatch.com/2024/12/michigan-ohio-state-ratings-least-watched-seven-years/,secondary_reported,agreement

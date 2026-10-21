@@ -1,0 +1,11 @@
+PHASE 3: HYPOTHETICAL TEN-CONFERENCE MEDIA/DISTRIBUTION DESIGNS
+
+Source: CFB_137_School_Financial_Research_FINAL_BASELINE.csv. Proposed conference and level are user-defined, not actual conference affiliations.
+
+Three total annual system pools ($4B, $6B, $8B) and three allocation rules: equal school shares; tier-weighted shares with weight=11-level (level 1 receives 10 units, level 10 receives 1); and tier-weighted shares after holding 15% of pool as an unallocated reserve. All 137 institutions included. The reserve is NOT spent, and is not counted as school revenue. No independent estimates of actual new media deal value are asserted.
+
+Full-displacement gap = max(0, FY2025 observed combined conference/media/NCAA/postseason receipts minus illustrative new base allocation), only where that combined line exists. This is a deliberately severe stress test, NOT a contractual-loss estimate. Combined receipts include non-media components and should not be called TV revenue. Expenses and institutional support are not directly incorporated in the full-displacement gap; a separate illustrative $5M incremental cost adjustment is shown in school table. School expenses use mixed Knight-Newhouse/EADA accounting bases.
+
+The 20 schools without observed comparable combined receipts have blank displacement gap; zeros would falsely imply no risk. The reported FY2025 conference payment fields are not additive to combined receipts without reconciliation.
+
+Before a definitive deal-size recommendation: obtain verified rights contracts, actual school-level category breakdowns, league contract termination/change-of-control clauses, separate NCAA/CFP payments, rights inventory and viewership valuations, revenue sharing/athlete compensation costs, debt obligations, and transition timing.

@@ -1,0 +1,138 @@
+School_ID,School,Proposed_Conference,Proposed_Level,Assumed_Regular_Season_Games,Assumed_Same_Tier_Games,Assumed_Adjacent_Tier_Games,Audience_Forecast,Individual_Media_Value_USD,Note
+OHIO_STATE,Ohio State University,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OREGON,University of Oregon,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+GEORGIA,University of Georgia,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NOTRE_DAME,University of Notre Dame,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ALABAMA,University of Alabama,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TEXAS,University of Texas at Austin,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OLE_MISS,University of Mississippi,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MICHIGAN,University of Michigan,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+PENN_STATE,Pennsylvania State University,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MIAMI_FL,University of Miami,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+JAMES_MADISON,James Madison University,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OKLAHOMA,University of Oklahoma,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+INDIANA,Indiana University Bloomington,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SMU,Southern Methodist University,ACC,1,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BOISE_STATE,Boise State University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WASHINGTON,University of Washington,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+LSU,Louisiana State University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+CLEMSON,Clemson University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NORTH_DAKOTA_STATE,North Dakota State University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BYU,Brigham Young University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TEXAS_AM,Texas A&M University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TENNESSEE,University of Tennessee Knoxville,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MISSOURI,University of Missouri,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+IOWA,University of Iowa,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+LOUISVILLE,University of Louisville,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MEMPHIS,University of Memphis,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UTAH,University of Utah,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TEXAS_TECH,Texas Tech University,American,2,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TULANE,Tulane University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+USC,University of Southern California,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+KANSAS_STATE,Kansas State University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+IOWA_STATE,Iowa State University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OHIO,Ohio University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TCU,Texas Christian University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NAVY,United States Naval Academy,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TOLEDO,University of Toledo,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+DUKE,Duke University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ARMY,United States Military Academy,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UNLV,University of Nevada Las Vegas,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NC_STATE,North Carolina State University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,3,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ARIZONA_STATE,Arizona State University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+LIBERTY,Liberty University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ARIZONA,University of Arizona,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UTSA,University of Texas at San Antonio,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MIAMI_OH,Miami University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NORTH_TEXAS,University of North Texas,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WASHINGTON_STATE,Washington State University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+FRESNO_STATE,California State University Fresno,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MARSHALL,Marshall University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SOUTH_FLORIDA,University of South Florida,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+FLORIDA_STATE,Florida State University,Big Ten,4,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SOUTH_CAROLINA,University of South Carolina,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TROY,Troy University,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+FLORIDA,University of Florida,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+PITTSBURGH,University of Pittsburgh,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+AUBURN,Auburn University,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+VIRGINIA,University of Virginia,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OLD_DOMINION,Old Dominion University,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TEXAS_STATE,Texas State University,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WISCONSIN,University of Wisconsin Madison,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+HOUSTON,University of Houston,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+APP_STATE,Appalachian State University,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+KANSAS,University of Kansas,Conference USA,5,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+EAST_CAROLINA,East Carolina University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+VANDERBILT,Vanderbilt University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+KENTUCKY,University of Kentucky,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WESTERN_MICHIGAN,Western Michigan University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BAYLOR,Baylor University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+AIR_FORCE,United States Air Force Academy,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WEST_VIRGINIA,West Virginia University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+CALIFORNIA,University of California Berkeley,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WAKE_FOREST,Wake Forest University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+CINCINNATI,University of Cincinnati,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+COASTAL_CAROLINA,Coastal Carolina University,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UCF,University of Central Florida,MAC,6,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NORTHWESTERN,Northwestern University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+RUTGERS,Rutgers University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UCLA,University of California Los Angeles,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SYRACUSE,Syracuse University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ARKANSAS_STATE,Arkansas State University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SAN_DIEGO_STATE,San Diego State University,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UCONN,University of Connecticut,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MARYLAND,University of Maryland College Park,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SOUTH_ALABAMA,University of South Alabama,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+COLORADO,University of Colorado Boulder,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ARKANSAS,University of Arkansas,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BUFFALO,University at Buffalo,Mountain West,7,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MICHIGAN_STATE,Michigan State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UTAH_STATE,Utah State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BOWLING_GREEN,Bowling Green State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MISSOURI_STATE,Missouri State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BOSTON_COLLEGE,Boston College,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+OREGON_STATE,Oregon State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+WYOMING,University of Wyoming,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NEW_MEXICO,University of New Mexico,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SAN_JOSE_STATE,San José State University,Pac-12,8,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SACRAMENTO_STATE,California State University Sacramento,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+CENTRAL_MICHIGAN,Central Michigan University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+KENNESAW_STATE,Kennesaw State University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SAM_HOUSTON,Sam Houston State University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+RICE,Rice University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+COLORADO_STATE,Colorado State University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+FIU,Florida International University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UAB,University of Alabama at Birmingham,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+STANFORD,Stanford University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NEW_MEXICO_STATE,New Mexico State University,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+SOUTHERN_MISS,University of Southern Mississippi,SEC,9,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TEMPLE,Temple University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+GEORGIA_STATE,Georgia State University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+BALL_STATE,Ball State University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+PURDUE,Purdue University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+TULSA,University of Tulsa,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+ULM,University of Louisiana Monroe,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+NEVADA,University of Nevada Reno,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+AKRON,University of Akron,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UTEP,University of Texas at El Paso,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+KENT_STATE,Kent State University,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed
+UMASS,University of Massachusetts Amherst,Sun Belt,10,12,8,4,NOT ESTIMATED,NOT ESTIMATED,Inventory assumption only; scheduling feasibility and opponents not constructed

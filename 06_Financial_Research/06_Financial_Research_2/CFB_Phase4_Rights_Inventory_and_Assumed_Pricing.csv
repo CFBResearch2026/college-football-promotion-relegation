@@ -1,0 +1,5 @@
+Package,Games,Low_USD_per_game_millions,Base_USD_per_game_millions,High_USD_per_game_millions,Low_Annual_USD,Base_Annual_USD,High_Annual_USD,Status
+Premium broadcast,36,12,18,25,432000000,648000000,900000000,"Unvalidated valuation assumption, not offer or observed price"
+National secondary,120,3,5,8,360000000,600000000,960000000,"Unvalidated valuation assumption, not offer or observed price"
+Cable and streaming,300,0.8,1.5,2.5,240000000,450000000,750000000,"Unvalidated valuation assumption, not offer or observed price"
+Long tail / digital,366,0.12,0.3,0.6,43920000,109800000,219600000,"Unvalidated valuation assumption, not offer or observed price"

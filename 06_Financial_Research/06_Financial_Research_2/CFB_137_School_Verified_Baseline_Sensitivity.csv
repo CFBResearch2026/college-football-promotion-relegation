@@ -1,0 +1,686 @@
+school_id,school,proposed_conference,fiscal_year,baseline_distribution_USD,baseline_status,source_url,hypothetical_proposed_payout_USD,illustrative_protection_USD,illustrative_gain_USD,warning
+OHIO_STATE,Ohio State University,ACC,2025,91600000,reported_school_specific,https://www.washingtonpost.com/sports/colleges/2026/05/08/big-ten-revenue-distribution/dc4507ea-4b03-11f1-a119-857cd2bf4fd4_story.html,40000000,51600000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO_STATE,Ohio State University,ACC,2025,91600000,reported_school_specific,https://www.washingtonpost.com/sports/colleges/2026/05/08/big-ten-revenue-distribution/dc4507ea-4b03-11f1-a119-857cd2bf4fd4_story.html,50000000,41600000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO_STATE,Ohio State University,ACC,2025,91600000,reported_school_specific,https://www.washingtonpost.com/sports/colleges/2026/05/08/big-ten-revenue-distribution/dc4507ea-4b03-11f1-a119-857cd2bf4fd4_story.html,60000000,31600000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO_STATE,Ohio State University,ACC,2025,91600000,reported_school_specific,https://www.washingtonpost.com/sports/colleges/2026/05/08/big-ten-revenue-distribution/dc4507ea-4b03-11f1-a119-857cd2bf4fd4_story.html,70000000,21600000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO_STATE,Ohio State University,ACC,2025,91600000,reported_school_specific,https://www.washingtonpost.com/sports/colleges/2026/05/08/big-ten-revenue-distribution/dc4507ea-4b03-11f1-a119-857cd2bf4fd4_story.html,80000000,11600000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON,University of Oregon,ACC,2025,48400000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,40000000,8400000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON,University of Oregon,ACC,2025,48400000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,50000000,0,1600000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON,University of Oregon,ACC,2025,48400000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,60000000,0,11600000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON,University of Oregon,ACC,2025,48400000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,70000000,0,21600000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON,University of Oregon,ACC,2025,48400000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,80000000,0,31600000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA,University of Georgia,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA,University of Georgia,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA,University of Georgia,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA,University of Georgia,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA,University of Georgia,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NOTRE_DAME,University of Notre Dame,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NOTRE_DAME,University of Notre Dame,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NOTRE_DAME,University of Notre Dame,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NOTRE_DAME,University of Notre Dame,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NOTRE_DAME,University of Notre Dame,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ALABAMA,University of Alabama,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ALABAMA,University of Alabama,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ALABAMA,University of Alabama,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ALABAMA,University of Alabama,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ALABAMA,University of Alabama,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS,University of Texas at Austin,ACC,2025,12100000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,40000000,0,27900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS,University of Texas at Austin,ACC,2025,12100000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,50000000,0,37900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS,University of Texas at Austin,ACC,2025,12100000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,60000000,0,47900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS,University of Texas at Austin,ACC,2025,12100000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,70000000,0,57900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS,University of Texas at Austin,ACC,2025,12100000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,80000000,0,67900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLE_MISS,University of Mississippi,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLE_MISS,University of Mississippi,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLE_MISS,University of Mississippi,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLE_MISS,University of Mississippi,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLE_MISS,University of Mississippi,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN,University of Michigan,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN,University of Michigan,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN,University of Michigan,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN,University of Michigan,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN,University of Michigan,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PENN_STATE,Pennsylvania State University,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PENN_STATE,Pennsylvania State University,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PENN_STATE,Pennsylvania State University,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PENN_STATE,Pennsylvania State University,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PENN_STATE,Pennsylvania State University,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_FL,University of Miami,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_FL,University of Miami,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_FL,University of Miami,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_FL,University of Miami,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_FL,University of Miami,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JAMES_MADISON,James Madison University,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JAMES_MADISON,James Madison University,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JAMES_MADISON,James Madison University,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JAMES_MADISON,James Madison University,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JAMES_MADISON,James Madison University,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA,University of Oklahoma,ACC,2025,2600000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,40000000,0,37400000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA,University of Oklahoma,ACC,2025,2600000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,50000000,0,47400000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA,University of Oklahoma,ACC,2025,2600000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,60000000,0,57400000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA,University of Oklahoma,ACC,2025,2600000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,70000000,0,67400000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA,University of Oklahoma,ACC,2025,2600000,reported_school_specific,https://www.espn.com.au/college-football/story/_/id/47841317/sec-distributing-more-1b-schools-2024-25-fiscal-year,80000000,0,77400000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+INDIANA,Indiana University Bloomington,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+INDIANA,Indiana University Bloomington,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+INDIANA,Indiana University Bloomington,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+INDIANA,Indiana University Bloomington,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+INDIANA,Indiana University Bloomington,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SMU,Southern Methodist University,ACC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SMU,Southern Methodist University,ACC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SMU,Southern Methodist University,ACC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SMU,Southern Methodist University,ACC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SMU,Southern Methodist University,ACC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOISE_STATE,Boise State University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOISE_STATE,Boise State University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOISE_STATE,Boise State University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOISE_STATE,Boise State University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOISE_STATE,Boise State University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON,University of Washington,American,2025,46700000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,40000000,6700000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON,University of Washington,American,2025,46700000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,50000000,0,3300000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON,University of Washington,American,2025,46700000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,60000000,0,13300000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON,University of Washington,American,2025,46700000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,70000000,0,23300000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON,University of Washington,American,2025,46700000,reported_school_specific,https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/09/college-football-returns-with-secure-media-deals-and-new-eras-for-pac-12-mwc,80000000,0,33300000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LSU,Louisiana State University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LSU,Louisiana State University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LSU,Louisiana State University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LSU,Louisiana State University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LSU,Louisiana State University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CLEMSON,Clemson University,American,2025,55100000,reported_school_specific,https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m,40000000,15100000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CLEMSON,Clemson University,American,2025,55100000,reported_school_specific,https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m,50000000,5100000,0,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CLEMSON,Clemson University,American,2025,55100000,reported_school_specific,https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m,60000000,0,4900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CLEMSON,Clemson University,American,2025,55100000,reported_school_specific,https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m,70000000,0,14900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CLEMSON,Clemson University,American,2025,55100000,reported_school_specific,https://www.foxsports.com/articles/cfb/tax-filings-acc-paid-average-of-471m-to-fullshare-member-schools-big-12-paid-average-of-395m,80000000,0,24900000,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_DAKOTA_STATE,North Dakota State University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_DAKOTA_STATE,North Dakota State University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_DAKOTA_STATE,North Dakota State University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_DAKOTA_STATE,North Dakota State University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_DAKOTA_STATE,North Dakota State University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BYU,Brigham Young University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BYU,Brigham Young University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BYU,Brigham Young University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BYU,Brigham Young University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BYU,Brigham Young University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_AM,Texas A&M University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_AM,Texas A&M University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_AM,Texas A&M University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_AM,Texas A&M University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_AM,Texas A&M University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TENNESSEE,University of Tennessee Knoxville,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TENNESSEE,University of Tennessee Knoxville,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TENNESSEE,University of Tennessee Knoxville,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TENNESSEE,University of Tennessee Knoxville,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TENNESSEE,University of Tennessee Knoxville,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI,University of Missouri,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI,University of Missouri,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI,University of Missouri,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI,University of Missouri,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI,University of Missouri,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA,University of Iowa,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA,University of Iowa,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA,University of Iowa,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA,University of Iowa,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA,University of Iowa,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISVILLE,University of Louisville,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISVILLE,University of Louisville,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISVILLE,University of Louisville,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISVILLE,University of Louisville,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISVILLE,University of Louisville,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MEMPHIS,University of Memphis,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MEMPHIS,University of Memphis,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MEMPHIS,University of Memphis,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MEMPHIS,University of Memphis,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MEMPHIS,University of Memphis,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH,University of Utah,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH,University of Utah,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH,University of Utah,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH,University of Utah,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH,University of Utah,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_TECH,Texas Tech University,American,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_TECH,Texas Tech University,American,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_TECH,Texas Tech University,American,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_TECH,Texas Tech University,American,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_TECH,Texas Tech University,American,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULANE,Tulane University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULANE,Tulane University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULANE,Tulane University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULANE,Tulane University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULANE,Tulane University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+USC,University of Southern California,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+USC,University of Southern California,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+USC,University of Southern California,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+USC,University of Southern California,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+USC,University of Southern California,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS_STATE,Kansas State University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS_STATE,Kansas State University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS_STATE,Kansas State University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS_STATE,Kansas State University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS_STATE,Kansas State University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA_STATE,Iowa State University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA_STATE,Iowa State University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA_STATE,Iowa State University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA_STATE,Iowa State University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+IOWA_STATE,Iowa State University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO,Ohio University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO,Ohio University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO,Ohio University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO,Ohio University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OHIO,Ohio University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TCU,Texas Christian University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TCU,Texas Christian University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TCU,Texas Christian University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TCU,Texas Christian University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TCU,Texas Christian University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NAVY,United States Naval Academy,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NAVY,United States Naval Academy,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NAVY,United States Naval Academy,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NAVY,United States Naval Academy,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NAVY,United States Naval Academy,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TOLEDO,University of Toledo,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TOLEDO,University of Toledo,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TOLEDO,University of Toledo,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TOLEDO,University of Toledo,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TOLEDO,University of Toledo,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+DUKE,Duke University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+DUKE,Duke University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+DUKE,Duke University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+DUKE,Duke University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+DUKE,Duke University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARMY,United States Military Academy,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARMY,United States Military Academy,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARMY,United States Military Academy,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARMY,United States Military Academy,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARMY,United States Military Academy,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UNLV,University of Nevada Las Vegas,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UNLV,University of Nevada Las Vegas,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UNLV,University of Nevada Las Vegas,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UNLV,University of Nevada Las Vegas,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UNLV,University of Nevada Las Vegas,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ILLINOIS,University of Illinois Urbana-Champaign,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NC_STATE,North Carolina State University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NC_STATE,North Carolina State University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NC_STATE,North Carolina State University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NC_STATE,North Carolina State University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NC_STATE,North Carolina State University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_KENTUCKY,Western Kentucky University,Big 12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MINNESOTA,University of Minnesota Twin Cities,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA_STATE,Arizona State University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA_STATE,Arizona State University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA_STATE,Arizona State University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA_STATE,Arizona State University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA_STATE,Arizona State University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LIBERTY,Liberty University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LIBERTY,Liberty University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LIBERTY,Liberty University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LIBERTY,Liberty University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LIBERTY,Liberty University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA,University of Arizona,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA,University of Arizona,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA,University of Arizona,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA,University of Arizona,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARIZONA,University of Arizona,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_TECH,Georgia Institute of Technology,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTSA,University of Texas at San Antonio,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTSA,University of Texas at San Antonio,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTSA,University of Texas at San Antonio,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTSA,University of Texas at San Antonio,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTSA,University of Texas at San Antonio,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_OH,Miami University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_OH,Miami University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_OH,Miami University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_OH,Miami University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIAMI_OH,Miami University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+JACKSONVILLE_STATE,Jacksonville State University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_TEXAS,University of North Texas,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_TEXAS,University of North Texas,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_TEXAS,University of North Texas,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_TEXAS,University of North Texas,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_TEXAS,University of North Texas,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON_STATE,Washington State University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON_STATE,Washington State University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON_STATE,Washington State University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON_STATE,Washington State University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WASHINGTON_STATE,Washington State University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FRESNO_STATE,California State University Fresno,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FRESNO_STATE,California State University Fresno,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FRESNO_STATE,California State University Fresno,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FRESNO_STATE,California State University Fresno,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FRESNO_STATE,California State University Fresno,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARSHALL,Marshall University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARSHALL,Marshall University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARSHALL,Marshall University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARSHALL,Marshall University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARSHALL,Marshall University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_FLORIDA,University of South Florida,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_FLORIDA,University of South Florida,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_FLORIDA,University of South Florida,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_FLORIDA,University of South Florida,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_FLORIDA,University of South Florida,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_STATE,Florida State University,Big Ten,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_STATE,Florida State University,Big Ten,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_STATE,Florida State University,Big Ten,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_STATE,Florida State University,Big Ten,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_STATE,Florida State University,Big Ten,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_CAROLINA,University of South Carolina,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_CAROLINA,University of South Carolina,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_CAROLINA,University of South Carolina,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_CAROLINA,University of South Carolina,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_CAROLINA,University of South Carolina,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TROY,Troy University,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TROY,Troy University,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TROY,Troy University,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TROY,Troy University,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TROY,Troy University,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA,University of Florida,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA,University of Florida,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA,University of Florida,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA,University of Florida,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA,University of Florida,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PITTSBURGH,University of Pittsburgh,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PITTSBURGH,University of Pittsburgh,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PITTSBURGH,University of Pittsburgh,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PITTSBURGH,University of Pittsburgh,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PITTSBURGH,University of Pittsburgh,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA,University of Louisiana at Lafayette,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AUBURN,Auburn University,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AUBURN,Auburn University,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AUBURN,Auburn University,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AUBURN,Auburn University,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AUBURN,Auburn University,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA,University of Virginia,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA,University of Virginia,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA,University of Virginia,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA,University of Virginia,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA,University of Virginia,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLD_DOMINION,Old Dominion University,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLD_DOMINION,Old Dominion University,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLD_DOMINION,Old Dominion University,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLD_DOMINION,Old Dominion University,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OLD_DOMINION,Old Dominion University,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_STATE,Texas State University,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_STATE,Texas State University,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_STATE,Texas State University,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_STATE,Texas State University,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEXAS_STATE,Texas State University,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WISCONSIN,University of Wisconsin Madison,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WISCONSIN,University of Wisconsin Madison,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WISCONSIN,University of Wisconsin Madison,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WISCONSIN,University of Wisconsin Madison,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WISCONSIN,University of Wisconsin Madison,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEBRASKA,University of Nebraska-Lincoln,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HOUSTON,University of Houston,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HOUSTON,University of Houston,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HOUSTON,University of Houston,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HOUSTON,University of Houston,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HOUSTON,University of Houston,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+APP_STATE,Appalachian State University,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+APP_STATE,Appalachian State University,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+APP_STATE,Appalachian State University,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+APP_STATE,Appalachian State University,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+APP_STATE,Appalachian State University,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS,University of Kansas,Conference USA,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS,University of Kansas,Conference USA,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS,University of Kansas,Conference USA,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS,University of Kansas,Conference USA,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KANSAS,University of Kansas,Conference USA,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EAST_CAROLINA,East Carolina University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EAST_CAROLINA,East Carolina University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EAST_CAROLINA,East Carolina University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EAST_CAROLINA,East Carolina University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EAST_CAROLINA,East Carolina University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VANDERBILT,Vanderbilt University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VANDERBILT,Vanderbilt University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VANDERBILT,Vanderbilt University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VANDERBILT,Vanderbilt University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VANDERBILT,Vanderbilt University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENTUCKY,University of Kentucky,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENTUCKY,University of Kentucky,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENTUCKY,University of Kentucky,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENTUCKY,University of Kentucky,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENTUCKY,University of Kentucky,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_MICHIGAN,Western Michigan University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_MICHIGAN,Western Michigan University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_MICHIGAN,Western Michigan University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_MICHIGAN,Western Michigan University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WESTERN_MICHIGAN,Western Michigan University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_SOUTHERN,Georgia Southern University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BAYLOR,Baylor University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BAYLOR,Baylor University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BAYLOR,Baylor University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BAYLOR,Baylor University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BAYLOR,Baylor University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AIR_FORCE,United States Air Force Academy,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AIR_FORCE,United States Air Force Academy,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AIR_FORCE,United States Air Force Academy,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AIR_FORCE,United States Air Force Academy,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AIR_FORCE,United States Air Force Academy,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WEST_VIRGINIA,West Virginia University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WEST_VIRGINIA,West Virginia University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WEST_VIRGINIA,West Virginia University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WEST_VIRGINIA,West Virginia University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WEST_VIRGINIA,West Virginia University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CALIFORNIA,University of California Berkeley,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CALIFORNIA,University of California Berkeley,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CALIFORNIA,University of California Berkeley,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CALIFORNIA,University of California Berkeley,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CALIFORNIA,University of California Berkeley,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WAKE_FOREST,Wake Forest University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WAKE_FOREST,Wake Forest University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WAKE_FOREST,Wake Forest University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WAKE_FOREST,Wake Forest University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WAKE_FOREST,Wake Forest University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CINCINNATI,University of Cincinnati,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CINCINNATI,University of Cincinnati,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CINCINNATI,University of Cincinnati,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CINCINNATI,University of Cincinnati,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CINCINNATI,University of Cincinnati,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COASTAL_CAROLINA,Coastal Carolina University,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COASTAL_CAROLINA,Coastal Carolina University,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COASTAL_CAROLINA,Coastal Carolina University,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COASTAL_CAROLINA,Coastal Carolina University,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COASTAL_CAROLINA,Coastal Carolina University,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTH_CAROLINA,University of North Carolina at Chapel Hill,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCF,University of Central Florida,MAC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCF,University of Central Florida,MAC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCF,University of Central Florida,MAC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCF,University of Central Florida,MAC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCF,University of Central Florida,MAC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+VIRGINIA_TECH,Virginia Polytechnic Institute and State University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHWESTERN,Northwestern University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHWESTERN,Northwestern University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHWESTERN,Northwestern University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHWESTERN,Northwestern University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHWESTERN,Northwestern University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RUTGERS,Rutgers University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RUTGERS,Rutgers University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RUTGERS,Rutgers University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RUTGERS,Rutgers University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RUTGERS,Rutgers University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCLA,University of California Los Angeles,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCLA,University of California Los Angeles,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCLA,University of California Los Angeles,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCLA,University of California Los Angeles,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCLA,University of California Los Angeles,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SYRACUSE,Syracuse University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SYRACUSE,Syracuse University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SYRACUSE,Syracuse University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SYRACUSE,Syracuse University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SYRACUSE,Syracuse University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS_STATE,Arkansas State University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS_STATE,Arkansas State University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS_STATE,Arkansas State University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS_STATE,Arkansas State University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS_STATE,Arkansas State University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_DIEGO_STATE,San Diego State University,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_DIEGO_STATE,San Diego State University,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_DIEGO_STATE,San Diego State University,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_DIEGO_STATE,San Diego State University,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_DIEGO_STATE,San Diego State University,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCONN,University of Connecticut,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCONN,University of Connecticut,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCONN,University of Connecticut,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCONN,University of Connecticut,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UCONN,University of Connecticut,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARYLAND,University of Maryland College Park,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARYLAND,University of Maryland College Park,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARYLAND,University of Maryland College Park,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARYLAND,University of Maryland College Park,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MARYLAND,University of Maryland College Park,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_ALABAMA,University of South Alabama,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_ALABAMA,University of South Alabama,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_ALABAMA,University of South Alabama,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_ALABAMA,University of South Alabama,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTH_ALABAMA,University of South Alabama,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO,University of Colorado Boulder,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO,University of Colorado Boulder,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO,University of Colorado Boulder,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO,University of Colorado Boulder,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO,University of Colorado Boulder,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+HAWAII,University of Hawaiʻi at Mānoa,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS,University of Arkansas,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS,University of Arkansas,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS,University of Arkansas,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS,University of Arkansas,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ARKANSAS,University of Arkansas,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BUFFALO,University at Buffalo,Mountain West,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BUFFALO,University at Buffalo,Mountain West,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BUFFALO,University at Buffalo,Mountain West,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BUFFALO,University at Buffalo,Mountain West,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BUFFALO,University at Buffalo,Mountain West,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN_STATE,Michigan State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN_STATE,Michigan State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN_STATE,Michigan State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN_STATE,Michigan State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MICHIGAN_STATE,Michigan State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH_STATE,Utah State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH_STATE,Utah State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH_STATE,Utah State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH_STATE,Utah State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTAH_STATE,Utah State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOWLING_GREEN,Bowling Green State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOWLING_GREEN,Bowling Green State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOWLING_GREEN,Bowling Green State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOWLING_GREEN,Bowling Green State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOWLING_GREEN,Bowling Green State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NORTHERN_ILLINOIS,Northern Illinois University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI_STATE,Missouri State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI_STATE,Missouri State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI_STATE,Missouri State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI_STATE,Missouri State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSOURI_STATE,Missouri State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOSTON_COLLEGE,Boston College,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOSTON_COLLEGE,Boston College,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOSTON_COLLEGE,Boston College,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOSTON_COLLEGE,Boston College,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BOSTON_COLLEGE,Boston College,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OKLAHOMA_STATE,Oklahoma State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON_STATE,Oregon State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON_STATE,Oregon State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON_STATE,Oregon State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON_STATE,Oregon State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+OREGON_STATE,Oregon State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+LOUISIANA_TECH,Louisiana Tech University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MISSISSIPPI_STATE,Mississippi State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WYOMING,University of Wyoming,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WYOMING,University of Wyoming,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WYOMING,University of Wyoming,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WYOMING,University of Wyoming,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+WYOMING,University of Wyoming,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO,University of New Mexico,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO,University of New Mexico,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO,University of New Mexico,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO,University of New Mexico,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO,University of New Mexico,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_JOSE_STATE,San José State University,Pac-12,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_JOSE_STATE,San José State University,Pac-12,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_JOSE_STATE,San José State University,Pac-12,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_JOSE_STATE,San José State University,Pac-12,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAN_JOSE_STATE,San José State University,Pac-12,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SACRAMENTO_STATE,California State University Sacramento,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SACRAMENTO_STATE,California State University Sacramento,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SACRAMENTO_STATE,California State University Sacramento,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SACRAMENTO_STATE,California State University Sacramento,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SACRAMENTO_STATE,California State University Sacramento,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CENTRAL_MICHIGAN,Central Michigan University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CENTRAL_MICHIGAN,Central Michigan University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CENTRAL_MICHIGAN,Central Michigan University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CENTRAL_MICHIGAN,Central Michigan University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CENTRAL_MICHIGAN,Central Michigan University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENNESAW_STATE,Kennesaw State University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENNESAW_STATE,Kennesaw State University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENNESAW_STATE,Kennesaw State University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENNESAW_STATE,Kennesaw State University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENNESAW_STATE,Kennesaw State University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAM_HOUSTON,Sam Houston State University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAM_HOUSTON,Sam Houston State University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAM_HOUSTON,Sam Houston State University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAM_HOUSTON,Sam Houston State University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SAM_HOUSTON,Sam Houston State University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RICE,Rice University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RICE,Rice University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RICE,Rice University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RICE,Rice University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+RICE,Rice University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO_STATE,Colorado State University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO_STATE,Colorado State University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO_STATE,Colorado State University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO_STATE,Colorado State University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+COLORADO_STATE,Colorado State University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+EASTERN_MICHIGAN,Eastern Michigan University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FIU,Florida International University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FIU,Florida International University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FIU,Florida International University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FIU,Florida International University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FIU,Florida International University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UAB,University of Alabama at Birmingham,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UAB,University of Alabama at Birmingham,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UAB,University of Alabama at Birmingham,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UAB,University of Alabama at Birmingham,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UAB,University of Alabama at Birmingham,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+STANFORD,Stanford University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+STANFORD,Stanford University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+STANFORD,Stanford University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+STANFORD,Stanford University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+STANFORD,Stanford University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+FLORIDA_ATLANTIC,Florida Atlantic University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO_STATE,New Mexico State University,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO_STATE,New Mexico State University,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO_STATE,New Mexico State University,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO_STATE,New Mexico State University,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEW_MEXICO_STATE,New Mexico State University,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTHERN_MISS,University of Southern Mississippi,SEC,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTHERN_MISS,University of Southern Mississippi,SEC,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTHERN_MISS,University of Southern Mississippi,SEC,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTHERN_MISS,University of Southern Mississippi,SEC,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+SOUTHERN_MISS,University of Southern Mississippi,SEC,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEMPLE,Temple University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEMPLE,Temple University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEMPLE,Temple University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEMPLE,Temple University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TEMPLE,Temple University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_STATE,Georgia State University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_STATE,Georgia State University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_STATE,Georgia State University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_STATE,Georgia State University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+GEORGIA_STATE,Georgia State University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BALL_STATE,Ball State University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BALL_STATE,Ball State University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BALL_STATE,Ball State University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BALL_STATE,Ball State University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+BALL_STATE,Ball State University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PURDUE,Purdue University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PURDUE,Purdue University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PURDUE,Purdue University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PURDUE,Purdue University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+PURDUE,Purdue University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULSA,University of Tulsa,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULSA,University of Tulsa,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULSA,University of Tulsa,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULSA,University of Tulsa,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+TULSA,University of Tulsa,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+MIDDLE_TENNESSEE,Middle Tennessee State University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ULM,University of Louisiana Monroe,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ULM,University of Louisiana Monroe,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ULM,University of Louisiana Monroe,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ULM,University of Louisiana Monroe,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+ULM,University of Louisiana Monroe,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEVADA,University of Nevada Reno,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEVADA,University of Nevada Reno,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEVADA,University of Nevada Reno,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEVADA,University of Nevada Reno,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+NEVADA,University of Nevada Reno,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AKRON,University of Akron,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AKRON,University of Akron,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AKRON,University of Akron,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AKRON,University of Akron,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+AKRON,University of Akron,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+CHARLOTTE,University of North Carolina at Charlotte,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTEP,University of Texas at El Paso,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTEP,University of Texas at El Paso,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTEP,University of Texas at El Paso,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTEP,University of Texas at El Paso,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UTEP,University of Texas at El Paso,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENT_STATE,Kent State University,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENT_STATE,Kent State University,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENT_STATE,Kent State University,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENT_STATE,Kent State University,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+KENT_STATE,Kent State University,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UMASS,University of Massachusetts Amherst,Sun Belt,2025,,unverified_missing,,40000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UMASS,University of Massachusetts Amherst,Sun Belt,2025,,unverified_missing,,50000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UMASS,University of Massachusetts Amherst,Sun Belt,2025,,unverified_missing,,60000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UMASS,University of Massachusetts Amherst,Sun Belt,2025,,unverified_missing,,70000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
+UMASS,University of Massachusetts Amherst,Sun Belt,2025,,unverified_missing,,80000000,,,Not a real proposed payout; missing baseline is not zero; distribution may include non-football components
