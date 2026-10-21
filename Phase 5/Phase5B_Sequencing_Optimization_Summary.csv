@@ -1,0 +1,16 @@
+﻿Metric,Value
+Games,822
+Schools,137
+Weeks,13
+Games_Rescheduled,111
+Before_Consecutive_Road_Transitions,319
+After_Consecutive_Road_Transitions,262
+Before_Consecutive_Long_Haul_Road_Transitions,25
+After_Consecutive_Long_Haul_Road_Transitions,16
+Before_Schools_Three_Plus_Road_Streak,69
+After_Schools_Three_Plus_Road_Streak,41
+Before_Objective,1009
+After_Objective,650
+Accepted_Week_Changes,68
+Scheduling_Constraints,PASS
+Stadium_Date_TV_Validation,PENDING

@@ -1,0 +1,8 @@
+Metric,Pass19_14Week_Shift,Pass20_14Week_Optimized
+Consecutive road transitions,262,153
+Schools with 3+ consecutive road games,41,5
+Maximum consecutive road games,5,4
+Schools with clustered byes (gap <=2 weeks),20,10
+Games moved to different weeks,0,171
+Verified venue identities,80,85
+Games with documented home venues,480,510

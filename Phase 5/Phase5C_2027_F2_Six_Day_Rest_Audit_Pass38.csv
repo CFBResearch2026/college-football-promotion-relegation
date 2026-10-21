@@ -1,0 +1,16 @@
+﻿Metric,Value
+Source games,822
+Teams,137
+Minimum date separation (days),6
+Original F2 Thursday/Friday games,41
+Pass37 seven-day weekday retained,9
+Pass38 six-day weekday retained,41
+Pass38 Thursday games,13
+Pass38 Friday games,28
+Pass38 Saturday games,781
+F2 weekday games moved to Saturday,0
+Team rest intervals below 6 days,0
+Optimization status,Optimization terminated successfully. (HiGHS Status 7: Optimal)
+Venue calendar dates certified,0
+Network assignments confirmed,0
+Interpretation,"Six days between game dates, not six full off-days"

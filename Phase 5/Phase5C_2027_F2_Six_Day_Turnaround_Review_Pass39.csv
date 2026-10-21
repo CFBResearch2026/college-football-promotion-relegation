@@ -1,0 +1,30 @@
+﻿Team_ID,Previous_Game_ID,Next_Game_ID,Previous_Date,Next_Date,Calendar_Days_Between,Previous_Site,Next_Site,Previous_Venue,Next_Venue,Previous_Day,Next_Day,Risk_Type
+CLEMSON,P5A-0073,P5A-0718,2027-08-28,2027-09-03,6,HOME,AWAY,Memorial Stadium,Dooley Field at Sanford Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+TENNESSEE,P5A-0109,P5A-0085,2027-10-23,2027-10-29,6,HOME,AWAY,Neyland Stadium,Tiger Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+TENNESSEE,P5A-0085,P5A-0106,2027-10-29,2027-11-04,6,AWAY,AWAY,Tiger Stadium,Memorial Stadium / Faurot Field,Friday,Thursday,SIX_DAY_TURNAROUND
+LSU,P5A-0072,P5A-0085,2027-10-23,2027-10-29,6,AWAY,HOME,Albertsons Stadium,Tiger Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+GEORGIA,P5A-0068,P5A-0002,2027-10-02,2027-10-08,6,HOME,AWAY,Dooley Field at Sanford Stadium,Ohio Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+GEORGIA,P5A-0041,P5A-0011,2027-11-20,2027-11-26,6,AWAY,HOME,Hard Rock Stadium,Dooley Field at Sanford Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OHIO_STATE,P5A-0054,P5A-0003,2027-09-04,2027-09-10,6,AWAY,HOME,Bridgeforth Stadium/Zane Showker Field,Ohio Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OHIO_STATE,P5A-0062,P5A-0002,2027-10-02,2027-10-08,6,AWAY,HOME,Merchants Bank Field at Memorial Stadium,Ohio Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OHIO_STATE,P5A-0713,P5A-0058,2027-10-30,2027-11-05,6,AWAY,HOME,Albertsons Stadium,Ohio Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+NEBRASKA,P5A-0318,P5A-0326,2027-09-11,2027-09-17,6,AWAY,HOME,S.B. Ballard Stadium,Memorial Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+NOTRE_DAME,P5A-0018,P5A-0020,2027-09-25,2027-10-01,6,HOME,AWAY,Notre Dame Stadium,West Shore Home Field at Beaver Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OLE_MISS,P5A-0022,P5A-0031,2027-08-27,2027-09-02,6,HOME,HOME,Vaught-Hemingway Stadium,Vaught-Hemingway Stadium,Friday,Thursday,SIX_DAY_TURNAROUND
+OLE_MISS,P5A-0726,P5A-0014,2027-10-16,2027-10-22,6,AWAY,HOME,Neyland Stadium,Vaught-Hemingway Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+ALABAMA,P5A-0024,P5A-0021,2027-10-09,2027-10-15,6,HOME,HOME,Saban Field at Bryant-Denny Stadium,Saban Field at Bryant-Denny Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+ALABAMA,P5A-0025,P5A-0004,2027-11-06,2027-11-12,6,HOME,HOME,Saban Field at Bryant-Denny Stadium,Saban Field at Bryant-Denny Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+PENN_STATE,P5A-0721,P5A-0036,2027-10-16,2027-10-22,6,AWAY,HOME,Gate City Bank Field at the Fargodome,West Shore Home Field at Beaver Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+TEXAS,P5A-0028,P5A-0027,2027-09-25,2027-10-01,6,HOME,HOME,Darrell K Royal–Texas Memorial Stadium,Darrell K Royal–Texas Memorial Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+TEXAS,P5A-0027,P5A-0029,2027-10-01,2027-10-07,6,HOME,AWAY,Darrell K Royal–Texas Memorial Stadium,Hard Rock Stadium,Friday,Thursday,SIX_DAY_TURNAROUND
+MICHIGAN,P5A-0037,P5A-0027,2027-09-25,2027-10-01,6,HOME,AWAY,Michigan Stadium,Darrell K Royal–Texas Memorial Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+MICHIGAN,P5A-0019,P5A-0731,2027-10-08,2027-10-14,6,HOME,AWAY,Michigan Stadium,Kinnick Stadium,Friday,Thursday,SIX_DAY_TURNAROUND
+MICHIGAN,P5A-0015,P5A-0039,2027-11-05,2027-11-11,6,AWAY,HOME,Dooley Field at Sanford Stadium,Michigan Stadium,Friday,Thursday,SIX_DAY_TURNAROUND
+WISCONSIN,P5A-0330,P5A-0326,2027-09-11,2027-09-17,6,HOME,AWAY,Camp Randall Stadium,Memorial Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OREGON,P5A-0009,P5A-0008,2027-08-28,2027-09-03,6,HOME,HOME,Autzen Stadium,Autzen Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OREGON,P5A-0010,P5A-0001,2027-09-18,2027-09-24,6,AWAY,AWAY,Vaught-Hemingway Stadium,Ohio Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OREGON,P5A-0007,P5A-0023,2027-10-23,2027-10-29,6,AWAY,AWAY,Notre Dame Stadium,Michigan Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OKLAHOMA,P5A-0736,P5A-0060,2027-10-09,2027-10-15,6,HOME,AWAY,Gaylord Family – Oklahoma Memorial Stadium,Dooley Field at Sanford Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+OKLAHOMA,P5A-0058,P5A-0039,2027-11-05,2027-11-11,6,AWAY,AWAY,Ohio Stadium,Michigan Stadium,Friday,Thursday,SIX_DAY_TURNAROUND
+BYU,P5A-0096,P5A-0722,2027-09-11,2027-09-17,6,HOME,HOME,LaVell Edwards Stadium,LaVell Edwards Stadium,Saturday,Friday,SIX_DAY_TURNAROUND
+BYU,P5A-0722,P5A-0097,2027-09-17,2027-09-23,6,HOME,AWAY,LaVell Edwards Stadium,Neyland Stadium,Friday,Thursday,SIX_DAY_TURNAROUND

@@ -1,0 +1,16 @@
+﻿Metric,Value
+Baseline games,822
+Optimized games,822
+Weeks,13
+Teams,137
+Same-week away-opponent swaps,50
+Baseline one-way great-circle miles,806248.13
+Optimized one-way great-circle miles,778775.34
+One-way great-circle miles saved,27472.79
+Round-trip miles saved (proxy),54945.58
+Baseline rivalry games,8
+Optimized rivalry games,12
+Rivalry objective bonus per priority weight in miles,600
+Schedule certification,"PASS: 822 unique games, 137x12, 6 home/6 away, one game per week, >=10 same tier, <=2 adjacent-tier games"
+Optimization certification,LOCAL SAME-WEEK SWAP OPTIMUM ONLY; NOT GLOBAL OPTIMUM
+Distance method,Campus great-circle; not actual transportation mileage or cost

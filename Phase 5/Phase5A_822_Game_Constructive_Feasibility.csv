@@ -1,0 +1,823 @@
+Game_ID,Team_A_ID,Team_A,Team_A_Level,Team_B_ID,Team_B,Team_B_Level,Game_Type,Home_Team,Week
+P5A-0001,OHIO_STATE,Ohio State University,1,OREGON,University of Oregon,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0002,OHIO_STATE,Ohio State University,1,GEORGIA,University of Georgia,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0003,OHIO_STATE,Ohio State University,1,NOTRE_DAME,University of Notre Dame,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0004,OHIO_STATE,Ohio State University,1,ALABAMA,University of Alabama,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0005,OHIO_STATE,Ohio State University,1,TEXAS,University of Texas at Austin,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0006,OREGON,University of Oregon,1,GEORGIA,University of Georgia,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0007,OREGON,University of Oregon,1,NOTRE_DAME,University of Notre Dame,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0008,OREGON,University of Oregon,1,ALABAMA,University of Alabama,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0009,OREGON,University of Oregon,1,TEXAS,University of Texas at Austin,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0010,OREGON,University of Oregon,1,OLE_MISS,University of Mississippi,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0011,GEORGIA,University of Georgia,1,NOTRE_DAME,University of Notre Dame,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0012,GEORGIA,University of Georgia,1,ALABAMA,University of Alabama,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0013,GEORGIA,University of Georgia,1,TEXAS,University of Texas at Austin,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0014,GEORGIA,University of Georgia,1,OLE_MISS,University of Mississippi,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0015,GEORGIA,University of Georgia,1,MICHIGAN,University of Michigan,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0016,NOTRE_DAME,University of Notre Dame,1,ALABAMA,University of Alabama,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0017,NOTRE_DAME,University of Notre Dame,1,TEXAS,University of Texas at Austin,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0018,NOTRE_DAME,University of Notre Dame,1,OLE_MISS,University of Mississippi,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0019,NOTRE_DAME,University of Notre Dame,1,MICHIGAN,University of Michigan,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0020,NOTRE_DAME,University of Notre Dame,1,PENN_STATE,Pennsylvania State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0021,ALABAMA,University of Alabama,1,TEXAS,University of Texas at Austin,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0022,ALABAMA,University of Alabama,1,OLE_MISS,University of Mississippi,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0023,ALABAMA,University of Alabama,1,MICHIGAN,University of Michigan,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0024,ALABAMA,University of Alabama,1,PENN_STATE,Pennsylvania State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0025,ALABAMA,University of Alabama,1,MIAMI_FL,University of Miami,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0026,TEXAS,University of Texas at Austin,1,OLE_MISS,University of Mississippi,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0027,TEXAS,University of Texas at Austin,1,MICHIGAN,University of Michigan,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0028,TEXAS,University of Texas at Austin,1,PENN_STATE,Pennsylvania State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0029,TEXAS,University of Texas at Austin,1,MIAMI_FL,University of Miami,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0030,TEXAS,University of Texas at Austin,1,JAMES_MADISON,James Madison University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0031,OLE_MISS,University of Mississippi,1,MICHIGAN,University of Michigan,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0032,OLE_MISS,University of Mississippi,1,PENN_STATE,Pennsylvania State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0033,OLE_MISS,University of Mississippi,1,MIAMI_FL,University of Miami,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0034,OLE_MISS,University of Mississippi,1,JAMES_MADISON,James Madison University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0035,OLE_MISS,University of Mississippi,1,OKLAHOMA,University of Oklahoma,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0036,MICHIGAN,University of Michigan,1,PENN_STATE,Pennsylvania State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0037,MICHIGAN,University of Michigan,1,MIAMI_FL,University of Miami,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0038,MICHIGAN,University of Michigan,1,JAMES_MADISON,James Madison University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0039,MICHIGAN,University of Michigan,1,OKLAHOMA,University of Oklahoma,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0040,MICHIGAN,University of Michigan,1,INDIANA,Indiana University Bloomington,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0041,PENN_STATE,Pennsylvania State University,1,MIAMI_FL,University of Miami,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0042,PENN_STATE,Pennsylvania State University,1,JAMES_MADISON,James Madison University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0043,PENN_STATE,Pennsylvania State University,1,OKLAHOMA,University of Oklahoma,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0044,PENN_STATE,Pennsylvania State University,1,INDIANA,Indiana University Bloomington,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0045,PENN_STATE,Pennsylvania State University,1,SMU,Southern Methodist University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0046,MIAMI_FL,University of Miami,1,JAMES_MADISON,James Madison University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0047,MIAMI_FL,University of Miami,1,OKLAHOMA,University of Oklahoma,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0048,MIAMI_FL,University of Miami,1,INDIANA,Indiana University Bloomington,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0049,MIAMI_FL,University of Miami,1,SMU,Southern Methodist University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0050,MIAMI_FL,University of Miami,1,OHIO_STATE,Ohio State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0051,JAMES_MADISON,James Madison University,1,OKLAHOMA,University of Oklahoma,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0052,JAMES_MADISON,James Madison University,1,INDIANA,Indiana University Bloomington,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0053,JAMES_MADISON,James Madison University,1,SMU,Southern Methodist University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0054,JAMES_MADISON,James Madison University,1,OHIO_STATE,Ohio State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0055,JAMES_MADISON,James Madison University,1,OREGON,University of Oregon,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0056,OKLAHOMA,University of Oklahoma,1,INDIANA,Indiana University Bloomington,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0057,OKLAHOMA,University of Oklahoma,1,SMU,Southern Methodist University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0058,OKLAHOMA,University of Oklahoma,1,OHIO_STATE,Ohio State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0059,OKLAHOMA,University of Oklahoma,1,OREGON,University of Oregon,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0060,OKLAHOMA,University of Oklahoma,1,GEORGIA,University of Georgia,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0061,INDIANA,Indiana University Bloomington,1,SMU,Southern Methodist University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0062,INDIANA,Indiana University Bloomington,1,OHIO_STATE,Ohio State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0063,INDIANA,Indiana University Bloomington,1,OREGON,University of Oregon,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0064,INDIANA,Indiana University Bloomington,1,GEORGIA,University of Georgia,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0065,INDIANA,Indiana University Bloomington,1,NOTRE_DAME,University of Notre Dame,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0066,SMU,Southern Methodist University,1,OHIO_STATE,Ohio State University,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0067,SMU,Southern Methodist University,1,OREGON,University of Oregon,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0068,SMU,Southern Methodist University,1,GEORGIA,University of Georgia,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0069,SMU,Southern Methodist University,1,NOTRE_DAME,University of Notre Dame,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0070,SMU,Southern Methodist University,1,ALABAMA,University of Alabama,1,conference,UNASSIGNED,UNASSIGNED
+P5A-0071,BOISE_STATE,Boise State University,2,WASHINGTON,University of Washington,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0072,BOISE_STATE,Boise State University,2,LSU,Louisiana State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0073,BOISE_STATE,Boise State University,2,CLEMSON,Clemson University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0074,BOISE_STATE,Boise State University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0075,BOISE_STATE,Boise State University,2,BYU,Brigham Young University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0076,WASHINGTON,University of Washington,2,LSU,Louisiana State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0077,WASHINGTON,University of Washington,2,CLEMSON,Clemson University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0078,WASHINGTON,University of Washington,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0079,WASHINGTON,University of Washington,2,BYU,Brigham Young University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0080,WASHINGTON,University of Washington,2,TEXAS_AM,Texas A&M University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0081,LSU,Louisiana State University,2,CLEMSON,Clemson University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0082,LSU,Louisiana State University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0083,LSU,Louisiana State University,2,BYU,Brigham Young University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0084,LSU,Louisiana State University,2,TEXAS_AM,Texas A&M University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0085,LSU,Louisiana State University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0086,CLEMSON,Clemson University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0087,CLEMSON,Clemson University,2,BYU,Brigham Young University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0088,CLEMSON,Clemson University,2,TEXAS_AM,Texas A&M University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0089,CLEMSON,Clemson University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0090,CLEMSON,Clemson University,2,MISSOURI,University of Missouri,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0091,NORTH_DAKOTA_STATE,North Dakota State University,2,BYU,Brigham Young University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0092,NORTH_DAKOTA_STATE,North Dakota State University,2,TEXAS_AM,Texas A&M University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0093,NORTH_DAKOTA_STATE,North Dakota State University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0094,NORTH_DAKOTA_STATE,North Dakota State University,2,MISSOURI,University of Missouri,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0095,NORTH_DAKOTA_STATE,North Dakota State University,2,IOWA,University of Iowa,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0096,BYU,Brigham Young University,2,TEXAS_AM,Texas A&M University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0097,BYU,Brigham Young University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0098,BYU,Brigham Young University,2,MISSOURI,University of Missouri,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0099,BYU,Brigham Young University,2,IOWA,University of Iowa,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0100,BYU,Brigham Young University,2,LOUISVILLE,University of Louisville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0101,TEXAS_AM,Texas A&M University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0102,TEXAS_AM,Texas A&M University,2,MISSOURI,University of Missouri,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0103,TEXAS_AM,Texas A&M University,2,IOWA,University of Iowa,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0104,TEXAS_AM,Texas A&M University,2,LOUISVILLE,University of Louisville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0105,TEXAS_AM,Texas A&M University,2,MEMPHIS,University of Memphis,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0106,TENNESSEE,University of Tennessee Knoxville,2,MISSOURI,University of Missouri,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0107,TENNESSEE,University of Tennessee Knoxville,2,IOWA,University of Iowa,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0108,TENNESSEE,University of Tennessee Knoxville,2,LOUISVILLE,University of Louisville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0109,TENNESSEE,University of Tennessee Knoxville,2,MEMPHIS,University of Memphis,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0110,TENNESSEE,University of Tennessee Knoxville,2,UTAH,University of Utah,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0111,MISSOURI,University of Missouri,2,IOWA,University of Iowa,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0112,MISSOURI,University of Missouri,2,LOUISVILLE,University of Louisville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0113,MISSOURI,University of Missouri,2,MEMPHIS,University of Memphis,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0114,MISSOURI,University of Missouri,2,UTAH,University of Utah,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0115,MISSOURI,University of Missouri,2,TEXAS_TECH,Texas Tech University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0116,IOWA,University of Iowa,2,LOUISVILLE,University of Louisville,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0117,IOWA,University of Iowa,2,MEMPHIS,University of Memphis,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0118,IOWA,University of Iowa,2,UTAH,University of Utah,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0119,IOWA,University of Iowa,2,TEXAS_TECH,Texas Tech University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0120,IOWA,University of Iowa,2,BOISE_STATE,Boise State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0121,LOUISVILLE,University of Louisville,2,MEMPHIS,University of Memphis,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0122,LOUISVILLE,University of Louisville,2,UTAH,University of Utah,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0123,LOUISVILLE,University of Louisville,2,TEXAS_TECH,Texas Tech University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0124,LOUISVILLE,University of Louisville,2,BOISE_STATE,Boise State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0125,LOUISVILLE,University of Louisville,2,WASHINGTON,University of Washington,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0126,MEMPHIS,University of Memphis,2,UTAH,University of Utah,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0127,MEMPHIS,University of Memphis,2,TEXAS_TECH,Texas Tech University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0128,MEMPHIS,University of Memphis,2,BOISE_STATE,Boise State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0129,MEMPHIS,University of Memphis,2,WASHINGTON,University of Washington,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0130,MEMPHIS,University of Memphis,2,LSU,Louisiana State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0131,UTAH,University of Utah,2,TEXAS_TECH,Texas Tech University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0132,UTAH,University of Utah,2,BOISE_STATE,Boise State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0133,UTAH,University of Utah,2,WASHINGTON,University of Washington,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0134,UTAH,University of Utah,2,LSU,Louisiana State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0135,UTAH,University of Utah,2,CLEMSON,Clemson University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0136,TEXAS_TECH,Texas Tech University,2,BOISE_STATE,Boise State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0137,TEXAS_TECH,Texas Tech University,2,WASHINGTON,University of Washington,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0138,TEXAS_TECH,Texas Tech University,2,LSU,Louisiana State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0139,TEXAS_TECH,Texas Tech University,2,CLEMSON,Clemson University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0140,TEXAS_TECH,Texas Tech University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UNASSIGNED,UNASSIGNED
+P5A-0141,TULANE,Tulane University,3,USC,University of Southern California,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0142,TULANE,Tulane University,3,KANSAS_STATE,Kansas State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0143,TULANE,Tulane University,3,IOWA_STATE,Iowa State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0144,TULANE,Tulane University,3,OHIO,Ohio University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0145,TULANE,Tulane University,3,TCU,Texas Christian University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0146,USC,University of Southern California,3,KANSAS_STATE,Kansas State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0147,USC,University of Southern California,3,IOWA_STATE,Iowa State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0148,USC,University of Southern California,3,OHIO,Ohio University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0149,USC,University of Southern California,3,TCU,Texas Christian University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0150,USC,University of Southern California,3,NAVY,United States Naval Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0151,KANSAS_STATE,Kansas State University,3,IOWA_STATE,Iowa State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0152,KANSAS_STATE,Kansas State University,3,OHIO,Ohio University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0153,KANSAS_STATE,Kansas State University,3,TCU,Texas Christian University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0154,KANSAS_STATE,Kansas State University,3,NAVY,United States Naval Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0155,KANSAS_STATE,Kansas State University,3,TOLEDO,University of Toledo,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0156,IOWA_STATE,Iowa State University,3,OHIO,Ohio University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0157,IOWA_STATE,Iowa State University,3,TCU,Texas Christian University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0158,IOWA_STATE,Iowa State University,3,NAVY,United States Naval Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0159,IOWA_STATE,Iowa State University,3,TOLEDO,University of Toledo,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0160,IOWA_STATE,Iowa State University,3,DUKE,Duke University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0161,OHIO,Ohio University,3,TCU,Texas Christian University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0162,OHIO,Ohio University,3,NAVY,United States Naval Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0163,OHIO,Ohio University,3,TOLEDO,University of Toledo,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0164,OHIO,Ohio University,3,DUKE,Duke University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0165,OHIO,Ohio University,3,ARMY,United States Military Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0166,TCU,Texas Christian University,3,NAVY,United States Naval Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0167,TCU,Texas Christian University,3,TOLEDO,University of Toledo,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0168,TCU,Texas Christian University,3,DUKE,Duke University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0169,TCU,Texas Christian University,3,ARMY,United States Military Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0170,TCU,Texas Christian University,3,UNLV,University of Nevada Las Vegas,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0171,NAVY,United States Naval Academy,3,TOLEDO,University of Toledo,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0172,NAVY,United States Naval Academy,3,DUKE,Duke University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0173,NAVY,United States Naval Academy,3,ARMY,United States Military Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0174,NAVY,United States Naval Academy,3,UNLV,University of Nevada Las Vegas,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0175,NAVY,United States Naval Academy,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0176,TOLEDO,University of Toledo,3,DUKE,Duke University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0177,TOLEDO,University of Toledo,3,ARMY,United States Military Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0178,TOLEDO,University of Toledo,3,UNLV,University of Nevada Las Vegas,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0179,TOLEDO,University of Toledo,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0180,TOLEDO,University of Toledo,3,NC_STATE,North Carolina State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0181,DUKE,Duke University,3,ARMY,United States Military Academy,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0182,DUKE,Duke University,3,UNLV,University of Nevada Las Vegas,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0183,DUKE,Duke University,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0184,DUKE,Duke University,3,NC_STATE,North Carolina State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0185,DUKE,Duke University,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0186,ARMY,United States Military Academy,3,UNLV,University of Nevada Las Vegas,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0187,ARMY,United States Military Academy,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0188,ARMY,United States Military Academy,3,NC_STATE,North Carolina State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0189,ARMY,United States Military Academy,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0190,ARMY,United States Military Academy,3,TULANE,Tulane University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0191,UNLV,University of Nevada Las Vegas,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0192,UNLV,University of Nevada Las Vegas,3,NC_STATE,North Carolina State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0193,UNLV,University of Nevada Las Vegas,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0194,UNLV,University of Nevada Las Vegas,3,TULANE,Tulane University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0195,UNLV,University of Nevada Las Vegas,3,USC,University of Southern California,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0196,ILLINOIS,University of Illinois Urbana-Champaign,3,NC_STATE,North Carolina State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0197,ILLINOIS,University of Illinois Urbana-Champaign,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0198,ILLINOIS,University of Illinois Urbana-Champaign,3,TULANE,Tulane University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0199,ILLINOIS,University of Illinois Urbana-Champaign,3,USC,University of Southern California,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0200,ILLINOIS,University of Illinois Urbana-Champaign,3,KANSAS_STATE,Kansas State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0201,NC_STATE,North Carolina State University,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0202,NC_STATE,North Carolina State University,3,TULANE,Tulane University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0203,NC_STATE,North Carolina State University,3,USC,University of Southern California,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0204,NC_STATE,North Carolina State University,3,KANSAS_STATE,Kansas State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0205,NC_STATE,North Carolina State University,3,IOWA_STATE,Iowa State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0206,WESTERN_KENTUCKY,Western Kentucky University,3,TULANE,Tulane University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0207,WESTERN_KENTUCKY,Western Kentucky University,3,USC,University of Southern California,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0208,WESTERN_KENTUCKY,Western Kentucky University,3,KANSAS_STATE,Kansas State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0209,WESTERN_KENTUCKY,Western Kentucky University,3,IOWA_STATE,Iowa State University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0210,WESTERN_KENTUCKY,Western Kentucky University,3,OHIO,Ohio University,3,conference,UNASSIGNED,UNASSIGNED
+P5A-0211,MINNESOTA,University of Minnesota Twin Cities,4,ARIZONA_STATE,Arizona State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0212,MINNESOTA,University of Minnesota Twin Cities,4,LIBERTY,Liberty University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0213,MINNESOTA,University of Minnesota Twin Cities,4,ARIZONA,University of Arizona,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0214,MINNESOTA,University of Minnesota Twin Cities,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0215,MINNESOTA,University of Minnesota Twin Cities,4,UTSA,University of Texas at San Antonio,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0216,ARIZONA_STATE,Arizona State University,4,LIBERTY,Liberty University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0217,ARIZONA_STATE,Arizona State University,4,ARIZONA,University of Arizona,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0218,ARIZONA_STATE,Arizona State University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0219,ARIZONA_STATE,Arizona State University,4,UTSA,University of Texas at San Antonio,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0220,ARIZONA_STATE,Arizona State University,4,MIAMI_OH,Miami University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0221,LIBERTY,Liberty University,4,ARIZONA,University of Arizona,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0222,LIBERTY,Liberty University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0223,LIBERTY,Liberty University,4,UTSA,University of Texas at San Antonio,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0224,LIBERTY,Liberty University,4,MIAMI_OH,Miami University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0225,LIBERTY,Liberty University,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0226,ARIZONA,University of Arizona,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0227,ARIZONA,University of Arizona,4,UTSA,University of Texas at San Antonio,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0228,ARIZONA,University of Arizona,4,MIAMI_OH,Miami University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0229,ARIZONA,University of Arizona,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0230,ARIZONA,University of Arizona,4,NORTH_TEXAS,University of North Texas,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0231,GEORGIA_TECH,Georgia Institute of Technology,4,UTSA,University of Texas at San Antonio,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0232,GEORGIA_TECH,Georgia Institute of Technology,4,MIAMI_OH,Miami University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0233,GEORGIA_TECH,Georgia Institute of Technology,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0234,GEORGIA_TECH,Georgia Institute of Technology,4,NORTH_TEXAS,University of North Texas,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0235,GEORGIA_TECH,Georgia Institute of Technology,4,WASHINGTON_STATE,Washington State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0236,UTSA,University of Texas at San Antonio,4,MIAMI_OH,Miami University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0237,UTSA,University of Texas at San Antonio,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0238,UTSA,University of Texas at San Antonio,4,NORTH_TEXAS,University of North Texas,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0239,UTSA,University of Texas at San Antonio,4,WASHINGTON_STATE,Washington State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0240,UTSA,University of Texas at San Antonio,4,FRESNO_STATE,California State University Fresno,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0241,MIAMI_OH,Miami University,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0242,MIAMI_OH,Miami University,4,NORTH_TEXAS,University of North Texas,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0243,MIAMI_OH,Miami University,4,WASHINGTON_STATE,Washington State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0244,MIAMI_OH,Miami University,4,FRESNO_STATE,California State University Fresno,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0245,MIAMI_OH,Miami University,4,MARSHALL,Marshall University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0246,JACKSONVILLE_STATE,Jacksonville State University,4,NORTH_TEXAS,University of North Texas,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0247,JACKSONVILLE_STATE,Jacksonville State University,4,WASHINGTON_STATE,Washington State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0248,JACKSONVILLE_STATE,Jacksonville State University,4,FRESNO_STATE,California State University Fresno,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0249,JACKSONVILLE_STATE,Jacksonville State University,4,MARSHALL,Marshall University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0250,JACKSONVILLE_STATE,Jacksonville State University,4,SOUTH_FLORIDA,University of South Florida,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0251,NORTH_TEXAS,University of North Texas,4,WASHINGTON_STATE,Washington State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0252,NORTH_TEXAS,University of North Texas,4,FRESNO_STATE,California State University Fresno,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0253,NORTH_TEXAS,University of North Texas,4,MARSHALL,Marshall University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0254,NORTH_TEXAS,University of North Texas,4,SOUTH_FLORIDA,University of South Florida,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0255,NORTH_TEXAS,University of North Texas,4,FLORIDA_STATE,Florida State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0256,WASHINGTON_STATE,Washington State University,4,FRESNO_STATE,California State University Fresno,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0257,WASHINGTON_STATE,Washington State University,4,MARSHALL,Marshall University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0258,WASHINGTON_STATE,Washington State University,4,SOUTH_FLORIDA,University of South Florida,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0259,WASHINGTON_STATE,Washington State University,4,FLORIDA_STATE,Florida State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0260,WASHINGTON_STATE,Washington State University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0261,FRESNO_STATE,California State University Fresno,4,MARSHALL,Marshall University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0262,FRESNO_STATE,California State University Fresno,4,SOUTH_FLORIDA,University of South Florida,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0263,FRESNO_STATE,California State University Fresno,4,FLORIDA_STATE,Florida State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0264,FRESNO_STATE,California State University Fresno,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0265,FRESNO_STATE,California State University Fresno,4,ARIZONA_STATE,Arizona State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0266,MARSHALL,Marshall University,4,SOUTH_FLORIDA,University of South Florida,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0267,MARSHALL,Marshall University,4,FLORIDA_STATE,Florida State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0268,MARSHALL,Marshall University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0269,MARSHALL,Marshall University,4,ARIZONA_STATE,Arizona State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0270,MARSHALL,Marshall University,4,LIBERTY,Liberty University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0271,SOUTH_FLORIDA,University of South Florida,4,FLORIDA_STATE,Florida State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0272,SOUTH_FLORIDA,University of South Florida,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0273,SOUTH_FLORIDA,University of South Florida,4,ARIZONA_STATE,Arizona State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0274,SOUTH_FLORIDA,University of South Florida,4,LIBERTY,Liberty University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0275,SOUTH_FLORIDA,University of South Florida,4,ARIZONA,University of Arizona,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0276,FLORIDA_STATE,Florida State University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0277,FLORIDA_STATE,Florida State University,4,ARIZONA_STATE,Arizona State University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0278,FLORIDA_STATE,Florida State University,4,LIBERTY,Liberty University,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0279,FLORIDA_STATE,Florida State University,4,ARIZONA,University of Arizona,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0280,FLORIDA_STATE,Florida State University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,UNASSIGNED,UNASSIGNED
+P5A-0281,SOUTH_CAROLINA,University of South Carolina,5,TROY,Troy University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0282,SOUTH_CAROLINA,University of South Carolina,5,FLORIDA,University of Florida,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0283,SOUTH_CAROLINA,University of South Carolina,5,PITTSBURGH,University of Pittsburgh,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0284,SOUTH_CAROLINA,University of South Carolina,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0285,SOUTH_CAROLINA,University of South Carolina,5,AUBURN,Auburn University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0286,TROY,Troy University,5,FLORIDA,University of Florida,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0287,TROY,Troy University,5,PITTSBURGH,University of Pittsburgh,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0288,TROY,Troy University,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0289,TROY,Troy University,5,AUBURN,Auburn University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0290,TROY,Troy University,5,VIRGINIA,University of Virginia,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0291,FLORIDA,University of Florida,5,PITTSBURGH,University of Pittsburgh,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0292,FLORIDA,University of Florida,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0293,FLORIDA,University of Florida,5,AUBURN,Auburn University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0294,FLORIDA,University of Florida,5,VIRGINIA,University of Virginia,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0295,FLORIDA,University of Florida,5,OLD_DOMINION,Old Dominion University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0296,PITTSBURGH,University of Pittsburgh,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0297,PITTSBURGH,University of Pittsburgh,5,AUBURN,Auburn University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0298,PITTSBURGH,University of Pittsburgh,5,VIRGINIA,University of Virginia,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0299,PITTSBURGH,University of Pittsburgh,5,OLD_DOMINION,Old Dominion University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0300,PITTSBURGH,University of Pittsburgh,5,TEXAS_STATE,Texas State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0301,LOUISIANA,University of Louisiana at Lafayette,5,AUBURN,Auburn University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0302,LOUISIANA,University of Louisiana at Lafayette,5,VIRGINIA,University of Virginia,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0303,LOUISIANA,University of Louisiana at Lafayette,5,OLD_DOMINION,Old Dominion University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0304,LOUISIANA,University of Louisiana at Lafayette,5,TEXAS_STATE,Texas State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0305,LOUISIANA,University of Louisiana at Lafayette,5,WISCONSIN,University of Wisconsin Madison,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0306,AUBURN,Auburn University,5,VIRGINIA,University of Virginia,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0307,AUBURN,Auburn University,5,OLD_DOMINION,Old Dominion University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0308,AUBURN,Auburn University,5,TEXAS_STATE,Texas State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0309,AUBURN,Auburn University,5,WISCONSIN,University of Wisconsin Madison,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0310,AUBURN,Auburn University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0311,VIRGINIA,University of Virginia,5,OLD_DOMINION,Old Dominion University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0312,VIRGINIA,University of Virginia,5,TEXAS_STATE,Texas State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0313,VIRGINIA,University of Virginia,5,WISCONSIN,University of Wisconsin Madison,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0314,VIRGINIA,University of Virginia,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0315,VIRGINIA,University of Virginia,5,HOUSTON,University of Houston,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0316,OLD_DOMINION,Old Dominion University,5,TEXAS_STATE,Texas State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0317,OLD_DOMINION,Old Dominion University,5,WISCONSIN,University of Wisconsin Madison,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0318,OLD_DOMINION,Old Dominion University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0319,OLD_DOMINION,Old Dominion University,5,HOUSTON,University of Houston,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0320,OLD_DOMINION,Old Dominion University,5,APP_STATE,Appalachian State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0321,TEXAS_STATE,Texas State University,5,WISCONSIN,University of Wisconsin Madison,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0322,TEXAS_STATE,Texas State University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0323,TEXAS_STATE,Texas State University,5,HOUSTON,University of Houston,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0324,TEXAS_STATE,Texas State University,5,APP_STATE,Appalachian State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0325,TEXAS_STATE,Texas State University,5,KANSAS,University of Kansas,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0326,WISCONSIN,University of Wisconsin Madison,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0327,WISCONSIN,University of Wisconsin Madison,5,HOUSTON,University of Houston,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0328,WISCONSIN,University of Wisconsin Madison,5,APP_STATE,Appalachian State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0329,WISCONSIN,University of Wisconsin Madison,5,KANSAS,University of Kansas,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0330,WISCONSIN,University of Wisconsin Madison,5,SOUTH_CAROLINA,University of South Carolina,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0331,NEBRASKA,University of Nebraska-Lincoln,5,HOUSTON,University of Houston,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0332,NEBRASKA,University of Nebraska-Lincoln,5,APP_STATE,Appalachian State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0333,NEBRASKA,University of Nebraska-Lincoln,5,KANSAS,University of Kansas,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0334,NEBRASKA,University of Nebraska-Lincoln,5,SOUTH_CAROLINA,University of South Carolina,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0335,NEBRASKA,University of Nebraska-Lincoln,5,TROY,Troy University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0336,HOUSTON,University of Houston,5,APP_STATE,Appalachian State University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0337,HOUSTON,University of Houston,5,KANSAS,University of Kansas,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0338,HOUSTON,University of Houston,5,SOUTH_CAROLINA,University of South Carolina,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0339,HOUSTON,University of Houston,5,TROY,Troy University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0340,HOUSTON,University of Houston,5,FLORIDA,University of Florida,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0341,APP_STATE,Appalachian State University,5,KANSAS,University of Kansas,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0342,APP_STATE,Appalachian State University,5,SOUTH_CAROLINA,University of South Carolina,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0343,APP_STATE,Appalachian State University,5,TROY,Troy University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0344,APP_STATE,Appalachian State University,5,FLORIDA,University of Florida,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0345,APP_STATE,Appalachian State University,5,PITTSBURGH,University of Pittsburgh,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0346,KANSAS,University of Kansas,5,SOUTH_CAROLINA,University of South Carolina,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0347,KANSAS,University of Kansas,5,TROY,Troy University,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0348,KANSAS,University of Kansas,5,FLORIDA,University of Florida,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0349,KANSAS,University of Kansas,5,PITTSBURGH,University of Pittsburgh,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0350,KANSAS,University of Kansas,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,UNASSIGNED,UNASSIGNED
+P5A-0351,EAST_CAROLINA,East Carolina University,6,VANDERBILT,Vanderbilt University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0352,EAST_CAROLINA,East Carolina University,6,KENTUCKY,University of Kentucky,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0353,EAST_CAROLINA,East Carolina University,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0354,EAST_CAROLINA,East Carolina University,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0355,EAST_CAROLINA,East Carolina University,6,BAYLOR,Baylor University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0356,VANDERBILT,Vanderbilt University,6,KENTUCKY,University of Kentucky,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0357,VANDERBILT,Vanderbilt University,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0358,VANDERBILT,Vanderbilt University,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0359,VANDERBILT,Vanderbilt University,6,BAYLOR,Baylor University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0360,VANDERBILT,Vanderbilt University,6,AIR_FORCE,United States Air Force Academy,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0361,KENTUCKY,University of Kentucky,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0362,KENTUCKY,University of Kentucky,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0363,KENTUCKY,University of Kentucky,6,BAYLOR,Baylor University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0364,KENTUCKY,University of Kentucky,6,AIR_FORCE,United States Air Force Academy,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0365,KENTUCKY,University of Kentucky,6,WEST_VIRGINIA,West Virginia University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0366,WESTERN_MICHIGAN,Western Michigan University,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0367,WESTERN_MICHIGAN,Western Michigan University,6,BAYLOR,Baylor University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0368,WESTERN_MICHIGAN,Western Michigan University,6,AIR_FORCE,United States Air Force Academy,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0369,WESTERN_MICHIGAN,Western Michigan University,6,WEST_VIRGINIA,West Virginia University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0370,WESTERN_MICHIGAN,Western Michigan University,6,CALIFORNIA,University of California Berkeley,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0371,GEORGIA_SOUTHERN,Georgia Southern University,6,BAYLOR,Baylor University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0372,GEORGIA_SOUTHERN,Georgia Southern University,6,AIR_FORCE,United States Air Force Academy,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0373,GEORGIA_SOUTHERN,Georgia Southern University,6,WEST_VIRGINIA,West Virginia University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0374,GEORGIA_SOUTHERN,Georgia Southern University,6,CALIFORNIA,University of California Berkeley,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0375,GEORGIA_SOUTHERN,Georgia Southern University,6,WAKE_FOREST,Wake Forest University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0376,BAYLOR,Baylor University,6,AIR_FORCE,United States Air Force Academy,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0377,BAYLOR,Baylor University,6,WEST_VIRGINIA,West Virginia University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0378,BAYLOR,Baylor University,6,CALIFORNIA,University of California Berkeley,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0379,BAYLOR,Baylor University,6,WAKE_FOREST,Wake Forest University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0380,BAYLOR,Baylor University,6,CINCINNATI,University of Cincinnati,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0381,AIR_FORCE,United States Air Force Academy,6,WEST_VIRGINIA,West Virginia University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0382,AIR_FORCE,United States Air Force Academy,6,CALIFORNIA,University of California Berkeley,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0383,AIR_FORCE,United States Air Force Academy,6,WAKE_FOREST,Wake Forest University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0384,AIR_FORCE,United States Air Force Academy,6,CINCINNATI,University of Cincinnati,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0385,AIR_FORCE,United States Air Force Academy,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0386,WEST_VIRGINIA,West Virginia University,6,CALIFORNIA,University of California Berkeley,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0387,WEST_VIRGINIA,West Virginia University,6,WAKE_FOREST,Wake Forest University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0388,WEST_VIRGINIA,West Virginia University,6,CINCINNATI,University of Cincinnati,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0389,WEST_VIRGINIA,West Virginia University,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0390,WEST_VIRGINIA,West Virginia University,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0391,CALIFORNIA,University of California Berkeley,6,WAKE_FOREST,Wake Forest University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0392,CALIFORNIA,University of California Berkeley,6,CINCINNATI,University of Cincinnati,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0393,CALIFORNIA,University of California Berkeley,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0394,CALIFORNIA,University of California Berkeley,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0395,CALIFORNIA,University of California Berkeley,6,UCF,University of Central Florida,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0396,WAKE_FOREST,Wake Forest University,6,CINCINNATI,University of Cincinnati,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0397,WAKE_FOREST,Wake Forest University,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0398,WAKE_FOREST,Wake Forest University,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0399,WAKE_FOREST,Wake Forest University,6,UCF,University of Central Florida,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0400,WAKE_FOREST,Wake Forest University,6,EAST_CAROLINA,East Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0401,CINCINNATI,University of Cincinnati,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0402,CINCINNATI,University of Cincinnati,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0403,CINCINNATI,University of Cincinnati,6,UCF,University of Central Florida,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0404,CINCINNATI,University of Cincinnati,6,EAST_CAROLINA,East Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0405,CINCINNATI,University of Cincinnati,6,VANDERBILT,Vanderbilt University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0406,COASTAL_CAROLINA,Coastal Carolina University,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0407,COASTAL_CAROLINA,Coastal Carolina University,6,UCF,University of Central Florida,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0408,COASTAL_CAROLINA,Coastal Carolina University,6,EAST_CAROLINA,East Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0409,COASTAL_CAROLINA,Coastal Carolina University,6,VANDERBILT,Vanderbilt University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0410,COASTAL_CAROLINA,Coastal Carolina University,6,KENTUCKY,University of Kentucky,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0411,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,UCF,University of Central Florida,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0412,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,EAST_CAROLINA,East Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0413,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,VANDERBILT,Vanderbilt University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0414,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,KENTUCKY,University of Kentucky,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0415,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0416,UCF,University of Central Florida,6,EAST_CAROLINA,East Carolina University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0417,UCF,University of Central Florida,6,VANDERBILT,Vanderbilt University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0418,UCF,University of Central Florida,6,KENTUCKY,University of Kentucky,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0419,UCF,University of Central Florida,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0420,UCF,University of Central Florida,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UNASSIGNED,UNASSIGNED
+P5A-0421,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0422,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0423,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0424,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0425,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0426,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0427,NORTHWESTERN,Northwestern University,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0428,NORTHWESTERN,Northwestern University,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0429,NORTHWESTERN,Northwestern University,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0430,NORTHWESTERN,Northwestern University,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0431,NORTHWESTERN,Northwestern University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0432,NORTHWESTERN,Northwestern University,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0433,RUTGERS,Rutgers University,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0434,RUTGERS,Rutgers University,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0435,RUTGERS,Rutgers University,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0436,RUTGERS,Rutgers University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0437,RUTGERS,Rutgers University,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0438,RUTGERS,Rutgers University,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0439,UCLA,University of California Los Angeles,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0440,UCLA,University of California Los Angeles,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0441,UCLA,University of California Los Angeles,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0442,UCLA,University of California Los Angeles,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0443,UCLA,University of California Los Angeles,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0444,UCLA,University of California Los Angeles,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0445,SYRACUSE,Syracuse University,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0446,SYRACUSE,Syracuse University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0447,SYRACUSE,Syracuse University,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0448,SYRACUSE,Syracuse University,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0449,SYRACUSE,Syracuse University,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0450,SYRACUSE,Syracuse University,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0451,ARKANSAS_STATE,Arkansas State University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0452,ARKANSAS_STATE,Arkansas State University,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0453,ARKANSAS_STATE,Arkansas State University,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0454,ARKANSAS_STATE,Arkansas State University,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0455,ARKANSAS_STATE,Arkansas State University,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0456,ARKANSAS_STATE,Arkansas State University,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0457,SAN_DIEGO_STATE,San Diego State University,7,UCONN,University of Connecticut,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0458,SAN_DIEGO_STATE,San Diego State University,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0459,SAN_DIEGO_STATE,San Diego State University,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0460,SAN_DIEGO_STATE,San Diego State University,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0461,SAN_DIEGO_STATE,San Diego State University,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0462,SAN_DIEGO_STATE,San Diego State University,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0463,UCONN,University of Connecticut,7,MARYLAND,University of Maryland College Park,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0464,UCONN,University of Connecticut,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0465,UCONN,University of Connecticut,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0466,UCONN,University of Connecticut,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0467,UCONN,University of Connecticut,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0468,UCONN,University of Connecticut,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0469,MARYLAND,University of Maryland College Park,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0470,MARYLAND,University of Maryland College Park,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0471,MARYLAND,University of Maryland College Park,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0472,MARYLAND,University of Maryland College Park,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0473,MARYLAND,University of Maryland College Park,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0474,MARYLAND,University of Maryland College Park,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0475,SOUTH_ALABAMA,University of South Alabama,7,COLORADO,University of Colorado Boulder,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0476,SOUTH_ALABAMA,University of South Alabama,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0477,SOUTH_ALABAMA,University of South Alabama,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0478,SOUTH_ALABAMA,University of South Alabama,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0479,SOUTH_ALABAMA,University of South Alabama,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0480,SOUTH_ALABAMA,University of South Alabama,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0481,COLORADO,University of Colorado Boulder,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0482,COLORADO,University of Colorado Boulder,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0483,COLORADO,University of Colorado Boulder,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0484,COLORADO,University of Colorado Boulder,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0485,COLORADO,University of Colorado Boulder,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0486,COLORADO,University of Colorado Boulder,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0487,HAWAII,University of Hawaiʻi at Mānoa,7,ARKANSAS,University of Arkansas,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0488,HAWAII,University of Hawaiʻi at Mānoa,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0489,HAWAII,University of Hawaiʻi at Mānoa,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0490,HAWAII,University of Hawaiʻi at Mānoa,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0491,HAWAII,University of Hawaiʻi at Mānoa,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0492,HAWAII,University of Hawaiʻi at Mānoa,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0493,ARKANSAS,University of Arkansas,7,BUFFALO,University at Buffalo,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0494,ARKANSAS,University of Arkansas,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0495,ARKANSAS,University of Arkansas,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0496,ARKANSAS,University of Arkansas,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0497,ARKANSAS,University of Arkansas,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0498,ARKANSAS,University of Arkansas,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0499,BUFFALO,University at Buffalo,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0500,BUFFALO,University at Buffalo,7,NORTHWESTERN,Northwestern University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0501,BUFFALO,University at Buffalo,7,RUTGERS,Rutgers University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0502,BUFFALO,University at Buffalo,7,UCLA,University of California Los Angeles,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0503,BUFFALO,University at Buffalo,7,SYRACUSE,Syracuse University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0504,BUFFALO,University at Buffalo,7,ARKANSAS_STATE,Arkansas State University,7,conference,UNASSIGNED,UNASSIGNED
+P5A-0505,MICHIGAN_STATE,Michigan State University,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0506,MICHIGAN_STATE,Michigan State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0507,MICHIGAN_STATE,Michigan State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0508,MICHIGAN_STATE,Michigan State University,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0509,MICHIGAN_STATE,Michigan State University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0510,MICHIGAN_STATE,Michigan State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0511,UTAH_STATE,Utah State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0512,UTAH_STATE,Utah State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0513,UTAH_STATE,Utah State University,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0514,UTAH_STATE,Utah State University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0515,UTAH_STATE,Utah State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0516,UTAH_STATE,Utah State University,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0517,BOWLING_GREEN,Bowling Green State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0518,BOWLING_GREEN,Bowling Green State University,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0519,BOWLING_GREEN,Bowling Green State University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0520,BOWLING_GREEN,Bowling Green State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0521,BOWLING_GREEN,Bowling Green State University,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0522,BOWLING_GREEN,Bowling Green State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0523,NORTHERN_ILLINOIS,Northern Illinois University,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0524,NORTHERN_ILLINOIS,Northern Illinois University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0525,NORTHERN_ILLINOIS,Northern Illinois University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0526,NORTHERN_ILLINOIS,Northern Illinois University,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0527,NORTHERN_ILLINOIS,Northern Illinois University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0528,NORTHERN_ILLINOIS,Northern Illinois University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0529,MISSOURI_STATE,Missouri State University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0530,MISSOURI_STATE,Missouri State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0531,MISSOURI_STATE,Missouri State University,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0532,MISSOURI_STATE,Missouri State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0533,MISSOURI_STATE,Missouri State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0534,MISSOURI_STATE,Missouri State University,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0535,BOSTON_COLLEGE,Boston College,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0536,BOSTON_COLLEGE,Boston College,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0537,BOSTON_COLLEGE,Boston College,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0538,BOSTON_COLLEGE,Boston College,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0539,BOSTON_COLLEGE,Boston College,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0540,BOSTON_COLLEGE,Boston College,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0541,OKLAHOMA_STATE,Oklahoma State University,8,OREGON_STATE,Oregon State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0542,OKLAHOMA_STATE,Oklahoma State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0543,OKLAHOMA_STATE,Oklahoma State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0544,OKLAHOMA_STATE,Oklahoma State University,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0545,OKLAHOMA_STATE,Oklahoma State University,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0546,OKLAHOMA_STATE,Oklahoma State University,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0547,OREGON_STATE,Oregon State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0548,OREGON_STATE,Oregon State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0549,OREGON_STATE,Oregon State University,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0550,OREGON_STATE,Oregon State University,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0551,OREGON_STATE,Oregon State University,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0552,OREGON_STATE,Oregon State University,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0553,LOUISIANA_TECH,Louisiana Tech University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0554,LOUISIANA_TECH,Louisiana Tech University,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0555,LOUISIANA_TECH,Louisiana Tech University,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0556,LOUISIANA_TECH,Louisiana Tech University,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0557,LOUISIANA_TECH,Louisiana Tech University,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0558,LOUISIANA_TECH,Louisiana Tech University,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0559,MISSISSIPPI_STATE,Mississippi State University,8,WYOMING,University of Wyoming,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0560,MISSISSIPPI_STATE,Mississippi State University,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0561,MISSISSIPPI_STATE,Mississippi State University,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0562,MISSISSIPPI_STATE,Mississippi State University,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0563,MISSISSIPPI_STATE,Mississippi State University,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0564,MISSISSIPPI_STATE,Mississippi State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0565,WYOMING,University of Wyoming,8,NEW_MEXICO,University of New Mexico,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0566,WYOMING,University of Wyoming,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0567,WYOMING,University of Wyoming,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0568,WYOMING,University of Wyoming,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0569,WYOMING,University of Wyoming,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0570,WYOMING,University of Wyoming,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0571,NEW_MEXICO,University of New Mexico,8,SAN_JOSE_STATE,San José State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0572,NEW_MEXICO,University of New Mexico,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0573,NEW_MEXICO,University of New Mexico,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0574,NEW_MEXICO,University of New Mexico,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0575,NEW_MEXICO,University of New Mexico,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0576,NEW_MEXICO,University of New Mexico,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0577,SAN_JOSE_STATE,San José State University,8,MICHIGAN_STATE,Michigan State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0578,SAN_JOSE_STATE,San José State University,8,UTAH_STATE,Utah State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0579,SAN_JOSE_STATE,San José State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0580,SAN_JOSE_STATE,San José State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0581,SAN_JOSE_STATE,San José State University,8,MISSOURI_STATE,Missouri State University,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0582,SAN_JOSE_STATE,San José State University,8,BOSTON_COLLEGE,Boston College,8,conference,UNASSIGNED,UNASSIGNED
+P5A-0583,SACRAMENTO_STATE,California State University Sacramento,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0584,SACRAMENTO_STATE,California State University Sacramento,9,KENNESAW_STATE,Kennesaw State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0585,SACRAMENTO_STATE,California State University Sacramento,9,SAM_HOUSTON,Sam Houston State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0586,SACRAMENTO_STATE,California State University Sacramento,9,RICE,Rice University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0587,SACRAMENTO_STATE,California State University Sacramento,9,COLORADO_STATE,Colorado State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0588,CENTRAL_MICHIGAN,Central Michigan University,9,KENNESAW_STATE,Kennesaw State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0589,CENTRAL_MICHIGAN,Central Michigan University,9,SAM_HOUSTON,Sam Houston State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0590,CENTRAL_MICHIGAN,Central Michigan University,9,RICE,Rice University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0591,CENTRAL_MICHIGAN,Central Michigan University,9,COLORADO_STATE,Colorado State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0592,CENTRAL_MICHIGAN,Central Michigan University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0593,KENNESAW_STATE,Kennesaw State University,9,SAM_HOUSTON,Sam Houston State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0594,KENNESAW_STATE,Kennesaw State University,9,RICE,Rice University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0595,KENNESAW_STATE,Kennesaw State University,9,COLORADO_STATE,Colorado State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0596,KENNESAW_STATE,Kennesaw State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0597,KENNESAW_STATE,Kennesaw State University,9,FIU,Florida International University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0598,SAM_HOUSTON,Sam Houston State University,9,RICE,Rice University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0599,SAM_HOUSTON,Sam Houston State University,9,COLORADO_STATE,Colorado State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0600,SAM_HOUSTON,Sam Houston State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0601,SAM_HOUSTON,Sam Houston State University,9,FIU,Florida International University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0602,SAM_HOUSTON,Sam Houston State University,9,UAB,University of Alabama at Birmingham,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0603,RICE,Rice University,9,COLORADO_STATE,Colorado State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0604,RICE,Rice University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0605,RICE,Rice University,9,FIU,Florida International University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0606,RICE,Rice University,9,UAB,University of Alabama at Birmingham,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0607,RICE,Rice University,9,STANFORD,Stanford University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0608,COLORADO_STATE,Colorado State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0609,COLORADO_STATE,Colorado State University,9,FIU,Florida International University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0610,COLORADO_STATE,Colorado State University,9,UAB,University of Alabama at Birmingham,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0611,COLORADO_STATE,Colorado State University,9,STANFORD,Stanford University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0612,COLORADO_STATE,Colorado State University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0613,EASTERN_MICHIGAN,Eastern Michigan University,9,FIU,Florida International University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0614,EASTERN_MICHIGAN,Eastern Michigan University,9,UAB,University of Alabama at Birmingham,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0615,EASTERN_MICHIGAN,Eastern Michigan University,9,STANFORD,Stanford University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0616,EASTERN_MICHIGAN,Eastern Michigan University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0617,EASTERN_MICHIGAN,Eastern Michigan University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0618,FIU,Florida International University,9,UAB,University of Alabama at Birmingham,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0619,FIU,Florida International University,9,STANFORD,Stanford University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0620,FIU,Florida International University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0621,FIU,Florida International University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0622,FIU,Florida International University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0623,UAB,University of Alabama at Birmingham,9,STANFORD,Stanford University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0624,UAB,University of Alabama at Birmingham,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0625,UAB,University of Alabama at Birmingham,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0626,UAB,University of Alabama at Birmingham,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0627,UAB,University of Alabama at Birmingham,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0628,STANFORD,Stanford University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0629,STANFORD,Stanford University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0630,STANFORD,Stanford University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0631,STANFORD,Stanford University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0632,STANFORD,Stanford University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0633,FLORIDA_ATLANTIC,Florida Atlantic University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0634,FLORIDA_ATLANTIC,Florida Atlantic University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0635,FLORIDA_ATLANTIC,Florida Atlantic University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0636,FLORIDA_ATLANTIC,Florida Atlantic University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0637,FLORIDA_ATLANTIC,Florida Atlantic University,9,KENNESAW_STATE,Kennesaw State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0638,NEW_MEXICO_STATE,New Mexico State University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0639,NEW_MEXICO_STATE,New Mexico State University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0640,NEW_MEXICO_STATE,New Mexico State University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0641,NEW_MEXICO_STATE,New Mexico State University,9,KENNESAW_STATE,Kennesaw State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0642,NEW_MEXICO_STATE,New Mexico State University,9,SAM_HOUSTON,Sam Houston State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0643,SOUTHERN_MISS,University of Southern Mississippi,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0644,SOUTHERN_MISS,University of Southern Mississippi,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0645,SOUTHERN_MISS,University of Southern Mississippi,9,KENNESAW_STATE,Kennesaw State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0646,SOUTHERN_MISS,University of Southern Mississippi,9,SAM_HOUSTON,Sam Houston State University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0647,SOUTHERN_MISS,University of Southern Mississippi,9,RICE,Rice University,9,conference,UNASSIGNED,UNASSIGNED
+P5A-0648,TEMPLE,Temple University,10,GEORGIA_STATE,Georgia State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0649,TEMPLE,Temple University,10,BALL_STATE,Ball State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0650,TEMPLE,Temple University,10,PURDUE,Purdue University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0651,TEMPLE,Temple University,10,TULSA,University of Tulsa,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0652,TEMPLE,Temple University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0653,GEORGIA_STATE,Georgia State University,10,BALL_STATE,Ball State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0654,GEORGIA_STATE,Georgia State University,10,PURDUE,Purdue University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0655,GEORGIA_STATE,Georgia State University,10,TULSA,University of Tulsa,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0656,GEORGIA_STATE,Georgia State University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0657,GEORGIA_STATE,Georgia State University,10,ULM,University of Louisiana Monroe,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0658,BALL_STATE,Ball State University,10,PURDUE,Purdue University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0659,BALL_STATE,Ball State University,10,TULSA,University of Tulsa,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0660,BALL_STATE,Ball State University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0661,BALL_STATE,Ball State University,10,ULM,University of Louisiana Monroe,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0662,BALL_STATE,Ball State University,10,NEVADA,University of Nevada Reno,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0663,PURDUE,Purdue University,10,TULSA,University of Tulsa,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0664,PURDUE,Purdue University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0665,PURDUE,Purdue University,10,ULM,University of Louisiana Monroe,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0666,PURDUE,Purdue University,10,NEVADA,University of Nevada Reno,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0667,PURDUE,Purdue University,10,AKRON,University of Akron,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0668,TULSA,University of Tulsa,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0669,TULSA,University of Tulsa,10,ULM,University of Louisiana Monroe,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0670,TULSA,University of Tulsa,10,NEVADA,University of Nevada Reno,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0671,TULSA,University of Tulsa,10,AKRON,University of Akron,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0672,TULSA,University of Tulsa,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0673,MIDDLE_TENNESSEE,Middle Tennessee State University,10,ULM,University of Louisiana Monroe,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0674,MIDDLE_TENNESSEE,Middle Tennessee State University,10,NEVADA,University of Nevada Reno,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0675,MIDDLE_TENNESSEE,Middle Tennessee State University,10,AKRON,University of Akron,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0676,MIDDLE_TENNESSEE,Middle Tennessee State University,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0677,MIDDLE_TENNESSEE,Middle Tennessee State University,10,UTEP,University of Texas at El Paso,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0678,ULM,University of Louisiana Monroe,10,NEVADA,University of Nevada Reno,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0679,ULM,University of Louisiana Monroe,10,AKRON,University of Akron,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0680,ULM,University of Louisiana Monroe,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0681,ULM,University of Louisiana Monroe,10,UTEP,University of Texas at El Paso,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0682,ULM,University of Louisiana Monroe,10,KENT_STATE,Kent State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0683,NEVADA,University of Nevada Reno,10,AKRON,University of Akron,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0684,NEVADA,University of Nevada Reno,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0685,NEVADA,University of Nevada Reno,10,UTEP,University of Texas at El Paso,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0686,NEVADA,University of Nevada Reno,10,KENT_STATE,Kent State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0687,NEVADA,University of Nevada Reno,10,UMASS,University of Massachusetts Amherst,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0688,AKRON,University of Akron,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0689,AKRON,University of Akron,10,UTEP,University of Texas at El Paso,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0690,AKRON,University of Akron,10,KENT_STATE,Kent State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0691,AKRON,University of Akron,10,UMASS,University of Massachusetts Amherst,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0692,AKRON,University of Akron,10,TEMPLE,Temple University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0693,CHARLOTTE,University of North Carolina at Charlotte,10,UTEP,University of Texas at El Paso,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0694,CHARLOTTE,University of North Carolina at Charlotte,10,KENT_STATE,Kent State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0695,CHARLOTTE,University of North Carolina at Charlotte,10,UMASS,University of Massachusetts Amherst,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0696,CHARLOTTE,University of North Carolina at Charlotte,10,TEMPLE,Temple University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0697,CHARLOTTE,University of North Carolina at Charlotte,10,GEORGIA_STATE,Georgia State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0698,UTEP,University of Texas at El Paso,10,KENT_STATE,Kent State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0699,UTEP,University of Texas at El Paso,10,UMASS,University of Massachusetts Amherst,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0700,UTEP,University of Texas at El Paso,10,TEMPLE,Temple University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0701,UTEP,University of Texas at El Paso,10,GEORGIA_STATE,Georgia State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0702,UTEP,University of Texas at El Paso,10,BALL_STATE,Ball State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0703,KENT_STATE,Kent State University,10,UMASS,University of Massachusetts Amherst,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0704,KENT_STATE,Kent State University,10,TEMPLE,Temple University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0705,KENT_STATE,Kent State University,10,GEORGIA_STATE,Georgia State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0706,KENT_STATE,Kent State University,10,BALL_STATE,Ball State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0707,KENT_STATE,Kent State University,10,PURDUE,Purdue University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0708,UMASS,University of Massachusetts Amherst,10,TEMPLE,Temple University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0709,UMASS,University of Massachusetts Amherst,10,GEORGIA_STATE,Georgia State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0710,UMASS,University of Massachusetts Amherst,10,BALL_STATE,Ball State University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0711,UMASS,University of Massachusetts Amherst,10,PURDUE,Purdue University,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0712,UMASS,University of Massachusetts Amherst,10,TULSA,University of Tulsa,10,conference,UNASSIGNED,UNASSIGNED
+P5A-0713,OHIO_STATE,Ohio State University,1,BOISE_STATE,Boise State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0714,OHIO_STATE,Ohio State University,1,WASHINGTON,University of Washington,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0715,OREGON,University of Oregon,1,WASHINGTON,University of Washington,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0716,OREGON,University of Oregon,1,LSU,Louisiana State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0717,GEORGIA,University of Georgia,1,LSU,Louisiana State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0718,GEORGIA,University of Georgia,1,CLEMSON,Clemson University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0719,NOTRE_DAME,University of Notre Dame,1,CLEMSON,Clemson University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0720,NOTRE_DAME,University of Notre Dame,1,NORTH_DAKOTA_STATE,North Dakota State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0721,ALABAMA,University of Alabama,1,NORTH_DAKOTA_STATE,North Dakota State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0722,ALABAMA,University of Alabama,1,BYU,Brigham Young University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0723,TEXAS,University of Texas at Austin,1,BYU,Brigham Young University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0724,TEXAS,University of Texas at Austin,1,TEXAS_AM,Texas A&M University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0725,OLE_MISS,University of Mississippi,1,TEXAS_AM,Texas A&M University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0726,OLE_MISS,University of Mississippi,1,TENNESSEE,University of Tennessee Knoxville,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0727,MICHIGAN,University of Michigan,1,TENNESSEE,University of Tennessee Knoxville,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0728,MICHIGAN,University of Michigan,1,MISSOURI,University of Missouri,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0729,PENN_STATE,Pennsylvania State University,1,MISSOURI,University of Missouri,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0730,PENN_STATE,Pennsylvania State University,1,IOWA,University of Iowa,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0731,MIAMI_FL,University of Miami,1,IOWA,University of Iowa,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0732,MIAMI_FL,University of Miami,1,LOUISVILLE,University of Louisville,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0733,JAMES_MADISON,James Madison University,1,LOUISVILLE,University of Louisville,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0734,JAMES_MADISON,James Madison University,1,MEMPHIS,University of Memphis,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0735,OKLAHOMA,University of Oklahoma,1,MEMPHIS,University of Memphis,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0736,OKLAHOMA,University of Oklahoma,1,UTAH,University of Utah,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0737,INDIANA,Indiana University Bloomington,1,UTAH,University of Utah,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0738,INDIANA,Indiana University Bloomington,1,TEXAS_TECH,Texas Tech University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0739,SMU,Southern Methodist University,1,TEXAS_TECH,Texas Tech University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0740,SMU,Southern Methodist University,1,BOISE_STATE,Boise State University,2,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0741,TULANE,Tulane University,3,MINNESOTA,University of Minnesota Twin Cities,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0742,TULANE,Tulane University,3,ARIZONA_STATE,Arizona State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0743,USC,University of Southern California,3,ARIZONA_STATE,Arizona State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0744,USC,University of Southern California,3,LIBERTY,Liberty University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0745,KANSAS_STATE,Kansas State University,3,LIBERTY,Liberty University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0746,KANSAS_STATE,Kansas State University,3,ARIZONA,University of Arizona,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0747,IOWA_STATE,Iowa State University,3,ARIZONA,University of Arizona,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0748,IOWA_STATE,Iowa State University,3,GEORGIA_TECH,Georgia Institute of Technology,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0749,OHIO,Ohio University,3,GEORGIA_TECH,Georgia Institute of Technology,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0750,OHIO,Ohio University,3,UTSA,University of Texas at San Antonio,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0751,TCU,Texas Christian University,3,UTSA,University of Texas at San Antonio,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0752,TCU,Texas Christian University,3,MIAMI_OH,Miami University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0753,NAVY,United States Naval Academy,3,MIAMI_OH,Miami University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0754,NAVY,United States Naval Academy,3,JACKSONVILLE_STATE,Jacksonville State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0755,TOLEDO,University of Toledo,3,JACKSONVILLE_STATE,Jacksonville State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0756,TOLEDO,University of Toledo,3,NORTH_TEXAS,University of North Texas,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0757,DUKE,Duke University,3,NORTH_TEXAS,University of North Texas,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0758,DUKE,Duke University,3,WASHINGTON_STATE,Washington State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0759,ARMY,United States Military Academy,3,WASHINGTON_STATE,Washington State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0760,ARMY,United States Military Academy,3,FRESNO_STATE,California State University Fresno,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0761,UNLV,University of Nevada Las Vegas,3,FRESNO_STATE,California State University Fresno,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0762,UNLV,University of Nevada Las Vegas,3,MARSHALL,Marshall University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0763,ILLINOIS,University of Illinois Urbana-Champaign,3,MARSHALL,Marshall University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0764,ILLINOIS,University of Illinois Urbana-Champaign,3,SOUTH_FLORIDA,University of South Florida,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0765,NC_STATE,North Carolina State University,3,SOUTH_FLORIDA,University of South Florida,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0766,NC_STATE,North Carolina State University,3,FLORIDA_STATE,Florida State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0767,WESTERN_KENTUCKY,Western Kentucky University,3,FLORIDA_STATE,Florida State University,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0768,WESTERN_KENTUCKY,Western Kentucky University,3,MINNESOTA,University of Minnesota Twin Cities,4,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0769,SOUTH_CAROLINA,University of South Carolina,5,EAST_CAROLINA,East Carolina University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0770,SOUTH_CAROLINA,University of South Carolina,5,VANDERBILT,Vanderbilt University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0771,TROY,Troy University,5,VANDERBILT,Vanderbilt University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0772,TROY,Troy University,5,KENTUCKY,University of Kentucky,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0773,FLORIDA,University of Florida,5,KENTUCKY,University of Kentucky,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0774,FLORIDA,University of Florida,5,WESTERN_MICHIGAN,Western Michigan University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0775,PITTSBURGH,University of Pittsburgh,5,WESTERN_MICHIGAN,Western Michigan University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0776,PITTSBURGH,University of Pittsburgh,5,GEORGIA_SOUTHERN,Georgia Southern University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0777,LOUISIANA,University of Louisiana at Lafayette,5,GEORGIA_SOUTHERN,Georgia Southern University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0778,LOUISIANA,University of Louisiana at Lafayette,5,BAYLOR,Baylor University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0779,AUBURN,Auburn University,5,BAYLOR,Baylor University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0780,AUBURN,Auburn University,5,AIR_FORCE,United States Air Force Academy,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0781,VIRGINIA,University of Virginia,5,AIR_FORCE,United States Air Force Academy,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0782,VIRGINIA,University of Virginia,5,WEST_VIRGINIA,West Virginia University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0783,OLD_DOMINION,Old Dominion University,5,WEST_VIRGINIA,West Virginia University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0784,OLD_DOMINION,Old Dominion University,5,CALIFORNIA,University of California Berkeley,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0785,TEXAS_STATE,Texas State University,5,CALIFORNIA,University of California Berkeley,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0786,TEXAS_STATE,Texas State University,5,WAKE_FOREST,Wake Forest University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0787,WISCONSIN,University of Wisconsin Madison,5,WAKE_FOREST,Wake Forest University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0788,WISCONSIN,University of Wisconsin Madison,5,CINCINNATI,University of Cincinnati,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0789,NEBRASKA,University of Nebraska-Lincoln,5,CINCINNATI,University of Cincinnati,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0790,NEBRASKA,University of Nebraska-Lincoln,5,COASTAL_CAROLINA,Coastal Carolina University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0791,HOUSTON,University of Houston,5,COASTAL_CAROLINA,Coastal Carolina University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0792,HOUSTON,University of Houston,5,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0793,APP_STATE,Appalachian State University,5,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0794,APP_STATE,Appalachian State University,5,UCF,University of Central Florida,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0795,KANSAS,University of Kansas,5,UCF,University of Central Florida,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0796,KANSAS,University of Kansas,5,EAST_CAROLINA,East Carolina University,6,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0797,SACRAMENTO_STATE,California State University Sacramento,9,TEMPLE,Temple University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0798,SACRAMENTO_STATE,California State University Sacramento,9,GEORGIA_STATE,Georgia State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0799,CENTRAL_MICHIGAN,Central Michigan University,9,GEORGIA_STATE,Georgia State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0800,CENTRAL_MICHIGAN,Central Michigan University,9,BALL_STATE,Ball State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0801,KENNESAW_STATE,Kennesaw State University,9,BALL_STATE,Ball State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0802,KENNESAW_STATE,Kennesaw State University,9,PURDUE,Purdue University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0803,SAM_HOUSTON,Sam Houston State University,9,PURDUE,Purdue University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0804,SAM_HOUSTON,Sam Houston State University,9,TULSA,University of Tulsa,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0805,RICE,Rice University,9,TULSA,University of Tulsa,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0806,RICE,Rice University,9,MIDDLE_TENNESSEE,Middle Tennessee State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0807,COLORADO_STATE,Colorado State University,9,MIDDLE_TENNESSEE,Middle Tennessee State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0808,COLORADO_STATE,Colorado State University,9,ULM,University of Louisiana Monroe,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0809,EASTERN_MICHIGAN,Eastern Michigan University,9,ULM,University of Louisiana Monroe,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0810,EASTERN_MICHIGAN,Eastern Michigan University,9,NEVADA,University of Nevada Reno,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0811,FIU,Florida International University,9,NEVADA,University of Nevada Reno,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0812,FIU,Florida International University,9,AKRON,University of Akron,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0813,UAB,University of Alabama at Birmingham,9,AKRON,University of Akron,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0814,UAB,University of Alabama at Birmingham,9,CHARLOTTE,University of North Carolina at Charlotte,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0815,STANFORD,Stanford University,9,CHARLOTTE,University of North Carolina at Charlotte,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0816,STANFORD,Stanford University,9,UTEP,University of Texas at El Paso,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0817,FLORIDA_ATLANTIC,Florida Atlantic University,9,UTEP,University of Texas at El Paso,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0818,FLORIDA_ATLANTIC,Florida Atlantic University,9,KENT_STATE,Kent State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0819,NEW_MEXICO_STATE,New Mexico State University,9,KENT_STATE,Kent State University,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0820,NEW_MEXICO_STATE,New Mexico State University,9,UMASS,University of Massachusetts Amherst,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0821,SOUTHERN_MISS,University of Southern Mississippi,9,UMASS,University of Massachusetts Amherst,10,adjacent,UNASSIGNED,UNASSIGNED
+P5A-0822,SOUTHERN_MISS,University of Southern Mississippi,9,TEMPLE,Temple University,10,adjacent,UNASSIGNED,UNASSIGNED

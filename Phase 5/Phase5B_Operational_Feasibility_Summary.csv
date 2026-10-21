@@ -1,0 +1,15 @@
+﻿Metric,Value
+Games,822
+Schools,137
+Weeks,13
+Long-haul games >=1500 mi,150
+Ultra-long games >=2500 mi,19
+Teams with consecutive away weeks,137
+Consecutive away transitions,319
+Consecutive long-haul away transitions,25
+Teams with 3+ consecutive away weeks,69
+Games with exact stadium availability confirmed,0
+Games with kickoff windows assigned,0
+Games with recovery days calculable,0
+Duplicate team-week assignments,0
+Teams with 12 games and 6H/6A and one bye,137

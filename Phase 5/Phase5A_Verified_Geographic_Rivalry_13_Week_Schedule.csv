@@ -1,0 +1,823 @@
+﻿Game_ID,Team_A_ID,Team_A,Team_A_Level,Team_B_ID,Team_B,Team_B_Level,Game_Type,Home_Team,Original_Week,Away_Team,Week,One_Way_Great_Circle_Miles,Round_Trip_Great_Circle_Miles,Rivalry_Priority_Weight
+P5A-0001,OHIO_STATE,Ohio State University,1,OREGON,University of Oregon,1,conference,OHIO_STATE,9,OREGON,5,2053.54,4107.08,0
+P5A-0002,OHIO_STATE,Ohio State University,1,GEORGIA,University of Georgia,1,conference,OHIO_STATE,11,GEORGIA,6,419.05,838.11,0
+P5A-0003,OHIO_STATE,Ohio State University,1,MICHIGAN,University of Michigan,1,conference,OHIO_STATE,14,MICHIGAN,3,161.19,322.38,4
+P5A-0004,ALABAMA,University of Alabama,1,OHIO_STATE,Ohio State University,1,conference,ALABAMA,12,OHIO_STATE,8,531.59,1063.19,0
+P5A-0005,OHIO_STATE,Ohio State University,1,TEXAS,University of Texas at Austin,1,conference,OHIO_STATE,8,TEXAS,13,1065.78,2131.56,0
+P5A-0006,OREGON,University of Oregon,1,PENN_STATE,Pennsylvania State University,1,conference,OREGON,7,PENN_STATE,13,2287.92,4575.84,0
+P5A-0007,NOTRE_DAME,University of Notre Dame,1,OREGON,University of Oregon,1,conference,NOTRE_DAME,1,OREGON,9,1856.5,3713.0,0
+P5A-0008,OREGON,University of Oregon,1,ALABAMA,University of Alabama,1,conference,OREGON,6,ALABAMA,2,2039.54,4079.08,0
+P5A-0009,OREGON,University of Oregon,1,TEXAS,University of Texas at Austin,1,conference,OREGON,11,TEXAS,11,1677.24,3354.48,0
+P5A-0010,OLE_MISS,University of Mississippi,1,OREGON,University of Oregon,1,conference,OLE_MISS,8,OREGON,4,1900.16,3800.31,0
+P5A-0011,GEORGIA,University of Georgia,1,NOTRE_DAME,University of Notre Dame,1,conference,GEORGIA,5,NOTRE_DAME,12,558.03,1116.07,0
+P5A-0012,ALABAMA,University of Alabama,1,GEORGIA,University of Georgia,1,conference,ALABAMA,9,GEORGIA,5,244.85,489.7,0
+P5A-0013,TEXAS,University of Texas at Austin,1,GEORGIA,University of Georgia,1,conference,TEXAS,6,GEORGIA,4,876.56,1753.12,0
+P5A-0014,OLE_MISS,University of Mississippi,1,GEORGIA,University of Georgia,1,conference,OLE_MISS,1,GEORGIA,3,353.36,706.72,0
+P5A-0015,GEORGIA,University of Georgia,1,MICHIGAN,University of Michigan,1,conference,GEORGIA,8,MICHIGAN,11,575.88,1151.76,0
+P5A-0016,ALABAMA,University of Alabama,1,NOTRE_DAME,University of Notre Dame,1,conference,ALABAMA,2,NOTRE_DAME,13,590.84,1181.69,0
+P5A-0017,NOTRE_DAME,University of Notre Dame,1,TEXAS,University of Texas at Austin,1,conference,NOTRE_DAME,12,TEXAS,10,1015.54,2031.09,0
+P5A-0018,NOTRE_DAME,University of Notre Dame,1,OLE_MISS,University of Mississippi,1,conference,NOTRE_DAME,6,OLE_MISS,11,537.77,1075.54,0
+P5A-0019,MICHIGAN,University of Michigan,1,NOTRE_DAME,University of Notre Dame,1,conference,MICHIGAN,3,NOTRE_DAME,7,134.42,268.83,0
+P5A-0020,PENN_STATE,Pennsylvania State University,1,NOTRE_DAME,University of Notre Dame,1,conference,PENN_STATE,11,NOTRE_DAME,8,439.55,879.09,0
+P5A-0021,ALABAMA,University of Alabama,1,TEXAS,University of Texas at Austin,1,conference,ALABAMA,1,TEXAS,12,631.92,1263.85,0
+P5A-0022,OLE_MISS,University of Mississippi,1,ALABAMA,University of Alabama,1,conference,OLE_MISS,7,ALABAMA,1,139.62,279.25,0
+P5A-0023,MICHIGAN,University of Michigan,1,OREGON,University of Oregon,1,conference,MICHIGAN,11,OREGON,10,1967.27,3934.54,0
+P5A-0024,ALABAMA,University of Alabama,1,INDIANA,Indiana University Bloomington,1,conference,ALABAMA,4,INDIANA,7,415.05,830.09,0
+P5A-0025,ALABAMA,University of Alabama,1,MIAMI_FL,University of Miami,1,conference,ALABAMA,8,MIAMI_FL,11,676.84,1353.69,0
+P5A-0026,TEXAS,University of Texas at Austin,1,OLE_MISS,University of Mississippi,1,conference,TEXAS,5,OLE_MISS,9,555.1,1110.2,0
+P5A-0027,TEXAS,University of Texas at Austin,1,MICHIGAN,University of Michigan,1,conference,TEXAS,2,MICHIGAN,8,1134.66,2269.31,0
+P5A-0028,TEXAS,University of Texas at Austin,1,SMU,Southern Methodist University,1,conference,TEXAS,10,SMU,6,185.35,370.7,0
+P5A-0029,MIAMI_FL,University of Miami,1,TEXAS,University of Texas at Austin,1,conference,MIAMI_FL,13,TEXAS,7,1109.14,2218.28,0
+P5A-0030,TEXAS,University of Texas at Austin,1,JAMES_MADISON,James Madison University,1,conference,TEXAS,3,JAMES_MADISON,5,1211.03,2422.06,0
+P5A-0031,OLE_MISS,University of Mississippi,1,MICHIGAN,University of Michigan,1,conference,OLE_MISS,12,MICHIGAN,13,630.32,1260.63,0
+P5A-0032,OLE_MISS,University of Mississippi,1,PENN_STATE,Pennsylvania State University,1,conference,OLE_MISS,13,PENN_STATE,12,777.66,1555.32,0
+P5A-0033,MIAMI_FL,University of Miami,1,OLE_MISS,University of Mississippi,1,conference,MIAMI_FL,10,OLE_MISS,10,813.61,1627.22,0
+P5A-0034,JAMES_MADISON,James Madison University,1,OLE_MISS,University of Mississippi,1,conference,JAMES_MADISON,9,OLE_MISS,7,655.93,1311.87,0
+P5A-0035,OKLAHOMA,University of Oklahoma,1,OLE_MISS,University of Mississippi,1,conference,OKLAHOMA,4,OLE_MISS,6,452.35,904.71,0
+P5A-0036,PENN_STATE,Pennsylvania State University,1,MICHIGAN,University of Michigan,1,conference,PENN_STATE,1,MICHIGAN,9,320.66,641.32,0
+P5A-0037,MICHIGAN,University of Michigan,1,MIAMI_FL,University of Miami,1,conference,MICHIGAN,14,MIAMI_FL,5,1160.7,2321.39,0
+P5A-0038,JAMES_MADISON,James Madison University,1,NOTRE_DAME,University of Notre Dame,1,conference,JAMES_MADISON,7,NOTRE_DAME,3,450.05,900.09,0
+P5A-0039,MICHIGAN,University of Michigan,1,OKLAHOMA,University of Oklahoma,1,conference,MICHIGAN,6,OKLAHOMA,12,883.97,1767.94,0
+P5A-0040,MICHIGAN,University of Michigan,1,INDIANA,Indiana University Bloomington,1,conference,MICHIGAN,9,INDIANA,6,259.91,519.82,0
+P5A-0041,MIAMI_FL,University of Miami,1,GEORGIA,University of Georgia,1,conference,MIAMI_FL,12,GEORGIA,13,597.86,1195.71,0
+P5A-0042,PENN_STATE,Pennsylvania State University,1,JAMES_MADISON,James Madison University,1,conference,PENN_STATE,5,JAMES_MADISON,11,171.92,343.84,0
+P5A-0043,PENN_STATE,Pennsylvania State University,1,OKLAHOMA,University of Oklahoma,1,conference,PENN_STATE,9,OKLAHOMA,2,1131.2,2262.4,0
+P5A-0044,INDIANA,Indiana University Bloomington,1,PENN_STATE,Pennsylvania State University,1,conference,INDIANA,3,PENN_STATE,10,472.27,944.55,0
+P5A-0045,PENN_STATE,Pennsylvania State University,1,SMU,Southern Methodist University,1,conference,PENN_STATE,8,SMU,5,1178.73,2357.47,0
+P5A-0046,JAMES_MADISON,James Madison University,1,MIAMI_FL,University of Miami,1,conference,JAMES_MADISON,4,MIAMI_FL,8,882.24,1764.49,0
+P5A-0047,MIAMI_FL,University of Miami,1,OKLAHOMA,University of Oklahoma,1,conference,MIAMI_FL,1,OKLAHOMA,9,1211.5,2422.99,0
+P5A-0048,INDIANA,Indiana University Bloomington,1,MIAMI_FL,University of Miami,1,conference,INDIANA,5,MIAMI_FL,12,997.05,1994.11,0
+P5A-0049,MIAMI_FL,University of Miami,1,PENN_STATE,Pennsylvania State University,1,conference,MIAMI_FL,2,PENN_STATE,6,1050.91,2101.83,0
+P5A-0050,MIAMI_FL,University of Miami,1,OHIO_STATE,Ohio State University,1,conference,MIAMI_FL,3,OHIO_STATE,1,999.69,1999.39,0
+P5A-0051,OKLAHOMA,University of Oklahoma,1,JAMES_MADISON,James Madison University,1,conference,OKLAHOMA,13,JAMES_MADISON,4,1049.37,2098.74,0
+P5A-0052,INDIANA,Indiana University Bloomington,1,JAMES_MADISON,James Madison University,1,conference,INDIANA,8,JAMES_MADISON,13,415.16,830.33,0
+P5A-0053,JAMES_MADISON,James Madison University,1,SMU,Southern Methodist University,1,conference,JAMES_MADISON,6,SMU,12,1075.27,2150.54,0
+P5A-0054,JAMES_MADISON,James Madison University,1,OHIO_STATE,Ohio State University,1,conference,JAMES_MADISON,2,OHIO_STATE,2,247.68,495.36,0
+P5A-0055,JAMES_MADISON,James Madison University,1,ALABAMA,University of Alabama,1,conference,JAMES_MADISON,14,ALABAMA,10,604.45,1208.91,0
+P5A-0056,OKLAHOMA,University of Oklahoma,1,INDIANA,Indiana University Bloomington,1,conference,OKLAHOMA,7,INDIANA,3,659.79,1319.57,0
+P5A-0057,OKLAHOMA,University of Oklahoma,1,SMU,Southern Methodist University,1,conference,OKLAHOMA,11,SMU,13,167.63,335.27,0
+P5A-0058,OHIO_STATE,Ohio State University,1,OKLAHOMA,University of Oklahoma,1,conference,OHIO_STATE,5,OKLAHOMA,10,854.63,1709.25,0
+P5A-0059,OREGON,University of Oregon,1,OKLAHOMA,University of Oklahoma,1,conference,OREGON,12,OKLAHOMA,1,1486.26,2972.53,0
+P5A-0060,GEORGIA,University of Georgia,1,OKLAHOMA,University of Oklahoma,1,conference,GEORGIA,3,OKLAHOMA,8,804.36,1608.72,0
+P5A-0061,SMU,Southern Methodist University,1,INDIANA,Indiana University Bloomington,1,conference,SMU,1,INDIANA,11,720.01,1440.02,0
+P5A-0062,INDIANA,Indiana University Bloomington,1,OHIO_STATE,Ohio State University,1,conference,INDIANA,10,OHIO_STATE,9,195.0,390.0,0
+P5A-0063,INDIANA,Indiana University Bloomington,1,OREGON,University of Oregon,1,conference,INDIANA,4,OREGON,8,1901.9,3803.79,0
+P5A-0064,GEORGIA,University of Georgia,1,PENN_STATE,Pennsylvania State University,1,conference,GEORGIA,2,PENN_STATE,7,561.67,1123.33,0
+P5A-0065,NOTRE_DAME,University of Notre Dame,1,INDIANA,Indiana University Bloomington,1,conference,NOTRE_DAME,13,INDIANA,5,176.0,352.0,0
+P5A-0066,SMU,Southern Methodist University,1,OHIO_STATE,Ohio State University,1,conference,SMU,4,OHIO_STATE,7,909.22,1818.44,0
+P5A-0067,SMU,Southern Methodist University,1,OREGON,University of Oregon,1,conference,SMU,3,OREGON,3,1609.49,3218.97,0
+P5A-0068,GEORGIA,University of Georgia,1,SMU,Southern Methodist University,1,conference,GEORGIA,12,SMU,10,776.58,1553.15,0
+P5A-0069,SMU,Southern Methodist University,1,NOTRE_DAME,University of Notre Dame,1,conference,SMU,9,NOTRE_DAME,4,841.89,1683.78,0
+P5A-0070,SMU,Southern Methodist University,1,ALABAMA,University of Alabama,1,conference,SMU,10,ALABAMA,9,535.98,1071.96,0
+P5A-0071,WASHINGTON,University of Washington,2,BOISE_STATE,Boise State University,2,conference,WASHINGTON,9,BOISE_STATE,6,406.39,812.79,0
+P5A-0072,BOISE_STATE,Boise State University,2,LSU,Louisiana State University,2,conference,BOISE_STATE,12,LSU,9,1643.89,3287.77,0
+P5A-0073,CLEMSON,Clemson University,2,IOWA,University of Iowa,2,conference,CLEMSON,5,IOWA,1,674.46,1348.93,0
+P5A-0074,NORTH_DAKOTA_STATE,North Dakota State University,2,BOISE_STATE,Boise State University,2,conference,NORTH_DAKOTA_STATE,14,BOISE_STATE,7,967.72,1935.43,0
+P5A-0075,BOISE_STATE,Boise State University,2,BYU,Brigham Young University,2,conference,BOISE_STATE,10,BYU,13,329.06,658.12,0
+P5A-0076,WASHINGTON,University of Washington,2,LSU,Louisiana State University,2,conference,WASHINGTON,6,LSU,7,2029.49,4058.98,0
+P5A-0077,WASHINGTON,University of Washington,2,CLEMSON,Clemson University,2,conference,WASHINGTON,1,CLEMSON,5,2210.17,4420.35,0
+P5A-0078,WASHINGTON,University of Washington,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,WASHINGTON,2,NORTH_DAKOTA_STATE,13,1191.01,2382.03,0
+P5A-0079,BYU,Brigham Young University,2,WASHINGTON,University of Washington,2,conference,BYU,8,WASHINGTON,8,735.28,1470.56,0
+P5A-0080,WASHINGTON,University of Washington,2,TEXAS_AM,Texas A&M University,2,conference,WASHINGTON,11,TEXAS_AM,11,1807.2,3614.41,0
+P5A-0081,CLEMSON,Clemson University,2,LSU,Louisiana State University,2,conference,CLEMSON,2,LSU,3,568.03,1136.07,0
+P5A-0082,LSU,Louisiana State University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,LSU,11,NORTH_DAKOTA_STATE,12,1177.73,2355.46,0
+P5A-0083,BYU,Brigham Young University,2,LSU,Louisiana State University,2,conference,BYU,7,LSU,11,1334.29,2668.59,0
+P5A-0084,LSU,Louisiana State University,2,TEXAS_AM,Texas A&M University,2,conference,LSU,3,TEXAS_AM,2,307.23,614.46,0
+P5A-0085,LSU,Louisiana State University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,LSU,1,TENNESSEE,13,567.43,1134.87,0
+P5A-0086,NORTH_DAKOTA_STATE,North Dakota State University,2,CLEMSON,Clemson University,2,conference,NORTH_DAKOTA_STATE,3,CLEMSON,2,1113.05,2226.1,0
+P5A-0087,CLEMSON,Clemson University,2,LOUISVILLE,University of Louisville,2,conference,CLEMSON,11,LOUISVILLE,12,293.43,586.85,0
+P5A-0088,TEXAS_AM,Texas A&M University,2,CLEMSON,Clemson University,2,conference,TEXAS_AM,9,CLEMSON,8,833.15,1666.31,0
+P5A-0089,CLEMSON,Clemson University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,CLEMSON,6,TENNESSEE,7,107.57,215.14,0
+P5A-0090,MISSOURI,University of Missouri,2,CLEMSON,Clemson University,2,conference,MISSOURI,8,CLEMSON,13,601.53,1203.05,0
+P5A-0091,NORTH_DAKOTA_STATE,North Dakota State University,2,BYU,Brigham Young University,2,conference,NORTH_DAKOTA_STATE,6,BYU,10,871.17,1742.33,0
+P5A-0092,TEXAS_AM,Texas A&M University,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,TEXAS_AM,12,NORTH_DAKOTA_STATE,9,1124.84,2249.69,0
+P5A-0093,TENNESSEE,University of Tennessee Knoxville,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,TENNESSEE,15,NORTH_DAKOTA_STATE,3,1005.54,2011.08,0
+P5A-0094,MISSOURI,University of Missouri,2,LSU,Louisiana State University,2,conference,MISSOURI,1,LSU,5,592.75,1185.5,0
+P5A-0095,NORTH_DAKOTA_STATE,North Dakota State University,2,IOWA,University of Iowa,2,conference,NORTH_DAKOTA_STATE,8,IOWA,11,445.68,891.36,0
+P5A-0096,BYU,Brigham Young University,2,TEXAS_AM,Texas A&M University,2,conference,BYU,1,TEXAS_AM,4,1086.37,2172.74,0
+P5A-0097,TENNESSEE,University of Tennessee Knoxville,2,BYU,Brigham Young University,2,conference,TENNESSEE,2,BYU,2,1529.53,3059.06,0
+P5A-0098,MISSOURI,University of Missouri,2,BYU,Brigham Young University,2,conference,MISSOURI,13,BYU,9,1030.62,2061.24,0
+P5A-0099,BYU,Brigham Young University,2,IOWA,University of Iowa,2,conference,BYU,3,IOWA,7,1051.91,2103.82,0
+P5A-0100,BYU,Brigham Young University,2,TEXAS_TECH,Texas Tech University,2,conference,BYU,12,TEXAS_TECH,6,708.81,1417.62,0
+P5A-0101,TEXAS_AM,Texas A&M University,2,TENNESSEE,University of Tennessee Knoxville,2,conference,TEXAS_AM,4,TENNESSEE,12,804.97,1609.94,0
+P5A-0102,TEXAS_AM,Texas A&M University,2,MISSOURI,University of Missouri,2,conference,TEXAS_AM,14,MISSOURI,10,618.16,1236.32,0
+P5A-0103,TEXAS_AM,Texas A&M University,2,BOISE_STATE,Boise State University,2,conference,TEXAS_AM,10,BOISE_STATE,1,1408.69,2817.39,0
+P5A-0104,LOUISVILLE,University of Louisville,2,TEXAS_AM,Texas A&M University,2,conference,LOUISVILLE,5,TEXAS_AM,13,798.35,1596.7,0
+P5A-0105,MEMPHIS,University of Memphis,2,MISSOURI,University of Missouri,2,conference,MEMPHIS,8,MISSOURI,7,295.13,590.25,0
+P5A-0106,MISSOURI,University of Missouri,2,TENNESSEE,University of Tennessee Knoxville,2,conference,MISSOURI,9,TENNESSEE,11,504.49,1008.98,0
+P5A-0107,TENNESSEE,University of Tennessee Knoxville,2,IOWA,University of Iowa,2,conference,TENNESSEE,11,IOWA,5,567.87,1135.75,0
+P5A-0108,LOUISVILLE,University of Louisville,2,TENNESSEE,University of Tennessee Knoxville,2,conference,LOUISVILLE,8,TENNESSEE,1,185.95,371.89,0
+P5A-0109,TENNESSEE,University of Tennessee Knoxville,2,MEMPHIS,University of Memphis,2,conference,TENNESSEE,7,MEMPHIS,10,342.61,685.22,0
+P5A-0110,TENNESSEE,University of Tennessee Knoxville,2,UTAH,University of Utah,2,conference,TENNESSEE,10,UTAH,9,1541.39,3082.78,0
+P5A-0111,MISSOURI,University of Missouri,2,IOWA,University of Iowa,2,conference,MISSOURI,6,IOWA,12,192.69,385.37,0
+P5A-0112,LOUISVILLE,University of Louisville,2,MISSOURI,University of Missouri,2,conference,LOUISVILLE,7,MISSOURI,8,358.22,716.44,0
+P5A-0113,MEMPHIS,University of Memphis,2,LOUISVILLE,University of Louisville,2,conference,MEMPHIS,11,LOUISVILLE,6,315.2,630.4,0
+P5A-0114,UTAH,University of Utah,2,MISSOURI,University of Missouri,2,conference,UTAH,15,MISSOURI,3,1040.56,2081.11,0
+P5A-0115,TEXAS_TECH,Texas Tech University,2,TEXAS_AM,Texas A&M University,2,conference,TEXAS_TECH,10,TEXAS_AM,7,383.56,767.12,0
+P5A-0116,IOWA,University of Iowa,2,LOUISVILLE,University of Louisville,2,conference,IOWA,2,LOUISVILLE,3,387.36,774.72,0
+P5A-0117,IOWA,University of Iowa,2,MEMPHIS,University of Memphis,2,conference,IOWA,12,MEMPHIS,13,460.25,920.49,0
+P5A-0118,UTAH,University of Utah,2,IOWA,University of Iowa,2,conference,UTAH,5,IOWA,6,1055.11,2110.21,0
+P5A-0119,IOWA,University of Iowa,2,TEXAS_TECH,Texas Tech University,2,conference,IOWA,1,TEXAS_TECH,9,793.97,1587.94,0
+P5A-0120,IOWA,University of Iowa,2,BOISE_STATE,Boise State University,2,conference,IOWA,4,BOISE_STATE,10,1256.56,2513.13,0
+P5A-0121,MEMPHIS,University of Memphis,2,BYU,Brigham Young University,2,conference,MEMPHIS,9,BYU,12,1235.43,2470.85,0
+P5A-0122,UTAH,University of Utah,2,LOUISVILLE,University of Louisville,2,conference,UTAH,1,LOUISVILLE,11,1396.66,2793.32,0
+P5A-0123,TEXAS_TECH,Texas Tech University,2,LOUISVILLE,University of Louisville,2,conference,TEXAS_TECH,4,LOUISVILLE,10,955.66,1911.31,0
+P5A-0124,BOISE_STATE,Boise State University,2,LOUISVILLE,University of Louisville,2,conference,BOISE_STATE,13,LOUISVILLE,5,1622.78,3245.57,0
+P5A-0125,LOUISVILLE,University of Louisville,2,WASHINGTON,University of Washington,2,conference,LOUISVILLE,3,WASHINGTON,2,1939.13,3878.27,0
+P5A-0126,UTAH,University of Utah,2,MEMPHIS,University of Memphis,2,conference,UTAH,6,MEMPHIS,8,1251.8,2503.6,0
+P5A-0127,TEXAS_TECH,Texas Tech University,2,MEMPHIS,University of Memphis,2,conference,TEXAS_TECH,2,MEMPHIS,11,688.93,1377.86,0
+P5A-0128,MEMPHIS,University of Memphis,2,BOISE_STATE,Boise State University,2,conference,MEMPHIS,3,BOISE_STATE,3,1512.37,3024.75,0
+P5A-0129,MEMPHIS,University of Memphis,2,WASHINGTON,University of Washington,2,conference,MEMPHIS,5,WASHINGTON,9,1869.42,3738.84,0
+P5A-0130,LSU,Louisiana State University,2,MEMPHIS,University of Memphis,2,conference,LSU,4,MEMPHIS,4,333.02,666.04,0
+P5A-0131,UTAH,University of Utah,2,TEXAS_TECH,Texas Tech University,2,conference,UTAH,3,TEXAS_TECH,13,738.71,1477.42,0
+P5A-0132,BOISE_STATE,Boise State University,2,UTAH,University of Utah,2,conference,BOISE_STATE,11,UTAH,2,296.98,593.97,0
+P5A-0133,WASHINGTON,University of Washington,2,UTAH,University of Utah,2,conference,WASHINGTON,4,UTAH,1,702.48,1404.96,0
+P5A-0134,UTAH,University of Utah,2,NORTH_DAKOTA_STATE,North Dakota State University,2,conference,UTAH,8,NORTH_DAKOTA_STATE,5,858.75,1717.5,0
+P5A-0135,CLEMSON,Clemson University,2,UTAH,University of Utah,2,conference,CLEMSON,7,UTAH,10,1631.84,3263.67,0
+P5A-0136,BOISE_STATE,Boise State University,2,TEXAS_TECH,Texas Tech University,2,conference,BOISE_STATE,8,TEXAS_TECH,12,1035.24,2070.49,0
+P5A-0137,TEXAS_TECH,Texas Tech University,2,WASHINGTON,University of Washington,2,conference,TEXAS_TECH,13,WASHINGTON,3,1438.38,2876.75,0
+P5A-0138,LSU,Louisiana State University,2,TEXAS_TECH,Texas Tech University,2,conference,LSU,9,TEXAS_TECH,8,663.65,1327.3,0
+P5A-0139,CLEMSON,Clemson University,2,TEXAS_TECH,Texas Tech University,2,conference,CLEMSON,12,TEXAS_TECH,4,1090.07,2180.14,0
+P5A-0140,NORTH_DAKOTA_STATE,North Dakota State University,2,MISSOURI,University of Missouri,2,conference,NORTH_DAKOTA_STATE,7,MISSOURI,6,594.22,1188.45,0
+P5A-0141,USC,University of Southern California,3,TULANE,Tulane University,3,conference,USC,8,TULANE,4,1669.15,3338.29,0
+P5A-0142,KANSAS_STATE,Kansas State University,3,TULANE,Tulane University,3,conference,KANSAS_STATE,7,TULANE,9,736.96,1473.92,0
+P5A-0143,TULANE,Tulane University,3,IOWA_STATE,Iowa State University,3,conference,TULANE,2,IOWA_STATE,13,857.86,1715.72,0
+P5A-0144,OHIO,Ohio University,3,TULANE,Tulane University,3,conference,OHIO,3,TULANE,5,791.85,1583.71,0
+P5A-0145,TCU,Texas Christian University,3,TULANE,Tulane University,3,conference,TCU,14,TULANE,12,468.48,936.97,0
+P5A-0146,USC,University of Southern California,3,KANSAS_STATE,Kansas State University,3,conference,USC,6,KANSAS_STATE,13,1251.95,2503.9,0
+P5A-0147,IOWA_STATE,Iowa State University,3,USC,University of Southern California,3,conference,IOWA_STATE,1,USC,1,1444.06,2888.11,0
+P5A-0148,USC,University of Southern California,3,OHIO,Ohio University,3,conference,USC,9,OHIO,3,2024.5,4049.01,0
+P5A-0149,USC,University of Southern California,3,TCU,Texas Christian University,3,conference,USC,7,TCU,6,1208.31,2416.63,0
+P5A-0150,NAVY,United States Naval Academy,3,USC,University of Southern California,3,conference,NAVY,2,USC,11,2326.14,4652.27,0
+P5A-0151,IOWA_STATE,Iowa State University,3,KANSAS_STATE,Kansas State University,3,conference,IOWA_STATE,3,KANSAS_STATE,12,249.23,498.47,4
+P5A-0152,KANSAS_STATE,Kansas State University,3,OHIO,Ohio University,3,conference,KANSAS_STATE,10,OHIO,10,774.08,1548.16,0
+P5A-0153,KANSAS_STATE,Kansas State University,3,TCU,Texas Christian University,3,conference,KANSAS_STATE,4,TCU,11,449.99,899.98,0
+P5A-0154,NAVY,United States Naval Academy,3,KANSAS_STATE,Kansas State University,3,conference,NAVY,1,KANSAS_STATE,8,1075.78,2151.56,0
+P5A-0155,KANSAS_STATE,Kansas State University,3,TOLEDO,University of Toledo,3,conference,KANSAS_STATE,5,TOLEDO,7,702.59,1405.19,0
+P5A-0156,IOWA_STATE,Iowa State University,3,OHIO,Ohio University,3,conference,IOWA_STATE,6,OHIO,11,632.55,1265.11,0
+P5A-0157,TCU,Texas Christian University,3,IOWA_STATE,Iowa State University,3,conference,TCU,12,IOWA_STATE,10,675.24,1350.48,0
+P5A-0158,NAVY,United States Naval Academy,3,TULANE,Tulane University,3,conference,NAVY,5,TULANE,2,994.84,1989.68,0
+P5A-0159,TOLEDO,University of Toledo,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,TOLEDO,7,WESTERN_KENTUCKY,9,356.99,713.99,0
+P5A-0160,IOWA_STATE,Iowa State University,3,DUKE,Duke University,3,conference,IOWA_STATE,8,DUKE,8,890.92,1781.83,0
+P5A-0161,OHIO,Ohio University,3,TCU,Texas Christian University,3,conference,OHIO,8,TCU,2,966.06,1932.12,0
+P5A-0162,OHIO,Ohio University,3,NAVY,United States Naval Academy,3,conference,OHIO,7,NAVY,13,301.75,603.5,0
+P5A-0163,OHIO,Ohio University,3,TOLEDO,University of Toledo,3,conference,OHIO,4,TOLEDO,12,179.97,359.94,0
+P5A-0164,OHIO,Ohio University,3,DUKE,Duke University,3,conference,OHIO,2,DUKE,7,287.43,574.85,0
+P5A-0165,ARMY,United States Military Academy,3,OHIO,Ohio University,3,conference,ARMY,5,OHIO,9,451.8,903.61,0
+P5A-0166,TCU,Texas Christian University,3,NAVY,United States Naval Academy,3,conference,TCU,9,NAVY,9,1243.77,2487.55,0
+P5A-0167,TOLEDO,University of Toledo,3,TCU,Texas Christian University,3,conference,TOLEDO,2,TCU,13,975.62,1951.24,0
+P5A-0168,TCU,Texas Christian University,3,DUKE,Duke University,3,conference,TCU,3,DUKE,1,1073.83,2147.65,0
+P5A-0169,TCU,Texas Christian University,3,ARMY,United States Military Academy,3,conference,TCU,10,ARMY,8,1417.58,2835.15,0
+P5A-0170,TCU,Texas Christian University,3,UNLV,University of Nevada Las Vegas,3,conference,TCU,1,UNLV,7,1038.4,2076.8,0
+P5A-0171,TOLEDO,University of Toledo,3,NAVY,United States Naval Academy,3,conference,TOLEDO,8,NAVY,3,418.39,836.78,0
+P5A-0172,DUKE,Duke University,3,NAVY,United States Naval Academy,3,conference,DUKE,4,NAVY,4,245.91,491.82,0
+P5A-0173,NAVY,United States Naval Academy,3,ARMY,United States Military Academy,3,conference,NAVY,3,ARMY,12,213.4,426.8,4
+P5A-0174,NAVY,United States Naval Academy,3,UNLV,University of Nevada Las Vegas,3,conference,NAVY,11,UNLV,10,2111.12,4222.23,0
+P5A-0175,ILLINOIS,University of Illinois Urbana-Champaign,3,NAVY,United States Naval Academy,3,conference,ILLINOIS,6,NAVY,7,629.9,1259.79,0
+P5A-0176,DUKE,Duke University,3,TOLEDO,University of Toledo,3,conference,DUKE,9,TOLEDO,5,464.85,929.7,0
+P5A-0177,ARMY,United States Military Academy,3,TOLEDO,University of Toledo,3,conference,ARMY,1,TOLEDO,11,499.56,999.13,0
+P5A-0178,UNLV,University of Nevada Las Vegas,3,TOLEDO,University of Toledo,3,conference,UNLV,10,TOLEDO,2,1728.39,3456.78,0
+P5A-0179,TOLEDO,University of Toledo,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,TOLEDO,3,ILLINOIS,10,264.04,528.08,0
+P5A-0180,NC_STATE,North Carolina State University,3,TOLEDO,University of Toledo,3,conference,NC_STATE,12,TOLEDO,8,485.1,970.21,0
+P5A-0181,ARMY,United States Military Academy,3,DUKE,Duke University,3,conference,ARMY,7,DUKE,13,459.03,918.06,0
+P5A-0182,DUKE,Duke University,3,UNLV,University of Nevada Las Vegas,3,conference,DUKE,12,UNLV,12,2010.39,4020.78,0
+P5A-0183,DUKE,Duke University,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,DUKE,10,ILLINOIS,6,578.94,1157.89,0
+P5A-0184,DUKE,Duke University,3,NC_STATE,North Carolina State University,3,conference,DUKE,5,NC_STATE,2,20.73,41.46,0
+P5A-0185,DUKE,Duke University,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,DUKE,1,WESTERN_KENTUCKY,11,422.91,845.82,0
+P5A-0186,UNLV,University of Nevada Las Vegas,3,ARMY,United States Military Academy,3,conference,UNLV,9,ARMY,6,2227.85,4455.7,0
+P5A-0187,ILLINOIS,University of Illinois Urbana-Champaign,3,ARMY,United States Military Academy,3,conference,ILLINOIS,13,ARMY,5,751.46,1502.92,0
+P5A-0188,NC_STATE,North Carolina State University,3,ARMY,United States Military Academy,3,conference,NC_STATE,2,ARMY,1,463.74,927.49,0
+P5A-0189,ARMY,United States Military Academy,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,ARMY,12,WESTERN_KENTUCKY,10,734.39,1468.78,0
+P5A-0190,ARMY,United States Military Academy,3,IOWA_STATE,Iowa State University,3,conference,ARMY,6,IOWA_STATE,2,1014.36,2028.72,0
+P5A-0191,UNLV,University of Nevada Las Vegas,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,UNLV,4,ILLINOIS,1,1483.2,2966.39,0
+P5A-0192,UNLV,University of Nevada Las Vegas,3,NC_STATE,North Carolina State University,3,conference,UNLV,6,NC_STATE,13,2027.38,4054.77,0
+P5A-0193,UNLV,University of Nevada Las Vegas,3,IOWA_STATE,Iowa State University,3,conference,UNLV,2,IOWA_STATE,9,1219.52,2439.03,0
+P5A-0194,TULANE,Tulane University,3,UNLV,University of Nevada Las Vegas,3,conference,TULANE,5,UNLV,3,1506.01,3012.03,0
+P5A-0195,USC,University of Southern California,3,UNLV,University of Nevada Las Vegas,3,conference,USC,3,UNLV,5,228.76,457.51,0
+P5A-0196,NC_STATE,North Carolina State University,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,NC_STATE,9,ILLINOIS,12,599.07,1198.14,0
+P5A-0197,ILLINOIS,University of Illinois Urbana-Champaign,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,ILLINOIS,7,WESTERN_KENTUCKY,13,235.64,471.28,0
+P5A-0198,TULANE,Tulane University,3,ILLINOIS,University of Illinois Urbana-Champaign,3,conference,TULANE,1,ILLINOIS,11,710.22,1420.44,0
+P5A-0199,ILLINOIS,University of Illinois Urbana-Champaign,3,USC,University of Southern California,3,conference,ILLINOIS,5,USC,9,1700.8,3401.6,0
+P5A-0200,ILLINOIS,University of Illinois Urbana-Champaign,3,KANSAS_STATE,Kansas State University,3,conference,ILLINOIS,14,KANSAS_STATE,4,448.89,897.78,0
+P5A-0201,NC_STATE,North Carolina State University,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,NC_STATE,4,WESTERN_KENTUCKY,7,440.11,880.22,0
+P5A-0202,TULANE,Tulane University,3,NC_STATE,North Carolina State University,3,conference,TULANE,10,NC_STATE,6,776.2,1552.41,0
+P5A-0203,USC,University of Southern California,3,NC_STATE,North Carolina State University,3,conference,USC,14,NC_STATE,10,2232.12,4464.23,0
+P5A-0204,KANSAS_STATE,Kansas State University,3,NC_STATE,North Carolina State University,3,conference,KANSAS_STATE,11,NC_STATE,5,1007.49,2014.98,0
+P5A-0205,NC_STATE,North Carolina State University,3,IOWA_STATE,Iowa State University,3,conference,NC_STATE,15,IOWA_STATE,4,911.05,1822.11,0
+P5A-0206,WESTERN_KENTUCKY,Western Kentucky University,3,TULANE,Tulane University,3,conference,WESTERN_KENTUCKY,13,TULANE,8,530.57,1061.15,0
+P5A-0207,WESTERN_KENTUCKY,Western Kentucky University,3,USC,University of Southern California,3,conference,WESTERN_KENTUCKY,10,USC,2,1793.65,3587.31,0
+P5A-0208,WESTERN_KENTUCKY,Western Kentucky University,3,KANSAS_STATE,Kansas State University,3,conference,WESTERN_KENTUCKY,8,KANSAS_STATE,6,571.19,1142.38,0
+P5A-0209,IOWA_STATE,Iowa State University,3,WESTERN_KENTUCKY,Western Kentucky University,3,conference,IOWA_STATE,9,WESTERN_KENTUCKY,5,517.61,1035.22,0
+P5A-0210,WESTERN_KENTUCKY,Western Kentucky University,3,OHIO,Ohio University,3,conference,WESTERN_KENTUCKY,15,OHIO,4,286.4,572.8,0
+P5A-0211,ARIZONA_STATE,Arizona State University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,ARIZONA_STATE,10,MINNESOTA,5,1275.01,2550.02,0
+P5A-0212,MINNESOTA,University of Minnesota Twin Cities,4,LIBERTY,Liberty University,4,conference,MINNESOTA,2,LIBERTY,7,898.68,1797.36,0
+P5A-0213,MINNESOTA,University of Minnesota Twin Cities,4,ARIZONA,University of Arizona,4,conference,MINNESOTA,5,ARIZONA,12,1294.96,2589.93,0
+P5A-0214,MINNESOTA,University of Minnesota Twin Cities,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,MINNESOTA,8,GEORGIA_TECH,1,904.89,1809.79,0
+P5A-0215,MINNESOTA,University of Minnesota Twin Cities,4,UTSA,University of Texas at San Antonio,4,conference,MINNESOTA,9,UTSA,8,1103.17,2206.34,0
+P5A-0216,ARIZONA_STATE,Arizona State University,4,LIBERTY,Liberty University,4,conference,ARIZONA_STATE,5,LIBERTY,13,1855.11,3710.22,0
+P5A-0217,ARIZONA,University of Arizona,4,ARIZONA_STATE,Arizona State University,4,conference,ARIZONA,6,ARIZONA_STATE,9,100.05,200.1,4
+P5A-0218,ARIZONA_STATE,Arizona State University,4,MIAMI_OH,Miami University,4,conference,ARIZONA_STATE,13,MIAMI_OH,12,1561.64,3123.28,0
+P5A-0219,UTSA,University of Texas at San Antonio,4,ARIZONA_STATE,Arizona State University,4,conference,UTSA,1,ARIZONA_STATE,4,826.95,1653.9,0
+P5A-0220,ARIZONA_STATE,Arizona State University,4,WASHINGTON_STATE,Washington State University,4,conference,ARIZONA_STATE,7,WASHINGTON_STATE,7,959.38,1918.76,0
+P5A-0221,ARIZONA,University of Arizona,4,LIBERTY,Liberty University,4,conference,ARIZONA,15,LIBERTY,4,1828.11,3656.21,0
+P5A-0222,LIBERTY,Liberty University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,LIBERTY,9,GEORGIA_TECH,10,383.28,766.55,0
+P5A-0223,LIBERTY,Liberty University,4,UTSA,University of Texas at San Antonio,4,conference,LIBERTY,3,UTSA,11,1239.01,2478.02,0
+P5A-0224,MIAMI_OH,Miami University,4,LIBERTY,Liberty University,4,conference,MIAMI_OH,13,LIBERTY,9,335.61,671.22,0
+P5A-0225,LIBERTY,Liberty University,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,LIBERTY,4,JACKSONVILLE_STATE,1,442.96,885.93,0
+P5A-0226,GEORGIA_TECH,Georgia Institute of Technology,4,ARIZONA,University of Arizona,4,conference,GEORGIA_TECH,12,ARIZONA,8,1538.09,3076.18,0
+P5A-0227,ARIZONA,University of Arizona,4,WASHINGTON_STATE,Washington State University,4,conference,ARIZONA,4,WASHINGTON_STATE,13,1054.07,2108.14,0
+P5A-0228,ARIZONA,University of Arizona,4,MARSHALL,Marshall University,4,conference,ARIZONA,1,MARSHALL,2,1656.6,3313.21,0
+P5A-0229,JACKSONVILLE_STATE,Jacksonville State University,4,ARIZONA,University of Arizona,4,conference,JACKSONVILLE_STATE,8,ARIZONA,11,1459.39,2918.77,0
+P5A-0230,ARIZONA,University of Arizona,4,NORTH_TEXAS,University of North Texas,4,conference,ARIZONA,10,NORTH_TEXAS,10,804.67,1609.35,0
+P5A-0231,UTSA,University of Texas at San Antonio,4,ARIZONA,University of Arizona,4,conference,UTSA,6,ARIZONA,7,753.06,1506.12,0
+P5A-0232,GEORGIA_TECH,Georgia Institute of Technology,4,MIAMI_OH,Miami University,4,conference,GEORGIA_TECH,5,MIAMI_OH,13,396.66,793.31,0
+P5A-0233,GEORGIA_TECH,Georgia Institute of Technology,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,GEORGIA_TECH,2,JACKSONVILLE_STATE,9,78.71,157.42,0
+P5A-0234,NORTH_TEXAS,University of North Texas,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,NORTH_TEXAS,11,GEORGIA_TECH,11,735.21,1470.42,0
+P5A-0235,GEORGIA_TECH,Georgia Institute of Technology,4,WASHINGTON_STATE,Washington State University,4,conference,GEORGIA_TECH,7,WASHINGTON_STATE,5,1926.25,3852.49,0
+P5A-0236,UTSA,University of Texas at San Antonio,4,SOUTH_FLORIDA,University of South Florida,4,conference,UTSA,12,SOUTH_FLORIDA,12,985.79,1971.58,0
+P5A-0237,JACKSONVILLE_STATE,Jacksonville State University,4,FLORIDA_STATE,Florida State University,4,conference,JACKSONVILLE_STATE,10,FLORIDA_STATE,10,248.88,497.75,0
+P5A-0238,UTSA,University of Texas at San Antonio,4,NORTH_TEXAS,University of North Texas,4,conference,UTSA,7,NORTH_TEXAS,9,265.17,530.34,0
+P5A-0239,UTSA,University of Texas at San Antonio,4,WASHINGTON_STATE,Washington State University,4,conference,UTSA,2,WASHINGTON_STATE,6,1546.71,3093.42,0
+P5A-0240,FRESNO_STATE,California State University Fresno,4,ARIZONA,University of Arizona,4,conference,FRESNO_STATE,5,ARIZONA,5,591.9,1183.8,0
+P5A-0241,MIAMI_OH,Miami University,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,MIAMI_OH,3,JACKSONVILLE_STATE,8,397.06,794.12,0
+P5A-0242,MIAMI_OH,Miami University,4,NORTH_TEXAS,University of North Texas,4,conference,MIAMI_OH,8,NORTH_TEXAS,6,815.05,1630.1,0
+P5A-0243,WASHINGTON_STATE,Washington State University,4,MIAMI_OH,Miami University,4,conference,WASHINGTON_STATE,14,MIAMI_OH,11,1695.69,3391.38,0
+P5A-0244,MIAMI_OH,Miami University,4,FRESNO_STATE,California State University Fresno,4,conference,MIAMI_OH,6,FRESNO_STATE,3,1899.06,3798.12,0
+P5A-0245,MIAMI_OH,Miami University,4,MARSHALL,Marshall University,4,conference,MIAMI_OH,2,MARSHALL,10,145.11,290.21,0
+P5A-0246,NORTH_TEXAS,University of North Texas,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,NORTH_TEXAS,1,JACKSONVILLE_STATE,13,656.57,1313.14,0
+P5A-0247,JACKSONVILLE_STATE,Jacksonville State University,4,WASHINGTON_STATE,Washington State University,4,conference,JACKSONVILLE_STATE,5,WASHINGTON_STATE,12,1862.08,3724.16,0
+P5A-0248,FRESNO_STATE,California State University Fresno,4,JACKSONVILLE_STATE,Jacksonville State University,4,conference,FRESNO_STATE,7,JACKSONVILLE_STATE,7,1916.68,3833.37,0
+P5A-0249,JACKSONVILLE_STATE,Jacksonville State University,4,MARSHALL,Marshall University,4,conference,JACKSONVILLE_STATE,9,MARSHALL,3,368.49,736.99,0
+P5A-0250,JACKSONVILLE_STATE,Jacksonville State University,4,SOUTH_FLORIDA,University of South Florida,4,conference,JACKSONVILLE_STATE,6,SOUTH_FLORIDA,6,444.98,889.96,0
+P5A-0251,WASHINGTON_STATE,Washington State University,4,NORTH_TEXAS,University of North Texas,4,conference,WASHINGTON_STATE,3,NORTH_TEXAS,8,1404.99,2809.97,0
+P5A-0252,NORTH_TEXAS,University of North Texas,4,FRESNO_STATE,California State University Fresno,4,conference,NORTH_TEXAS,12,FRESNO_STATE,12,1299.65,2599.3,0
+P5A-0253,MARSHALL,Marshall University,4,NORTH_TEXAS,University of North Texas,4,conference,MARSHALL,5,NORTH_TEXAS,7,898.65,1797.3,0
+P5A-0254,NORTH_TEXAS,University of North Texas,4,SOUTH_FLORIDA,University of South Florida,4,conference,NORTH_TEXAS,9,SOUTH_FLORIDA,5,944.26,1888.53,0
+P5A-0255,NORTH_TEXAS,University of North Texas,4,FLORIDA_STATE,Florida State University,4,conference,NORTH_TEXAS,4,FLORIDA_STATE,4,777.52,1555.04,0
+P5A-0256,WASHINGTON_STATE,Washington State University,4,FRESNO_STATE,California State University Fresno,4,conference,WASHINGTON_STATE,9,FRESNO_STATE,1,698.02,1396.05,0
+P5A-0257,MARSHALL,Marshall University,4,UTSA,University of Texas at San Antonio,4,conference,MARSHALL,4,UTSA,13,1107.97,2215.94,0
+P5A-0258,SOUTH_FLORIDA,University of South Florida,4,WASHINGTON_STATE,Washington State University,4,conference,SOUTH_FLORIDA,1,WASHINGTON_STATE,10,2273.7,4547.4,0
+P5A-0259,FLORIDA_STATE,Florida State University,4,MIAMI_OH,Miami University,4,conference,FLORIDA_STATE,10,MIAMI_OH,7,627.03,1254.07,0
+P5A-0260,WASHINGTON_STATE,Washington State University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,WASHINGTON_STATE,6,MINNESOTA,4,1153.33,2306.66,0
+P5A-0261,MARSHALL,Marshall University,4,FRESNO_STATE,California State University Fresno,4,conference,MARSHALL,1,FRESNO_STATE,11,2031.62,4063.24,0
+P5A-0262,FRESNO_STATE,California State University Fresno,4,SOUTH_FLORIDA,University of South Florida,4,conference,FRESNO_STATE,4,SOUTH_FLORIDA,13,2243.86,4487.72,0
+P5A-0263,FRESNO_STATE,California State University Fresno,4,UTSA,University of Texas at San Antonio,4,conference,FRESNO_STATE,2,UTSA,10,1315.92,2631.85,0
+P5A-0264,FRESNO_STATE,California State University Fresno,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,FRESNO_STATE,13,MINNESOTA,9,1486.91,2973.82,0
+P5A-0265,FRESNO_STATE,California State University Fresno,4,ARIZONA_STATE,Arizona State University,4,conference,FRESNO_STATE,3,ARIZONA_STATE,2,499.73,999.47,0
+P5A-0266,MARSHALL,Marshall University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,MARSHALL,13,GEORGIA_TECH,12,339.48,678.96,0
+P5A-0267,MARSHALL,Marshall University,4,FLORIDA_STATE,Florida State University,4,conference,MARSHALL,6,FLORIDA_STATE,9,561.7,1123.4,0
+P5A-0268,MINNESOTA,University of Minnesota Twin Cities,4,MIAMI_OH,Miami University,4,conference,MINNESOTA,3,MIAMI_OH,2,574.93,1149.86,0
+P5A-0269,ARIZONA_STATE,Arizona State University,4,MARSHALL,Marshall University,4,conference,ARIZONA_STATE,11,MARSHALL,6,1678.98,3357.96,0
+P5A-0270,LIBERTY,Liberty University,4,MARSHALL,Marshall University,4,conference,LIBERTY,10,MARSHALL,5,191.8,383.59,0
+P5A-0271,SOUTH_FLORIDA,University of South Florida,4,FLORIDA_STATE,Florida State University,4,conference,SOUTH_FLORIDA,5,FLORIDA_STATE,1,200.04,400.09,0
+P5A-0272,MINNESOTA,University of Minnesota Twin Cities,4,SOUTH_FLORIDA,University of South Florida,4,conference,MINNESOTA,7,SOUTH_FLORIDA,11,1311.18,2622.35,0
+P5A-0273,SOUTH_FLORIDA,University of South Florida,4,ARIZONA_STATE,Arizona State University,4,conference,SOUTH_FLORIDA,2,ARIZONA_STATE,3,1785.12,3570.23,0
+P5A-0274,LIBERTY,Liberty University,4,SOUTH_FLORIDA,University of South Florida,4,conference,LIBERTY,8,SOUTH_FLORIDA,8,668.87,1337.73,0
+P5A-0275,SOUTH_FLORIDA,University of South Florida,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,SOUTH_FLORIDA,11,GEORGIA_TECH,7,412.08,824.16,0
+P5A-0276,FLORIDA_STATE,Florida State University,4,MINNESOTA,University of Minnesota Twin Cities,4,conference,FLORIDA_STATE,1,MINNESOTA,13,1114.73,2229.47,0
+P5A-0277,FLORIDA_STATE,Florida State University,4,ARIZONA_STATE,Arizona State University,4,conference,FLORIDA_STATE,8,ARIZONA_STATE,11,1628.35,3256.71,0
+P5A-0278,FLORIDA_STATE,Florida State University,4,LIBERTY,Liberty University,4,conference,FLORIDA_STATE,14,LIBERTY,6,560.18,1120.35,0
+P5A-0279,FLORIDA_STATE,Florida State University,4,UTSA,University of Texas at San Antonio,4,conference,FLORIDA_STATE,7,UTSA,5,858.23,1716.47,0
+P5A-0280,FLORIDA_STATE,Florida State University,4,GEORGIA_TECH,Georgia Institute of Technology,4,conference,FLORIDA_STATE,3,GEORGIA_TECH,2,230.41,460.82,0
+P5A-0281,TROY,Troy University,5,SOUTH_CAROLINA,University of South Carolina,5,conference,TROY,6,SOUTH_CAROLINA,13,323.69,647.38,0
+P5A-0282,SOUTH_CAROLINA,University of South Carolina,5,FLORIDA,University of Florida,5,conference,SOUTH_CAROLINA,8,FLORIDA,10,310.79,621.58,0
+P5A-0283,SOUTH_CAROLINA,University of South Carolina,5,PITTSBURGH,University of Pittsburgh,5,conference,SOUTH_CAROLINA,9,PITTSBURGH,2,449.22,898.44,0
+P5A-0284,SOUTH_CAROLINA,University of South Carolina,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,SOUTH_CAROLINA,10,LOUISIANA,8,693.9,1387.79,0
+P5A-0285,AUBURN,Auburn University,5,SOUTH_CAROLINA,University of South Carolina,5,conference,AUBURN,13,SOUTH_CAROLINA,3,275.04,550.07,0
+P5A-0286,TROY,Troy University,5,FLORIDA,University of Florida,5,conference,TROY,14,FLORIDA,1,260.71,521.41,0
+P5A-0287,TROY,Troy University,5,PITTSBURGH,University of Pittsburgh,5,conference,TROY,13,PITTSBURGH,8,684.18,1368.36,0
+P5A-0288,LOUISIANA,University of Louisiana at Lafayette,5,TROY,Troy University,5,conference,LOUISIANA,3,TROY,5,375.33,750.66,0
+P5A-0289,AUBURN,Auburn University,5,TROY,Troy University,5,conference,AUBURN,4,TROY,7,61.86,123.71,0
+P5A-0290,TROY,Troy University,5,VIRGINIA,University of Virginia,5,conference,TROY,9,VIRGINIA,12,602.55,1205.11,0
+P5A-0291,PITTSBURGH,University of Pittsburgh,5,FLORIDA,University of Florida,5,conference,PITTSBURGH,5,FLORIDA,13,758.36,1516.73,0
+P5A-0292,FLORIDA,University of Florida,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,FLORIDA,12,LOUISIANA,12,579.89,1159.79,0
+P5A-0293,FLORIDA,University of Florida,5,AUBURN,Auburn University,5,conference,FLORIDA,2,AUBURN,6,276.03,552.07,0
+P5A-0294,FLORIDA,University of Florida,5,APP_STATE,Appalachian State University,5,conference,FLORIDA,6,APP_STATE,9,455.56,911.12,0
+P5A-0295,FLORIDA,University of Florida,5,OLD_DOMINION,Old Dominion University,5,conference,FLORIDA,3,OLD_DOMINION,8,610.0,1220.0,0
+P5A-0296,PITTSBURGH,University of Pittsburgh,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,PITTSBURGH,4,LOUISIANA,1,978.8,1957.6,0
+P5A-0297,AUBURN,Auburn University,5,PITTSBURGH,University of Pittsburgh,5,conference,AUBURN,10,PITTSBURGH,5,622.35,1244.69,0
+P5A-0298,PITTSBURGH,University of Pittsburgh,5,VIRGINIA,University of Virginia,5,conference,PITTSBURGH,12,VIRGINIA,10,183.81,367.63,0
+P5A-0299,OLD_DOMINION,Old Dominion University,5,PITTSBURGH,University of Pittsburgh,5,conference,OLD_DOMINION,1,PITTSBURGH,11,315.11,630.22,0
+P5A-0300,PITTSBURGH,University of Pittsburgh,5,TEXAS_STATE,Texas State University,5,conference,PITTSBURGH,2,TEXAS_STATE,6,1246.17,2492.33,0
+P5A-0301,LOUISIANA,University of Louisiana at Lafayette,5,AUBURN,Auburn University,5,conference,LOUISIANA,11,AUBURN,9,418.86,837.72,0
+P5A-0302,LOUISIANA,University of Louisiana at Lafayette,5,VIRGINIA,University of Virginia,5,conference,LOUISIANA,8,VIRGINIA,7,941.33,1882.66,0
+P5A-0303,OLD_DOMINION,Old Dominion University,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,OLD_DOMINION,16,LOUISIANA,4,1013.67,2027.33,0
+P5A-0304,LOUISIANA,University of Louisiana at Lafayette,5,TEXAS_STATE,Texas State University,5,conference,LOUISIANA,5,TEXAS_STATE,10,354.62,709.24,0
+P5A-0305,LOUISIANA,University of Louisiana at Lafayette,5,WISCONSIN,University of Wisconsin Madison,5,conference,LOUISIANA,2,WISCONSIN,3,900.26,1800.52,0
+P5A-0306,AUBURN,Auburn University,5,VIRGINIA,University of Virginia,5,conference,AUBURN,3,VIRGINIA,8,543.44,1086.89,0
+P5A-0307,OLD_DOMINION,Old Dominion University,5,AUBURN,Auburn University,5,conference,OLD_DOMINION,6,AUBURN,10,599.09,1198.17,0
+P5A-0308,TEXAS_STATE,Texas State University,5,AUBURN,Auburn University,5,conference,TEXAS_STATE,12,AUBURN,1,758.37,1516.74,0
+P5A-0309,WISCONSIN,University of Wisconsin Madison,5,AUBURN,Auburn University,5,conference,WISCONSIN,5,AUBURN,2,754.36,1508.71,0
+P5A-0310,AUBURN,Auburn University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,AUBURN,7,NEBRASKA,12,840.03,1680.06,0
+P5A-0311,OLD_DOMINION,Old Dominion University,5,VIRGINIA,University of Virginia,5,conference,OLD_DOMINION,2,VIRGINIA,1,144.48,288.96,0
+P5A-0312,VIRGINIA,University of Virginia,5,TEXAS_STATE,Texas State University,5,conference,VIRGINIA,1,TEXAS_STATE,3,1244.16,2488.31,0
+P5A-0313,VIRGINIA,University of Virginia,5,WISCONSIN,University of Wisconsin Madison,5,conference,VIRGINIA,4,WISCONSIN,5,669.33,1338.66,0
+P5A-0314,VIRGINIA,University of Virginia,5,APP_STATE,Appalachian State University,5,conference,VIRGINIA,11,APP_STATE,2,215.5,431.0,0
+P5A-0315,VIRGINIA,University of Virginia,5,HOUSTON,University of Houston,5,conference,VIRGINIA,5,HOUSTON,4,1120.96,2241.91,0
+P5A-0316,TEXAS_STATE,Texas State University,5,OLD_DOMINION,Old Dominion University,5,conference,TEXAS_STATE,14,OLD_DOMINION,2,1334.58,2669.16,0
+P5A-0317,WISCONSIN,University of Wisconsin Madison,5,OLD_DOMINION,Old Dominion University,5,conference,WISCONSIN,9,OLD_DOMINION,9,813.73,1627.45,0
+P5A-0318,OLD_DOMINION,Old Dominion University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,OLD_DOMINION,4,NEBRASKA,3,1127.7,2255.4,0
+P5A-0319,HOUSTON,University of Houston,5,OLD_DOMINION,Old Dominion University,5,conference,HOUSTON,12,OLD_DOMINION,12,1202.73,2405.47,0
+P5A-0320,APP_STATE,Appalachian State University,5,OLD_DOMINION,Old Dominion University,5,conference,APP_STATE,15,OLD_DOMINION,6,302.1,604.2,0
+P5A-0321,WISCONSIN,University of Wisconsin Madison,5,TEXAS_STATE,Texas State University,5,conference,WISCONSIN,11,TEXAS_STATE,13,1025.63,2051.26,0
+P5A-0322,NEBRASKA,University of Nebraska-Lincoln,5,TEXAS_STATE,Texas State University,5,conference,NEBRASKA,3,TEXAS_STATE,9,758.53,1517.06,0
+P5A-0323,TEXAS_STATE,Texas State University,5,HOUSTON,University of Houston,5,conference,TEXAS_STATE,4,HOUSTON,8,156.06,312.12,0
+P5A-0324,APP_STATE,Appalachian State University,5,TEXAS_STATE,Texas State University,5,conference,APP_STATE,10,TEXAS_STATE,4,1035.95,2071.9,0
+P5A-0325,TEXAS_STATE,Texas State University,5,KANSAS,University of Kansas,5,conference,TEXAS_STATE,7,KANSAS,5,644.71,1289.43,0
+P5A-0326,NEBRASKA,University of Nebraska-Lincoln,5,WISCONSIN,University of Wisconsin Madison,5,conference,NEBRASKA,10,WISCONSIN,4,405.49,810.98,0
+P5A-0327,HOUSTON,University of Houston,5,WISCONSIN,University of Wisconsin Madison,5,conference,HOUSTON,6,WISCONSIN,6,979.33,1958.66,0
+P5A-0328,WISCONSIN,University of Wisconsin Madison,5,APP_STATE,Appalachian State University,5,conference,WISCONSIN,8,APP_STATE,12,627.07,1254.13,0
+P5A-0329,WISCONSIN,University of Wisconsin Madison,5,KANSAS,University of Kansas,5,conference,WISCONSIN,12,KANSAS,10,416.84,833.69,0
+P5A-0330,WISCONSIN,University of Wisconsin Madison,5,SOUTH_CAROLINA,University of South Carolina,5,conference,WISCONSIN,7,SOUTH_CAROLINA,1,772.89,1545.77,0
+P5A-0331,NEBRASKA,University of Nebraska-Lincoln,5,HOUSTON,University of Houston,5,conference,NEBRASKA,8,HOUSTON,1,770.75,1541.49,0
+P5A-0332,APP_STATE,Appalachian State University,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,APP_STATE,9,NEBRASKA,8,870.52,1741.04,0
+P5A-0333,NEBRASKA,University of Nebraska-Lincoln,5,KANSAS,University of Kansas,5,conference,NEBRASKA,6,KANSAS,13,149.95,299.9,0
+P5A-0334,NEBRASKA,University of Nebraska-Lincoln,5,SOUTH_CAROLINA,University of South Carolina,5,conference,NEBRASKA,2,SOUTH_CAROLINA,7,978.69,1957.38,0
+P5A-0335,NEBRASKA,University of Nebraska-Lincoln,5,TROY,Troy University,5,conference,NEBRASKA,1,TROY,10,862.49,1724.97,0
+P5A-0336,HOUSTON,University of Houston,5,APP_STATE,Appalachian State University,5,conference,HOUSTON,2,APP_STATE,13,908.67,1817.34,0
+P5A-0337,HOUSTON,University of Houston,5,KANSAS,University of Kansas,5,conference,HOUSTON,10,KANSAS,2,638.06,1276.11,0
+P5A-0338,SOUTH_CAROLINA,University of South Carolina,5,HOUSTON,University of Houston,5,conference,SOUTH_CAROLINA,3,HOUSTON,11,889.52,1779.03,0
+P5A-0339,TROY,Troy University,5,HOUSTON,University of Houston,5,conference,TROY,7,HOUSTON,9,575.25,1150.5,0
+P5A-0340,HOUSTON,University of Houston,5,FLORIDA,University of Florida,5,conference,HOUSTON,11,FLORIDA,7,779.2,1558.41,0
+P5A-0341,KANSAS,University of Kansas,5,VIRGINIA,University of Virginia,5,conference,KANSAS,3,VIRGINIA,9,906.63,1813.26,0
+P5A-0342,SOUTH_CAROLINA,University of South Carolina,5,APP_STATE,Appalachian State University,5,conference,SOUTH_CAROLINA,4,APP_STATE,5,157.44,314.89,0
+P5A-0343,APP_STATE,Appalachian State University,5,TROY,Troy University,5,conference,APP_STATE,5,TROY,11,390.84,781.68,0
+P5A-0344,FLORIDA,University of Florida,5,NEBRASKA,University of Nebraska-Lincoln,5,conference,FLORIDA,1,NEBRASKA,2,1116.01,2232.02,0
+P5A-0345,APP_STATE,Appalachian State University,5,PITTSBURGH,University of Pittsburgh,5,conference,APP_STATE,11,PITTSBURGH,3,306.91,613.82,0
+P5A-0346,KANSAS,University of Kansas,5,SOUTH_CAROLINA,University of South Carolina,5,conference,KANSAS,5,SOUTH_CAROLINA,12,860.17,1720.33,0
+P5A-0347,KANSAS,University of Kansas,5,TROY,Troy University,5,conference,KANSAS,2,TROY,4,719.48,1438.95,0
+P5A-0348,KANSAS,University of Kansas,5,FLORIDA,University of Florida,5,conference,KANSAS,4,FLORIDA,11,975.95,1951.91,0
+P5A-0349,KANSAS,University of Kansas,5,PITTSBURGH,University of Pittsburgh,5,conference,KANSAS,8,PITTSBURGH,7,818.54,1637.08,0
+P5A-0350,KANSAS,University of Kansas,5,LOUISIANA,University of Louisiana at Lafayette,5,conference,KANSAS,13,LOUISIANA,6,631.19,1262.39,0
+P5A-0351,VANDERBILT,Vanderbilt University,6,EAST_CAROLINA,East Carolina University,6,conference,VANDERBILT,2,EAST_CAROLINA,12,529.41,1058.82,0
+P5A-0352,KENTUCKY,University of Kentucky,6,CINCINNATI,University of Cincinnati,6,conference,KENTUCKY,6,CINCINNATI,1,76.16,152.31,0
+P5A-0353,WESTERN_MICHIGAN,Western Michigan University,6,EAST_CAROLINA,East Carolina University,6,conference,WESTERN_MICHIGAN,9,EAST_CAROLINA,13,639.25,1278.51,0
+P5A-0354,EAST_CAROLINA,East Carolina University,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,EAST_CAROLINA,3,GEORGIA_SOUTHERN,6,334.64,669.28,0
+P5A-0355,BAYLOR,Baylor University,6,EAST_CAROLINA,East Carolina University,6,conference,BAYLOR,10,EAST_CAROLINA,5,1168.53,2337.06,0
+P5A-0356,VANDERBILT,Vanderbilt University,6,KENTUCKY,University of Kentucky,6,conference,VANDERBILT,4,KENTUCKY,7,181.73,363.47,0
+P5A-0357,WESTERN_MICHIGAN,Western Michigan University,6,VANDERBILT,Vanderbilt University,6,conference,WESTERN_MICHIGAN,8,VANDERBILT,8,428.91,857.82,0
+P5A-0358,GEORGIA_SOUTHERN,Georgia Southern University,6,VANDERBILT,Vanderbilt University,6,conference,GEORGIA_SOUTHERN,12,VANDERBILT,5,384.82,769.65,0
+P5A-0359,BAYLOR,Baylor University,6,VANDERBILT,Vanderbilt University,6,conference,BAYLOR,7,VANDERBILT,3,670.93,1341.86,0
+P5A-0360,VANDERBILT,Vanderbilt University,6,AIR_FORCE,United States Air Force Academy,6,conference,VANDERBILT,6,AIR_FORCE,1,1006.63,2013.27,0
+P5A-0361,WESTERN_MICHIGAN,Western Michigan University,6,KENTUCKY,University of Kentucky,6,conference,WESTERN_MICHIGAN,1,KENTUCKY,11,299.66,599.33,0
+P5A-0362,KENTUCKY,University of Kentucky,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,KENTUCKY,8,GEORGIA_SOUTHERN,10,416.45,832.91,0
+P5A-0363,KENTUCKY,University of Kentucky,6,BAYLOR,Baylor University,6,conference,KENTUCKY,3,BAYLOR,2,842.89,1685.77,0
+P5A-0364,KENTUCKY,University of Kentucky,6,AIR_FORCE,United States Air Force Academy,6,conference,KENTUCKY,9,AIR_FORCE,4,1100.29,2200.59,0
+P5A-0365,WEST_VIRGINIA,West Virginia University,6,KENTUCKY,University of Kentucky,6,conference,WEST_VIRGINIA,11,KENTUCKY,8,268.79,537.58,0
+P5A-0366,GEORGIA_SOUTHERN,Georgia Southern University,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,GEORGIA_SOUTHERN,10,WESTERN_MICHIGAN,4,712.58,1425.16,0
+P5A-0367,BAYLOR,Baylor University,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,BAYLOR,13,WESTERN_MICHIGAN,6,974.64,1949.27,0
+P5A-0368,AIR_FORCE,United States Air Force Academy,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,AIR_FORCE,2,WESTERN_MICHIGAN,10,1031.86,2063.73,0
+P5A-0369,WESTERN_MICHIGAN,Western Michigan University,6,WEST_VIRGINIA,West Virginia University,6,conference,WESTERN_MICHIGAN,4,WEST_VIRGINIA,7,347.45,694.9,0
+P5A-0370,WESTERN_MICHIGAN,Western Michigan University,6,CALIFORNIA,University of California Berkeley,6,conference,WESTERN_MICHIGAN,5,CALIFORNIA,12,1945.81,3891.61,0
+P5A-0371,GEORGIA_SOUTHERN,Georgia Southern University,6,BAYLOR,Baylor University,6,conference,GEORGIA_SOUTHERN,11,BAYLOR,1,899.88,1799.77,0
+P5A-0372,GEORGIA_SOUTHERN,Georgia Southern University,6,AIR_FORCE,United States Air Force Academy,6,conference,GEORGIA_SOUTHERN,4,AIR_FORCE,8,1367.63,2735.26,0
+P5A-0373,WEST_VIRGINIA,West Virginia University,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,WEST_VIRGINIA,5,GEORGIA_SOUTHERN,3,508.16,1016.33,0
+P5A-0374,GEORGIA_SOUTHERN,Georgia Southern University,6,CALIFORNIA,University of California Berkeley,6,conference,GEORGIA_SOUTHERN,1,CALIFORNIA,7,2299.38,4598.75,0
+P5A-0375,GEORGIA_SOUTHERN,Georgia Southern University,6,WAKE_FOREST,Wake Forest University,6,conference,GEORGIA_SOUTHERN,6,WAKE_FOREST,9,269.99,539.99,0
+P5A-0376,AIR_FORCE,United States Air Force Academy,6,BAYLOR,Baylor University,6,conference,AIR_FORCE,12,BAYLOR,7,674.68,1349.37,0
+P5A-0377,BAYLOR,Baylor University,6,WEST_VIRGINIA,West Virginia University,6,conference,BAYLOR,9,WEST_VIRGINIA,9,1111.47,2222.95,0
+P5A-0378,CALIFORNIA,University of California Berkeley,6,BAYLOR,Baylor University,6,conference,CALIFORNIA,2,BAYLOR,8,1488.23,2976.45,0
+P5A-0379,WAKE_FOREST,Wake Forest University,6,VANDERBILT,Vanderbilt University,6,conference,WAKE_FOREST,5,VANDERBILT,13,364.06,728.12,0
+P5A-0380,BAYLOR,Baylor University,6,CINCINNATI,University of Cincinnati,6,conference,BAYLOR,6,CINCINNATI,12,881.03,1762.06,0
+P5A-0381,WEST_VIRGINIA,West Virginia University,6,AIR_FORCE,United States Air Force Academy,6,conference,WEST_VIRGINIA,3,AIR_FORCE,13,1327.93,2655.85,0
+P5A-0382,AIR_FORCE,United States Air Force Academy,6,CALIFORNIA,University of California Berkeley,6,conference,AIR_FORCE,10,CALIFORNIA,5,943.33,1886.66,0
+P5A-0383,WAKE_FOREST,Wake Forest University,6,AIR_FORCE,United States Air Force Academy,6,conference,WAKE_FOREST,13,AIR_FORCE,2,1356.65,2713.31,0
+P5A-0384,AIR_FORCE,United States Air Force Academy,6,CINCINNATI,University of Cincinnati,6,conference,AIR_FORCE,5,CINCINNATI,9,1089.24,2178.49,0
+P5A-0385,AIR_FORCE,United States Air Force Academy,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,AIR_FORCE,14,COASTAL_CAROLINA,3,1476.37,2952.75,0
+P5A-0386,WEST_VIRGINIA,West Virginia University,6,CALIFORNIA,University of California Berkeley,6,conference,WEST_VIRGINIA,6,CALIFORNIA,6,2261.62,4523.25,0
+P5A-0387,WAKE_FOREST,Wake Forest University,6,WEST_VIRGINIA,West Virginia University,6,conference,WAKE_FOREST,1,WEST_VIRGINIA,10,242.47,484.94,0
+P5A-0388,WEST_VIRGINIA,West Virginia University,6,EAST_CAROLINA,East Carolina University,6,conference,WEST_VIRGINIA,7,EAST_CAROLINA,1,312.26,624.53,0
+P5A-0389,COASTAL_CAROLINA,Coastal Carolina University,6,WEST_VIRGINIA,West Virginia University,6,conference,COASTAL_CAROLINA,8,WEST_VIRGINIA,12,406.95,813.9,0
+P5A-0390,WEST_VIRGINIA,West Virginia University,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,WEST_VIRGINIA,2,NORTH_CAROLINA,4,262.36,524.72,0
+P5A-0391,CALIFORNIA,University of California Berkeley,6,WAKE_FOREST,Wake Forest University,6,conference,CALIFORNIA,11,WAKE_FOREST,1,2299.98,4599.96,0
+P5A-0392,CALIFORNIA,University of California Berkeley,6,CINCINNATI,University of Cincinnati,6,conference,CALIFORNIA,8,CINCINNATI,4,2027.93,4055.87,0
+P5A-0393,CALIFORNIA,University of California Berkeley,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,CALIFORNIA,3,COASTAL_CAROLINA,2,2417.15,4834.31,0
+P5A-0394,CALIFORNIA,University of California Berkeley,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,CALIFORNIA,13,NORTH_CAROLINA,9,2370.41,4740.83,0
+P5A-0395,UCF,University of Central Florida,6,CALIFORNIA,University of California Berkeley,6,conference,UCF,4,CALIFORNIA,3,2436.66,4873.31,0
+P5A-0396,CINCINNATI,University of Cincinnati,6,WAKE_FOREST,Wake Forest University,6,conference,CINCINNATI,2,WAKE_FOREST,5,310.91,621.82,0
+P5A-0397,COASTAL_CAROLINA,Coastal Carolina University,6,WAKE_FOREST,Wake Forest University,6,conference,COASTAL_CAROLINA,7,WAKE_FOREST,8,176.89,353.78,0
+P5A-0398,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,WAKE_FOREST,Wake Forest University,6,conference,NORTH_CAROLINA,9,WAKE_FOREST,3,70.54,141.08,0
+P5A-0399,WAKE_FOREST,Wake Forest University,6,UCF,University of Central Florida,6,conference,WAKE_FOREST,12,UCF,4,523.16,1046.31,0
+P5A-0400,WAKE_FOREST,Wake Forest University,6,EAST_CAROLINA,East Carolina University,6,conference,WAKE_FOREST,4,EAST_CAROLINA,11,167.01,334.01,0
+P5A-0401,CINCINNATI,University of Cincinnati,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,CINCINNATI,4,COASTAL_CAROLINA,7,478.95,957.91,0
+P5A-0402,CINCINNATI,University of Cincinnati,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,CINCINNATI,3,NORTH_CAROLINA,13,373.43,746.86,0
+P5A-0403,CINCINNATI,University of Cincinnati,6,UCF,University of Central Florida,6,conference,CINCINNATI,10,UCF,11,751.87,1503.74,0
+P5A-0404,EAST_CAROLINA,East Carolina University,6,CINCINNATI,University of Cincinnati,6,conference,EAST_CAROLINA,13,CINCINNATI,10,461.84,923.68,0
+P5A-0405,VANDERBILT,Vanderbilt University,6,CINCINNATI,University of Cincinnati,6,conference,VANDERBILT,9,CINCINNATI,2,241.42,482.84,0
+P5A-0406,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,NORTH_CAROLINA,6,COASTAL_CAROLINA,1,145.98,291.96,0
+P5A-0407,COASTAL_CAROLINA,Coastal Carolina University,6,UCF,University of Central Florida,6,conference,COASTAL_CAROLINA,1,UCF,6,381.12,762.24,0
+P5A-0408,COASTAL_CAROLINA,Coastal Carolina University,6,EAST_CAROLINA,East Carolina University,6,conference,COASTAL_CAROLINA,11,EAST_CAROLINA,4,156.35,312.69,0
+P5A-0409,VANDERBILT,Vanderbilt University,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,VANDERBILT,13,COASTAL_CAROLINA,10,469.82,939.63,0
+P5A-0410,KENTUCKY,University of Kentucky,6,COASTAL_CAROLINA,Coastal Carolina University,6,conference,KENTUCKY,2,COASTAL_CAROLINA,13,424.28,848.56,0
+P5A-0411,UCF,University of Central Florida,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,UCF,8,NORTH_CAROLINA,12,519.96,1039.92,0
+P5A-0412,EAST_CAROLINA,East Carolina University,6,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,conference,EAST_CAROLINA,5,NORTH_CAROLINA,8,96.48,192.95,0
+P5A-0413,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,VANDERBILT,Vanderbilt University,6,conference,NORTH_CAROLINA,11,VANDERBILT,11,433.6,867.19,0
+P5A-0414,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,KENTUCKY,University of Kentucky,6,conference,NORTH_CAROLINA,10,KENTUCKY,6,335.08,670.16,0
+P5A-0415,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,WESTERN_MICHIGAN,Western Michigan University,6,conference,NORTH_CAROLINA,12,WESTERN_MICHIGAN,2,563.81,1127.61,0
+P5A-0416,EAST_CAROLINA,East Carolina University,6,UCF,University of Central Florida,6,conference,EAST_CAROLINA,7,UCF,7,533.2,1066.39,0
+P5A-0417,UCF,University of Central Florida,6,BAYLOR,Baylor University,6,conference,UCF,3,BAYLOR,13,972.03,1944.06,0
+P5A-0418,UCF,University of Central Florida,6,KENTUCKY,University of Kentucky,6,conference,UCF,5,KENTUCKY,9,678.65,1357.3,0
+P5A-0419,WESTERN_MICHIGAN,Western Michigan University,6,UCF,University of Central Florida,6,conference,WESTERN_MICHIGAN,11,UCF,1,977.04,1954.09,0
+P5A-0420,UCF,University of Central Florida,6,GEORGIA_SOUTHERN,Georgia Southern University,6,conference,UCF,2,GEORGIA_SOUTHERN,2,266.59,533.19,0
+P5A-0421,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,NORTHWESTERN,Northwestern University,7,conference,VIRGINIA_TECH,11,NORTHWESTERN,8,510.03,1020.06,0
+P5A-0422,RUTGERS,Rutgers University,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,RUTGERS,2,VIRGINIA_TECH,11,392.42,784.85,0
+P5A-0423,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,UCLA,University of California Los Angeles,7,conference,VIRGINIA_TECH,6,UCLA,13,2132.11,4264.22,0
+P5A-0424,SYRACUSE,Syracuse University,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,SYRACUSE,9,VIRGINIA_TECH,4,460.51,921.01,0
+P5A-0425,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,ARKANSAS_STATE,Arkansas State University,7,conference,VIRGINIA_TECH,10,ARKANSAS_STATE,10,577.57,1155.15,0
+P5A-0426,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,VIRGINIA_TECH,5,SAN_DIEGO_STATE,12,2084.24,4168.48,0
+P5A-0427,RUTGERS,Rutgers University,7,NORTHWESTERN,Northwestern University,7,conference,RUTGERS,9,NORTHWESTERN,4,694.48,1388.97,0
+P5A-0428,UCLA,University of California Los Angeles,7,NORTHWESTERN,Northwestern University,7,conference,UCLA,12,NORTHWESTERN,9,1751.45,3502.89,0
+P5A-0429,SYRACUSE,Syracuse University,7,NORTHWESTERN,Northwestern University,7,conference,SYRACUSE,5,NORTHWESTERN,12,590.85,1181.71,0
+P5A-0430,NORTHWESTERN,Northwestern University,7,ARKANSAS_STATE,Arkansas State University,7,conference,NORTHWESTERN,1,ARKANSAS_STATE,5,458.61,917.22,0
+P5A-0431,NORTHWESTERN,Northwestern University,7,SAN_DIEGO_STATE,San Diego State University,7,conference,NORTHWESTERN,10,SAN_DIEGO_STATE,3,1725.21,3450.42,0
+P5A-0432,NORTHWESTERN,Northwestern University,7,UCONN,University of Connecticut,7,conference,NORTHWESTERN,13,UCONN,10,791.84,1583.67,0
+P5A-0433,UCLA,University of California Los Angeles,7,RUTGERS,Rutgers University,7,conference,UCLA,4,RUTGERS,7,2433.5,4867.01,0
+P5A-0434,RUTGERS,Rutgers University,7,SYRACUSE,Syracuse University,7,conference,RUTGERS,10,SYRACUSE,10,195.75,391.51,0
+P5A-0435,ARKANSAS_STATE,Arkansas State University,7,RUTGERS,Rutgers University,7,conference,ARKANSAS_STATE,13,RUTGERS,12,936.88,1873.76,0
+P5A-0436,SAN_DIEGO_STATE,San Diego State University,7,RUTGERS,Rutgers University,7,conference,SAN_DIEGO_STATE,6,RUTGERS,6,2398.39,4796.77,0
+P5A-0437,RUTGERS,Rutgers University,7,UCONN,University of Connecticut,7,conference,RUTGERS,7,UCONN,9,145.55,291.09,0
+P5A-0438,RUTGERS,Rutgers University,7,MARYLAND,University of Maryland College Park,7,conference,RUTGERS,1,MARYLAND,8,168.85,337.7,0
+P5A-0439,SYRACUSE,Syracuse University,7,UCLA,University of California Los Angeles,7,conference,SYRACUSE,7,UCLA,2,2341.93,4683.86,0
+P5A-0440,ARKANSAS_STATE,Arkansas State University,7,UCLA,University of California Los Angeles,7,conference,ARKANSAS_STATE,5,UCLA,11,1571.87,3143.73,0
+P5A-0441,UCLA,University of California Los Angeles,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UCLA,1,SAN_DIEGO_STATE,1,119.43,238.86,0
+P5A-0442,UCONN,University of Connecticut,7,UCLA,University of California Los Angeles,7,conference,UCONN,9,UCLA,8,2541.75,5083.49,0
+P5A-0443,UCLA,University of California Los Angeles,7,MARYLAND,University of Maryland College Park,7,conference,UCLA,11,MARYLAND,6,2309.09,4618.19,0
+P5A-0444,UCLA,University of California Los Angeles,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UCLA,10,SOUTH_ALABAMA,4,1774.81,3549.62,0
+P5A-0445,ARKANSAS_STATE,Arkansas State University,7,SYRACUSE,Syracuse University,7,conference,ARKANSAS_STATE,6,SYRACUSE,3,919.68,1839.37,0
+P5A-0446,SAN_DIEGO_STATE,San Diego State University,7,SYRACUSE,Syracuse University,7,conference,SAN_DIEGO_STATE,2,SYRACUSE,13,2315.88,4631.75,0
+P5A-0447,SYRACUSE,Syracuse University,7,UCONN,University of Connecticut,7,conference,SYRACUSE,3,UCONN,7,215.48,430.96,0
+P5A-0448,MARYLAND,University of Maryland College Park,7,SYRACUSE,Syracuse University,7,conference,MARYLAND,13,SYRACUSE,5,283.13,566.26,0
+P5A-0449,SYRACUSE,Syracuse University,7,SOUTH_ALABAMA,University of South Alabama,7,conference,SYRACUSE,11,SOUTH_ALABAMA,1,1079.49,2158.99,0
+P5A-0450,COLORADO,University of Colorado Boulder,7,SYRACUSE,Syracuse University,7,conference,COLORADO,1,SYRACUSE,8,1513.66,3027.31,0
+P5A-0451,SAN_DIEGO_STATE,San Diego State University,7,ARKANSAS_STATE,Arkansas State University,7,conference,SAN_DIEGO_STATE,14,ARKANSAS_STATE,9,1516.39,3032.79,0
+P5A-0452,UCONN,University of Connecticut,7,ARKANSAS_STATE,Arkansas State University,7,conference,UCONN,11,ARKANSAS_STATE,4,1071.29,2142.58,0
+P5A-0453,ARKANSAS_STATE,Arkansas State University,7,MARYLAND,University of Maryland College Park,7,conference,ARKANSAS_STATE,2,MARYLAND,2,783.62,1567.24,0
+P5A-0454,SOUTH_ALABAMA,University of South Alabama,7,ARKANSAS_STATE,Arkansas State University,7,conference,SOUTH_ALABAMA,7,ARKANSAS_STATE,13,383.75,767.5,0
+P5A-0455,ARKANSAS_STATE,Arkansas State University,7,COLORADO,University of Colorado Boulder,7,conference,ARKANSAS_STATE,3,COLORADO,6,844.27,1688.54,0
+P5A-0456,ARKANSAS_STATE,Arkansas State University,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,ARKANSAS_STATE,4,HAWAII,1,4117.63,8235.26,0
+P5A-0457,UCONN,University of Connecticut,7,SAN_DIEGO_STATE,San Diego State University,7,conference,UCONN,4,SAN_DIEGO_STATE,5,2511.32,5022.64,0
+P5A-0458,SAN_DIEGO_STATE,San Diego State University,7,MARYLAND,University of Maryland College Park,7,conference,SAN_DIEGO_STATE,3,MARYLAND,10,2268.3,4536.61,0
+P5A-0459,SOUTH_ALABAMA,University of South Alabama,7,SAN_DIEGO_STATE,San Diego State University,7,conference,SOUTH_ALABAMA,12,SAN_DIEGO_STATE,7,1698.61,3397.22,0
+P5A-0460,SAN_DIEGO_STATE,San Diego State University,7,COLORADO,University of Colorado Boulder,7,conference,SAN_DIEGO_STATE,8,COLORADO,2,823.85,1647.71,0
+P5A-0461,HAWAII,University of Hawaiʻi at Mānoa,7,SAN_DIEGO_STATE,San Diego State University,7,conference,HAWAII,9,SAN_DIEGO_STATE,4,2611.99,5223.98,0
+P5A-0462,SAN_DIEGO_STATE,San Diego State University,7,ARKANSAS,University of Arkansas,7,conference,SAN_DIEGO_STATE,7,ARKANSAS,11,1321.54,2643.08,0
+P5A-0463,MARYLAND,University of Maryland College Park,7,UCONN,University of Connecticut,7,conference,MARYLAND,8,UCONN,12,314.36,628.73,0
+P5A-0464,UCONN,University of Connecticut,7,SOUTH_ALABAMA,University of South Alabama,7,conference,UCONN,1,SOUTH_ALABAMA,11,1169.87,2339.74,0
+P5A-0465,UCONN,University of Connecticut,7,COLORADO,University of Colorado Boulder,7,conference,UCONN,2,COLORADO,3,1717.76,3435.51,0
+P5A-0466,HAWAII,University of Hawaiʻi at Mānoa,7,UCONN,University of Connecticut,7,conference,HAWAII,10,UCONN,2,5029.47,10058.94,0
+P5A-0467,ARKANSAS,University of Arkansas,7,UCONN,University of Connecticut,7,conference,ARKANSAS,5,UCONN,13,1238.9,2477.81,0
+P5A-0468,UCONN,University of Connecticut,7,BUFFALO,University at Buffalo,7,conference,UCONN,6,BUFFALO,1,343.4,686.8,0
+P5A-0469,MARYLAND,University of Maryland College Park,7,SOUTH_ALABAMA,University of South Alabama,7,conference,MARYLAND,5,SOUTH_ALABAMA,9,855.55,1711.11,0
+P5A-0470,MARYLAND,University of Maryland College Park,7,COLORADO,University of Colorado Boulder,7,conference,MARYLAND,4,COLORADO,7,1505.38,3010.76,0
+P5A-0471,HAWAII,University of Hawaiʻi at Mānoa,7,MARYLAND,University of Maryland College Park,7,conference,HAWAII,6,MARYLAND,11,4830.88,9661.76,0
+P5A-0472,MARYLAND,University of Maryland College Park,7,ARKANSAS,University of Arkansas,7,conference,MARYLAND,10,ARKANSAS,1,963.88,1927.75,0
+P5A-0473,MARYLAND,University of Maryland College Park,7,BUFFALO,University at Buffalo,7,conference,MARYLAND,7,BUFFALO,4,293.57,587.14,0
+P5A-0474,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,MARYLAND,University of Maryland College Park,7,conference,VIRGINIA_TECH,12,MARYLAND,3,224.38,448.76,0
+P5A-0475,COLORADO,University of Colorado Boulder,7,SOUTH_ALABAMA,University of South Alabama,7,conference,COLORADO,9,SOUTH_ALABAMA,10,1154.86,2309.72,0
+P5A-0476,SOUTH_ALABAMA,University of South Alabama,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,SOUTH_ALABAMA,13,HAWAII,3,4307.53,8615.06,0
+P5A-0477,ARKANSAS,University of Arkansas,7,SOUTH_ALABAMA,University of South Alabama,7,conference,ARKANSAS,6,SOUTH_ALABAMA,8,507.14,1014.27,0
+P5A-0478,SOUTH_ALABAMA,University of South Alabama,7,BUFFALO,University at Buffalo,7,conference,SOUTH_ALABAMA,2,BUFFALO,12,994.67,1989.33,0
+P5A-0479,SOUTH_ALABAMA,University of South Alabama,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,SOUTH_ALABAMA,8,VIRGINIA_TECH,5,633.39,1266.78,0
+P5A-0480,SOUTH_ALABAMA,University of South Alabama,7,NORTHWESTERN,Northwestern University,7,conference,SOUTH_ALABAMA,3,NORTHWESTERN,2,785.43,1570.86,0
+P5A-0481,COLORADO,University of Colorado Boulder,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,COLORADO,11,HAWAII,12,3325.5,6651.01,0
+P5A-0482,COLORADO,University of Colorado Boulder,7,ARKANSAS,University of Arkansas,7,conference,COLORADO,12,ARKANSAS,4,661.51,1323.02,0
+P5A-0483,BUFFALO,University at Buffalo,7,COLORADO,University of Colorado Boulder,7,conference,BUFFALO,10,COLORADO,9,1379.69,2759.38,0
+P5A-0484,COLORADO,University of Colorado Boulder,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,COLORADO,7,VIRGINIA_TECH,1,1350.79,2701.58,0
+P5A-0485,NORTHWESTERN,Northwestern University,7,COLORADO,University of Colorado Boulder,7,conference,NORTHWESTERN,6,COLORADO,11,925.99,1851.98,0
+P5A-0486,COLORADO,University of Colorado Boulder,7,RUTGERS,Rutgers University,7,conference,COLORADO,5,RUTGERS,5,1617.13,3234.26,0
+P5A-0487,ARKANSAS,University of Arkansas,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,ARKANSAS,1,HAWAII,10,3921.58,7843.16,0
+P5A-0488,HAWAII,University of Hawaiʻi at Mānoa,7,BUFFALO,University at Buffalo,7,conference,HAWAII,5,BUFFALO,8,4686.43,9372.87,0
+P5A-0489,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,VIRGINIA_TECH,3,HAWAII,7,4668.75,9337.51,0
+P5A-0490,NORTHWESTERN,Northwestern University,7,HAWAII,University of Hawaiʻi at Mānoa,7,conference,NORTHWESTERN,7,HAWAII,6,4244.16,8488.31,0
+P5A-0491,HAWAII,University of Hawaiʻi at Mānoa,7,RUTGERS,Rutgers University,7,conference,HAWAII,8,RUTGERS,13,4938.59,9877.18,0
+P5A-0492,HAWAII,University of Hawaiʻi at Mānoa,7,UCLA,University of California Los Angeles,7,conference,HAWAII,2,UCLA,5,2546.84,5093.69,0
+P5A-0493,ARKANSAS,University of Arkansas,7,BUFFALO,University at Buffalo,7,conference,ARKANSAS,9,BUFFALO,5,947.28,1894.57,0
+P5A-0494,ARKANSAS,University of Arkansas,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,ARKANSAS,4,VIRGINIA_TECH,6,766.26,1532.53,0
+P5A-0495,ARKANSAS,University of Arkansas,7,NORTHWESTERN,Northwestern University,7,conference,ARKANSAS,2,NORTHWESTERN,7,540.66,1081.32,0
+P5A-0496,RUTGERS,Rutgers University,7,ARKANSAS,University of Arkansas,7,conference,RUTGERS,3,ARKANSAS,2,1110.09,2220.18,0
+P5A-0497,UCLA,University of California Los Angeles,7,ARKANSAS,University of Arkansas,7,conference,UCLA,13,ARKANSAS,3,1375.93,2751.87,0
+P5A-0498,SYRACUSE,Syracuse University,7,ARKANSAS,University of Arkansas,7,conference,SYRACUSE,8,ARKANSAS,9,1071.82,2143.64,0
+P5A-0499,BUFFALO,University at Buffalo,7,VIRGINIA_TECH,Virginia Polytechnic Institute and State University,7,conference,BUFFALO,1,VIRGINIA_TECH,2,407.89,815.77,0
+P5A-0500,NORTHWESTERN,Northwestern University,7,BUFFALO,University at Buffalo,7,conference,NORTHWESTERN,8,BUFFALO,13,456.93,913.86,0
+P5A-0501,BUFFALO,University at Buffalo,7,RUTGERS,Rutgers University,7,conference,BUFFALO,11,RUTGERS,3,282.65,565.3,0
+P5A-0502,BUFFALO,University at Buffalo,7,UCLA,University of California Los Angeles,7,conference,BUFFALO,3,UCLA,10,2207.86,4415.72,0
+P5A-0503,BUFFALO,University at Buffalo,7,SYRACUSE,Syracuse University,7,conference,BUFFALO,4,SYRACUSE,6,134.08,268.16,0
+P5A-0504,BUFFALO,University at Buffalo,7,ARKANSAS_STATE,Arkansas State University,7,conference,BUFFALO,12,ARKANSAS_STATE,7,803.26,1606.52,0
+P5A-0505,UTAH_STATE,Utah State University,8,MICHIGAN_STATE,Michigan State University,8,conference,UTAH_STATE,8,MICHIGAN_STATE,1,1393.69,2787.38,0
+P5A-0506,BOWLING_GREEN,Bowling Green State University,8,MICHIGAN_STATE,Michigan State University,8,conference,BOWLING_GREEN,3,MICHIGAN_STATE,8,101.23,202.45,0
+P5A-0507,NORTHERN_ILLINOIS,Northern Illinois University,8,MICHIGAN_STATE,Michigan State University,8,conference,NORTHERN_ILLINOIS,6,MICHIGAN_STATE,2,225.21,450.42,0
+P5A-0508,MISSOURI_STATE,Missouri State University,8,MICHIGAN_STATE,Michigan State University,8,conference,MISSOURI_STATE,9,MICHIGAN_STATE,13,600.81,1201.62,0
+P5A-0509,BOSTON_COLLEGE,Boston College,8,MICHIGAN_STATE,Michigan State University,8,conference,BOSTON_COLLEGE,12,MICHIGAN_STATE,12,677.78,1355.56,0
+P5A-0510,MICHIGAN_STATE,Michigan State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,MICHIGAN_STATE,4,OKLAHOMA_STATE,11,809.61,1619.22,0
+P5A-0511,BOWLING_GREEN,Bowling Green State University,8,UTAH_STATE,Utah State University,8,conference,BOWLING_GREEN,2,UTAH_STATE,10,1450.07,2900.15,0
+P5A-0512,NORTHERN_ILLINOIS,Northern Illinois University,8,UTAH_STATE,Utah State University,8,conference,NORTHERN_ILLINOIS,3,UTAH_STATE,9,1182.63,2365.25,0
+P5A-0513,UTAH_STATE,Utah State University,8,MISSOURI_STATE,Missouri State University,8,conference,UTAH_STATE,11,MISSOURI_STATE,3,1034.5,2069.01,0
+P5A-0514,BOSTON_COLLEGE,Boston College,8,UTAH_STATE,Utah State University,8,conference,BOSTON_COLLEGE,5,UTAH_STATE,8,2065.73,4131.45,0
+P5A-0515,UTAH_STATE,Utah State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,UTAH_STATE,6,OKLAHOMA_STATE,6,880.77,1761.54,0
+P5A-0516,UTAH_STATE,Utah State University,8,OREGON_STATE,Oregon State University,8,conference,UTAH_STATE,7,OREGON_STATE,12,608.6,1217.2,0
+P5A-0517,BOWLING_GREEN,Bowling Green State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,BOWLING_GREEN,8,NORTHERN_ILLINOIS,6,267.46,534.91,0
+P5A-0518,BOWLING_GREEN,Bowling Green State University,8,MISSOURI_STATE,Missouri State University,8,conference,BOWLING_GREEN,6,MISSOURI_STATE,4,590.36,1180.73,0
+P5A-0519,BOSTON_COLLEGE,Boston College,8,BOWLING_GREEN,Bowling Green State University,8,conference,BOSTON_COLLEGE,10,BOWLING_GREEN,1,644.58,1289.15,0
+P5A-0520,OKLAHOMA_STATE,Oklahoma State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,OKLAHOMA_STATE,11,BOWLING_GREEN,3,808.16,1616.33,0
+P5A-0521,OREGON_STATE,Oregon State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,OREGON_STATE,1,BOWLING_GREEN,2,1995.44,3990.88,0
+P5A-0522,BOWLING_GREEN,Bowling Green State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,BOWLING_GREEN,9,LOUISIANA_TECH,12,787.25,1574.51,0
+P5A-0523,MISSOURI_STATE,Missouri State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,MISSOURI_STATE,5,NORTHERN_ILLINOIS,7,405.78,811.56,0
+P5A-0524,BOSTON_COLLEGE,Boston College,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,BOSTON_COLLEGE,4,NORTHERN_ILLINOIS,5,900.52,1801.03,0
+P5A-0525,NORTHERN_ILLINOIS,Northern Illinois University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,NORTHERN_ILLINOIS,7,OKLAHOMA_STATE,8,599.04,1198.08,0
+P5A-0526,OREGON_STATE,Oregon State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,OREGON_STATE,10,NORTHERN_ILLINOIS,10,1732.49,3464.97,0
+P5A-0527,NORTHERN_ILLINOIS,Northern Illinois University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,NORTHERN_ILLINOIS,12,LOUISIANA_TECH,3,683.87,1367.75,0
+P5A-0528,NORTHERN_ILLINOIS,Northern Illinois University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,NORTHERN_ILLINOIS,1,MISSISSIPPI_STATE,12,585.83,1171.66,0
+P5A-0529,BOSTON_COLLEGE,Boston College,8,MISSOURI_STATE,Missouri State University,8,conference,BOSTON_COLLEGE,7,MISSOURI_STATE,9,1222.73,2445.46,0
+P5A-0530,MISSOURI_STATE,Missouri State University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,MISSOURI_STATE,10,OKLAHOMA_STATE,10,222.54,445.09,0
+P5A-0531,MISSOURI_STATE,Missouri State University,8,OREGON_STATE,Oregon State University,8,conference,MISSOURI_STATE,3,OREGON_STATE,1,1636.0,3272.01,0
+P5A-0532,MISSOURI_STATE,Missouri State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,MISSOURI_STATE,2,LOUISIANA_TECH,5,324.86,649.71,0
+P5A-0533,MISSISSIPPI_STATE,Mississippi State University,8,MISSOURI_STATE,Missouri State University,8,conference,MISSISSIPPI_STATE,12,MISSOURI_STATE,8,361.95,723.9,0
+P5A-0534,MISSOURI_STATE,Missouri State University,8,WYOMING,University of Wyoming,8,conference,MISSOURI_STATE,8,WYOMING,2,716.39,1432.77,0
+P5A-0535,OKLAHOMA_STATE,Oklahoma State University,8,BOSTON_COLLEGE,Boston College,8,conference,OKLAHOMA_STATE,1,BOSTON_COLLEGE,4,1444.44,2888.88,0
+P5A-0536,OREGON_STATE,Oregon State University,8,BOSTON_COLLEGE,Boston College,8,conference,OREGON_STATE,9,BOSTON_COLLEGE,7,2572.76,5145.53,0
+P5A-0537,LOUISIANA_TECH,Louisiana Tech University,8,BOSTON_COLLEGE,Boston College,8,conference,LOUISIANA_TECH,8,BOSTON_COLLEGE,11,1353.72,2707.44,0
+P5A-0538,MISSISSIPPI_STATE,Mississippi State University,8,BOSTON_COLLEGE,Boston College,8,conference,MISSISSIPPI_STATE,3,BOSTON_COLLEGE,10,1136.45,2272.91,0
+P5A-0539,WYOMING,University of Wyoming,8,BOSTON_COLLEGE,Boston College,8,conference,WYOMING,13,BOSTON_COLLEGE,3,1761.64,3523.29,0
+P5A-0540,BOSTON_COLLEGE,Boston College,8,NEW_MEXICO,University of New Mexico,8,conference,BOSTON_COLLEGE,2,NEW_MEXICO,6,1960.46,3920.92,0
+P5A-0541,OKLAHOMA_STATE,Oklahoma State University,8,OREGON_STATE,Oregon State University,8,conference,OKLAHOMA_STATE,5,OREGON_STATE,9,1489.29,2978.58,0
+P5A-0542,LOUISIANA_TECH,Louisiana Tech University,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,LOUISIANA_TECH,13,OKLAHOMA_STATE,1,354.0,708.01,0
+P5A-0543,OKLAHOMA_STATE,Oklahoma State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,OKLAHOMA_STATE,9,MISSISSIPPI_STATE,13,504.4,1008.79,0
+P5A-0544,OKLAHOMA_STATE,Oklahoma State University,8,WYOMING,University of Wyoming,8,conference,OKLAHOMA_STATE,3,WYOMING,5,582.24,1164.47,0
+P5A-0545,NEW_MEXICO,University of New Mexico,8,OKLAHOMA_STATE,Oklahoma State University,8,conference,NEW_MEXICO,12,OKLAHOMA_STATE,12,541.2,1082.41,0
+P5A-0546,OKLAHOMA_STATE,Oklahoma State University,8,SAN_JOSE_STATE,San José State University,8,conference,OKLAHOMA_STATE,8,SAN_JOSE_STATE,2,1372.72,2745.44,0
+P5A-0547,OREGON_STATE,Oregon State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,OREGON_STATE,11,LOUISIANA_TECH,13,1836.74,3673.49,0
+P5A-0548,MISSISSIPPI_STATE,Mississippi State University,8,OREGON_STATE,Oregon State University,8,conference,MISSISSIPPI_STATE,4,OREGON_STATE,4,1985.19,3970.38,0
+P5A-0549,OREGON_STATE,Oregon State University,8,WYOMING,University of Wyoming,8,conference,OREGON_STATE,15,WYOMING,6,919.65,1839.3,0
+P5A-0550,NEW_MEXICO,University of New Mexico,8,OREGON_STATE,Oregon State University,8,conference,NEW_MEXICO,8,OREGON_STATE,3,1096.01,2192.03,0
+P5A-0551,OREGON_STATE,Oregon State University,8,SAN_JOSE_STATE,San José State University,8,conference,OREGON_STATE,6,SAN_JOSE_STATE,8,504.65,1009.31,0
+P5A-0552,MICHIGAN_STATE,Michigan State University,8,OREGON_STATE,Oregon State University,8,conference,MICHIGAN_STATE,2,OREGON_STATE,5,1925.28,3850.56,0
+P5A-0553,LOUISIANA_TECH,Louisiana Tech University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,LOUISIANA_TECH,14,MISSISSIPPI_STATE,9,232.58,465.17,0
+P5A-0554,WYOMING,University of Wyoming,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,WYOMING,6,LOUISIANA_TECH,10,935.98,1871.96,0
+P5A-0555,LOUISIANA_TECH,Louisiana Tech University,8,NEW_MEXICO,University of New Mexico,8,conference,LOUISIANA_TECH,7,NEW_MEXICO,2,820.6,1641.2,0
+P5A-0556,LOUISIANA_TECH,Louisiana Tech University,8,SAN_JOSE_STATE,San José State University,8,conference,LOUISIANA_TECH,5,SAN_JOSE_STATE,7,1681.89,3363.78,0
+P5A-0557,MICHIGAN_STATE,Michigan State University,8,LOUISIANA_TECH,Louisiana Tech University,8,conference,MICHIGAN_STATE,1,LOUISIANA_TECH,6,832.04,1664.08,0
+P5A-0558,LOUISIANA_TECH,Louisiana Tech University,8,UTAH_STATE,Utah State University,8,conference,LOUISIANA_TECH,4,UTAH_STATE,4,1228.54,2457.07,0
+P5A-0559,MISSISSIPPI_STATE,Mississippi State University,8,WYOMING,University of Wyoming,8,conference,MISSISSIPPI_STATE,5,WYOMING,1,1067.53,2135.06,0
+P5A-0560,NEW_MEXICO,University of New Mexico,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,NEW_MEXICO,6,MISSISSIPPI_STATE,5,1022.88,2045.76,0
+P5A-0561,MISSISSIPPI_STATE,Mississippi State University,8,SAN_JOSE_STATE,San José State University,8,conference,MISSISSIPPI_STATE,2,SAN_JOSE_STATE,6,1873.35,3746.71,0
+P5A-0562,MICHIGAN_STATE,Michigan State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,MICHIGAN_STATE,7,MISSISSIPPI_STATE,7,680.21,1360.42,0
+P5A-0563,UTAH_STATE,Utah State University,8,MISSISSIPPI_STATE,Mississippi State University,8,conference,UTAH_STATE,10,MISSISSIPPI_STATE,2,1378.56,2757.12,0
+P5A-0564,MISSISSIPPI_STATE,Mississippi State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,MISSISSIPPI_STATE,13,BOWLING_GREEN,11,615.72,1231.44,0
+P5A-0565,WYOMING,University of Wyoming,8,NEW_MEXICO,University of New Mexico,8,conference,WYOMING,4,NEW_MEXICO,8,433.84,867.68,0
+P5A-0566,SAN_JOSE_STATE,San José State University,8,WYOMING,University of Wyoming,8,conference,SAN_JOSE_STATE,7,WYOMING,4,911.38,1822.75,0
+P5A-0567,WYOMING,University of Wyoming,8,MICHIGAN_STATE,Michigan State University,8,conference,WYOMING,11,MICHIGAN_STATE,9,1085.16,2170.32,0
+P5A-0568,WYOMING,University of Wyoming,8,UTAH_STATE,Utah State University,8,conference,WYOMING,12,UTAH_STATE,7,322.98,645.96,0
+P5A-0569,WYOMING,University of Wyoming,8,BOWLING_GREEN,Bowling Green State University,8,conference,WYOMING,14,BOWLING_GREEN,13,1135.65,2271.3,0
+P5A-0570,NORTHERN_ILLINOIS,Northern Illinois University,8,WYOMING,University of Wyoming,8,conference,NORTHERN_ILLINOIS,2,WYOMING,11,868.63,1737.27,0
+P5A-0571,NEW_MEXICO,University of New Mexico,8,SAN_JOSE_STATE,San José State University,8,conference,NEW_MEXICO,3,SAN_JOSE_STATE,9,863.93,1727.86,0
+P5A-0572,MICHIGAN_STATE,Michigan State University,8,NEW_MEXICO,University of New Mexico,8,conference,MICHIGAN_STATE,13,NEW_MEXICO,10,1296.53,2593.06,0
+P5A-0573,UTAH_STATE,Utah State University,8,NEW_MEXICO,University of New Mexico,8,conference,UTAH_STATE,9,NEW_MEXICO,13,538.97,1077.94,0
+P5A-0574,BOWLING_GREEN,Bowling Green State University,8,NEW_MEXICO,University of New Mexico,8,conference,BOWLING_GREEN,5,NEW_MEXICO,7,1316.09,2632.18,0
+P5A-0575,NEW_MEXICO,University of New Mexico,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,NEW_MEXICO,11,NORTHERN_ILLINOIS,4,1072.11,2144.22,0
+P5A-0576,NEW_MEXICO,University of New Mexico,8,MISSOURI_STATE,Missouri State University,8,conference,NEW_MEXICO,1,MISSOURI_STATE,11,757.76,1515.53,0
+P5A-0577,MICHIGAN_STATE,Michigan State University,8,SAN_JOSE_STATE,San José State University,8,conference,MICHIGAN_STATE,10,SAN_JOSE_STATE,3,1996.53,3993.07,0
+P5A-0578,SAN_JOSE_STATE,San José State University,8,UTAH_STATE,Utah State University,8,conference,SAN_JOSE_STATE,1,UTAH_STATE,11,616.51,1233.03,0
+P5A-0579,SAN_JOSE_STATE,San José State University,8,BOWLING_GREEN,Bowling Green State University,8,conference,SAN_JOSE_STATE,12,BOWLING_GREEN,5,2045.3,4090.59,0
+P5A-0580,SAN_JOSE_STATE,San José State University,8,NORTHERN_ILLINOIS,Northern Illinois University,8,conference,SAN_JOSE_STATE,9,NORTHERN_ILLINOIS,1,1779.02,3558.04,0
+P5A-0581,SAN_JOSE_STATE,San José State University,8,MISSOURI_STATE,Missouri State University,8,conference,SAN_JOSE_STATE,4,MISSOURI_STATE,12,1566.55,3133.09,0
+P5A-0582,SAN_JOSE_STATE,San José State University,8,BOSTON_COLLEGE,Boston College,8,conference,SAN_JOSE_STATE,11,BOSTON_COLLEGE,13,2672.75,5345.51,0
+P5A-0583,CENTRAL_MICHIGAN,Central Michigan University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,CENTRAL_MICHIGAN,4,SACRAMENTO_STATE,9,1924.11,3848.22,0
+P5A-0584,KENNESAW_STATE,Kennesaw State University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,KENNESAW_STATE,7,SACRAMENTO_STATE,13,2061.17,4122.34,0
+P5A-0585,SACRAMENTO_STATE,California State University Sacramento,9,SAM_HOUSTON,Sam Houston State University,9,conference,SACRAMENTO_STATE,9,SAM_HOUSTON,10,1561.25,3122.5,0
+P5A-0586,RICE,Rice University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,RICE,3,SACRAMENTO_STATE,3,1601.65,3203.29,0
+P5A-0587,SACRAMENTO_STATE,California State University Sacramento,9,COLORADO_STATE,Colorado State University,9,conference,SACRAMENTO_STATE,2,COLORADO_STATE,7,879.9,1759.81,0
+P5A-0588,KENNESAW_STATE,Kennesaw State University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,KENNESAW_STATE,3,CENTRAL_MICHIGAN,10,660.15,1320.3,0
+P5A-0589,CENTRAL_MICHIGAN,Central Michigan University,9,SAM_HOUSTON,Sam Houston State University,9,conference,CENTRAL_MICHIGAN,10,SAM_HOUSTON,6,1067.28,2134.56,0
+P5A-0590,RICE,Rice University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,RICE,1,CENTRAL_MICHIGAN,13,1122.94,2245.88,0
+P5A-0591,CENTRAL_MICHIGAN,Central Michigan University,9,COLORADO_STATE,Colorado State University,9,conference,CENTRAL_MICHIGAN,9,COLORADO_STATE,11,1059.37,2118.74,0
+P5A-0592,CENTRAL_MICHIGAN,Central Michigan University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,CENTRAL_MICHIGAN,11,EASTERN_MICHIGAN,8,109.45,218.91,3
+P5A-0593,SAM_HOUSTON,Sam Houston State University,9,KENNESAW_STATE,Kennesaw State University,9,conference,SAM_HOUSTON,13,KENNESAW_STATE,9,679.32,1358.64,0
+P5A-0594,KENNESAW_STATE,Kennesaw State University,9,RICE,Rice University,9,conference,KENNESAW_STATE,8,RICE,2,700.92,1401.83,0
+P5A-0595,COLORADO_STATE,Colorado State University,9,KENNESAW_STATE,Kennesaw State University,9,conference,COLORADO_STATE,11,KENNESAW_STATE,5,1210.28,2420.55,0
+P5A-0596,KENNESAW_STATE,Kennesaw State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,KENNESAW_STATE,10,EASTERN_MICHIGAN,4,569.79,1139.57,0
+P5A-0597,KENNESAW_STATE,Kennesaw State University,9,FIU,Florida International University,9,conference,KENNESAW_STATE,6,FIU,12,625.18,1250.37,0
+P5A-0598,SAM_HOUSTON,Sam Houston State University,9,RICE,Rice University,9,conference,SAM_HOUSTON,5,RICE,1,69.43,138.87,0
+P5A-0599,COLORADO_STATE,Colorado State University,9,SAM_HOUSTON,Sam Houston State University,9,conference,COLORADO_STATE,6,SAM_HOUSTON,8,865.36,1730.73,0
+P5A-0600,SAM_HOUSTON,Sam Houston State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,SAM_HOUSTON,3,EASTERN_MICHIGAN,13,1034.21,2068.43,0
+P5A-0601,FIU,Florida International University,9,SAM_HOUSTON,Sam Houston State University,9,conference,FIU,11,SAM_HOUSTON,2,984.13,1968.26,0
+P5A-0602,SAM_HOUSTON,Sam Houston State University,9,UAB,University of Alabama at Birmingham,9,conference,SAM_HOUSTON,1,UAB,3,546.24,1092.49,0
+P5A-0603,RICE,Rice University,9,COLORADO_STATE,Colorado State University,9,conference,RICE,7,COLORADO_STATE,4,927.11,1854.22,0
+P5A-0604,RICE,Rice University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,RICE,4,EASTERN_MICHIGAN,9,1085.57,2171.14,0
+P5A-0605,RICE,Rice University,9,FIU,Florida International University,9,conference,RICE,2,FIU,11,958.09,1916.19,0
+P5A-0606,RICE,Rice University,9,UAB,University of Alabama at Birmingham,9,conference,RICE,6,UAB,12,568.93,1137.85,0
+P5A-0607,STANFORD,Stanford University,9,RICE,Rice University,9,conference,STANFORD,9,RICE,10,1623.77,3247.55,0
+P5A-0608,COLORADO_STATE,Colorado State University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,COLORADO_STATE,1,EASTERN_MICHIGAN,6,1115.17,2230.33,0
+P5A-0609,FIU,Florida International University,9,COLORADO_STATE,Colorado State University,9,conference,FIU,12,COLORADO_STATE,3,1748.02,3496.03,0
+P5A-0610,UAB,University of Alabama at Birmingham,9,COLORADO_STATE,Colorado State University,9,conference,UAB,5,COLORADO_STATE,9,1117.22,2234.45,0
+P5A-0611,STANFORD,Stanford University,9,COLORADO_STATE,Colorado State University,9,conference,STANFORD,3,COLORADO_STATE,13,941.04,1882.08,0
+P5A-0612,COLORADO_STATE,Colorado State University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,COLORADO_STATE,10,FLORIDA_ATLANTIC,2,1732.45,3464.9,0
+P5A-0613,EASTERN_MICHIGAN,Eastern Michigan University,9,FIU,Florida International University,9,conference,EASTERN_MICHIGAN,8,FIU,1,1154.54,2309.07,0
+P5A-0614,EASTERN_MICHIGAN,Eastern Michigan University,9,UAB,University of Alabama at Birmingham,9,conference,EASTERN_MICHIGAN,7,UAB,11,628.79,1257.58,0
+P5A-0615,STANFORD,Stanford University,9,EASTERN_MICHIGAN,Eastern Michigan University,9,conference,STANFORD,2,EASTERN_MICHIGAN,7,2054.06,4108.12,0
+P5A-0616,EASTERN_MICHIGAN,Eastern Michigan University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,EASTERN_MICHIGAN,5,FLORIDA_ATLANTIC,5,1115.05,2230.11,0
+P5A-0617,EASTERN_MICHIGAN,Eastern Michigan University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,EASTERN_MICHIGAN,6,NEW_MEXICO_STATE,12,1439.54,2879.08,0
+P5A-0618,UAB,University of Alabama at Birmingham,9,FIU,Florida International University,9,conference,UAB,10,FIU,13,659.85,1319.7,0
+P5A-0619,STANFORD,Stanford University,9,FIU,Florida International University,9,conference,STANFORD,7,FIU,4,2565.18,5130.35,0
+P5A-0620,FIU,Florida International University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,FIU,15,FLORIDA_ATLANTIC,6,45.79,91.58,4
+P5A-0621,FIU,Florida International University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,FIU,14,NEW_MEXICO_STATE,10,1651.37,3302.74,0
+P5A-0622,FIU,Florida International University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,FIU,4,SOUTHERN_MISS,9,666.04,1332.07,0
+P5A-0623,UAB,University of Alabama at Birmingham,9,STANFORD,Stanford University,9,conference,UAB,8,STANFORD,2,1996.51,3993.02,0
+P5A-0624,FLORIDA_ATLANTIC,Florida Atlantic University,9,UAB,University of Alabama at Birmingham,9,conference,FLORIDA_ATLANTIC,13,UAB,4,635.2,1270.41,0
+P5A-0625,UAB,University of Alabama at Birmingham,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,UAB,3,NEW_MEXICO_STATE,7,1158.2,2316.4,0
+P5A-0626,UAB,University of Alabama at Birmingham,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,UAB,9,SOUTHERN_MISS,6,210.5,421.0,0
+P5A-0627,UAB,University of Alabama at Birmingham,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,UAB,14,SACRAMENTO_STATE,5,1953.58,3907.15,0
+P5A-0628,FLORIDA_ATLANTIC,Florida Atlantic University,9,STANFORD,Stanford University,9,conference,FLORIDA_ATLANTIC,4,STANFORD,12,2559.73,5119.47,0
+P5A-0629,STANFORD,Stanford University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,STANFORD,12,NEW_MEXICO_STATE,11,942.39,1884.78,0
+P5A-0630,SOUTHERN_MISS,University of Southern Mississippi,9,STANFORD,Stanford University,9,conference,SOUTHERN_MISS,10,STANFORD,8,1908.94,3817.87,0
+P5A-0631,STANFORD,Stanford University,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,STANFORD,11,SACRAMENTO_STATE,6,88.2,176.4,0
+P5A-0632,CENTRAL_MICHIGAN,Central Michigan University,9,STANFORD,Stanford University,9,conference,CENTRAL_MICHIGAN,6,STANFORD,1,1992.32,3984.63,0
+P5A-0633,FLORIDA_ATLANTIC,Florida Atlantic University,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,FLORIDA_ATLANTIC,1,NEW_MEXICO_STATE,1,1651.53,3303.06,0
+P5A-0634,FLORIDA_ATLANTIC,Florida Atlantic University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,FLORIDA_ATLANTIC,6,SOUTHERN_MISS,3,654.96,1309.93,0
+P5A-0635,SACRAMENTO_STATE,California State University Sacramento,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,SACRAMENTO_STATE,8,FLORIDA_ATLANTIC,11,2527.43,5054.85,0
+P5A-0636,FLORIDA_ATLANTIC,Florida Atlantic University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,FLORIDA_ATLANTIC,12,CENTRAL_MICHIGAN,7,1218.25,2436.51,0
+P5A-0637,KENNESAW_STATE,Kennesaw State University,9,FLORIDA_ATLANTIC,Florida Atlantic University,9,conference,KENNESAW_STATE,9,FLORIDA_ATLANTIC,8,593.22,1186.45,0
+P5A-0638,NEW_MEXICO_STATE,New Mexico State University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,NEW_MEXICO_STATE,2,SOUTHERN_MISS,13,1023.49,2046.97,0
+P5A-0639,SACRAMENTO_STATE,California State University Sacramento,9,NEW_MEXICO_STATE,New Mexico State University,9,conference,SACRAMENTO_STATE,10,NEW_MEXICO_STATE,8,931.68,1863.36,0
+P5A-0640,NEW_MEXICO_STATE,New Mexico State University,9,CENTRAL_MICHIGAN,Central Michigan University,9,conference,NEW_MEXICO_STATE,8,CENTRAL_MICHIGAN,2,1422.98,2845.95,0
+P5A-0641,NEW_MEXICO_STATE,New Mexico State University,9,KENNESAW_STATE,Kennesaw State University,9,conference,NEW_MEXICO_STATE,5,KENNESAW_STATE,6,1285.38,2570.75,0
+P5A-0642,NEW_MEXICO_STATE,New Mexico State University,9,SAM_HOUSTON,Sam Houston State University,9,conference,NEW_MEXICO_STATE,7,SAM_HOUSTON,5,668.44,1336.88,0
+P5A-0643,SOUTHERN_MISS,University of Southern Mississippi,9,SACRAMENTO_STATE,California State University Sacramento,9,conference,SOUTHERN_MISS,12,SACRAMENTO_STATE,1,1874.24,3748.48,0
+P5A-0644,CENTRAL_MICHIGAN,Central Michigan University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,CENTRAL_MICHIGAN,7,SOUTHERN_MISS,12,883.17,1766.34,0
+P5A-0645,SOUTHERN_MISS,University of Southern Mississippi,9,KENNESAW_STATE,Kennesaw State University,9,conference,SOUTHERN_MISS,1,KENNESAW_STATE,7,333.86,667.72,0
+P5A-0646,SAM_HOUSTON,Sam Houston State University,9,SOUTHERN_MISS,University of Southern Mississippi,9,conference,SAM_HOUSTON,8,SOUTHERN_MISS,11,370.14,740.27,0
+P5A-0647,SOUTHERN_MISS,University of Southern Mississippi,9,RICE,Rice University,9,conference,SOUTHERN_MISS,11,RICE,5,377.66,755.33,0
+P5A-0648,TEMPLE,Temple University,10,GEORGIA_STATE,Georgia State University,10,conference,TEMPLE,11,GEORGIA_STATE,13,666.79,1333.57,0
+P5A-0649,TEMPLE,Temple University,10,BALL_STATE,Ball State University,10,conference,TEMPLE,3,BALL_STATE,9,541.85,1083.7,0
+P5A-0650,TEMPLE,Temple University,10,PURDUE,Purdue University,10,conference,TEMPLE,2,PURDUE,10,621.19,1242.38,0
+P5A-0651,TEMPLE,Temple University,10,ULM,University of Louisiana Monroe,10,conference,TEMPLE,4,ULM,6,1071.3,2142.6,0
+P5A-0652,MIDDLE_TENNESSEE,Middle Tennessee State University,10,TEMPLE,Temple University,10,conference,MIDDLE_TENNESSEE,10,TEMPLE,12,673.79,1347.59,0
+P5A-0653,BALL_STATE,Ball State University,10,GEORGIA_STATE,Georgia State University,10,conference,BALL_STATE,4,GEORGIA_STATE,5,448.83,897.67,0
+P5A-0654,PURDUE,Purdue University,10,GEORGIA_STATE,Georgia State University,10,conference,PURDUE,13,GEORGIA_STATE,9,481.5,963.0,0
+P5A-0655,GEORGIA_STATE,Georgia State University,10,TULSA,University of Tulsa,10,conference,GEORGIA_STATE,8,TULSA,10,674.83,1349.65,0
+P5A-0656,GEORGIA_STATE,Georgia State University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,GEORGIA_STATE,6,MIDDLE_TENNESSEE,11,183.21,366.43,0
+P5A-0657,GEORGIA_STATE,Georgia State University,10,ULM,University of Louisiana Monroe,10,conference,GEORGIA_STATE,3,ULM,12,452.31,904.62,0
+P5A-0658,PURDUE,Purdue University,10,BALL_STATE,Ball State University,10,conference,PURDUE,10,BALL_STATE,12,81.23,162.46,0
+P5A-0659,TULSA,University of Tulsa,10,BALL_STATE,Ball State University,10,conference,TULSA,11,BALL_STATE,7,636.45,1272.9,0
+P5A-0660,BALL_STATE,Ball State University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,BALL_STATE,14,MIDDLE_TENNESSEE,10,304.99,609.98,0
+P5A-0661,ULM,University of Louisiana Monroe,10,UTEP,University of Texas at El Paso,10,conference,ULM,7,UTEP,13,845.49,1690.97,0
+P5A-0662,BALL_STATE,Ball State University,10,NEVADA,University of Nevada Reno,10,conference,BALL_STATE,6,NEVADA,11,1813.63,3627.26,0
+P5A-0663,TULSA,University of Tulsa,10,PURDUE,Purdue University,10,conference,TULSA,9,PURDUE,13,571.11,1142.23,0
+P5A-0664,PURDUE,Purdue University,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,PURDUE,7,MIDDLE_TENNESSEE,7,317.51,635.02,0
+P5A-0665,ULM,University of Louisiana Monroe,10,PURDUE,Purdue University,10,conference,ULM,6,PURDUE,11,615.7,1231.4,0
+P5A-0666,NEVADA,University of Nevada Reno,10,PURDUE,Purdue University,10,conference,NEVADA,8,PURDUE,8,1732.44,3464.88,0
+P5A-0667,PURDUE,Purdue University,10,AKRON,University of Akron,10,conference,PURDUE,3,AKRON,6,286.73,573.46,0
+P5A-0668,MIDDLE_TENNESSEE,Middle Tennessee State University,10,TULSA,University of Tulsa,10,conference,MIDDLE_TENNESSEE,5,TULSA,5,535.73,1071.45,0
+P5A-0669,ULM,University of Louisiana Monroe,10,TULSA,University of Tulsa,10,conference,ULM,10,TULSA,9,334.12,668.23,0
+P5A-0670,TULSA,University of Tulsa,10,NEVADA,University of Nevada Reno,10,conference,TULSA,1,NEVADA,3,1319.19,2638.38,0
+P5A-0671,AKRON,University of Akron,10,TULSA,University of Tulsa,10,conference,AKRON,7,TULSA,2,849.03,1698.06,0
+P5A-0672,TULSA,University of Tulsa,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,TULSA,3,CHARLOTTE,11,854.28,1708.57,0
+P5A-0673,MIDDLE_TENNESSEE,Middle Tennessee State University,10,ULM,University of Louisiana Monroe,10,conference,MIDDLE_TENNESSEE,1,ULM,3,398.5,797.01,0
+P5A-0674,MIDDLE_TENNESSEE,Middle Tennessee State University,10,NEVADA,University of Nevada Reno,10,conference,MIDDLE_TENNESSEE,9,NEVADA,2,1835.81,3671.61,0
+P5A-0675,MIDDLE_TENNESSEE,Middle Tennessee State University,10,AKRON,University of Akron,10,conference,MIDDLE_TENNESSEE,11,AKRON,9,446.48,892.97,0
+P5A-0676,CHARLOTTE,University of North Carolina at Charlotte,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,CHARLOTTE,2,MIDDLE_TENNESSEE,4,318.56,637.11,0
+P5A-0677,UTEP,University of Texas at El Paso,10,MIDDLE_TENNESSEE,Middle Tennessee State University,10,conference,UTEP,13,MIDDLE_TENNESSEE,8,1187.61,2375.23,0
+P5A-0678,ULM,University of Louisiana Monroe,10,NEVADA,University of Nevada Reno,10,conference,ULM,2,NEVADA,1,1616.92,3233.84,0
+P5A-0679,ULM,University of Louisiana Monroe,10,AKRON,University of Akron,10,conference,ULM,8,AKRON,8,829.54,1659.07,0
+P5A-0680,ULM,University of Louisiana Monroe,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,ULM,5,CHARLOTTE,7,677.12,1354.24,0
+P5A-0681,UTEP,University of Texas at El Paso,10,TULSA,University of Tulsa,10,conference,UTEP,11,TULSA,6,675.97,1351.94,0
+P5A-0682,KENT_STATE,Kent State University,10,ULM,University of Louisiana Monroe,10,conference,KENT_STATE,14,ULM,5,839.4,1678.8,0
+P5A-0683,AKRON,University of Akron,10,NEVADA,University of Nevada Reno,10,conference,AKRON,4,NEVADA,4,2004.67,4009.35,0
+P5A-0684,NEVADA,University of Nevada Reno,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,NEVADA,7,CHARLOTTE,13,2147.26,4294.53,0
+P5A-0685,NEVADA,University of Nevada Reno,10,UTEP,University of Texas at El Paso,10,conference,NEVADA,3,UTEP,12,918.62,1837.23,0
+P5A-0686,NEVADA,University of Nevada Reno,10,KENT_STATE,Kent State University,10,conference,NEVADA,11,KENT_STATE,9,2012.49,4024.98,0
+P5A-0687,NEVADA,University of Nevada Reno,10,UMASS,University of Massachusetts Amherst,10,conference,NEVADA,10,UMASS,7,2442.93,4885.85,0
+P5A-0688,CHARLOTTE,University of North Carolina at Charlotte,10,AKRON,University of Akron,10,conference,CHARLOTTE,13,AKRON,12,400.91,801.82,0
+P5A-0689,AKRON,University of Akron,10,BALL_STATE,Ball State University,10,conference,AKRON,10,BALL_STATE,13,213.16,426.32,0
+P5A-0690,AKRON,University of Akron,10,KENT_STATE,Kent State University,10,conference,AKRON,12,KENT_STATE,3,10.1,20.2,4
+P5A-0691,UMASS,University of Massachusetts Amherst,10,AKRON,University of Akron,10,conference,UMASS,1,AKRON,11,471.58,943.16,0
+P5A-0692,AKRON,University of Akron,10,TEMPLE,Temple University,10,conference,AKRON,6,TEMPLE,5,342.16,684.32,0
+P5A-0693,UTEP,University of Texas at El Paso,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,UTEP,4,CHARLOTTE,3,1499.65,2999.31,0
+P5A-0694,KENT_STATE,Kent State University,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,KENT_STATE,15,CHARLOTTE,10,405.02,810.03,0
+P5A-0695,CHARLOTTE,University of North Carolina at Charlotte,10,UMASS,University of Massachusetts Amherst,10,conference,CHARLOTTE,9,UMASS,5,658.3,1316.61,0
+P5A-0696,CHARLOTTE,University of North Carolina at Charlotte,10,TEMPLE,Temple University,10,conference,CHARLOTTE,8,TEMPLE,8,444.19,888.38,0
+P5A-0697,GEORGIA_STATE,Georgia State University,10,CHARLOTTE,University of North Carolina at Charlotte,10,conference,GEORGIA_STATE,10,CHARLOTTE,6,233.88,467.77,0
+P5A-0698,KENT_STATE,Kent State University,10,UTEP,University of Texas at El Paso,10,conference,KENT_STATE,6,UTEP,2,1533.71,3067.41,0
+P5A-0699,UTEP,University of Texas at El Paso,10,UMASS,University of Massachusetts Amherst,10,conference,UTEP,5,UMASS,10,1994.95,3989.91,0
+P5A-0700,TEMPLE,Temple University,10,UTEP,University of Texas at El Paso,10,conference,TEMPLE,12,UTEP,7,1833.48,3666.96,0
+P5A-0701,UTEP,University of Texas at El Paso,10,GEORGIA_STATE,Georgia State University,10,conference,UTEP,1,GEORGIA_STATE,1,1289.9,2579.8,0
+P5A-0702,BALL_STATE,Ball State University,10,UTEP,University of Texas at El Paso,10,conference,BALL_STATE,9,UTEP,4,1310.79,2621.59,0
+P5A-0703,UMASS,University of Massachusetts Amherst,10,KENT_STATE,Kent State University,10,conference,UMASS,2,KENT_STATE,12,461.86,923.71,0
+P5A-0704,TEMPLE,Temple University,10,KENT_STATE,Kent State University,10,conference,TEMPLE,7,KENT_STATE,11,334.52,669.04,0
+P5A-0705,KENT_STATE,Kent State University,10,GEORGIA_STATE,Georgia State University,10,conference,KENT_STATE,9,GEORGIA_STATE,7,537.52,1075.04,0
+P5A-0706,KENT_STATE,Kent State University,10,BALL_STATE,Ball State University,10,conference,KENT_STATE,1,BALL_STATE,8,222.96,445.92,0
+P5A-0707,PURDUE,Purdue University,10,KENT_STATE,Kent State University,10,conference,PURDUE,5,KENT_STATE,1,296.1,592.2,0
+P5A-0708,UMASS,University of Massachusetts Amherst,10,TEMPLE,Temple University,10,conference,UMASS,13,TEMPLE,3,215.07,430.15,0
+P5A-0709,GEORGIA_STATE,Georgia State University,10,UMASS,University of Massachusetts Amherst,10,conference,GEORGIA_STATE,7,UMASS,8,876.88,1753.77,0
+P5A-0710,UMASS,University of Massachusetts Amherst,10,BALL_STATE,Ball State University,10,conference,UMASS,8,BALL_STATE,6,684.7,1369.4,0
+P5A-0711,UMASS,University of Massachusetts Amherst,10,PURDUE,Purdue University,10,conference,UMASS,11,PURDUE,2,757.08,1514.15,0
+P5A-0712,UMASS,University of Massachusetts Amherst,10,TULSA,University of Tulsa,10,conference,UMASS,6,TULSA,1,1319.48,2638.95,0
+P5A-0713,BOISE_STATE,Boise State University,2,OHIO_STATE,Ohio State University,1,adjacent,BOISE_STATE,1,OHIO_STATE,11,1714.75,3429.51,0
+P5A-0714,OHIO_STATE,Ohio State University,1,TENNESSEE,University of Tennessee Knoxville,2,adjacent,OHIO_STATE,7,TENNESSEE,4,284.22,568.45,0
+P5A-0715,OREGON,University of Oregon,1,WASHINGTON,University of Washington,2,adjacent,OREGON,10,WASHINGTON,12,252.11,504.23,4
+P5A-0716,OREGON,University of Oregon,1,LSU,Louisiana State University,2,adjacent,OREGON,5,LSU,6,1973.86,3947.72,0
+P5A-0717,LSU,Louisiana State University,2,GEORGIA,University of Georgia,1,adjacent,LSU,10,GEORGIA,1,517.31,1034.63,0
+P5A-0718,GEORGIA,University of Georgia,1,CLEMSON,Clemson University,2,adjacent,GEORGIA,4,CLEMSON,9,59.18,118.36,0
+P5A-0719,NOTRE_DAME,University of Notre Dame,1,CLEMSON,Clemson University,2,adjacent,NOTRE_DAME,10,CLEMSON,6,519.22,1038.44,0
+P5A-0720,NOTRE_DAME,University of Notre Dame,1,NORTH_DAKOTA_STATE,North Dakota State University,2,adjacent,NOTRE_DAME,4,NORTH_DAKOTA_STATE,1,632.97,1265.94,0
+P5A-0721,NORTH_DAKOTA_STATE,North Dakota State University,2,PENN_STATE,Pennsylvania State University,1,adjacent,NORTH_DAKOTA_STATE,13,PENN_STATE,4,1030.39,2060.78,0
+P5A-0722,BYU,Brigham Young University,2,ALABAMA,University of Alabama,1,adjacent,BYU,5,ALABAMA,3,1415.41,2830.81,0
+P5A-0723,TEXAS,University of Texas at Austin,1,BYU,Brigham Young University,2,adjacent,TEXAS,4,BYU,1,1041.88,2083.77,0
+P5A-0724,TEXAS_AM,Texas A&M University,2,TEXAS,University of Texas at Austin,1,adjacent,TEXAS_AM,7,TEXAS,3,86.38,172.76,4
+P5A-0725,OLE_MISS,University of Mississippi,1,MEMPHIS,University of Memphis,2,adjacent,OLE_MISS,2,MEMPHIS,5,56.8,113.6,4
+P5A-0726,TENNESSEE,University of Tennessee Knoxville,2,OLE_MISS,University of Mississippi,1,adjacent,TENNESSEE,3,OLE_MISS,8,335.25,670.5,0
+P5A-0727,MICHIGAN,University of Michigan,1,WASHINGTON,University of Washington,2,adjacent,MICHIGAN,5,WASHINGTON,4,1901.01,3802.02,0
+P5A-0728,MISSOURI,University of Missouri,2,INDIANA,Indiana University Bloomington,1,adjacent,MISSOURI,4,INDIANA,2,311.61,623.21,0
+P5A-0729,PENN_STATE,Pennsylvania State University,1,MISSOURI,University of Missouri,2,adjacent,PENN_STATE,2,MISSOURI,1,776.96,1553.91,0
+P5A-0730,IOWA,University of Iowa,2,ALABAMA,University of Alabama,1,adjacent,IOWA,7,ALABAMA,4,623.23,1246.45,0
+P5A-0731,IOWA,University of Iowa,2,MICHIGAN,University of Michigan,1,adjacent,IOWA,9,MICHIGAN,2,402.39,804.78,0
+P5A-0732,LOUISVILLE,University of Louisville,2,MIAMI_FL,University of Miami,1,adjacent,LOUISVILLE,6,MIAMI_FL,4,920.59,1841.18,0
+P5A-0733,LOUISVILLE,University of Louisville,2,JAMES_MADISON,James Madison University,1,adjacent,LOUISVILLE,10,JAMES_MADISON,9,373.59,747.19,0
+P5A-0734,MEMPHIS,University of Memphis,2,JAMES_MADISON,James Madison University,1,adjacent,MEMPHIS,1,JAMES_MADISON,1,653.34,1306.68,0
+P5A-0735,OKLAHOMA,University of Oklahoma,1,TEXAS_AM,Texas A&M University,2,adjacent,OKLAHOMA,10,TEXAS_AM,5,323.4,646.8,0
+P5A-0736,OKLAHOMA,University of Oklahoma,1,UTAH,University of Utah,2,adjacent,OKLAHOMA,2,UTAH,7,871.53,1743.06,0
+P5A-0737,INDIANA,Indiana University Bloomington,1,UTAH,University of Utah,2,adjacent,INDIANA,12,UTAH,4,1340.49,2680.98,0
+P5A-0738,TEXAS_TECH,Texas Tech University,2,MIAMI_FL,University of Miami,1,adjacent,TEXAS_TECH,6,MIAMI_FL,2,1402.49,2804.97,0
+P5A-0739,TEXAS_TECH,Texas Tech University,2,SMU,Southern Methodist University,1,adjacent,TEXAS_TECH,5,SMU,1,298.88,597.75,0
+P5A-0740,SMU,Southern Methodist University,1,BOISE_STATE,Boise State University,2,adjacent,SMU,7,BOISE_STATE,8,1284.57,2569.13,0
+P5A-0741,TULANE,Tulane University,3,MINNESOTA,University of Minnesota Twin Cities,4,adjacent,TULANE,4,MINNESOTA,10,1052.44,2104.88,0
+P5A-0742,TULANE,Tulane University,3,UTSA,University of Texas at San Antonio,4,adjacent,TULANE,9,UTSA,1,510.2,1020.41,0
+P5A-0743,ARIZONA_STATE,Arizona State University,4,USC,University of Southern California,3,adjacent,ARIZONA_STATE,4,USC,8,367.59,735.17,0
+P5A-0744,LIBERTY,Liberty University,4,USC,University of Southern California,3,adjacent,LIBERTY,11,USC,12,2190.94,4381.89,0
+P5A-0745,KANSAS_STATE,Kansas State University,3,LIBERTY,Liberty University,4,adjacent,KANSAS_STATE,12,LIBERTY,2,951.15,1902.29,0
+P5A-0746,ARIZONA,University of Arizona,4,KANSAS_STATE,Kansas State University,3,adjacent,ARIZONA,2,KANSAS_STATE,1,936.75,1873.51,0
+P5A-0747,IOWA_STATE,Iowa State University,3,ARIZONA,University of Arizona,4,adjacent,IOWA_STATE,13,ARIZONA,6,1165.34,2330.67,0
+P5A-0748,GEORGIA_TECH,Georgia Institute of Technology,4,DUKE,Duke University,3,adjacent,GEORGIA_TECH,4,DUKE,3,345.38,690.76,0
+P5A-0749,GEORGIA_TECH,Georgia Institute of Technology,4,OHIO,Ohio University,3,adjacent,GEORGIA_TECH,1,OHIO,6,403.94,807.88,0
+P5A-0750,OHIO,Ohio University,3,MIAMI_OH,Miami University,4,adjacent,OHIO,11,MIAMI_OH,1,141.21,282.42,4
+P5A-0751,UTSA,University of Texas at San Antonio,4,TCU,Texas Christian University,3,adjacent,UTSA,13,TCU,3,228.2,456.39,0
+P5A-0752,MIAMI_OH,Miami University,4,NAVY,United States Naval Academy,3,adjacent,MIAMI_OH,11,NAVY,5,442.79,885.59,0
+P5A-0753,NAVY,United States Naval Academy,3,NORTH_TEXAS,University of North Texas,4,adjacent,NAVY,10,NORTH_TEXAS,1,1217.15,2434.3,0
+P5A-0754,JACKSONVILLE_STATE,Jacksonville State University,4,TCU,Texas Christian University,3,adjacent,JACKSONVILLE_STATE,12,TCU,5,674.31,1348.63,0
+P5A-0755,TOLEDO,University of Toledo,3,FRESNO_STATE,California State University Fresno,4,adjacent,TOLEDO,11,FRESNO_STATE,4,1947.87,3895.73,0
+P5A-0756,TOLEDO,University of Toledo,3,ARIZONA_STATE,Arizona State University,4,adjacent,TOLEDO,6,ARIZONA_STATE,1,1643.31,3286.61,0
+P5A-0757,NORTH_TEXAS,University of North Texas,4,ARMY,United States Military Academy,3,adjacent,NORTH_TEXAS,13,ARMY,3,1388.59,2777.17,0
+P5A-0758,WASHINGTON_STATE,Washington State University,4,DUKE,Duke University,3,adjacent,WASHINGTON_STATE,11,DUKE,9,2091.32,4182.64,0
+P5A-0759,WASHINGTON_STATE,Washington State University,4,IOWA_STATE,Iowa State University,3,adjacent,WASHINGTON_STATE,8,IOWA_STATE,3,1200.44,2400.89,0
+P5A-0760,ARMY,United States Military Academy,3,JACKSONVILLE_STATE,Jacksonville State University,4,adjacent,ARMY,11,JACKSONVILLE_STATE,4,830.13,1660.26,0
+P5A-0761,UNLV,University of Nevada Las Vegas,3,FRESNO_STATE,California State University Fresno,4,adjacent,UNLV,8,FRESNO_STATE,8,260.37,520.74,0
+P5A-0762,MARSHALL,Marshall University,4,UNLV,University of Nevada Las Vegas,3,adjacent,MARSHALL,7,UNLV,4,1796.74,3593.49,0
+P5A-0763,ILLINOIS,University of Illinois Urbana-Champaign,3,MARSHALL,Marshall University,4,adjacent,ILLINOIS,8,MARSHALL,8,331.31,662.63,0
+P5A-0764,SOUTH_FLORIDA,University of South Florida,4,ILLINOIS,University of Illinois Urbana-Champaign,3,adjacent,SOUTH_FLORIDA,12,ILLINOIS,2,895.59,1791.19,0
+P5A-0765,SOUTH_FLORIDA,University of South Florida,4,NC_STATE,North Carolina State University,3,adjacent,SOUTH_FLORIDA,3,NC_STATE,9,576.79,1153.59,0
+P5A-0766,NC_STATE,North Carolina State University,3,FLORIDA_STATE,Florida State University,4,adjacent,NC_STATE,13,FLORIDA_STATE,3,491.65,983.3,0
+P5A-0767,WESTERN_KENTUCKY,Western Kentucky University,3,FLORIDA_STATE,Florida State University,4,adjacent,WESTERN_KENTUCKY,11,FLORIDA_STATE,12,468.77,937.54,0
+P5A-0768,WESTERN_KENTUCKY,Western Kentucky University,3,MINNESOTA,University of Minnesota Twin Cities,4,adjacent,WESTERN_KENTUCKY,14,MINNESOTA,3,654.76,1309.53,0
+P5A-0769,EAST_CAROLINA,East Carolina University,6,SOUTH_CAROLINA,University of South Carolina,5,adjacent,EAST_CAROLINA,12,SOUTH_CAROLINA,9,235.54,471.08,0
+P5A-0770,SOUTH_CAROLINA,University of South Carolina,5,VANDERBILT,Vanderbilt University,6,adjacent,SOUTH_CAROLINA,1,VANDERBILT,4,358.54,717.07,0
+P5A-0771,VANDERBILT,Vanderbilt University,6,TROY,Troy University,5,adjacent,VANDERBILT,10,TROY,6,304.04,608.09,0
+P5A-0772,TROY,Troy University,5,KENTUCKY,University of Kentucky,6,adjacent,TROY,12,KENTUCKY,3,438.25,876.51,0
+P5A-0773,KENTUCKY,University of Kentucky,6,HOUSTON,University of Houston,5,adjacent,KENTUCKY,13,HOUSTON,5,845.17,1690.35,0
+P5A-0774,FLORIDA,University of Florida,5,WESTERN_MICHIGAN,Western Michigan University,6,adjacent,FLORIDA,7,WESTERN_MICHIGAN,3,892.0,1784.0,0
+P5A-0775,PITTSBURGH,University of Pittsburgh,5,WESTERN_MICHIGAN,Western Michigan University,6,adjacent,PITTSBURGH,3,WESTERN_MICHIGAN,9,319.48,638.97,0
+P5A-0776,PITTSBURGH,University of Pittsburgh,5,WAKE_FOREST,Wake Forest University,6,adjacent,PITTSBURGH,7,WAKE_FOREST,12,298.31,596.63,0
+P5A-0777,LOUISIANA,University of Louisiana at Lafayette,5,GEORGIA_SOUTHERN,Georgia Southern University,6,adjacent,LOUISIANA,9,GEORGIA_SOUTHERN,13,623.23,1246.46,0
+P5A-0778,BAYLOR,Baylor University,6,LOUISIANA,University of Louisiana at Lafayette,5,adjacent,BAYLOR,1,LOUISIANA,11,315.75,631.5,0
+P5A-0779,AUBURN,Auburn University,5,BAYLOR,Baylor University,6,adjacent,AUBURN,8,BAYLOR,4,684.03,1368.06,0
+P5A-0780,AIR_FORCE,United States Air Force Academy,6,NEBRASKA,University of Nebraska-Lincoln,5,adjacent,AIR_FORCE,1,NEBRASKA,11,450.26,900.52,0
+P5A-0781,VIRGINIA,University of Virginia,5,AIR_FORCE,United States Air Force Academy,6,adjacent,VIRGINIA,7,AIR_FORCE,6,1421.28,2842.56,0
+P5A-0782,VIRGINIA,University of Virginia,5,WEST_VIRGINIA,West Virginia University,6,adjacent,VIRGINIA,10,WEST_VIRGINIA,11,135.18,270.37,0
+P5A-0783,OLD_DOMINION,Old Dominion University,5,WEST_VIRGINIA,West Virginia University,6,adjacent,OLD_DOMINION,13,WEST_VIRGINIA,5,274.19,548.39,0
+P5A-0784,CALIFORNIA,University of California Berkeley,6,OLD_DOMINION,Old Dominion University,5,adjacent,CALIFORNIA,7,OLD_DOMINION,13,2497.95,4995.91,0
+P5A-0785,TEXAS_STATE,Texas State University,5,CALIFORNIA,University of California Berkeley,6,adjacent,TEXAS_STATE,9,CALIFORNIA,11,1494.63,2989.25,0
+P5A-0786,TEXAS_STATE,Texas State University,5,GEORGIA_SOUTHERN,Georgia Southern University,6,adjacent,TEXAS_STATE,8,GEORGIA_SOUTHERN,12,970.41,1940.82,0
+P5A-0787,WAKE_FOREST,Wake Forest University,6,WISCONSIN,University of Wisconsin Madison,5,adjacent,WAKE_FOREST,3,WISCONSIN,7,682.28,1364.57,0
+P5A-0788,CINCINNATI,University of Cincinnati,6,WISCONSIN,University of Wisconsin Madison,5,adjacent,CINCINNATI,1,WISCONSIN,8,373.04,746.08,0
+P5A-0789,CINCINNATI,University of Cincinnati,6,NEBRASKA,University of Nebraska-Lincoln,5,adjacent,CINCINNATI,12,NEBRASKA,6,655.06,1310.13,0
+P5A-0790,COASTAL_CAROLINA,Coastal Carolina University,6,AUBURN,Auburn University,5,adjacent,COASTAL_CAROLINA,5,AUBURN,11,383.24,766.48,0
+P5A-0791,COASTAL_CAROLINA,Coastal Carolina University,6,FLORIDA,University of Florida,5,adjacent,COASTAL_CAROLINA,9,FLORIDA,5,347.4,694.79,0
+P5A-0792,HOUSTON,University of Houston,5,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,adjacent,HOUSTON,1,NORTH_CAROLINA,10,1036.48,2072.96,0
+P5A-0793,NORTH_CAROLINA,University of North Carolina at Chapel Hill,6,APP_STATE,Appalachian State University,5,adjacent,NORTH_CAROLINA,7,APP_STATE,7,148.86,297.71,0
+P5A-0794,APP_STATE,Appalachian State University,5,UCF,University of Central Florida,6,adjacent,APP_STATE,6,UCF,10,526.6,1053.2,0
+P5A-0795,UCF,University of Central Florida,6,KANSAS,University of Kansas,5,adjacent,UCF,9,KANSAS,8,1076.11,2152.22,0
+P5A-0796,EAST_CAROLINA,East Carolina University,6,KANSAS,University of Kansas,5,adjacent,EAST_CAROLINA,1,KANSAS,3,1008.55,2017.11,0
+P5A-0797,SACRAMENTO_STATE,California State University Sacramento,9,PURDUE,Purdue University,10,adjacent,SACRAMENTO_STATE,1,PURDUE,4,1832.51,3665.02,0
+P5A-0798,SACRAMENTO_STATE,California State University Sacramento,9,ULM,University of Louisiana Monroe,10,adjacent,SACRAMENTO_STATE,5,ULM,2,1694.32,3388.64,0
+P5A-0799,GEORGIA_STATE,Georgia State University,10,CENTRAL_MICHIGAN,Central Michigan University,9,adjacent,GEORGIA_STATE,2,CENTRAL_MICHIGAN,4,680.06,1360.13,0
+P5A-0800,BALL_STATE,Ball State University,10,KENNESAW_STATE,Kennesaw State University,9,adjacent,BALL_STATE,5,KENNESAW_STATE,3,428.03,856.05,0
+P5A-0801,BALL_STATE,Ball State University,10,UAB,University of Alabama at Birmingham,9,adjacent,BALL_STATE,2,UAB,1,469.09,938.18,0
+P5A-0802,PURDUE,Purdue University,10,CENTRAL_MICHIGAN,Central Michigan University,9,adjacent,PURDUE,12,CENTRAL_MICHIGAN,3,245.01,490.03,0
+P5A-0803,SAM_HOUSTON,Sam Houston State University,9,TEMPLE,Temple University,10,adjacent,SAM_HOUSTON,4,TEMPLE,4,1311.01,2622.03,0
+P5A-0804,TULSA,University of Tulsa,10,SAM_HOUSTON,Sam Houston State University,9,adjacent,TULSA,2,SAM_HOUSTON,12,376.39,752.78,0
+P5A-0805,TULSA,University of Tulsa,10,RICE,Rice University,9,adjacent,TULSA,13,RICE,8,445.69,891.38,0
+P5A-0806,MIDDLE_TENNESSEE,Middle Tennessee State University,10,RICE,Rice University,9,adjacent,MIDDLE_TENNESSEE,12,RICE,6,673.98,1347.96,0
+P5A-0807,COLORADO_STATE,Colorado State University,9,MIDDLE_TENNESSEE,Middle Tennessee State University,10,adjacent,COLORADO_STATE,8,MIDDLE_TENNESSEE,1,1065.03,2130.06,0
+P5A-0808,COLORADO_STATE,Colorado State University,9,NEVADA,University of Nevada Reno,10,adjacent,COLORADO_STATE,4,NEVADA,10,781.25,1562.51,0
+P5A-0809,EASTERN_MICHIGAN,Eastern Michigan University,9,TEMPLE,Temple University,10,adjacent,EASTERN_MICHIGAN,9,TEMPLE,2,467.65,935.29,0
+P5A-0810,EASTERN_MICHIGAN,Eastern Michigan University,9,ULM,University of Louisiana Monroe,10,adjacent,EASTERN_MICHIGAN,12,ULM,10,815.26,1630.52,0
+P5A-0811,NEVADA,University of Nevada Reno,10,STANFORD,Stanford University,9,adjacent,NEVADA,5,STANFORD,5,193.92,387.83,0
+P5A-0812,FIU,Florida International University,9,AKRON,University of Akron,10,adjacent,FIU,9,AKRON,7,1060.64,2121.28,0
+P5A-0813,AKRON,University of Akron,10,UAB,University of Alabama at Birmingham,9,adjacent,AKRON,2,UAB,10,598.71,1197.41,0
+P5A-0814,CHARLOTTE,University of North Carolina at Charlotte,10,KENNESAW_STATE,Kennesaw State University,9,adjacent,CHARLOTTE,11,KENNESAW_STATE,1,235.56,471.13,0
+P5A-0815,CHARLOTTE,University of North Carolina at Charlotte,10,STANFORD,Stanford University,9,adjacent,CHARLOTTE,1,STANFORD,9,2291.35,4582.71,0
+P5A-0816,UTEP,University of Texas at El Paso,10,FIU,Florida International University,9,adjacent,UTEP,14,FIU,5,1631.94,3263.88,0
+P5A-0817,FLORIDA_ATLANTIC,Florida Atlantic University,9,UMASS,University of Massachusetts Amherst,10,adjacent,FLORIDA_ATLANTIC,2,UMASS,9,1186.49,2372.98,0
+P5A-0818,KENT_STATE,Kent State University,10,FLORIDA_ATLANTIC,Florida Atlantic University,9,adjacent,KENT_STATE,3,FLORIDA_ATLANTIC,13,1023.47,2046.94,0
+P5A-0819,NEW_MEXICO_STATE,New Mexico State University,9,KENT_STATE,Kent State University,10,adjacent,NEW_MEXICO_STATE,13,KENT_STATE,4,1527.64,3055.28,0
+P5A-0820,NEW_MEXICO_STATE,New Mexico State University,9,UTEP,University of Texas at El Paso,10,adjacent,NEW_MEXICO_STATE,4,UTEP,9,37.93,75.85,4
+P5A-0821,SOUTHERN_MISS,University of Southern Mississippi,9,UMASS,University of Massachusetts Amherst,10,adjacent,SOUTHERN_MISS,3,UMASS,4,1199.09,2398.17,0
+P5A-0822,SOUTHERN_MISS,University of Southern Mississippi,9,GEORGIA_STATE,Georgia State University,10,adjacent,SOUTHERN_MISS,5,GEORGIA_STATE,2,333.49,666.97,0

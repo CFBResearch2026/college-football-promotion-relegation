@@ -1,0 +1,11 @@
+Level,Conference,Actual_Schools,Declared_Size,Size_Match,Unique_School_IDs,Adjacent_Levels_Valid,Games_12,Min_Conference_10,Max_Adjacent_2,FBS_Rank_Min,FBS_Rank_Max
+1,ACC,14,14,True,14,True,True,True,True,1,14
+2,American,14,14,True,14,True,True,True,True,15,28
+3,Big 12,14,14,True,14,True,True,True,True,29,42
+4,Big Ten,14,14,True,14,True,True,True,True,43,56
+5,Conference USA,14,14,True,14,True,True,True,True,57,70
+6,MAC,14,14,True,14,True,True,True,True,71,84
+7,Mountain West,14,14,True,14,True,True,True,True,85,98
+8,Pac-12,13,13,True,13,True,True,True,True,99,111
+9,SEC,13,13,True,13,True,True,True,True,112,124
+10,Sun Belt,13,13,True,13,True,True,True,True,125,137

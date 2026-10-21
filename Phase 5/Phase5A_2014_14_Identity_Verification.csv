@@ -1,0 +1,18 @@
+Season,Date,Reporting_Team,Raw_Opponent,Previously_Corrected_Opponent,Canonical_2014_Opponent,Proposed_2014_Class,Evidence_Type,Evidence_URL,Certification_Status,Score_For,Score_Against
+2014,08/30/2014,Alcorn State,Virginia Lynchburg,Virginia Lynchburg,Virginia University of Lynchburg,UNVERIFIED,IDENTITY_ALIAS_ONLY,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,55,7
+2014,09/13/2014,Alcorn State,Louisiana Christian,Louisiana Christian,Louisiana College,NCAA_DIII,REQUIRES_2014_SOURCE,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,52,10
+2014,11/08/2014,Campbell,Missouri Baptist,Missouri Baptist,Missouri Baptist,NAIA,SECONDARY_2014_SEASON,https://americanfootball.fandom.com/wiki/2014_Missouri_Baptist_Spartans,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,66,7
+2014,11/15/2014,Charlotte,Wesley College,Wesley College,Wesley College,NCAA_DIII,NCAA_2014_BRACKET,https://i.turner.ncaa.com/dr/ncaa/ncaa7/release/sites/default/files/external/gametool/brackets/football_d3_2014.pdf,SOURCE_SUPPORTED,38,33
+2014,08/30/2014,Davidson,Charlotte,College of Faith - Charlotte,College of Faith - Charlotte,ASCAA_NON_NCAA,OFFICIAL_2014_NOTES,https://davidsonwildcats.com/documents/download/2014/8/29/140830_COF.pdf,SOURCE_SUPPORTED,56,0
+2014,08/30/2014,Drake,Des Moines,Des Moines,Grand View,NAIA,OFFICIAL_2014_GAME_RECAP,https://godrakebulldogs.com/news/2014/8/30/209629620.aspx,SOURCE_SUPPORTED,22,45
+2014,08/30/2014,Eastern Washington,Montana Western,Montana Western,Montana Western,NAIA,REQUIRES_2014_SOURCE,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,41,9
+2014,09/13/2014,Gardner-Webb,Virginia Lynchburg,Virginia Lynchburg,Virginia University of Lynchburg,UNVERIFIED,IDENTITY_ALIAS_ONLY,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,34,0
+2014,09/06/2014,Jackson State,Virginia Lynchburg,Virginia Lynchburg,Virginia University of Lynchburg,UNVERIFIED,IDENTITY_ALIAS_ONLY,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,59,0
+2014,08/30/2014,Mississippi Valley State,St. Petersburg,St. Petersburg,Faith (Florida) / University of Faith,NON_NCAA_UNVERIFIED,OFFICIAL_2014_GAME_STATS_IDENTITY_ONLY,https://mvsusports.com/sports/football/stats/2014,IDENTITY_VERIFIED_CLASS_PENDING,32,7
+2014,08/28/2014,Murray State,Union College,Union College,Union College (Kentucky),NAIA,REQUIRES_2014_SOURCE,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,73,26
+2014,09/13/2014,Northern Arizona,New Mexico Highlands,New Mexico Highlands,New Mexico Highlands,NCAA_DII,OFFICIAL_2014_CONFERENCE_STATS,https://rmacsports.org/stats.aspx?path=football&year=2014,SOURCE_SUPPORTED,62,23
+2014,09/06/2014,Presbyterian,BLUEFIELD,BLUEFIELD,Bluefield College (Virginia),NAIA,OFFICIAL_2014_FOOTBALL_RECAP,https://burams.com/news/2014/9/20/FB_0920142211.aspx,SOURCE_SUPPORTED,69,14
+2014,09/20/2014,South Dakota State,Wisconsin Oshkosh,Wisconsin Oshkosh,Wisconsin–Oshkosh,NCAA_DIII,OFFICIAL_2014_CONFERENCE_STANDINGS,https://wiacsports.com/standings.aspx?standings=58,SOURCE_SUPPORTED,41,3
+2014,08/28/2014,Southeast Missouri State,Missouri Baptist,Missouri Baptist,Missouri Baptist,NAIA,SECONDARY_2014_SEASON,https://americanfootball.fandom.com/wiki/2014_Missouri_Baptist_Spartans,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,77,0
+2014,09/04/2014,Texas Southern,Texas College,Texas College,Texas College,NAIA,REQUIRES_2014_SOURCE,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,52,14
+2014,09/13/2014,Texas Southern,Central State,Central State,Central State (Ohio),NCAA_DII,REQUIRES_2014_SOURCE,,PROVISIONAL_REQUIRES_ADDITIONAL_SOURCE,30,16

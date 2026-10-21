@@ -1,0 +1,9 @@
+﻿Check,Result,Status
+Games,822,PASS
+Schools,137,PASS
+Opponent/venue integrity exceptions,0,PASS
+Provisional dates,2027-09-04 to 2027-11-27,ASSUMPTION
+Minimum rest (calendar days),7,PASS_SATURDAY_ONLY
+Stadium confirmations,0,NOT_VERIFIED
+TV network/kickoff confirmations,0,NOT_VERIFIED
+Travel timezone checks,0,NOT_VERIFIED

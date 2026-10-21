@@ -1,0 +1,11 @@
+Level,EA_Conference_Slot,Schools,Conference_Games_Per_School,Adjacent_Games_Per_School,Total_Games_Per_School,Conference_Unique_Games,Adjacent_Unique_Games_Touching_Level,Pass
+1,ACC,14,10,2,12,70,28,True
+2,American,14,10,2,12,70,28,True
+3,Big 12,14,10,2,12,70,28,True
+4,Big Ten,14,10,2,12,70,28,True
+5,Conference USA,14,10,2,12,70,28,True
+6,MAC,14,10,2,12,70,28,True
+7,Mountain West,14,12,0,12,84,0,True
+8,Pac-12,13,12,0,12,78,0,True
+9,SEC,13,10,2,12,65,26,True
+10,Sun Belt,13,10,2,12,65,26,True
