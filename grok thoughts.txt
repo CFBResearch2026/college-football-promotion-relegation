@@ -1,0 +1,74 @@
+**Next priority areas I recommend exploring (in rough order):**
+
+Here’s a focused, high-impact roadmap that builds directly on what you’ve already collected. I’m prioritizing things that are **actionable now** with the data you have, while advancing your core goals of **optimized schedules (fairness + broadcast exposure)** and **media valuations**.
+
+### 1. Finalize the Annual Competitive Performance Score (Highest Priority)
+You have the philosophical framework and the three-year weighting, but you don’t yet have a **production-ready formula**.
+
+**What to do next:**
+- Define the exact formula for the **Annual Competitive Score**.
+- Decide weights for: Opponent-Adjusted Efficiency (SP+/FPI-style), Strength of Record (SOR), Win %, SOS, capped point differential, late-season performance, home/road adjustment.
+- Build it in code (Python) against the game-by-game results you already have (2023, 2024, and partial 2025/2026).
+- Output a clean table: `Season, School_ID, Annual_Score, Rank, ThreeYear_Score`.
+
+This is the **engine** of the entire model. Everything else (tiers, promotion/relegation, scheduling) depends on it.
+
+### 2. Build Tier Placement & Promotion/Relegation Simulator
+Once you have the three-year scores:
+- Run historical simulations (2016–2024 or 2018–2024) to see how much churn the model would have produced.
+- Test different numbers of teams per tier (e.g., 40 / 44 / 48) and movement rules (4 up/4 down vs 3+playoff).
+- Add the readiness gate as a filter (you already have the `NCAA_FBS Operational Readiness.csv` file).
+
+This will let you see which programs would have moved most and whether the model feels stable enough.
+
+### 3. Media Valuation & Broadcast Exposure Model
+This is one of your explicit new priorities.
+
+**Recommended approach:**
+- Create a **Media Value Score** per school using the fields you already have:
+  - Historical Brand Index
+  - Average Attendance
+  - Athletic Department Revenue
+  - Roster Expenditure / Collective Support
+  - Social Media Index
+  - Market size (you can approximate from state + metro data)
+- Weight these into a composite **Broadcast Attractiveness Score**.
+- Then build a **Schedule Optimization layer** that tries to maximize:
+  - Competitive balance/fairness (minimize strength-of-schedule disparity)
+  - Broadcast value (high-value games in prime slots, good regional matchups)
+  - Travel cost / geographic clustering
+  - Protected rivalries
+
+This is a non-trivial optimization problem. We can start with a greedy algorithm or linear programming (PuLP is available in the code interpreter).
+
+### 4. Conference Design Engine (within tiers)
+With tiers defined, build an algorithm that assigns schools to conferences (max 20 teams) that optimizes:
+- Geographic proximity / travel cost (you have rivalry/travel CSVs with distances)
+- Rivalry preservation (you have excellent rivalry files)
+- Academic/institutional compatibility (you just added the academics file)
+- Media value balance across conferences (so no single conference dominates TV revenue)
+
+This is the part that turns raw tiers into actual schedulable leagues.
+
+### 5. Schedule Generator + Fairness Metrics
+Once conferences are sketched:
+- Generate realistic 12-game schedules per conference.
+- Score each schedule on:
+  - Fairness (variance in SOS, home/away balance)
+  - Broadcast exposure (number of high-value matchups, weekend distribution)
+  - Travel burden
+- Iterate to find the “most optimized” versions.
+
+### Recommended Immediate Next Steps (next 1–2 turns)
+
+1. **Define and implement the final Annual Competitive Score formula** (most important).
+2. Run it on 2023–2026 data to produce current three-year rankings.
+3. Start building the **Media Value / Broadcast Attractiveness** composite score.
+4. Sketch initial Tier 1, Tier 2, and Tier 3 boundaries based on the performance scores.
+
+Would you like me to:
+- Propose a specific weighted formula for the Annual Competitive Score?
+- Start building the Media Valuation model using the files you already have?
+- Begin sketching logical Tier 1 conferences (using geography, rivalries, readiness, and media value)?
+
+Or tell me which of these areas you want to tackle first. I can start producing actual code/tables immediately.
