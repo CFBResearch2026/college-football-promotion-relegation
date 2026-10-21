@@ -1,0 +1,22 @@
+metric,13_week,14_week,difference,interpretation
+Calendar Saturdays,13,14,1,14-week schedule adds an unused August 28 Saturday
+Saturdays with games,13,13,0,No additional game-bearing Saturday
+Games,822,822,0,All matchups identical
+Teams,137,137,0,All team identities identical
+Games per team,12,12,0,No change
+Total team-open Saturdays,137,274,137,Includes preseason open Saturday on August 28 in 14-week scenario
+Mean open Saturdays per team,1,2,1,Second open Saturday is universal and occurs before first game
+Games moved to new date,0,0,0,14-week scenario does not redistribute any game dates
+Kickoff window changes relative to Phase10 D,0,0,0,Carried forward Phase10 D windows; Pass19 did not supply new broadcast optimization
+Hypothetical national games,104,104,0,Carried forward Phase10 D
+Teams with at least one national appearance,137,137,0,Carried forward Phase10 D
+Maximum late kickoffs per team,6,6,0,Carried forward Phase10 D
+Total reference demand index D,23605.56,23605.56,0.0,"Exactly equal by construction, no actual kickoff or date changes"
+Games per active Saturday mean,63.231,63.231,0.0,Only 13 active Saturdays in both
+Games per calendar Saturday mean,63.231,58.714,-4.517000000000003,"Lower 14-week average reflects an empty week, not less game concurrency"
+Peak games on any Saturday,67,67,0,Peak broadcast load unchanged
+Standard deviation of active-week games,1.576,1.576,0.0,Active-week variation unchanged
+Standard deviation of calendar-week games,1.576,16.355,14.779,Includes empty Saturday
+Median days between team games,7,7,0,Game-to-game rest is identical
+Road transitions (Phase5 Pass19),262,262,0,Reported by source summary; not redefined
+Teams with 3+ consecutive road games (Phase5 Pass19),41,41,0,Reported by source summary

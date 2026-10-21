@@ -1,0 +1,4 @@
+﻿scenario,games,kickoff_changes,national_games,max_simultaneous,games_with_6plus_concurrent,teams_with_zero_national,teams_with_3plus_late,max_late_games_per_team,median_team_audience_index,minimum_team_audience_index,Low competition_total_index,Reference competition_total_index,High competition_total_index,Low competition_pct_vs_A,Reference competition_pct_vs_A,High competition_pct_vs_A
+A - Fixed schedule,822,0,104,9,709,109,18,7,164.86,49.92,27226.21,22904.36,19142.86,0.0,0.0,0.0
+B - Audience priority,822,745,104,9,709,109,15,11,167.39,45.43,27678.6,23199.14,19306.47,1.66,1.29,0.85
+C - Balanced exposure,822,336,104,9,709,13,17,6,235.98,84.51,23013.82,19226.57,15962.65,-15.47,-16.06,-16.61

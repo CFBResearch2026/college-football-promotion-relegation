@@ -1,0 +1,5 @@
+﻿scenario,games,kickoff_changes,national_games,teams_without_national,max_late_per_team,reference_demand_index,comparability
+A - Fixed schedule,822,0,104,109,7,22904.36,Phase 9 historical model
+B - Audience priority,822,745,104,109,11,23199.14,Phase 9 historical model
+C - Balanced exposure,822,336,104,13,6,19226.57,Phase 9 historical model
+D - Constrained hybrid,822,36,104,0,6,23605.56,Phase 9 factors reconstructed; proxy not identical to original estimator

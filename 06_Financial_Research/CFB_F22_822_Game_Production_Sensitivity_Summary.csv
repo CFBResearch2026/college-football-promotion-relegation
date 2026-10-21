@@ -1,0 +1,10 @@
+scenario,production_model,secondary_games,secondary_production_cost_m,secondary_illustrative_rights_capacity_m,national_111_game_capacity_m,total_822_game_capacity_m,assumptions_verified
+Conservative,Centralized league production,711,214.793,0,80.29,80.29,NO
+Conservative,Digital-first differentiated,711,151.973,0,80.29,80.29,NO
+Conservative,Traditional broadcaster,711,330.45,0,80.29,80.29,NO
+Reference,Centralized league production,711,244.498,5.648,292.89,298.538,NO
+Reference,Digital-first differentiated,711,173.298,55.351,292.89,348.241,NO
+Reference,Traditional broadcaster,711,376.15,0,292.89,292.89,NO
+Upside,Centralized league production,711,274.202,121.717,505.71,627.427,NO
+Upside,Digital-first differentiated,711,194.623,201.297,505.71,707.007,NO
+Upside,Traditional broadcaster,711,421.85,10.239,505.71,515.949,NO

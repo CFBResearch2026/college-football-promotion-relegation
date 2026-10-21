@@ -1,0 +1,42 @@
+CFB F26 — GOVERNING METHODOLOGY AND RESEARCH GATES
+Date: 2026-10-21
+Status: ACTIVE RESEARCH; NOT A VERIFIED AUDIENCE EFFECT ESTIMATE
+
+1. GOVERNANCE
+Recent project decisions and reconstructed competitiveness-based conference design supersede older illustrative tier sizes, conference affiliations, and movement rules. Historical documents remain evidence of methodology and candidate sensitivities, not automatically binding configuration. Legacy media rights are transition sensitivities; no signed future deals are asserted.
+
+2. HISTORICAL TIME FIREWALL
+At every simulated season start, freeze tier assignments using only data available before the specified cutoff. Record information-release timestamps, historical football classifications, sponsorship status, conference membership, postseason eligibility, and transitional status. Do not leak end-of-season rankings or results into preseason decisions.
+
+3. OBSERVED VS SYNTHETIC
+Label games OBSERVED_HISTORICAL_GAME, SIMULATED_RECONSTRUCTED_GAME, or PROPOSED_UNPLAYED_GAME. Actual historical audiences cannot be imputed as observed audiences for hypothetical games. Estimate uncertainty for missing games and test multiple simulation seeds and modeling assumptions.
+
+4. CONTROLLED BASELINES
+Preserve (A) observed historical existing system, (B) feasible reconstructed baseline, (C) competitively optimized schedule, and (D) broadcast-exposure optimized schedule. Attribute differences to format, scheduling, and distribution separately. Respect full-season day-of-week inventory, six-day minimum rest where approved, stadium and travel feasibility, and known unverified clearances.
+
+5. PERFORMANCE AND PROMOTION
+On-field performance determines earned tier placement. Media, money, academic profile, and brand are not competitive-rank inputs. Readiness is a separate feasibility gate. Test annual and four-year movement rules, promotion counts, and robustness to simulated unplayed matchups. Do not present older candidate score weights as finalized code without verifying the current governing version.
+
+6. F26 HISTORICAL STAKES LABELS
+Label conference-title contention, postseason qualification, elimination implications, and rivalry independently with pregame evidence, as-of date, official or contemporaneous URL, and confidence. Avoid treating late-season timing as proof of stakes. Historical promotion/relegation stakes are NOT_APPLICABLE_OBSERVED; modeled stakes belong to simulated counterfactuals only.
+
+7. BROADCAST AUDIENCE ANALYSIS
+Resolve duplicate audience-source records and conflicts in measurement definition before deduplication. Adjust comparisons for brand appeal, network reach, kickoff window, week, competing games, team quality, records, rankings, and game context. Measure both inventory additions and displaced audience/inventory; do not equate extra broadcasts with net-new value. Treat F20-F23 rights-fee outputs as hypothetical sensitivity calculations, not bids or validated prices.
+
+8. COMMENTARY TEAMS
+Archive.506sports.com is a potential source for announcer assignments. Collect crew identities and network assignments as dated covariates. Do not claim correlation or causal impact before verified matching and confounder controls (marquee matchups attract marquee announcers). Compare within network/slot/team quality where sample supports it.
+
+9. DATA PROVENANCE
+Maintain School_ID crosswalks, season-effective affiliations, game ID, raw source row, extraction timestamp, source URL, confidence and verification status, and transformations. Resolve known historical DII conference-affiliation issues from official archived records before historical lower-division simulation.
+
+10. F26 STOP/GO GATES
+Gate 1: source-level deduplication and audience measurement harmonization.
+Gate 2: season-specific historical roster/record/ranking crosswalk.
+Gate 3: pregame stakes evidence and label adjudication.
+Gate 4: commentator crew match where feasible.
+Gate 5: baseline audience model and out-of-time validation.
+Gate 6: stakes uplift sensitivity, then transfer to hypothetical relegation model with uncertainty bounds.
+No stakes effect estimate is authorized before Gates 1-3; no causal commentator claim without controlled identification.
+
+CURRENT EXECUTION
+2024 and 2025 F25 crosswalk contains 889 audience-source rows; 332 late-season-priority rows. Initial duplicate-screen flags 46 potential same-date matchup groups involving 92 rows, all in 2025. One additional 2024 nonnumeric/missing audience flag. No competitive-stakes labels have been independently verified. These flags require source adjudication and should not be automatically deleted.

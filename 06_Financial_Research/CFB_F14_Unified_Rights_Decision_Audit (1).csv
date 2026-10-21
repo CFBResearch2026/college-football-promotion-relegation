@@ -1,0 +1,14 @@
+﻿measure,value,interpretation
+games,822,Matchups retained
+national_games,111,"Hypothetical, not cleared"
+national_teams,137,At least one appearance
+over_the_air_games,67,Candidate assignments
+national_cable_games,44,Candidate assignments
+historical_network_day_sample_20_plus,110,Descriptive precedent only
+historical_network_day_small_sample,0,Do not extrapolate confidently
+historical_network_day_no_sample,1,Unsupported network-day extrapolation
+network_date_capacity_collisions,0,Assumed capacity one per network/date
+verified_rights_clearances,0,Scenario assumes rights successfully renegotiated
+verified_venue_clearances,0,Not certified
+legacy_partner_mismatches_blocking,0,Legacy screens retired for unified model
+weekday_games,41,All still subject to rest/venue checks

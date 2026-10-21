@@ -1,0 +1,5 @@
+model,held_out_seasons,total_test_games,weighted_mean_mae_viewers,weighted_mean_r2_log,weighted_mean_within_20_pct,note
+full_observed,2024;2025,887,1336485,0.7451,26.15,weighted averages of season-level statistics; not pooled residual metrics
+network_timeslot,2024;2025,887,1587972,0.6634,19.39,weighted averages of season-level statistics; not pooled residual metrics
+season_baseline,2024;2025,887,2204415,-0.0433,8.8,weighted averages of season-level statistics; not pooled residual metrics
+team_matchup,2024;2025,887,1581602,0.4421,14.77,weighted averages of season-level statistics; not pooled residual metrics

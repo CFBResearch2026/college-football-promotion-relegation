@@ -1,0 +1,5 @@
+package,selected_games,weeks,weeks_over_saturday_8_cap,saturday_slot_overage,weeks_over_total_11_cap,total_slot_overage,max_weekly_national,audience_sum_backtest,valuation_status
+111,111,14,0,0,0,0,11,NOT_AVAILABLE_FROM_AGGREGATE_METRICS,NOT_READY
+126,126,14,1,3,1,3,14,NOT_AVAILABLE_FROM_AGGREGATE_METRICS,NOT_READY
+140,140,14,2,6,2,6,16,NOT_AVAILABLE_FROM_AGGREGATE_METRICS,NOT_READY
+154,154,14,5,11,5,11,16,NOT_AVAILABLE_FROM_AGGREGATE_METRICS,NOT_READY

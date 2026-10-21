@@ -1,0 +1,5 @@
+﻿scenario,games,unique_game_ids,unique_teams,teams_with_12_games,distinct_dates,kickoff_changes,national_games,teams_without_national,maximum_national_team_appearances,maximum_late_kickoffs,max_games_same_window,reported_index,same_formula_index,absolute_rounding_gap,max_game_rounding_gap,matchup_date_ids_equal_D,index_change_vs_A_pct
+A,822,822,137,137,13,0,104,109,10,Not revalidated,9,22904.36,22904.52,0.156,0.0021,True,0.0
+B,822,822,137,137,13,745,104,109,10,Not revalidated,9,23199.14,23199.33,0.19,0.0025,True,1.287
+C,822,822,137,137,13,336,104,13,3,Not revalidated,9,19226.57,19226.73,0.162,0.0022,True,-16.057
+D,822,822,137,137,13,36,104,0,12,6,9,23605.56,23605.72,0.156,0.0016,True,3.061

@@ -1,0 +1,6 @@
+﻿national_games_per_week,season_national_game_slots,max_possible_distinct_team_appearances,minimum_teams_without_national,all_137_mathematically_possible,D_104_national_assignments_fit_capacity,actual_rights_inventory_verified,note
+4,52,104,33,False,False,No,Upper bound ignores matchup topology and window/network constraints
+6,78,137,0,True,False,No,Upper bound ignores matchup topology and window/network constraints
+8,104,137,0,True,True,No,Upper bound ignores matchup topology and window/network constraints
+10,130,137,0,True,True,No,Upper bound ignores matchup topology and window/network constraints
+12,156,137,0,True,True,No,Upper bound ignores matchup topology and window/network constraints

@@ -1,0 +1,10 @@
+scenario,distribution_tier,games,assumed_avg_viewers_m,assumed_cpm_usd,assumed_ad_spots,assumed_sell_through,assumed_incremental_nonad_m_per_game,assumed_production_m_per_game,assumed_buyer_margin,gross_ad_revenue_m,incremental_nonad_value_m,production_cost_m,illustrative_rights_capacity_m,verified_market_price,note
+Conservative,Regional/digital,301,0.06,0.5,12,0.65,0.1,0.35,0.2,0.07,30.1,105.35,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Conservative,Streaming,207,0.08,0.5,12,0.65,0.15,0.45,0.2,0.065,31.05,93.15,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Conservative,Cable,203,0.2,1.5,20,0.7,0.3,0.65,0.25,0.853,60.9,131.95,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Reference,Regional/digital,301,0.12,1.0,16,0.75,0.25,0.4,0.25,0.433,75.25,120.4,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Reference,Streaming,207,0.15,1.0,16,0.75,0.45,0.5,0.25,0.373,93.15,103.5,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Reference,Cable,203,0.4,2.0,25,0.8,0.7,0.75,0.3,3.248,142.1,152.25,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Upside,Regional/digital,301,0.2,1.5,20,0.85,0.5,0.45,0.3,1.535,150.5,135.45,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Upside,Streaming,207,0.25,1.5,20,0.85,0.85,0.55,0.3,1.32,175.95,113.85,10.239,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages
+Upside,Cable,203,0.7,3.0,30,0.85,1.2,0.85,0.35,10.871,243.6,172.55,0,NO,Hypothetical incremental economics; nonad must be net of existing benefits and mutually exclusive across packages

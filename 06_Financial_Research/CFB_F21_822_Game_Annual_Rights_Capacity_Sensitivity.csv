@@ -1,0 +1,4 @@
+scenario,games_total,national_games,other_games,f20_national_capacity_m,f21_secondary_capacity_m,f21_total_illustrative_capacity_m,postseason_included,sponsorship_separate_included,bids_verified,financial_prediction_validated
+Conservative,822,111,711,80.29,0.0,80.29,NO,NO,NO,NO
+Reference,822,111,711,292.89,0.0,292.89,NO,NO,NO,NO
+Upside,822,111,711,505.71,10.239,515.949,NO,NO,NO,NO

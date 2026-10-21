@@ -1,0 +1,8 @@
+decision_gate,current_status,required_next_evidence
+Postseason structure,Unapproved scenario,"Define actual bracket, participants, championship and relegation game inventory"
+Postseason game overlap,Not verified,Check whether new games replace any existing 822 or other postseason rights
+Postseason audience,Illustrative assumptions,Comparable postseason audience observations with game and network controls
+Promotion/relegation stakes uplift,"Illustrative 0%, 2%, 5% capacity sensitivities",Historical quasi-experimental validation or external sports analogs
+Buyer economics,Illustrative,"Buyer-specific advertising, production and incremental distribution evidence"
+Commercial packaging,Unnegotiated,Auction rights term sheets and buyer feedback
+Valuation precision,Not market prediction,"Backtesting, calibrated forecast ranges and benchmark reconciliation"

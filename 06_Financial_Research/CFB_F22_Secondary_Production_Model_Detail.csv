@@ -1,0 +1,28 @@
+scenario,production_model,tier,games,production_cost_multiplier,production_cost_m,gross_ad_m,nonad_value_m,buyer_margin,illustrative_rights_capacity_m,additional_nonad_per_game_needed_for_positive_capacity_m,assumptions_verified
+Conservative,Traditional broadcaster,Regional/digital,301,1,105.35,0.07,30.1,0.2,0,0.3373,NO
+Conservative,Centralized league production,Regional/digital,301,0.65,68.477,0.07,30.1,0.2,0,0.1841,NO
+Conservative,Digital-first differentiated,Regional/digital,301,0.4,42.14,0.07,30.1,0.2,0,0.0748,NO
+Conservative,Traditional broadcaster,Streaming,207,1,93.15,0.065,31.05,0.2,0,0.4122,NO
+Conservative,Centralized league production,Streaming,207,0.65,60.548,0.065,31.05,0.2,0,0.2153,NO
+Conservative,Digital-first differentiated,Streaming,207,0.4,37.26,0.065,31.05,0.2,0,0.0747,NO
+Conservative,Traditional broadcaster,Cable,203,1,131.95,0.853,60.9,0.25,0,0.5625,NO
+Conservative,Centralized league production,Cable,203,0.65,85.767,0.853,60.9,0.25,0,0.2591,NO
+Conservative,Digital-first differentiated,Cable,203,0.55,72.573,0.853,60.9,0.25,0,0.1725,NO
+Reference,Traditional broadcaster,Regional/digital,301,1,120.4,0.433,75.25,0.25,0,0.2819,NO
+Reference,Centralized league production,Regional/digital,301,0.65,78.26,0.433,75.25,0.25,0,0.0952,NO
+Reference,Digital-first differentiated,Regional/digital,301,0.4,48.16,0.433,75.25,0.25,8.602,0,NO
+Reference,Traditional broadcaster,Streaming,207,1,103.5,0.373,93.15,0.25,0,0.2149,NO
+Reference,Centralized league production,Streaming,207,0.65,67.275,0.373,93.15,0.25,2.867,0,NO
+Reference,Digital-first differentiated,Streaming,207,0.4,41.4,0.373,93.15,0.25,28.742,0,NO
+Reference,Traditional broadcaster,Cable,203,1,152.25,3.248,142.1,0.3,0,0.3554,NO
+Reference,Centralized league production,Cable,203,0.65,98.963,3.248,142.1,0.3,2.781,0,NO
+Reference,Digital-first differentiated,Cable,203,0.55,83.738,3.248,142.1,0.3,18.006,0,NO
+Upside,Traditional broadcaster,Regional/digital,301,1,135.45,1.535,150.5,0.3,0,0.1378,NO
+Upside,Centralized league production,Regional/digital,301,0.65,88.042,1.535,150.5,0.3,18.382,0,NO
+Upside,Digital-first differentiated,Regional/digital,301,0.4,54.18,1.535,150.5,0.3,52.244,0,NO
+Upside,Traditional broadcaster,Streaming,207,1,113.85,1.32,175.95,0.3,10.239,0,NO
+Upside,Centralized league production,Streaming,207,0.65,74.002,1.32,175.95,0.3,50.086,0,NO
+Upside,Digital-first differentiated,Streaming,207,0.4,45.54,1.32,175.95,0.3,78.549,0,NO
+Upside,Traditional broadcaster,Cable,203,1,172.55,10.871,243.6,0.35,0,0.0541,NO
+Upside,Centralized league production,Cable,203,0.65,112.158,10.871,243.6,0.35,53.249,0,NO
+Upside,Digital-first differentiated,Cable,203,0.55,94.903,10.871,243.6,0.35,70.504,0,NO

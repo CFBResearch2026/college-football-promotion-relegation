@@ -1,0 +1,25 @@
+﻿sensitivity,scenario,demand_index,difference_vs_A_pct,competition_penalty_per_extra_game,regional_reach_factor,streaming_reach_factor
+Low competition,A,26595.7,0.0,0.035,1,1
+Low competition,B,27025.27,1.615,0.035,1,1
+Low competition,C,22459.1,-15.554,0.035,1,1
+Low competition,D,27318.24,2.717,0.035,1,1
+Reference,A,22904.45,0.0,0.07,1,1
+Reference,B,23199.24,1.287,0.07,1,1
+Reference,C,19226.65,-16.057,0.07,1,1
+Reference,D,23605.66,3.061,0.07,1,1
+High competition,A,20132.01,0.0,0.105,1,1
+High competition,B,20328.88,0.978,0.105,1,1
+High competition,C,16817.75,-16.463,0.105,1,1
+High competition,D,20796.68,3.302,0.105,1,1
+Digital reach -30%,A,21509.2,0.0,0.07,0.7,0.7
+Digital reach -30%,B,21809.27,1.395,0.07,0.7,0.7
+Digital reach -30%,C,17639.06,-17.993,0.07,0.7,0.7
+Digital reach -30%,D,22329.45,3.813,0.07,0.7,0.7
+Digital reach +30%,A,24299.71,0.0,0.07,1.3,1.3
+Digital reach +30%,B,24589.22,1.191,0.07,1.3,1.3
+Digital reach +30%,C,20814.24,-14.344,0.07,1.3,1.3
+Digital reach +30%,D,24881.87,2.396,0.07,1.3,1.3
+No concurrency penalty,A,31781.62,0.0,0,1,1
+No concurrency penalty,B,32389.29,1.912,0,1,1
+No concurrency penalty,C,27040.84,-14.917,0,1,1
+No concurrency penalty,D,32475.54,2.183,0,1,1

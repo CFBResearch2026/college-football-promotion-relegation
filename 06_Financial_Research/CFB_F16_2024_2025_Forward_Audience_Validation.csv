@@ -1,0 +1,9 @@
+test_season,model,train_games,test_games,train_through,r2_log,median_absolute_pct_error,within_5_pct,within_20_pct,mae_viewers,f16_interpretation
+2024,season_baseline,2875,480,2023,-0.0622,80.9,3.12,10.21,1782611.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2024,network_timeslot,2875,480,2023,0.631,52.95,4.58,19.58,1212683.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2024,team_matchup,2875,480,2023,0.5111,56.33,3.33,15.42,1103401.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2024,full_observed,2875,480,2023,0.7655,39.75,7.29,28.54,911546.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2025,season_baseline,3355,407,2024,-0.021,79.02,1.23,7.13,2701874.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2025,network_timeslot,3355,407,2024,0.7017,53.19,4.42,19.16,2030573.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2025,team_matchup,3355,407,2024,0.3608,61.81,4.42,14.0,2145574.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation
+2025,full_observed,3355,407,2024,0.7211,42.98,5.65,23.34,1837642.0,historical forward-season test; not validated for restructured 2027 conferences or changed broadcast allocation

@@ -1,0 +1,7 @@
+﻿weekday_multiplier,pass25_index,scenario_f2_index,difference_percent,status
+0.6,23758.65,23196.89,-2.36,ILLUSTRATIVE ONLY - weekday effects not calibrated
+0.75,23758.65,24482.55,3.05,ILLUSTRATIVE ONLY - weekday effects not calibrated
+0.9,23758.65,25768.21,8.46,ILLUSTRATIVE ONLY - weekday effects not calibrated
+1,23758.65,26625.32,12.07,ILLUSTRATIVE ONLY - weekday effects not calibrated
+1.1,23758.65,27482.42,15.67,ILLUSTRATIVE ONLY - weekday effects not calibrated
+1.25,23758.65,28768.08,21.08,ILLUSTRATIVE ONLY - weekday effects not calibrated

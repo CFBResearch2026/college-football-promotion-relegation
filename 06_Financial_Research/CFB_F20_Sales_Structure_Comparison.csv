@@ -1,0 +1,10 @@
+scenario,structure,rights_fee_capacity_m,games,capacity_method,verified_bids,rights_cleared,streaming_incremental_value_m,status
+Conservative,Separate buyer packages,80.29,111,Sum of non-overlapping group capacities,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Conservative,Exclusive single buyer,64.23,111,Illustrative 20% portfolio monetization haircut,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Conservative,Hybrid TV plus streaming,80.29,111,Same TV capacity; no additional streaming value without independently supported incremental economics,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Reference,Separate buyer packages,292.89,111,Sum of non-overlapping group capacities,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Reference,Exclusive single buyer,234.31,111,Illustrative 20% portfolio monetization haircut,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Reference,Hybrid TV plus streaming,292.89,111,Same TV capacity; no additional streaming value without independently supported incremental economics,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Upside,Separate buyer packages,505.71,111,Sum of non-overlapping group capacities,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Upside,Exclusive single buyer,404.57,111,Illustrative 20% portfolio monetization haircut,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
+Upside,Hybrid TV plus streaming,505.71,111,Same TV capacity; no additional streaming value without independently supported incremental economics,0,0,0,ILLUSTRATIVE_NO_VALIDATED_BIDS
