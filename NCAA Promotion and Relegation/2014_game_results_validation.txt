@@ -1,0 +1,14 @@
+2014 ESPN/SportsDataverse source conversion validation
+Source game records: 1592
+Unique eligible games included: 1584
+Team-game CSV rows: 3091
+Distinct (team,division) entries: 252
+FBS team-game rows: 1628
+FCS team-game rows: 1463
+Skipped: {'neither team FBS/FCS': 8}
+Anomalies: []
+Validation: no missing score in included games; each result derived from score; games sorted by converted date then game ID; game numbers sequential per team.
+CAVEATS: source includes 719 games with blank status fields (not proof of missing final score); ESPN source season coverage and FCS playoff completeness not independently verified.
+Dates converted from source UTC timestamps to America/New_York calendar date, not necessarily local stadium date.
+Neutral site uses source neutral_site field; source may incorrectly flag games, especially early-season games.
+Division labels are taken from the source, and teams are included only where labeled FBS or FCS.

@@ -1,0 +1,19 @@
+2014 all-levels football classification crosswalk
+Total distinct source names: 923
+
+NCAA DIII: 244
+NCAA DII: 171
+Junior college / other 2-year: 135
+NCAA FBS/FCS (review subdivision): 135
+NCAA FCS: 113
+NAIA: 88
+Canadian university: 27
+Other / non-NCAA: 5
+NCAA FBS: 4
+DII transition / disputed: 1
+
+Methodology: Source-name to 2014 classification, with manually curated NCAA DII roster, 2014 FBS/FCS dataset, and historical school rosters. High/Likely labels are not a substitute for institutional verification.
+All names are included. First-ever DII season intentionally blank except known first-year football programs; cannot be inferred from 2014 classification.
+FBS/FCS review subdivision means the school matched a 2014 FBS/FCS game file but its subdivision was not established by that match alone.
+Transitional status requires separate adjudication, particularly McMurry and Mississippi College.
+Sources: uploaded 2014 all-levels results, existing 2014 FBS/FCS game file, https://en.wikipedia.org/wiki/2014_NCAA_Division_II_football_season

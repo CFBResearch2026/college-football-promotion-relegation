@@ -1,0 +1,25 @@
+PROVISIONAL Division II historical football export 2015-2026
+Source: user-provided college football game by game results 2014.docx
+Source 2014 classification: NCAA_2014_All_923_Team_Classification_Crosswalk.csv
+Year-by-year crosswalk is a projected 2014 baseline with explicitly curated transitions, NOT a fully NCAA-verified annual roster.
+DII transitional teams included; opponent classification is not used to exclude games.
+First DII football season remains blank unless verified in original crosswalk.
+Neutral site inferred from site text only; Unknown means source does not explicitly identify venue.
+2026 is IN PROGRESS as of October 15, 2026; no future scores included.
+COVID 2020 data coverage may be sparse.
+Parsed scored games all levels 2015-2026: 52014; unparsed/tied dated source lines: 2
+All source/crosswalk team names in year-by-year crosswalk: 1024; crosswalk rows: 12288
+Exported DII team-game rows: 18490
+2015: 1886 team-game rows; 171 teams
+2016: 1886 team-game rows; 170 teams
+2017: 1853 team-game rows; 169 teams
+2018: 1839 team-game rows; 168 teams
+2019: 1822 team-game rows; 165 teams
+2020: 53 team-game rows; 21 teams
+2021: 1962 team-game rows; 163 teams
+2022: 1766 team-game rows; 160 teams
+2023: 1764 team-game rows; 160 teams
+2024: 1760 team-game rows; 159 teams
+2025: 1769 team-game rows; 158 teams
+2026: 130 team-game rows; 130 teams
+Important: this export must not be treated as fully verified for historical division membership, completeness or first DII entry years.

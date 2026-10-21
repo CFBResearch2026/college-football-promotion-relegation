@@ -1,0 +1,81 @@
+South Dakota State ranked ahead of North Dakota State because our v0.8 model carried forward an older rating that favored South Dakota State, rather than recalculating both schools using the latest game results.
+
+Here's the comparison from our model:
+
+| Metric                        | South Dakota State | North Dakota State |
+| ----------------------------- | ------------------ | ------------------ |
+| Overall ranking               | 36                 | 52                 |
+| Model rating                  | 58.361             | 56.100             |
+| 2023–2025 winning percentage  | 79.13%             | 85.53%             |
+| Opponents' winning percentage | 57.94%             | 55.17%             |
+| Scoring-margin index          | 0.4743             | 0.6193             |
+
+What happened: The older rating favored South Dakota State by 2.261 points. When we created v0.8, we preserved that rating and used it to determine the rankings.
+
+The newer statistics were added for analysis, but they did not change the ranking.
+
+South Dakota State had a slightly stronger observed schedule, and its dominant 2022–2023 stretch may have contributed to the earlier rating. However, we don't have a sufficiently detailed calculation from the older model to establish exactly how much each factor contributed.
+
+Meanwhile, North Dakota State had the better 2023–2025 winning percentage, better scoring-margin index, and won three of the four head-to-head meetings from 2023 through 2025.
+
+Bottom line: South Dakota State's higher ranking is a consequence of retaining the older model score—not evidence that our updated data establishes South Dakota State as the stronger program.
+
+I recommend recalculating all 899 schools, rather than manually reversing these two. That would correct the underlying methodology and prevent similar inconsistencies elsewhere in the promotion/relegation system.
+
+
+## Version 0.9 — National Rankings Recalibration
+
+I've completed a new provisional ranking calculation for all 899 American college football programs.
+
+The most significant change: North Dakota State now ranks ahead of South Dakota State.
+
+Download v0.9 Rankings — Excel
+
+All 899 schools, updated tiers, conferences, methodology, and an NDSU–SDSU comparison.
+
+Download complete rankings — CSV
+
+## North Dakota State vs. South Dakota State
+
+| Metric                       | North Dakota State | South Dakota State |
+| ---------------------------- | ------------------ | ------------------ |
+| Previous national rank       | 52                 | 36                 |
+| New provisional rank         | 19                 | 22                 |
+| New rating                   | 64.594             | 64.346             |
+| 2023–2025 winning percentage | 85.53%             | 79.13%             |
+| Scoring-margin index         | 0.6193             | 0.4743             |
+| FCS national championships   | 10                 | 2                  |
+
+Championship totals are through 2025. Titles were not awarded arbitrary rating bonuses.
+
+Both programs now fall within Tier 1 under this provisional calculation.
+
+### What changed?
+
+The recalculation gives recent performance more influence while retaining part of the previous rating as a cross-division anchor.
+
+The recent-evidence score uses our agreed 65% performance, 25% schedule-strength, and 10% consistency framework. However, the current implementation uses observed opponent winning percentage as an SOS proxy, rather than a fully opponent-adjusted national schedule rating.
+
+That distinction matters: v0.9 is a measurable improvement in incorporating recent results, but it is not yet the definitive common-scale ranking we ultimately want.
+
+## System-wide results
+
+# 899
+
+Ranked programs
+
+# 38
+
+Competitive tiers
+
+# 65
+
+Programs lacking sufficient recent evidence
+
+The workbook maintains 24-team tiers wherever possible and limits conferences to 12 schools.
+
+### Remaining validation
+
+Before declaring the rankings final, the model still needs complete opponent identity reconciliation, a game-level cross-division strength calculation, Canadian opponent calibration, and geographic conference optimization.
+
+My recommendation is to use v0.9 as our new working alignment, replacing v0.8 for provisional rankings, while reserving final promotion/relegation decisions until the common-scale model has been validated.
