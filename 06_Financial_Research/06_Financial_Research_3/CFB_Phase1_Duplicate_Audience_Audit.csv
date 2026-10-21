@@ -1,0 +1,63 @@
+﻿season,game_date,team_1,team_2,source_row,network,viewers,selected_for_primary,issue
+2015,2015-12-31,Alabama,Michigan State,76,,18641000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2015-12-31,Alabama,Michigan State,1067,ESPN,18552000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2015-12-31,Clemson,Oklahoma,77,,15730000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2015-12-31,Clemson,Oklahoma,1068,ESPN,15640000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2016-01-11,Alabama,Clemson,78,,26125000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2016-01-11,Alabama,Clemson,1079,ESPN Megacast,26182000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-01,Alabama,Clemson,128,,21639000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-01,Alabama,Clemson,1472,ESPN/ESPN2,21473000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-01,Georgia,Oklahoma,129,,27114000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-01,Georgia,Oklahoma,1471,ESPN/ESPN2,26913000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-08,Alabama,Georgia,130,,28769000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2017,2018-01-08,Alabama,Georgia,1470,ESPN/ESPN2/ESPNU,28443000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2018-12-29,Alabama,Oklahoma,138,,19389000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2018-12-29,Alabama,Oklahoma,1647,ESPN/ESPN2,19069000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2018-12-29,Clemson,Notre Dame,139,,17099000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2018-12-29,Clemson,Notre Dame,1648,ESPN/ESPN2,16809000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2019-01-07,Clemson,Alabama,140,,25678000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2018,2019-01-07,Clemson,Alabama,1646,ESPN Megacast,25280000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2019-12-28,Clemson,Ohio State,150,,21522000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2019-12-28,Clemson,Ohio State,1708,ESPN Megacast,21150000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2019-12-28,LSU,Oklahoma,151,,17482000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2019-12-28,LSU,Oklahoma,1709,ESPN Megacast,17210000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2020-01-13,LSU,Clemson,152,,26175000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2019,2020-01-13,LSU,Clemson,1707,ESPN Megacast,25590000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-01,Alabama,Notre Dame,158,,19271000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-01,Notre Dame,Alabama,2008,ESPN Mega,18890000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-01,Ohio State,Clemson,159,,19541000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-01,Ohio State,Clemson,2007,ESPN Mega,19150000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-11,Alabama,Ohio State,160,,19070000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2020,2021-01-11,Alabama,Ohio State,2009,ESPN Mega,18650000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-08-30,Alabama,Florida State,234,ABC,10660000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-08-30,Alabama,Florida State,3501,ABC,10660000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-08-30,Texas,Ohio State,245,FOX,16600000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-08-30,Texas,Ohio State,3499,FOX,16620000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-06,Ole Miss,Kentucky,264,ABC,4800000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-06,Ole Miss,Kentucky,3511,ABC,4780000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-13,Georgia,Tennessee,270,ABC,12580000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-13,Georgia,Tennessee,3523,ABC,12580000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-27,Alabama,Georgia,279,ABC,10400000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-27,Alabama,Georgia,3556,ABC,10420000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-27,LSU,Ole Miss,280,ABC,6700000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-27,LSU,Ole Miss,3557,ABC,6690000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-11,Oklahoma,Texas,306,ABC,8732000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-11,Oklahoma,Texas,3585,ABC,8730000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-18,Ole Miss,Georgia,308,ABC,9787000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-18,Ole Miss,Georgia,3604,ABC,9790000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-18,Tennessee,Alabama,309,ABC,8011000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-18,Tennessee,Alabama,3605,ABC,8010000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-25,Ole Miss,Oklahoma,313,ABC,6554000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-25,Ole Miss,Oklahoma,3634,ABC,6550000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-25,Texas A&M,LSU,314,ABC,6759800.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-10-25,Texas A&M,LSU,3633,ABC,6760000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-15,Oklahoma,Alabama,321,ABC,10480000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-15,Oklahoma,Alabama,3707,ABC,10480000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-15,Texas,Georgia,322,ABC,10430000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-15,Texas,Georgia,3708,ABC,10430000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-28,Texas A&M,Texas,329,ABC,13040000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-11-28,Texas A&M,Texas,3759,ABC,13040000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2015-09-26,Maryland,West Virginia,817,FS1,408000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2015,2015-09-26,Maryland,West Virginia,822,FS2,119000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-20,Syracuse,Clemson,3790,ESPN,3390000.0,True,multiple reported audiences for same game; reconcile audience definition before finalizing
+2025,2025-09-20,Syracuse,Clemson,3791,ESPN2,1060000.0,False,multiple reported audiences for same game; reconcile audience definition before finalizing

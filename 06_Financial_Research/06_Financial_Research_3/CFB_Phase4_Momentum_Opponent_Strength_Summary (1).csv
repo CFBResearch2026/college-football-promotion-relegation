@@ -1,0 +1,13 @@
+﻿sample,model,test_seasons,test_games,median_year_log_r2,median_year_mape_pct,mean_year_log_r2
+all,baseline,9,2273,0.7363,35.69,0.7241
+all,performance,9,2273,0.7705,31.24,0.7557
+all,momentum,9,2273,0.7539,32.22,0.7573
+all,strength,9,2273,0.7513,32.46,0.7568
+regular,baseline,9,2047,0.7341,34.99,0.7206
+regular,performance,9,2047,0.7584,29.92,0.7479
+regular,momentum,9,2047,0.7459,31.46,0.7502
+regular,strength,9,2047,0.7444,30.5,0.7496
+regular_ex2020,baseline,8,1852,0.7312,36.31,0.7126
+regular_ex2020,performance,8,1852,0.7528,31.21,0.7415
+regular_ex2020,momentum,8,1852,0.7506,31.24,0.7461
+regular_ex2020,strength,8,1852,0.7494,31.26,0.7458

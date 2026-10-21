@@ -1,0 +1,46 @@
+﻿season,date,team_1,team_2,resolved_1,resolved_2,alias_method_1,alias_method_2,issue
+2026,2026-09-19,Florida State Seminoles,Alabama Crimson Tide,floridastateseminoles,alabamacrimsontide,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-09-19,Kentucky Wildcats,Texas A&M Aggies,kentuckywildcats,texasaandmaggies,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-09-19,LSU Tigers,Ole Miss Rebels,lsutigers,olemissrebels,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-09-26,Ole Miss Rebels,Florida Gators,olemissrebels,floridagators,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-09-26,Texas A&M Aggies,LSU Tigers,texasaandmaggies,lsutigers,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-09-26,Texas Longhorns,Tennessee Volunteers,texaslonghorns,tennesseevolunteers,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-10-03,Ohio State Buckeyes,Iowa Hawkeyes,ohiostatebuckeyes,iowahawkeyes,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-10-10,Georgia Bulldogs,Alabama Crimson Tide,georgiabulldogs,alabamacrimsontide,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-10-10,Indiana Hoosiers,Nebraska Cornhuskers,indianahoosiers,nebraskacornhuskers,unresolved,unresolved,no reciprocal scored result within 1 day
+2026,2026-10-10,Texas Longhorns,Oklahoma Sooners,texaslonghorns,oklahomasooners,unresolved,unresolved,no reciprocal scored result within 1 day
+2020,2020-10-10,Louisiana-Monroe,Liberty,louisiana,liberty,unique_prefix,exact,no reciprocal scored result within 1 day
+2015,2015-11-19,Louisiana Monroe,Texas State,louisiana,texasstate,unique_prefix,exact,no reciprocal scored result within 1 day
+2016,2016-12-16,Mary Hardin-Baylor,Wisconsin-Oshkosh,maryhardinbaylor,wisconsin,unresolved,unique_prefix,no reciprocal scored result within 1 day
+2016,2016-12-17,Northwest Missouri State,North Alabama,northwestmissouristate,northalabama,unresolved,unresolved,no reciprocal scored result within 1 day
+2017,2017-10-14,Texas State,Louisiana,texasstate,louisiana,exact,exact,no reciprocal scored result within 1 day
+2017,2017-11-04,Bowling Green,Kent State,bowlinggreen,kentstate,exact,exact,no reciprocal scored result within 1 day
+2018,2018-09-08,Southeastern Louisiana,LSU,southeasternlouisiana,lsu,unresolved,exact,no reciprocal scored result within 1 day
+2021,2021-09-03,San Diego State,Colorado,sandiegostate,colorado,exact,exact,no reciprocal scored result within 1 day
+2021,2021-09-25,Missouri,BC,missouri,bc,exact,unresolved,no reciprocal scored result within 1 day
+2021,2021-11-10,Western Michigan,Ohio,westernmichigan,ohio,exact,exact,no reciprocal scored result within 1 day
+2021,2021-11-20,ULM,LSU,ulm,lsu,unresolved,exact,no reciprocal scored result within 1 day
+2021,2021-11-20,Southern Alabama,Tennessee,southern,tennessee,unique_prefix,exact,no reciprocal scored result within 1 day
+2022,2022-12-23,Maryland,NC State,maryland,ncstate,exact,exact,no reciprocal scored result within 1 day
+2022,2022-09-04,Central State,Winston-Salem State,centralstate,winstonsalemstate,unresolved,unresolved,no reciprocal scored result within 1 day
+2023,2023-12-15,South Dakota State,Albany,southdakotastate,albany,exact,unresolved,no reciprocal scored result within 1 day
+2023,2023-12-15,North Central,Cortland,northcentral,cortland,unresolved,unresolved,no reciprocal scored result within 1 day
+2023,2023-12-16,Harding,Colorado School of Mines,harding,colorado,unresolved,unique_prefix,no reciprocal scored result within 1 day
+2023,2023-09-03,FAMU,Jackson State,famu,jacksonstate,unresolved,exact,no reciprocal scored result within 1 day
+2023,2023-09-03,Morehouse,Virginia Union,morehouse,virginia,unresolved,unique_prefix,no reciprocal scored result within 1 day
+2023,2023-09-03,Fort Valley State,Tuskegee,fortvalleystate,tuskegee,unresolved,unresolved,no reciprocal scored result within 1 day
+2023,2023-09-16,Morehouse,Albany State,morehouse,albanystate,unresolved,unresolved,no reciprocal scored result within 1 day
+2023,2023-10-07,FAMU,Southern,famu,southern,unresolved,exact,no reciprocal scored result within 1 day
+2023,2023-10-12,Fort Valley State,Benedict,fortvalleystate,benedict,unresolved,unresolved,no reciprocal scored result within 1 day
+2023,2023-10-27,Brown,Penn,brown,penn,exact,unresolved,no reciprocal scored result within 1 day
+2023,2023-10-28,Prairie View A&M,FAMU,prairieviewaandm,famu,exact,unresolved,no reciprocal scored result within 1 day
+2023,2023-11-02,Miss Valley State,Bethune-Cookman,missvalleystate,bethunecookman,unresolved,exact,no reciprocal scored result within 1 day
+2024,2024-10-23,MTSU,Jacksonville St.,mtsu,jacksonvillestate,unresolved,manual_alias,no reciprocal scored result within 1 day
+2024,2024-10-25,Yale,Penn,yale,penn,exact,unresolved,no reciprocal scored result within 1 day
+2024,2024-10-11,PV A&M,Ark. Pine-Bluff,pvaandm,arkansaspinebluff,unresolved,manual_alias,no reciprocal scored result within 1 day
+2024,2024-09-28,MTSU,Memphis,mtsu,memphis,unresolved,exact,no reciprocal scored result within 1 day
+2024,2024-09-21,Duke,MTSU,duke,mtsu,exact,unresolved,no reciprocal scored result within 1 day
+2024,2024-08-24,FAMU,Norfolk State,famu,norfolkstate,unresolved,exact,no reciprocal scored result within 1 day
+2024,2024-08-31,Texas A&M-CC,San Diego State,texasaandm,sandiegostate,unique_prefix,exact,no reciprocal scored result within 1 day
+2024,2024-09-01,Tuskegee,Johnson C. Smith,tuskegee,johnsoncsmith,unresolved,unresolved,no reciprocal scored result within 1 day
+2024,2024-08-31,SC State,FAMU,southcarolinastate,famu,manual_alias,unresolved,no reciprocal scored result within 1 day

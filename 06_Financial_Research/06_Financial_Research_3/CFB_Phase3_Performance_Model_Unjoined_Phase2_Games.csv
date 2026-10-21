@@ -1,0 +1,36 @@
+﻿season,game_date,team_1,team_2,network,reported_time_et,timeslot,phase_proxy,observed_viewers,predicted_viewers_oof,absolute_pct_error,source_duplicate_count,source_row
+2015,2015-11-19,Louisiana Monroe,Texas State,ESPNU,9:30pm,late,regular,84000,140707,67.51,1,973
+2016,2016-12-16,Mary Hardin-Baylor,Wisconsin-Oshkosh,ESPNU,7:00pm,primetime,postseason,340000,430124,26.51,1,1312
+2016,2016-12-17,Northwest Missouri State,North Alabama,ESPN2,4:00pm,afternoon,postseason,790000,1030425,30.43,1,1318
+2017,2017-10-14,Texas State,Louisiana,ESPNU,,unknown,regular,153000,102802,32.81,1,1418
+2017,2017-11-04,Bowling Green,Kent State,ESPNU,,unknown,regular,70000,137207,96.01,1,1435
+2018,2018-09-08,Southeastern Louisiana,LSU,ESPN2,7:00pm,primetime,regular,858000,982815,14.55,1,1489
+2020,2020-10-10,Louisiana-Monroe,Liberty,ESPN2,12:00pm,noon_early,regular,133000,399698,200.52,1,424
+2021,2021-09-03,San Diego State,Colorado,FS1,,unknown,regular,199000,633446,218.31,1,2051
+2021,2021-09-25,Missouri,BC,ESPN2,,unknown,regular,404000,579265,43.38,1,2125
+2021,2021-11-10,Western Michigan,Ohio,ESPN2,,unknown,regular,294000,437713,48.88,1,2264
+2021,2021-11-20,Southern Alabama,Tennessee,ESPNU,,unknown,regular,307000,233214,24.03,1,2311
+2021,2021-11-20,ULM,LSU,ESPN2,,unknown,regular,598000,835708,39.75,1,2310
+2022,2022-09-04,Central State,Winston-Salem State,NFLN,,unknown,regular,200000,581765,190.88,1,2539
+2022,2022-12-23,Maryland,NC State,ESPN,,unknown,postseason,2680000,3038756,13.39,1,2481
+2023,2023-09-03,FAMU,Jackson State,ESPN,3:00pm,afternoon,regular,438000,845814,93.11,1,2721
+2023,2023-09-03,Fort Valley State,Tuskegee,ESPNU,7:00pm,primetime,regular,67000,141686,111.47,1,2733
+2023,2023-09-03,Morehouse,Virginia Union,NFLN,4:00pm,afternoon,regular,168000,423599,152.14,1,2726
+2023,2023-09-16,Morehouse,Albany State,CNBC,3:00pm,afternoon,regular,20000,542893,2614.46,1,2789
+2023,2023-10-07,FAMU,Southern,ESPNU,,unknown,regular,40000,104126,160.32,1,2870
+2023,2023-10-12,Fort Valley State,Benedict,ESPN2,,unknown,regular,98000,388799,296.73,1,2902
+2023,2023-10-27,Brown,Penn,ESPNU,,unknown,regular,73000,164826,125.79,1,2972
+2023,2023-10-28,Prairie View A&M,FAMU,ESPNU,,unknown,regular,28000,106116,278.99,1,2976
+2023,2023-11-02,Miss Valley State,Bethune-Cookman,ESPNU,,unknown,regular,17000,105488,520.52,1,3014
+2023,2023-12-15,North Central,Cortland,ESPNU,7:00pm,primetime,postseason,222000,349745,57.54,1,2660
+2023,2023-12-15,South Dakota State,Albany,ESPN2,7:00pm,primetime,postseason,476000,1025341,115.41,1,2659
+2023,2023-12-16,Harding,Colorado School of Mines,ESPNU,1:00pm,noon_early,postseason,191000,237121,24.15,1,2661
+2024,2024-08-24,FAMU,Norfolk State,ABC,7:30pm,primetime,regular,1290000,1497183,16.06,1,3473
+2024,2024-08-31,SC State,FAMU,ESPNU,11:30pm,late,regular,21000,109307,420.51,1,3498
+2024,2024-08-31,Texas A&M-CC,San Diego State,truTV,8:00pm,primetime,regular,66000,308487,367.41,1,3495
+2024,2024-09-01,Tuskegee,Johnson C. Smith,ESPNU,7:00pm,primetime,regular,31000,154194,397.4,1,3497
+2024,2024-09-21,Duke,MTSU,ESPNU,3:30pm,afternoon,regular,53000,128873,143.16,1,3402
+2024,2024-09-28,MTSU,Memphis,ESPNU,7:30pm,primetime,regular,39000,108927,179.3,1,3371
+2024,2024-10-11,PV A&M,Ark. Pine-Bluff,ESPN2,9:15pm,late,regular,147000,489993,233.33,1,3308
+2024,2024-10-23,MTSU,Jacksonville St.,ESPN2,7:30pm,primetime,regular,434000,431871,0.49,1,3240
+2024,2024-10-25,Yale,Penn,ESPNU,7:00pm,primetime,regular,51000,140546,175.58,1,3248

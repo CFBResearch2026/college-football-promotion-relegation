@@ -1,0 +1,661 @@
+﻿season,date,team_1,team_2,source_id_1,source_id_2,reason
+2014,2014-08-28,Boise State,Mississippi,boisestate,mississippi,missing_or_nonreciprocal_momentum_source
+2014,2014-08-29,BYU,UConn,brighamyoung,connecticut,missing_or_nonreciprocal_momentum_source
+2014,2014-08-29,UTSA,Houston,texassanantonio,houston,missing_or_nonreciprocal_momentum_source
+2014,2014-08-30,Appalachian State,Michigan,appalachianstate,michigan,missing_or_nonreciprocal_momentum_source
+2014,2014-08-30,Penn State,UCF,pennstate,centralflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-08-30,William & Mary,Virginia Tech,williamandmary,virginiatech,missing_or_nonreciprocal_momentum_source
+2014,2014-08-31,Alabama A&M,North Carolina A&T,alabamaaandm,northcarolinaaandt,missing_or_nonreciprocal_momentum_source
+2014,2014-08-31,SMU,Baylor,southernmethodist,baylor,missing_or_nonreciprocal_momentum_source
+2014,2014-09-04,Arizona,UTSA,arizona,texassanantonio,missing_or_nonreciprocal_momentum_source
+2014,2014-09-06,BYU,Texas,brighamyoung,texas,missing_or_nonreciprocal_momentum_source
+2014,2014-09-06,Mississippi,Vanderbilt,mississippi,vanderbilt,missing_or_nonreciprocal_momentum_source
+2014,2014-09-06,San Jose State,Auburn,sanjosestate,auburn,missing_or_nonreciprocal_momentum_source
+2014,2014-09-06,Texas Tech,UTEP,texastech,texaselpaso,missing_or_nonreciprocal_momentum_source
+2014,2014-09-11,Houston,BYU,houston,brighamyoung,missing_or_nonreciprocal_momentum_source
+2014,2014-09-13,Minnesota,TCU,minnesota,texaschristian,missing_or_nonreciprocal_momentum_source
+2014,2014-09-13,Rice,Texas A&M,rice,texasaandm,missing_or_nonreciprocal_momentum_source
+2014,2014-09-19,UConn,South Florida,connecticut,southflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-09-25,Appalachian State,Georgia Southern,appalachianstate,georgiasouthern,missing_or_nonreciprocal_momentum_source
+2014,2014-09-27,Arkansas,Texas A&M,arkansas,texasaandm,missing_or_nonreciprocal_momentum_source
+2014,2014-10-02,UCF,Houston,centralflorida,houston,missing_or_nonreciprocal_momentum_source
+2014,2014-10-03,Utah State,BYU,utahstate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2014,2014-10-04,Alabama,Mississippi,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2014,2014-10-04,Texas A&M,Mississippi State,texasaandm,mississippistate,missing_or_nonreciprocal_momentum_source
+2014,2014-10-09,BYU,UCF,brighamyoung,centralflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-10-11,Mississippi,Texas A&M,mississippi,texasaandm,missing_or_nonreciprocal_momentum_source
+2014,2014-10-18,Tennessee,Mississippi,tennessee,mississippi,missing_or_nonreciprocal_momentum_source
+2014,2014-10-18,Texas A&M,Alabama,texasaandm,alabama,missing_or_nonreciprocal_momentum_source
+2014,2014-10-23,UConn,East Carolina,connecticut,eastcarolina,missing_or_nonreciprocal_momentum_source
+2014,2014-10-24,BYU,Boise State,brighamyoung,boisestate,missing_or_nonreciprocal_momentum_source
+2014,2014-10-25,Mississippi,LSU,mississippi,lsu,missing_or_nonreciprocal_momentum_source
+2014,2014-11-01,Auburn,Mississippi,auburn,mississippi,missing_or_nonreciprocal_momentum_source
+2014,2014-11-08,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2014,2014-11-08,Texas A&M,Auburn,texasaandm,auburn,missing_or_nonreciprocal_momentum_source
+2014,2014-11-14,Tulsa,UCF,tulsa,centralflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-11-15,North Texas,UTEP,northtexas,texaselpaso,missing_or_nonreciprocal_momentum_source
+2014,2014-11-15,TCU,Kansas,texaschristian,kansas,missing_or_nonreciprocal_momentum_source
+2014,2014-11-15,UNLV,BYU,unlv,brighamyoung,missing_or_nonreciprocal_momentum_source
+2014,2014-11-21,San Jose State,Utah State,sanjosestate,utahstate,missing_or_nonreciprocal_momentum_source
+2014,2014-11-21,UTEP,Rice,texaselpaso,rice,missing_or_nonreciprocal_momentum_source
+2014,2014-11-22,Mississippi,Arkansas,mississippi,arkansas,missing_or_nonreciprocal_momentum_source
+2014,2014-11-22,SMU,UCF,southernmethodist,centralflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-11-25,Ohio,Miami (OH),ohio,miamiohio,missing_or_nonreciprocal_momentum_source
+2014,2014-11-27,LSU,Texas A&M,lsu,texasaandm,missing_or_nonreciprocal_momentum_source
+2014,2014-11-27,TCU,Texas,texaschristian,texas,missing_or_nonreciprocal_momentum_source
+2014,2014-11-28,UCF,South Florida,centralflorida,southflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-11-29,Mississippi State,Mississippi,mississippistate,mississippi,missing_or_nonreciprocal_momentum_source
+2014,2014-11-29,UConn,Memphis,connecticut,memphis,missing_or_nonreciprocal_momentum_source
+2014,2014-12-04,UCF,East Carolina,centralflorida,eastcarolina,missing_or_nonreciprocal_momentum_source
+2014,2014-12-06,Iowa State,TCU,iowastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2014,2014-12-20,Utah State,UTEP,utahstate,texaselpaso,missing_or_nonreciprocal_momentum_source
+2014,2014-12-22,BYU,Memphis,brighamyoung,memphis,missing_or_nonreciprocal_momentum_source
+2014,2014-12-26,NC State,UCF,ncstate,centralflorida,missing_or_nonreciprocal_momentum_source
+2014,2014-12-29,Texas A&M,West Virginia,texasaandm,westvirginia,missing_or_nonreciprocal_momentum_source
+2014,2014-12-31,Mississippi,TCU,mississippi,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-09-03,TCU,Minnesota,texaschristian,minnesota,missing_or_nonreciprocal_momentum_source
+2015,2015-09-04,Baylor,SMU,baylor,southernmethodist,missing_or_nonreciprocal_momentum_source
+2015,2015-09-05,Arizona State,Texas A&M,arizonastate,texasaandm,missing_or_nonreciprocal_momentum_source
+2015,2015-09-05,BYU,Nebraska,brighamyoung,nebraska,missing_or_nonreciprocal_momentum_source
+2015,2015-09-05,UTEP,Arkansas,texaselpaso,arkansas,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Ball State,Texas A&M,ballstate,texasaandm,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Boise State,BYU,boisestate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Fresno State,Mississippi,fresnostate,mississippi,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Kansas State,UTSA,kansasstate,texassanantonio,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Miami (OH),Wisconsin,miamiohio,wisconsin,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,San Jose State,Air Force,sanjosestate,airforce,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,Stephen F. Austin,TCU,stephenfaustin,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-09-12,UCF,Stanford,centralflorida,stanford,missing_or_nonreciprocal_momentum_source
+2015,2015-09-19,BYU,UCLA,brighamyoung,ucla,missing_or_nonreciprocal_momentum_source
+2015,2015-09-19,Mississippi,Alabama,mississippi,alabama,missing_or_nonreciprocal_momentum_source
+2015,2015-09-19,UConn,Missouri,connecticut,missouri,missing_or_nonreciprocal_momentum_source
+2015,2015-09-19,UTSA,Oklahoma State,texassanantonio,oklahomastate,missing_or_nonreciprocal_momentum_source
+2015,2015-09-26,BYU,Michigan,brighamyoung,michigan,missing_or_nonreciprocal_momentum_source
+2015,2015-09-26,TCU,Texas Tech,texaschristian,texastech,missing_or_nonreciprocal_momentum_source
+2015,2015-09-26,Texas A&M,Arkansas,texasaandm,arkansas,missing_or_nonreciprocal_momentum_source
+2015,2015-09-26,UCF,South Carolina,centralflorida,southcarolina,missing_or_nonreciprocal_momentum_source
+2015,2015-09-26,Vanderbilt,Mississippi,vanderbilt,mississippi,missing_or_nonreciprocal_momentum_source
+2015,2015-10-02,UConn,BYU,connecticut,brighamyoung,missing_or_nonreciprocal_momentum_source
+2015,2015-10-03,East Carolina,SMU,eastcarolina,southernmethodist,missing_or_nonreciprocal_momentum_source
+2015,2015-10-03,Mississippi,Florida,mississippi,florida,missing_or_nonreciprocal_momentum_source
+2015,2015-10-03,Texas,TCU,texas,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-10-03,Tulane,UCF,tulane,centralflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-10-08,SMU,Houston,southernmethodist,houston,missing_or_nonreciprocal_momentum_source
+2015,2015-10-10,East Carolina,BYU,eastcarolina,brighamyoung,missing_or_nonreciprocal_momentum_source
+2015,2015-10-10,TCU,Kansas State,texaschristian,kansasstate,missing_or_nonreciprocal_momentum_source
+2015,2015-10-10,UConn,UCF,connecticut,centralflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-10-16,Cincinnati,BYU,cincinnati,brighamyoung,missing_or_nonreciprocal_momentum_source
+2015,2015-10-17,Alabama,Texas A&M,alabama,texasaandm,missing_or_nonreciprocal_momentum_source
+2015,2015-10-17,San Diego State,San Jose State,sandiegostate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2015,2015-10-17,South Florida,Connecticut,southflorida,connecticut,missing_or_nonreciprocal_momentum_source
+2015,2015-10-17,TCU,Iowa State,texaschristian,iowastate,missing_or_nonreciprocal_momentum_source
+2015,2015-10-22,Georgia Southern,Appalachian State,georgiasouthern,appalachianstate,missing_or_nonreciprocal_momentum_source
+2015,2015-10-24,Houston,UCF,houston,centralflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-10-24,SMU,South Florida,southernmethodist,southflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-10-24,Texas A&M,Mississippi,texasaandm,mississippi,missing_or_nonreciprocal_momentum_source
+2015,2015-10-29,West Virginia,TCU,westvirginia,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-10-30,East Carolina,Connecticut,eastcarolina,connecticut,missing_or_nonreciprocal_momentum_source
+2015,2015-10-31,Mississippi,Auburn,mississippi,auburn,missing_or_nonreciprocal_momentum_source
+2015,2015-10-31,Tulsa,SMU,tulsa,southernmethodist,missing_or_nonreciprocal_momentum_source
+2015,2015-10-31,UCF,Cincinnati,centralflorida,cincinnati,missing_or_nonreciprocal_momentum_source
+2015,2015-11-05,Arkansas State,Appalachian State,arkansasstate,appalachianstate,missing_or_nonreciprocal_momentum_source
+2015,2015-11-06,Temple,SMU,temple,southernmethodist,missing_or_nonreciprocal_momentum_source
+2015,2015-11-07,Arkansas,Mississippi,arkansas,mississippi,missing_or_nonreciprocal_momentum_source
+2015,2015-11-07,TCU,Oklahoma State,texaschristian,oklahomastate,missing_or_nonreciprocal_momentum_source
+2015,2015-11-07,UCF,Tulsa,centralflorida,tulsa,missing_or_nonreciprocal_momentum_source
+2015,2015-11-07,UConn,Tulane,connecticut,tulane,missing_or_nonreciprocal_momentum_source
+2015,2015-11-14,Kansas,TCU,kansas,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-11-14,Western Carolina,Texas A&M,westerncarolina,texasaandm,missing_or_nonreciprocal_momentum_source
+2015,2015-11-19,East Carolina,UCF,eastcarolina,centralflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-11-21,Houston,UConn,houston,connecticut,missing_or_nonreciprocal_momentum_source
+2015,2015-11-21,LSU,Mississippi,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2015,2015-11-21,TCU,Oklahoma,texaschristian,oklahoma,missing_or_nonreciprocal_momentum_source
+2015,2015-11-21,Tulane,SMU,tulane,southernmethodist,missing_or_nonreciprocal_momentum_source
+2015,2015-11-26,South Florida,UCF,southflorida,centralflorida,missing_or_nonreciprocal_momentum_source
+2015,2015-11-27,Baylor,TCU,baylor,texaschristian,missing_or_nonreciprocal_momentum_source
+2015,2015-11-28,Connecticut,Temple,connecticut,temple,missing_or_nonreciprocal_momentum_source
+2015,2015-11-28,Mississippi,Mississippi State,mississippi,mississippistate,missing_or_nonreciprocal_momentum_source
+2015,2015-11-28,SMU,Memphis,southernmethodist,memphis,missing_or_nonreciprocal_momentum_source
+2015,2015-12-19,Ohio,Appalachian State,ohio,appalachianstate,missing_or_nonreciprocal_momentum_source
+2015,2015-12-19,Utah,BYU,utah,brighamyoung,missing_or_nonreciprocal_momentum_source
+2015,2015-12-26,Marshall,Connecticut,marshall,connecticut,missing_or_nonreciprocal_momentum_source
+2015,2015-12-30,Louisville,Texas A&M,louisville,texasaandm,missing_or_nonreciprocal_momentum_source
+2015,2016-01-01,Mississippi,Oklahoma State,mississippi,oklahomastate,missing_or_nonreciprocal_momentum_source
+2015,2016-01-02,TCU,Oregon,texaschristian,oregon,missing_or_nonreciprocal_momentum_source
+2016,2016-09-03,BYU,Arizona,brighamyoung,arizona,missing_or_nonreciprocal_momentum_source
+2016,2016-09-03,Miami Ohio,Iowa,miamiohio,iowa,missing_or_nonreciprocal_momentum_source
+2016,2016-09-03,New Mexico State,UTEP,newmexicostate,texaselpaso,missing_or_nonreciprocal_momentum_source
+2016,2016-09-03,UCLA,Texas A&M,ucla,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-09-05,Mississippi,Florida State,mississippi,floridastate,missing_or_nonreciprocal_momentum_source
+2016,2016-09-05,Ole Miss,Florida State,mississippi,floridastate,missing_or_nonreciprocal_momentum_source
+2016,2016-09-10,Arkansas,TCU,arkansas,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-09-10,BYU,Utah,brighamyoung,utah,missing_or_nonreciprocal_momentum_source
+2016,2016-09-10,SMU,Baylor,southernmethodist,baylor,missing_or_nonreciprocal_momentum_source
+2016,2016-09-10,UCF,Michigan,centralflorida,michigan,missing_or_nonreciprocal_momentum_source
+2016,2016-09-16,Arizona State,UTSA,arizonastate,texassanantonio,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,Alabama,Ole Miss,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,Alabama,Mississippi,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,Iowa State,TCU,iowastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,Miami,Appalachian State,miami,appalachianstate,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,Texas A&M,Auburn,texasaandm,auburn,missing_or_nonreciprocal_momentum_source
+2016,2016-09-17,UCLA,BYU,ucla,brighamyoung,missing_or_nonreciprocal_momentum_source
+2016,2016-09-23,TCU,SMU,texaschristian,southernmethodist,missing_or_nonreciprocal_momentum_source
+2016,2016-09-24,Arkansas,Texas A&M,arkansas,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-09-24,BYU,West Virginia,brighamyoung,westvirginia,missing_or_nonreciprocal_momentum_source
+2016,2016-09-24,Georgia,Mississippi,georgia,mississippi,missing_or_nonreciprocal_momentum_source
+2016,2016-09-24,UCF,FIU,centralflorida,floridainternational,missing_or_nonreciprocal_momentum_source
+2016,2016-09-29,UConn,Houston,connecticut,houston,missing_or_nonreciprocal_momentum_source
+2016,2016-09-30,Toledo,BYU,toledo,brighamyoung,missing_or_nonreciprocal_momentum_source
+2016,2016-10-01,Memphis,Mississippi,memphis,mississippi,missing_or_nonreciprocal_momentum_source
+2016,2016-10-01,Oklahoma,TCU,oklahoma,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-10-07,SMU,Tulsa,southernmethodist,tulsa,missing_or_nonreciprocal_momentum_source
+2016,2016-10-08,TCU,Kansas,texaschristian,kansas,missing_or_nonreciprocal_momentum_source
+2016,2016-10-08,Tennessee,Texas A&M,tennessee,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-10-12,Appalachian State,Louisiana,appalachianstate,louisiana,missing_or_nonreciprocal_momentum_source
+2016,2016-10-14,Mississippi State,BYU,mississippistate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2016,2016-10-15,Mississippi,Arkansas,mississippi,arkansas,missing_or_nonreciprocal_momentum_source
+2016,2016-10-15,Temple,UCF,temple,centralflorida,missing_or_nonreciprocal_momentum_source
+2016,2016-10-15,UTSA,Rice,texassanantonio,rice,missing_or_nonreciprocal_momentum_source
+2016,2016-10-20,BYU,Boise State,brighamyoung,boisestate,missing_or_nonreciprocal_momentum_source
+2016,2016-10-21,San Jose State,San Diego State,sanjosestate,sandiegostate,missing_or_nonreciprocal_momentum_source
+2016,2016-10-22,Houston,SMU,houston,southernmethodist,missing_or_nonreciprocal_momentum_source
+2016,2016-10-22,Mississippi,LSU,mississippi,lsu,missing_or_nonreciprocal_momentum_source
+2016,2016-10-22,Texas A&M,Alabama,texasaandm,alabama,missing_or_nonreciprocal_momentum_source
+2016,2016-10-27,Appalachian State,Georgia Southern,appalachianstate,georgiasouthern,missing_or_nonreciprocal_momentum_source
+2016,2016-10-29,New Mexico State,Texas A&M,newmexicostate,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-10-29,Texas Tech,TCU,texastech,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-10-29,UCF,Houston,centralflorida,houston,missing_or_nonreciprocal_momentum_source
+2016,2016-11-05,Georgia Southern,Mississippi,georgiasouthern,mississippi,missing_or_nonreciprocal_momentum_source
+2016,2016-11-12,Cincinnati,UCF,cincinnati,centralflorida,missing_or_nonreciprocal_momentum_source
+2016,2016-11-19,Oklahoma State,TCU,oklahomastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-11-19,UTSA,Texas A&M,texassanantonio,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-11-24,LSU,Texas A&M,lsu,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-11-26,Navy,SMU,navy,southernmethodist,missing_or_nonreciprocal_momentum_source
+2016,2016-11-26,Utah State,BYU,utahstate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2016,2016-12-03,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2016,2016-12-17,Appalachian State,Toledo,appalachianstate,toledo,missing_or_nonreciprocal_momentum_source
+2016,2016-12-17,New Mexico,UTSA,newmexico,texassanantonio,missing_or_nonreciprocal_momentum_source
+2016,2016-12-21,BYU,Wyoming,brighamyoung,wyoming,missing_or_nonreciprocal_momentum_source
+2016,2016-12-26,Mississippi State,Miami (OH),mississippistate,miamiohio,missing_or_nonreciprocal_momentum_source
+2016,2016-12-28,Kansas State,Texas A&M,kansasstate,texasaandm,missing_or_nonreciprocal_momentum_source
+2016,2016-12-30,Georgia,TCU,georgia,texaschristian,missing_or_nonreciprocal_momentum_source
+2017,2017-08-26,Portland State,BYU,portlandstate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2017,2017-08-26,Texas Southern,Florida A&M,texassouthern,floridaaandm,missing_or_nonreciprocal_momentum_source
+2017,2017-09-02,Appalachian State,Georgia,appalachianstate,georgia,missing_or_nonreciprocal_momentum_source
+2017,2017-09-02,BYU,LSU,brighamyoung,lsu,missing_or_nonreciprocal_momentum_source
+2017,2017-09-02,South Alabama,Ole Miss,southalabama,mississippi,missing_or_nonreciprocal_momentum_source
+2017,2017-09-02,UTEP,Oklahoma,texaselpaso,oklahoma,missing_or_nonreciprocal_momentum_source
+2017,2017-09-03,Texas A&M,UCLA,texasaandm,ucla,missing_or_nonreciprocal_momentum_source
+2017,2017-09-07,Sam Houston State,Prairie View A&M,samhouston,prairieviewaandm,missing_or_nonreciprocal_momentum_source
+2017,2017-09-09,Nicholls State,Texas A&M,nicholls,texasaandm,missing_or_nonreciprocal_momentum_source
+2017,2017-09-09,TCU,Arkansas,texaschristian,arkansas,missing_or_nonreciprocal_momentum_source
+2017,2017-09-09,Utah,BYU,utah,brighamyoung,missing_or_nonreciprocal_momentum_source
+2017,2017-09-30,Mississippi,Alabama,mississippi,alabama,missing_or_nonreciprocal_momentum_source
+2017,2017-10-07,Alabama,Texas A&M,alabama,texasaandm,missing_or_nonreciprocal_momentum_source
+2017,2017-10-21,Tulsa,UConn,tulsa,connecticut,missing_or_nonreciprocal_momentum_source
+2017,2017-11-09,Georgia Southern,Appalachian State,georgiasouthern,appalachianstate,missing_or_nonreciprocal_momentum_source
+2017,2017-11-11,TCU,Oklahoma,texaschristian,oklahoma,missing_or_nonreciprocal_momentum_source
+2017,2017-11-18,UCF,Temple,centralflorida,temple,missing_or_nonreciprocal_momentum_source
+2017,2017-11-24,USF,UCF,southflorida,centralflorida,missing_or_nonreciprocal_momentum_source
+2017,2017-12-02,Oklahoma,TCU,oklahoma,texaschristian,missing_or_nonreciprocal_momentum_source
+2017,2017-12-02,UCF,Memphis,centralflorida,memphis,missing_or_nonreciprocal_momentum_source
+2018,2018-08-25,North Carolina A&T,Jacksonville State,northcarolinaaandt,jacksonvillestate,missing_or_nonreciprocal_momentum_source
+2018,2018-09-08,Clemson,Texas A&M,clemson,texasaandm,missing_or_nonreciprocal_momentum_source
+2018,2018-09-15,Alabama,Ole Miss,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2018,2018-09-15,BYU,Wisconsin,brighamyoung,wisconsin,missing_or_nonreciprocal_momentum_source
+2018,2018-09-15,Ohio State,TCU,ohiostate,texaschristian,missing_or_nonreciprocal_momentum_source
+2018,2018-09-21,Florida Atlantic,UCF,floridaatlantic,centralflorida,missing_or_nonreciprocal_momentum_source
+2018,2018-09-22,TCU,Texas,texaschristian,texas,missing_or_nonreciprocal_momentum_source
+2018,2018-09-22,Texas A&M,Alabama,texasaandm,alabama,missing_or_nonreciprocal_momentum_source
+2018,2018-10-11,Texas Tech,TCU,texastech,texaschristian,missing_or_nonreciprocal_momentum_source
+2018,2018-10-13,Hawaii,BYU,hawaii,brighamyoung,missing_or_nonreciprocal_momentum_source
+2018,2018-10-20,Oklahoma,TCU,oklahoma,texaschristian,missing_or_nonreciprocal_momentum_source
+2018,2018-10-25,Appalachian State,Georgia Southern,appalachianstate,georgiasouthern,missing_or_nonreciprocal_momentum_source
+2018,2018-10-27,TCU,Kansas,texaschristian,kansas,missing_or_nonreciprocal_momentum_source
+2018,2018-10-27,Texas A&M,Mississippi State,texasaandm,mississippistate,missing_or_nonreciprocal_momentum_source
+2018,2018-10-30,Miami (OH),Buffalo,miamiohio,buffalo,missing_or_nonreciprocal_momentum_source
+2018,2018-11-01,Temple,UCF,temple,centralflorida,missing_or_nonreciprocal_momentum_source
+2018,2018-11-03,BYU,Boise State,brighamyoung,boisestate,missing_or_nonreciprocal_momentum_source
+2018,2018-11-03,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2018,2018-11-03,Texas A&M,Auburn,texasaandm,auburn,missing_or_nonreciprocal_momentum_source
+2018,2018-11-07,Ohio,Miami (OH),ohio,miamiohio,missing_or_nonreciprocal_momentum_source
+2018,2018-11-10,Navy,UCF,navy,centralflorida,missing_or_nonreciprocal_momentum_source
+2018,2018-11-10,Ole Miss,Texas A&M,mississippi,texasaandm,missing_or_nonreciprocal_momentum_source
+2018,2018-11-10,TCU,West Virginia,texaschristian,westvirginia,missing_or_nonreciprocal_momentum_source
+2018,2018-11-17,Cincinnati,UCF,cincinnati,centralflorida,missing_or_nonreciprocal_momentum_source
+2018,2018-11-17,TCU,Baylor,texaschristian,baylor,missing_or_nonreciprocal_momentum_source
+2018,2018-12-01,Louisiana,Appalachian State,louisiana,appalachianstate,missing_or_nonreciprocal_momentum_source
+2018,2018-12-01,UCF,Memphis,centralflorida,memphis,missing_or_nonreciprocal_momentum_source
+2018,2018-12-15,Middle Tennessee,Appalachian State,middletennessee,appalachianstate,missing_or_nonreciprocal_momentum_source
+2018,2018-12-15,North Carolina A&T,Alcorn State,northcarolinaaandt,alcornstate,missing_or_nonreciprocal_momentum_source
+2018,2018-12-21,BYU,Western Michigan,brighamyoung,westernmichigan,missing_or_nonreciprocal_momentum_source
+2018,2018-12-26,TCU,California,texaschristian,california,missing_or_nonreciprocal_momentum_source
+2018,2018-12-31,Texas A&M,NC State,texasaandm,ncstate,missing_or_nonreciprocal_momentum_source
+2018,2019-01-01,LSU,UCF,lsu,centralflorida,missing_or_nonreciprocal_momentum_source
+2019,2019-09-07,Texas A&M,Clemson,texasaandm,clemson,missing_or_nonreciprocal_momentum_source
+2019,2019-09-21,Auburn,Texas A&M,auburn,texasaandm,missing_or_nonreciprocal_momentum_source
+2019,2019-09-28,Mississippi,Alabama,mississippi,alabama,missing_or_nonreciprocal_momentum_source
+2019,2019-10-12,Alabama,Texas A&M,alabama,texasaandm,missing_or_nonreciprocal_momentum_source
+2019,2019-11-01,Navy,UConn,navy,connecticut,missing_or_nonreciprocal_momentum_source
+2019,2019-11-02,BYU,Utah State,brighamyoung,utahstate,missing_or_nonreciprocal_momentum_source
+2019,2019-11-02,Houston,UCF,houston,centralflorida,missing_or_nonreciprocal_momentum_source
+2019,2019-11-02,Ole Miss,Auburn,mississippi,auburn,missing_or_nonreciprocal_momentum_source
+2019,2019-11-02,SMU,Memphis,southernmethodist,memphis,missing_or_nonreciprocal_momentum_source
+2019,2019-11-02,TCU,Oklahoma State,texaschristian,oklahomastate,missing_or_nonreciprocal_momentum_source
+2019,2019-11-06,Miami (OH),Ohio,miamiohio,ohio,missing_or_nonreciprocal_momentum_source
+2019,2019-11-08,UCF,Tulsa,centralflorida,tulsa,missing_or_nonreciprocal_momentum_source
+2019,2019-11-09,Appalachian State,South Carolina,appalachianstate,southcarolina,missing_or_nonreciprocal_momentum_source
+2019,2019-11-09,Baylor,TCU,baylor,texaschristian,missing_or_nonreciprocal_momentum_source
+2019,2019-11-09,Liberty,BYU,liberty,brighamyoung,missing_or_nonreciprocal_momentum_source
+2019,2019-11-16,LSU,Mississippi,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2019,2019-11-16,TCU,Texas Tech,texaschristian,texastech,missing_or_nonreciprocal_momentum_source
+2019,2019-11-23,TCU,Oklahoma,texaschristian,oklahoma,missing_or_nonreciprocal_momentum_source
+2019,2019-11-23,Texas A&M,Georgia,texasaandm,georgia,missing_or_nonreciprocal_momentum_source
+2019,2019-11-28,Ole Miss,Mississippi State,mississippi,mississippistate,missing_or_nonreciprocal_momentum_source
+2019,2019-11-29,South Florida,UCF,southflorida,centralflorida,missing_or_nonreciprocal_momentum_source
+2019,2019-11-29,West Virginia,TCU,westvirginia,texaschristian,missing_or_nonreciprocal_momentum_source
+2019,2019-11-30,Fresno State,San Jose State,fresnostate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2019,2019-11-30,Texas A&M,LSU,texasaandm,lsu,missing_or_nonreciprocal_momentum_source
+2019,2019-12-07,Appalachian State,Louisiana,appalachianstate,louisiana,missing_or_nonreciprocal_momentum_source
+2019,2019-12-07,Miami (OH),Central Michigan,miamiohio,centralmichigan,missing_or_nonreciprocal_momentum_source
+2019,2019-12-21,Appalachian State,UAB,appalachianstate,uab,missing_or_nonreciprocal_momentum_source
+2019,2019-12-21,North Carolina A&T,Alcorn State,northcarolinaaandt,alcornstate,missing_or_nonreciprocal_momentum_source
+2019,2019-12-21,SMU,Florida Atlantic,southernmethodist,floridaatlantic,missing_or_nonreciprocal_momentum_source
+2019,2019-12-23,UCF,Marshall,centralflorida,marshall,missing_or_nonreciprocal_momentum_source
+2019,2019-12-24,Hawaii,BYU,hawaii,brighamyoung,missing_or_nonreciprocal_momentum_source
+2019,2019-12-27,Oklahoma State,Texas A&M,oklahomastate,texasaandm,missing_or_nonreciprocal_momentum_source
+2019,2020-01-06,Louisiana,Miami (OH),louisiana,miamiohio,missing_or_nonreciprocal_momentum_source
+2020,2020-09-05,SMU,Texas State,southernmethodist,texasstate,missing_or_nonreciprocal_momentum_source
+2020,2020-09-07,BYU,Navy,brighamyoung,navy,missing_or_nonreciprocal_momentum_source
+2020,2020-09-12,Charlotte,Appalachian State,charlotte,appalachianstate,missing_or_nonreciprocal_momentum_source
+2020,2020-09-12,UTSA,Texas State,texassanantonio,texasstate,missing_or_nonreciprocal_momentum_source
+2020,2020-09-19,Appalachian State,Marshall,appalachianstate,marshall,missing_or_nonreciprocal_momentum_source
+2020,2020-09-19,Stephen F. Austin,UTSA,stephenfaustin,texassanantonio,missing_or_nonreciprocal_momentum_source
+2020,2020-09-19,UCF,Georgia Tech,centralflorida,georgiatech,missing_or_nonreciprocal_momentum_source
+2020,2020-09-26,Florida,Ole Miss,florida,mississippi,missing_or_nonreciprocal_momentum_source
+2020,2020-09-26,Iowa State,TCU,iowastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-09-26,Troy,BYU,troy,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-09-26,UCF,East Carolina,centralflorida,eastcarolina,missing_or_nonreciprocal_momentum_source
+2020,2020-10-02,Louisiana Tech,BYU,louisianatech,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-10-03,Memphis,SMU,memphis,southernmethodist,missing_or_nonreciprocal_momentum_source
+2020,2020-10-03,TCU,Texas,texaschristian,texas,missing_or_nonreciprocal_momentum_source
+2020,2020-10-03,Texas A&M,Alabama,texasaandm,alabama,missing_or_nonreciprocal_momentum_source
+2020,2020-10-03,Tulsa,UCF,tulsa,centralflorida,missing_or_nonreciprocal_momentum_source
+2020,2020-10-10,Alabama,Mississippi,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2020,2020-10-10,Florida,Texas A&M,florida,texasaandm,missing_or_nonreciprocal_momentum_source
+2020,2020-10-10,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-10-10,UTEP,Louisiana Tech,texaselpaso,louisianatech,missing_or_nonreciprocal_momentum_source
+2020,2020-10-10,UTSA,BYU,texassanantonio,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-10-16,BYU,Houston,brighamyoung,houston,missing_or_nonreciprocal_momentum_source
+2020,2020-10-16,SMU,Tulane,southernmethodist,tulane,missing_or_nonreciprocal_momentum_source
+2020,2020-10-17,Texas A&M,Mississippi State,texasaandm,mississippistate,missing_or_nonreciprocal_momentum_source
+2020,2020-10-17,UCF,Memphis,centralflorida,memphis,missing_or_nonreciprocal_momentum_source
+2020,2020-10-22,Arkansas State,Appalachian State,arkansasstate,appalachianstate,missing_or_nonreciprocal_momentum_source
+2020,2020-10-24,Air Force,San Jose State,airforce,sanjosestate,missing_or_nonreciprocal_momentum_source
+2020,2020-10-24,Cincinnati,SMU,cincinnati,southernmethodist,missing_or_nonreciprocal_momentum_source
+2020,2020-10-24,Oklahoma,TCU,oklahoma,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-10-24,Texas State,BYU,texasstate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-10-24,Tulane,UCF,tulane,centralflorida,missing_or_nonreciprocal_momentum_source
+2020,2020-10-31,Navy,SMU,navy,southernmethodist,missing_or_nonreciprocal_momentum_source
+2020,2020-10-31,TCU,Baylor,texaschristian,baylor,missing_or_nonreciprocal_momentum_source
+2020,2020-10-31,Western Kentucky,BYU,westernkentucky,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-11-06,BYU,Boise State,brighamyoung,boisestate,missing_or_nonreciprocal_momentum_source
+2020,2020-11-07,Texas A&M,South Carolina,texasaandm,southcarolina,missing_or_nonreciprocal_momentum_source
+2020,2020-11-07,Texas Tech,TCU,texastech,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-11-10,Miami (OH),Buffalo,miamiohio,buffalo,missing_or_nonreciprocal_momentum_source
+2020,2020-11-14,SMU,Tulsa,southernmethodist,tulsa,missing_or_nonreciprocal_momentum_source
+2020,2020-11-14,TCU,West Virginia,texaschristian,westvirginia,missing_or_nonreciprocal_momentum_source
+2020,2020-11-14,UNLV,San Jose State,unlv,sanjosestate,missing_or_nonreciprocal_momentum_source
+2020,2020-11-21,Appalachian State,Coastal Carolina,appalachianstate,coastalcarolina,missing_or_nonreciprocal_momentum_source
+2020,2020-11-21,Cincinnati,UCF,cincinnati,centralflorida,missing_or_nonreciprocal_momentum_source
+2020,2020-11-27,UCF,South Florida,centralflorida,southflorida,missing_or_nonreciprocal_momentum_source
+2020,2020-11-28,LSU,Texas A&M,lsu,texasaandm,missing_or_nonreciprocal_momentum_source
+2020,2020-11-28,TCU,Kansas,texaschristian,kansas,missing_or_nonreciprocal_momentum_source
+2020,2020-11-28,Troy,Appalachian State,troy,appalachianstate,missing_or_nonreciprocal_momentum_source
+2020,2020-12-04,Louisiana,Appalachian State,louisiana,appalachianstate,missing_or_nonreciprocal_momentum_source
+2020,2020-12-05,BYU,Coastal Carolina,brighamyoung,coastalcarolina,missing_or_nonreciprocal_momentum_source
+2020,2020-12-05,Oklahoma State,TCU,oklahomastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-12-05,Texas A&M,Auburn,texasaandm,auburn,missing_or_nonreciprocal_momentum_source
+2020,2020-12-12,Louisiana Tech,TCU,louisianatech,texaschristian,missing_or_nonreciprocal_momentum_source
+2020,2020-12-12,San Diego State,BYU,sandiegostate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2020,2020-12-19,San Jose State,Boise State,sanjosestate,boisestate,missing_or_nonreciprocal_momentum_source
+2020,2020-12-19,Texas A&M,Tennessee,texasaandm,tennessee,missing_or_nonreciprocal_momentum_source
+2020,2021-01-02,Texas A&M,North Carolina,texasaandm,northcarolina,missing_or_nonreciprocal_momentum_source
+2021,2021-09-02,Boise State,UCF,boisestate,centralflorida,missing_or_nonreciprocal_momentum_source
+2021,2021-09-02,ECU,Appalachian State,eastcarolina,appalachianstate,missing_or_nonreciprocal_momentum_source
+2021,2021-09-04,BYU,Arizona,brighamyoung,arizona,missing_or_nonreciprocal_momentum_source
+2021,2021-09-04,Kent State,Texas A&M,kentstate,texasaandm,missing_or_nonreciprocal_momentum_source
+2021,2021-09-04,UTSA,Illinois,texassanantonio,illinois,missing_or_nonreciprocal_momentum_source
+2021,2021-09-06,Louisville,Ole Miss,louisville,mississippi,missing_or_nonreciprocal_momentum_source
+2021,2021-09-10,UTEP,Boise State,texaselpaso,boisestate,missing_or_nonreciprocal_momentum_source
+2021,2021-09-11,Appalachian State,Miami,appalachianstate,miami,missing_or_nonreciprocal_momentum_source
+2021,2021-09-11,California,TCU,california,texaschristian,missing_or_nonreciprocal_momentum_source
+2021,2021-09-11,Texas A&M,Colorado,texasaandm,colorado,missing_or_nonreciprocal_momentum_source
+2021,2021-09-11,Utah,BYU,utah,brighamyoung,missing_or_nonreciprocal_momentum_source
+2021,2021-09-18,Arizona State,BYU,arizonastate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2021,2021-09-18,San Jose State,Hawaii,sanjosestate,hawaii,missing_or_nonreciprocal_momentum_source
+2021,2021-09-18,Tulane,Ole Miss,tulane,mississippi,missing_or_nonreciprocal_momentum_source
+2021,2021-09-18,UCF,Louisville,centralflorida,louisville,missing_or_nonreciprocal_momentum_source
+2021,2021-09-23,Marshall,Appalachian State,marshall,appalachianstate,missing_or_nonreciprocal_momentum_source
+2021,2021-09-25,SMU,TCU,southernmethodist,texaschristian,missing_or_nonreciprocal_momentum_source
+2021,2021-09-25,Texas A&M,Arkansas,texasaandm,arkansas,missing_or_nonreciprocal_momentum_source
+2021,2021-09-25,USF,BYU,southflorida,brighamyoung,missing_or_nonreciprocal_momentum_source
+2021,2021-10-02,Ole Miss,Alabama,mississippi,alabama,missing_or_nonreciprocal_momentum_source
+2021,2021-10-02,Texas,TCU,texas,texaschristian,missing_or_nonreciprocal_momentum_source
+2021,2021-10-09,Alabama,Texas A&M,alabama,texasaandm,missing_or_nonreciprocal_momentum_source
+2021,2021-10-09,Arkansas,Ole Miss,arkansas,mississippi,missing_or_nonreciprocal_momentum_source
+2021,2021-10-09,Boise State,BYU,boisestate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2021,2021-10-09,TCU,Texas Tech,texaschristian,texastech,missing_or_nonreciprocal_momentum_source
+2021,2021-10-12,Appalachian State,Louisiana,appalachianstate,louisiana,missing_or_nonreciprocal_momentum_source
+2021,2021-10-16,BYU,Baylor,brighamyoung,baylor,missing_or_nonreciprocal_momentum_source
+2021,2021-10-16,TCU,Oklahoma,texaschristian,oklahoma,missing_or_nonreciprocal_momentum_source
+2021,2021-10-16,UCF,Cincinnati,centralflorida,cincinnati,missing_or_nonreciprocal_momentum_source
+2021,2021-10-20,Coastal Carolina,Appalachian State,coastalcarolina,appalachianstate,missing_or_nonreciprocal_momentum_source
+2021,2021-10-21,Tulane,SMU,tulane,southernmethodist,missing_or_nonreciprocal_momentum_source
+2021,2021-10-22,Memphis,UCF,memphis,centralflorida,missing_or_nonreciprocal_momentum_source
+2021,2021-10-23,BYU,Washington State,brighamyoung,washingtonstate,missing_or_nonreciprocal_momentum_source
+2021,2021-10-23,LSU,Ole Miss,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2021,2021-10-23,West Virginia,TCU,westvirginia,texaschristian,missing_or_nonreciprocal_momentum_source
+2021,2021-10-30,Ole Miss,Auburn,mississippi,auburn,missing_or_nonreciprocal_momentum_source
+2021,2021-10-30,SMU,Houston,southernmethodist,houston,missing_or_nonreciprocal_momentum_source
+2021,2021-10-30,Virginia,BYU,virginia,brighamyoung,missing_or_nonreciprocal_momentum_source
+2021,2021-11-06,Auburn,Texas A&M,auburn,texasaandm,missing_or_nonreciprocal_momentum_source
+2021,2021-11-06,Baylor,TCU,baylor,texaschristian,missing_or_nonreciprocal_momentum_source
+2021,2021-11-06,UTSA,UTEP,texassanantonio,texaselpaso,missing_or_nonreciprocal_momentum_source
+2021,2021-11-13,TCU,Oklahoma State,texaschristian,oklahomastate,missing_or_nonreciprocal_momentum_source
+2021,2021-11-13,Texas A&M,Ole Miss,texasaandm,mississippi,missing_or_nonreciprocal_momentum_source
+2021,2021-11-13,Utah State,San Jose State,utahstate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2021,2021-11-20,SMU,Cincinnati,southernmethodist,cincinnati,missing_or_nonreciprocal_momentum_source
+2021,2021-11-25,Fresno State,San Jose State,fresnostate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2021,2021-11-25,Ole Miss,Mississippi State,mississippi,mississippistate,missing_or_nonreciprocal_momentum_source
+2021,2021-11-26,TCU,Iowa State,texaschristian,iowastate,missing_or_nonreciprocal_momentum_source
+2021,2021-11-27,BYU,USC,brighamyoung,usc,missing_or_nonreciprocal_momentum_source
+2021,2021-11-27,Texas A&M,LSU,texasaandm,lsu,missing_or_nonreciprocal_momentum_source
+2021,2021-11-27,Tulsa,SMU,tulsa,southernmethodist,missing_or_nonreciprocal_momentum_source
+2021,2021-12-04,Appalachian State,Louisiana,appalachianstate,louisiana,missing_or_nonreciprocal_momentum_source
+2021,2021-12-18,BYU,UAB,brighamyoung,uab,missing_or_nonreciprocal_momentum_source
+2021,2021-12-18,UTEP,Fresno State,texaselpaso,fresnostate,missing_or_nonreciprocal_momentum_source
+2021,2021-12-18,Western Kentucky,Appalachian State,westernkentucky,appalachianstate,missing_or_nonreciprocal_momentum_source
+2021,2021-12-23,North Texas,Miami (OH),northtexas,miamiohio,missing_or_nonreciprocal_momentum_source
+2021,2021-12-23,UCF,Florida,centralflorida,florida,missing_or_nonreciprocal_momentum_source
+2021,2022-01-01,Baylor,Ole Miss,baylor,mississippi,missing_or_nonreciprocal_momentum_source
+2022,2022-08-27,UConn,Utah State,connecticut,utahstate,missing_or_nonreciprocal_momentum_source
+2022,2022-09-02,TCU,Colorado,texaschristian,colorado,missing_or_nonreciprocal_momentum_source
+2022,2022-09-03,North Carolina,Appalachian State,northcarolina,appalachianstate,missing_or_nonreciprocal_momentum_source
+2022,2022-09-03,UTEP,Oklahoma,texaselpaso,oklahoma,missing_or_nonreciprocal_momentum_source
+2022,2022-09-04,Florida A&M,Jackson State,floridaaandm,jacksonstate,missing_or_nonreciprocal_momentum_source
+2022,2022-09-09,Louisville,UCF,louisville,centralflorida,missing_or_nonreciprocal_momentum_source
+2022,2022-09-10,Appalachian State,Texas A&M,appalachianstate,texasaandm,missing_or_nonreciprocal_momentum_source
+2022,2022-09-10,Baylor,BYU,baylor,brighamyoung,missing_or_nonreciprocal_momentum_source
+2022,2022-09-10,San Jose State,Auburn,sanjosestate,auburn,missing_or_nonreciprocal_momentum_source
+2022,2022-09-17,BYU,Oregon,brighamyoung,oregon,missing_or_nonreciprocal_momentum_source
+2022,2022-09-17,Miami,Texas A&M,miami,texasaandm,missing_or_nonreciprocal_momentum_source
+2022,2022-09-17,UConn,Michigan,connecticut,michigan,missing_or_nonreciprocal_momentum_source
+2022,2022-09-24,Arkansas,Texas A&M,arkansas,texasaandm,missing_or_nonreciprocal_momentum_source
+2022,2022-10-01,Kentucky,Ole Miss,kentucky,mississippi,missing_or_nonreciprocal_momentum_source
+2022,2022-10-01,Oklahoma,TCU,oklahoma,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-10-08,BYU,Notre Dame,brighamyoung,notredame,missing_or_nonreciprocal_momentum_source
+2022,2022-10-08,Texas A&M,Alabama,texasaandm,alabama,missing_or_nonreciprocal_momentum_source
+2022,2022-10-15,Auburn,Ole Miss,auburn,mississippi,missing_or_nonreciprocal_momentum_source
+2022,2022-10-15,Oklahoma State,TCU,oklahomastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-10-22,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-10-22,Ole Miss,LSU,mississippi,lsu,missing_or_nonreciprocal_momentum_source
+2022,2022-10-29,TCU,West Virginia,texaschristian,westvirginia,missing_or_nonreciprocal_momentum_source
+2022,2022-11-05,Florida,Texas A&M,florida,texasaandm,missing_or_nonreciprocal_momentum_source
+2022,2022-11-05,Texas Tech,TCU,texastech,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-11-12,Alabama,Ole Miss,alabama,mississippi,missing_or_nonreciprocal_momentum_source
+2022,2022-11-12,TCU,Texas,texaschristian,texas,missing_or_nonreciprocal_momentum_source
+2022,2022-11-19,TCU,Baylor,texaschristian,baylor,missing_or_nonreciprocal_momentum_source
+2022,2022-11-26,Iowa State,TCU,iowastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-11-26,LSU,Texas A&M,lsu,texasaandm,missing_or_nonreciprocal_momentum_source
+2022,2022-12-03,Kansas State,TCU,kansasstate,texaschristian,missing_or_nonreciprocal_momentum_source
+2022,2022-12-03,Tulane,UCF,tulane,centralflorida,missing_or_nonreciprocal_momentum_source
+2022,2022-12-16,Troy,UTSA,troy,texassanantonio,missing_or_nonreciprocal_momentum_source
+2022,2022-12-16,UAB,Miami (OH),uab,miamiohio,missing_or_nonreciprocal_momentum_source
+2022,2022-12-17,BYU,SMU,brighamyoung,southernmethodist,missing_or_nonreciprocal_momentum_source
+2022,2022-12-19,Marshall,UConn,marshall,connecticut,missing_or_nonreciprocal_momentum_source
+2022,2022-12-20,Eastern Michigan,San Jose State,easternmichigan,sanjosestate,missing_or_nonreciprocal_momentum_source
+2022,2022-12-28,Duke,UCF,duke,centralflorida,missing_or_nonreciprocal_momentum_source
+2022,2022-12-28,Texas Tech,Ole Miss,texastech,mississippi,missing_or_nonreciprocal_momentum_source
+2022,2022-12-31,TCU,Michigan,texaschristian,michigan,missing_or_nonreciprocal_momentum_source
+2022,2023-01-09,Georgia,TCU,georgia,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-08-31,Kent State,UCF,kentstate,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-09-02,Colorado,TCU,colorado,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-09-02,Louisiana Tech,SMU,louisianatech,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-09-02,New Mexico,Texas A&M,newmexico,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-09-02,Sam Houston,BYU,samhouston,brighamyoung,missing_or_nonreciprocal_momentum_source
+2023,2023-09-02,UTSA,Houston,texassanantonio,houston,missing_or_nonreciprocal_momentum_source
+2023,2023-09-03,Oregon State,San Jose State,oregonstate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2023,2023-09-09,Mississippi,Tulane,mississippi,tulane,missing_or_nonreciprocal_momentum_source
+2023,2023-09-09,Texas A&M,Miami,texasaandm,miami,missing_or_nonreciprocal_momentum_source
+2023,2023-09-09,UCF,Boise State,centralflorida,boisestate,missing_or_nonreciprocal_momentum_source
+2023,2023-09-15,Army,UTSA,army,texassanantonio,missing_or_nonreciprocal_momentum_source
+2023,2023-09-16,BYU,Arkansas,brighamyoung,arkansas,missing_or_nonreciprocal_momentum_source
+2023,2023-09-16,TCU,Houston,texaschristian,houston,missing_or_nonreciprocal_momentum_source
+2023,2023-09-21,Arkansas Pine-Bluff,Alabama A&M,arkansaspinebluff,alabamaaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-09-22,Air Force,San Jose State,airforce,sanjosestate,missing_or_nonreciprocal_momentum_source
+2023,2023-09-23,Auburn,Texas A&M,auburn,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-09-23,BYU,Kansas,brighamyoung,kansas,missing_or_nonreciprocal_momentum_source
+2023,2023-09-23,Mississippi,Alabama,mississippi,alabama,missing_or_nonreciprocal_momentum_source
+2023,2023-09-23,SMU,TCU,southernmethodist,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-09-23,UCF,Kansas State,centralflorida,kansasstate,missing_or_nonreciprocal_momentum_source
+2023,2023-09-29,Cincinnati,BYU,cincinnati,brighamyoung,missing_or_nonreciprocal_momentum_source
+2023,2023-09-30,Baylor,UCF,baylor,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-09-30,Charlotte,SMU,charlotte,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-09-30,LSU,Mississippi,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2023,2023-09-30,West Virginia,TCU,westvirginia,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-10-07,Alabama,Texas A&M,alabama,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-10-07,TCU,Iowa State,texaschristian,iowastate,missing_or_nonreciprocal_momentum_source
+2023,2023-10-07,UCF,Kansas,centralflorida,kansas,missing_or_nonreciprocal_momentum_source
+2023,2023-10-10,Coastal Carolina,App State,coastalcarolina,appalachianstate,missing_or_nonreciprocal_momentum_source
+2023,2023-10-11,UTEP,FIU,texaselpaso,floridainternational,missing_or_nonreciprocal_momentum_source
+2023,2023-10-12,SMU,ECU,southernmethodist,eastcarolina,missing_or_nonreciprocal_momentum_source
+2023,2023-10-14,BYU,TCU,brighamyoung,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-10-14,Texas A&M,Tennessee,texasaandm,tennessee,missing_or_nonreciprocal_momentum_source
+2023,2023-10-14,UAB,UTSA,uab,texassanantonio,missing_or_nonreciprocal_momentum_source
+2023,2023-10-18,New Mexico State,UTEP,newmexicostate,texaselpaso,missing_or_nonreciprocal_momentum_source
+2023,2023-10-20,SMU,Temple,southernmethodist,temple,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,App State,Old Dominion,appalachianstate,olddominion,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,Mississippi,Auburn,mississippi,auburn,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,TCU,Kansas State,texaschristian,kansasstate,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,Texas Tech,BYU,texastech,brighamyoung,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,Toledo,Miami (Ohio),toledo,miamiohio,missing_or_nonreciprocal_momentum_source
+2023,2023-10-21,UCF,Oklahoma,centralflorida,oklahoma,missing_or_nonreciprocal_momentum_source
+2023,2023-10-25,UTEP,Sam Houston,texaselpaso,samhouston,missing_or_nonreciprocal_momentum_source
+2023,2023-10-28,BYU,Texas,brighamyoung,texas,missing_or_nonreciprocal_momentum_source
+2023,2023-10-28,South Carolina,Texas A&M,southcarolina,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-10-28,Tulsa,SMU,tulsa,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-10-28,West Virginia,UCF,westvirginia,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-11-02,TCU,Texas Tech,texaschristian,texastech,missing_or_nonreciprocal_momentum_source
+2023,2023-11-04,BYU,West Virginia,brighamyoung,westvirginia,missing_or_nonreciprocal_momentum_source
+2023,2023-11-04,Marshall,App State,marshall,appalachianstate,missing_or_nonreciprocal_momentum_source
+2023,2023-11-04,SMU,Rice,southernmethodist,rice,missing_or_nonreciprocal_momentum_source
+2023,2023-11-04,Texas A&M,Mississippi,texasaandm,mississippi,missing_or_nonreciprocal_momentum_source
+2023,2023-11-04,UCF,Cincinnati,centralflorida,cincinnati,missing_or_nonreciprocal_momentum_source
+2023,2023-11-08,Akron,Miami (Ohio),akron,miamiohio,missing_or_nonreciprocal_momentum_source
+2023,2023-11-10,North Texas,SMU,northtexas,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Iowa State,BYU,iowastate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Mississippi,Georgia,mississippi,georgia,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Mississippi State,Texas A&M,mississippistate,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Oklahoma State,UCF,oklahomastate,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Rice,UTSA,rice,texassanantonio,missing_or_nonreciprocal_momentum_source
+2023,2023-11-11,Texas,TCU,texas,texaschristian,missing_or_nonreciprocal_momentum_source
+2023,2023-11-15,Buffalo,Miami (OH),buffalo,miamiohio,missing_or_nonreciprocal_momentum_source
+2023,2023-11-17,USF,UTSA,southflorida,texassanantonio,missing_or_nonreciprocal_momentum_source
+2023,2023-11-18,Bethune-Cookman,Florida A&M,bethunecookman,floridaaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-11-18,Oklahoma,BYU,oklahoma,brighamyoung,missing_or_nonreciprocal_momentum_source
+2023,2023-11-18,SMU,Memphis,southernmethodist,memphis,missing_or_nonreciprocal_momentum_source
+2023,2023-11-18,UCF,Texas Tech,centralflorida,texastech,missing_or_nonreciprocal_momentum_source
+2023,2023-11-23,Mississippi,Mississippi State,mississippi,mississippistate,missing_or_nonreciprocal_momentum_source
+2023,2023-11-24,TCU,Oklahoma,texaschristian,oklahoma,missing_or_nonreciprocal_momentum_source
+2023,2023-11-24,UTSA,Tulane,texassanantonio,tulane,missing_or_nonreciprocal_momentum_source
+2023,2023-11-25,BYU,Oklahoma State,brighamyoung,oklahomastate,missing_or_nonreciprocal_momentum_source
+2023,2023-11-25,Georgia Southern,Appalachian State,georgiasouthern,appalachianstate,missing_or_nonreciprocal_momentum_source
+2023,2023-11-25,Houston,UCF,houston,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-11-25,Navy,SMU,navy,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-11-25,Texas A&M,LSU,texasaandm,lsu,missing_or_nonreciprocal_momentum_source
+2023,2023-12-02,Florida A&M,Prairie View A&M,floridaaandm,prairieviewaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-12-02,Miami (OH),Toledo,miamiohio,toledo,missing_or_nonreciprocal_momentum_source
+2023,2023-12-02,SMU,Tulane,southernmethodist,tulane,missing_or_nonreciprocal_momentum_source
+2023,2023-12-02,Troy,Appalachian State,troy,appalachianstate,missing_or_nonreciprocal_momentum_source
+2023,2023-12-16,Appalachian State,Miami (OH),appalachianstate,miamiohio,missing_or_nonreciprocal_momentum_source
+2023,2023-12-16,Florida A&M,Howard,floridaaandm,howard,missing_or_nonreciprocal_momentum_source
+2023,2023-12-19,UTSA,Marshall,texassanantonio,marshall,missing_or_nonreciprocal_momentum_source
+2023,2023-12-22,Georgia Tech,UCF,georgiatech,centralflorida,missing_or_nonreciprocal_momentum_source
+2023,2023-12-23,Coastal Carolina,San Jose State,coastalcarolina,sanjosestate,missing_or_nonreciprocal_momentum_source
+2023,2023-12-27,Oklahoma State,Texas A&M,oklahomastate,texasaandm,missing_or_nonreciprocal_momentum_source
+2023,2023-12-28,Boston College,SMU,bostoncollege,southernmethodist,missing_or_nonreciprocal_momentum_source
+2023,2023-12-30,Mississippi,Penn State,mississippi,pennstate,missing_or_nonreciprocal_momentum_source
+2023,2023-12-30,Ole Miss,Penn State,mississippi,pennstate,missing_or_nonreciprocal_momentum_source
+2024,2024-08-29,Sacramento St.,San Jose State,sacramentostate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2024,2024-08-30,TCU,Stanford,texaschristian,stanford,missing_or_nonreciprocal_momentum_source
+2024,2024-08-31,Notre Dame,Texas A&M,notredame,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-08-31,UConn,Maryland,connecticut,maryland,missing_or_nonreciprocal_momentum_source
+2024,2024-08-31,UTEP,Nebraska,texaselpaso,nebraska,missing_or_nonreciprocal_momentum_source
+2024,2024-09-06,BYU,SMU,brighamyoung,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-09-07,UTSA,Texas State,texassanantonio,texasstate,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,App State,ECU,appalachianstate,eastcarolina,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,Cincinnati,Miami (Ohio),cincinnati,miamiohio,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,Kennesaw State,San Jose State,kennesawstate,sanjosestate,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,Mississippi,Wake Forest,mississippi,wakeforest,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,Texas A&M,Florida,texasaandm,florida,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,UCF,TCU,centralflorida,texaschristian,missing_or_nonreciprocal_momentum_source
+2024,2024-09-14,UTSA,Texas,texassanantonio,texas,missing_or_nonreciprocal_momentum_source
+2024,2024-09-19,South Alabama,App State,southalabama,appalachianstate,missing_or_nonreciprocal_momentum_source
+2024,2024-09-20,San Jose State,Washington St.,sanjosestate,washingtonstate,missing_or_nonreciprocal_momentum_source
+2024,2024-09-21,Kansas State,BYU,kansasstate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2024,2024-09-21,Miami (Ohio),Notre Dame,miamiohio,notredame,missing_or_nonreciprocal_momentum_source
+2024,2024-09-21,TCU,SMU,texaschristian,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-09-21,UTEP,Colorado State,texaselpaso,coloradostate,missing_or_nonreciprocal_momentum_source
+2024,2024-09-28,Arkansas,Texas A&M,arkansas,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-09-28,BYU,Baylor,brighamyoung,baylor,missing_or_nonreciprocal_momentum_source
+2024,2024-09-28,Colorado,UCF,colorado,centralflorida,missing_or_nonreciprocal_momentum_source
+2024,2024-09-28,Kentucky,Mississippi,kentucky,mississippi,missing_or_nonreciprocal_momentum_source
+2024,2024-10-04,Houston,TCU,houston,texaschristian,missing_or_nonreciprocal_momentum_source
+2024,2024-10-05,Mississippi,South Carolina,mississippi,southcarolina,missing_or_nonreciprocal_momentum_source
+2024,2024-10-05,Missouri,Texas A&M,missouri,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-10-05,Nevada,San Jose State,nevada,sanjosestate,missing_or_nonreciprocal_momentum_source
+2024,2024-10-05,SMU,Louisville,southernmethodist,louisville,missing_or_nonreciprocal_momentum_source
+2024,2024-10-10,UTEP,W. Kentucky,texaselpaso,westernkentucky,missing_or_nonreciprocal_momentum_source
+2024,2024-10-12,Arizona,BYU,arizona,brighamyoung,missing_or_nonreciprocal_momentum_source
+2024,2024-10-12,Cincinnati,UCF,cincinnati,centralflorida,missing_or_nonreciprocal_momentum_source
+2024,2024-10-12,Mississippi,LSU,mississippi,lsu,missing_or_nonreciprocal_momentum_source
+2024,2024-10-12,San Jose State,Colorado State,sanjosestate,coloradostate,missing_or_nonreciprocal_momentum_source
+2024,2024-10-18,Oklahoma State,BYU,oklahomastate,brighamyoung,missing_or_nonreciprocal_momentum_source
+2024,2024-10-19,TCU,Utah,texaschristian,utah,missing_or_nonreciprocal_momentum_source
+2024,2024-10-19,UCF,Iowa State,centralflorida,iowastate,missing_or_nonreciprocal_momentum_source
+2024,2024-10-26,BYU,UCF,brighamyoung,centralflorida,missing_or_nonreciprocal_momentum_source
+2024,2024-10-26,LSU,Texas A&M,lsu,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-10-26,Oklahoma,Mississippi,oklahoma,mississippi,missing_or_nonreciprocal_momentum_source
+2024,2024-10-26,San Jose State,Fresno State,sanjosestate,fresnostate,missing_or_nonreciprocal_momentum_source
+2024,2024-10-26,Texas Tech,TCU,texastech,texaschristian,missing_or_nonreciprocal_momentum_source
+2024,2024-11-02,Arizona,UCF,arizona,centralflorida,missing_or_nonreciprocal_momentum_source
+2024,2024-11-02,Memphis,UTSA,memphis,texassanantonio,missing_or_nonreciprocal_momentum_source
+2024,2024-11-02,Mississippi,Arkansas,mississippi,arkansas,missing_or_nonreciprocal_momentum_source
+2024,2024-11-02,TCU,Baylor,texaschristian,baylor,missing_or_nonreciprocal_momentum_source
+2024,2024-11-02,Texas A&M,South Carolina,texasaandm,southcarolina,missing_or_nonreciprocal_momentum_source
+2024,2024-11-05,Miami (Ohio),Ball State,miamiohio,ballstate,missing_or_nonreciprocal_momentum_source
+2024,2024-11-07,App State,Coastal Carolina,appalachianstate,coastalcarolina,missing_or_nonreciprocal_momentum_source
+2024,2024-11-09,BYU,Utah,brighamyoung,utah,missing_or_nonreciprocal_momentum_source
+2024,2024-11-09,Georgia,Mississippi,georgia,mississippi,missing_or_nonreciprocal_momentum_source
+2024,2024-11-09,Oklahoma State,TCU,oklahomastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2024,2024-11-09,UCF,Arizona State,centralflorida,arizonastate,missing_or_nonreciprocal_momentum_source
+2024,2024-11-13,Kent State,Miami (Ohio),kentstate,miamiohio,missing_or_nonreciprocal_momentum_source
+2024,2024-11-15,North Texas,UTSA,northtexas,texassanantonio,missing_or_nonreciprocal_momentum_source
+2024,2024-11-16,Boston College,SMU,bostoncollege,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-11-16,Kansas,BYU,kansas,brighamyoung,missing_or_nonreciprocal_momentum_source
+2024,2024-11-19,Northern Illinois,Miami (Ohio),northernillinois,miamiohio,missing_or_nonreciprocal_momentum_source
+2024,2024-11-22,Temple,UTSA,temple,texassanantonio,missing_or_nonreciprocal_momentum_source
+2024,2024-11-23,BYU,Arizona State,brighamyoung,arizonastate,missing_or_nonreciprocal_momentum_source
+2024,2024-11-23,Mississippi,Florida,mississippi,florida,missing_or_nonreciprocal_momentum_source
+2024,2024-11-23,SMU,Virginia,southernmethodist,virginia,missing_or_nonreciprocal_momentum_source
+2024,2024-11-23,Texas A&M,Auburn,texasaandm,auburn,missing_or_nonreciprocal_momentum_source
+2024,2024-11-23,UCF,West Virginia,centralflorida,westvirginia,missing_or_nonreciprocal_momentum_source
+2024,2024-11-29,Miami (Ohio),Bowling Green,miamiohio,bowlinggreen,missing_or_nonreciprocal_momentum_source
+2024,2024-11-29,Mississippi State,Mississippi,mississippistate,mississippi,missing_or_nonreciprocal_momentum_source
+2024,2024-11-29,Utah,UCF,utah,centralflorida,missing_or_nonreciprocal_momentum_source
+2024,2024-11-30,Cal,SMU,california,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-11-30,Houston,BYU,houston,brighamyoung,missing_or_nonreciprocal_momentum_source
+2024,2024-11-30,Texas,Texas A&M,texas,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-12-07,Clemson,SMU,clemson,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-12-07,Ohio,Miami (Ohio),ohio,miamiohio,missing_or_nonreciprocal_momentum_source
+2024,2024-12-21,Penn State,SMU,pennstate,southernmethodist,missing_or_nonreciprocal_momentum_source
+2024,2024-12-23,UTSA,Coastal Carolina,texassanantonio,coastalcarolina,missing_or_nonreciprocal_momentum_source
+2024,2024-12-24,USF,San Jose State,southflorida,sanjosestate,missing_or_nonreciprocal_momentum_source
+2024,2024-12-27,USC,Texas A&M,usc,texasaandm,missing_or_nonreciprocal_momentum_source
+2024,2024-12-28,BYU,Colorado,brighamyoung,colorado,missing_or_nonreciprocal_momentum_source
+2024,2024-12-28,Miami (Ohio),Colorado State,miamiohio,coloradostate,missing_or_nonreciprocal_momentum_source
+2024,2024-12-28,TCU,Louisiana,texaschristian,louisiana,missing_or_nonreciprocal_momentum_source
+2024,2024-12-28,UConn,North Carolina,connecticut,northcarolina,missing_or_nonreciprocal_momentum_source
+2025,2025-08-29,Appalachian State,Charlotte,appalachianstate,charlotte,missing_or_nonreciprocal_momentum_source
+2025,2025-08-30,UTSA,Texas A&M,texassanantonio,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-09-01,TCU,North Carolina,texaschristian,northcarolina,missing_or_nonreciprocal_momentum_source
+2025,2025-09-01,TCU Horned Frogs,North Carolina Tar Heels,texaschristian,northcarolina,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,Baylor,SMU,baylor,southernmethodist,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,Ole Miss,Kentucky,mississippi,kentucky,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,Ole Miss Rebels,Kentucky Wildcats,mississippi,kentucky,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,San Jose State,Texas,sanjosestate,texas,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,San José State Spartans,Texas Longhorns,sanjosestate,texas,missing_or_nonreciprocal_momentum_source
+2025,2025-09-06,Stanford,BYU,stanford,brighamyoung,missing_or_nonreciprocal_momentum_source
+2025,2025-09-13,Arkansas,Ole Miss,arkansas,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-09-13,Texas A&M,Notre Dame,texasaandm,notredame,missing_or_nonreciprocal_momentum_source
+2025,2025-09-13,Texas A&M Aggies,Notre Dame Fighting Irish,texasaandm,notredame,missing_or_nonreciprocal_momentum_source
+2025,2025-09-20,BYU,East Carolina,brighamyoung,eastcarolina,missing_or_nonreciprocal_momentum_source
+2025,2025-09-20,SMU,TCU,southernmethodist,texaschristian,missing_or_nonreciprocal_momentum_source
+2025,2025-09-20,Tulane,Ole Miss,tulane,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-09-20,UNLV,Miami [OH],unlv,miamiohio,missing_or_nonreciprocal_momentum_source
+2025,2025-09-27,Auburn,Texas A&M,auburn,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-09-27,BYU,Colorado,brighamyoung,colorado,missing_or_nonreciprocal_momentum_source
+2025,2025-09-27,LSU,Ole Miss,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-09-27,LSU Tigers,Ole Miss Rebels,lsu,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-10-03,West Virginia,BYU,westvirginia,brighamyoung,missing_or_nonreciprocal_momentum_source
+2025,2025-10-04,Colorado,TCU,colorado,texaschristian,missing_or_nonreciprocal_momentum_source
+2025,2025-10-04,Kansas,UCF,kansas,centralflorida,missing_or_nonreciprocal_momentum_source
+2025,2025-10-11,BYU,Arizona,brighamyoung,arizona,missing_or_nonreciprocal_momentum_source
+2025,2025-10-11,Florida,Texas A&M,florida,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-10-11,Rice,UTSA,rice,texassanantonio,missing_or_nonreciprocal_momentum_source
+2025,2025-10-11,Stanford,SMU,stanford,southernmethodist,missing_or_nonreciprocal_momentum_source
+2025,2025-10-18,Arkansas,Texas A&M,arkansas,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-10-18,BYU,Utah,brighamyoung,utah,missing_or_nonreciprocal_momentum_source
+2025,2025-10-18,Baylor,TCU,baylor,texaschristian,missing_or_nonreciprocal_momentum_source
+2025,2025-10-18,Ole Miss,Georgia,mississippi,georgia,missing_or_nonreciprocal_momentum_source
+2025,2025-10-18,Ole Miss Rebels,Georgia Bulldogs,mississippi,georgia,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,Appalachian State,Old Dominion,appalachianstate,olddominion,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,BYU,Iowa State,brighamyoung,iowastate,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,Ole Miss,Oklahoma,mississippi,oklahoma,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,Ole Miss Rebels,Oklahoma Sooners,mississippi,oklahoma,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,SMU,Wake Forest,southernmethodist,wakeforest,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,Texas A&M,LSU,texasaandm,lsu,missing_or_nonreciprocal_momentum_source
+2025,2025-10-25,Texas A&M Aggies,LSU Tigers,texasaandm,lsu,missing_or_nonreciprocal_momentum_source
+2025,2025-10-28,UTEP,Kennesaw State,texaselpaso,kennesawstate,missing_or_nonreciprocal_momentum_source
+2025,2025-10-30,Tulane,UTSA,tulane,texassanantonio,missing_or_nonreciprocal_momentum_source
+2025,2025-11-01,Miami,SMU,miami,southernmethodist,missing_or_nonreciprocal_momentum_source
+2025,2025-11-01,South Carolina,Ole Miss,southcarolina,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-11-01,UCF,Baylor,centralflorida,baylor,missing_or_nonreciprocal_momentum_source
+2025,2025-11-04,Miami (Ohio),Ohio,miamiohio,ohio,missing_or_nonreciprocal_momentum_source
+2025,2025-11-06,Georgia Southern,Appalachian State,georgiasouthern,appalachianstate,missing_or_nonreciprocal_momentum_source
+2025,2025-11-06,UTSA,South Florida,texassanantonio,southflorida,missing_or_nonreciprocal_momentum_source
+2025,2025-11-07,Houston,UCF,houston,centralflorida,missing_or_nonreciprocal_momentum_source
+2025,2025-11-08,Air Force,San Jose State,airforce,sanjosestate,missing_or_nonreciprocal_momentum_source
+2025,2025-11-08,BYU,Texas Tech,brighamyoung,texastech,missing_or_nonreciprocal_momentum_source
+2025,2025-11-08,Iowa State,TCU,iowastate,texaschristian,missing_or_nonreciprocal_momentum_source
+2025,2025-11-08,Texas A&M,Missouri,texasaandm,missouri,missing_or_nonreciprocal_momentum_source
+2025,2025-11-12,Toledo,Miami (Ohio),toledo,miamiohio,missing_or_nonreciprocal_momentum_source
+2025,2025-11-15,Florida,Ole Miss,florida,mississippi,missing_or_nonreciprocal_momentum_source
+2025,2025-11-15,South Carolina,Texas A&M,southcarolina,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-11-15,TCU,BYU,texaschristian,brighamyoung,missing_or_nonreciprocal_momentum_source
+2025,2025-11-15,UCF,Texas Tech,centralflorida,texastech,missing_or_nonreciprocal_momentum_source
+2025,2025-11-19,Miami (Ohio),Buffalo,miamiohio,buffalo,missing_or_nonreciprocal_momentum_source
+2025,2025-11-22,BYU,Cincinnati,brighamyoung,cincinnati,missing_or_nonreciprocal_momentum_source
+2025,2025-11-22,Louisville,SMU,louisville,southernmethodist,missing_or_nonreciprocal_momentum_source
+2025,2025-11-28,Ole Miss,Mississippi State,mississippi,mississippistate,missing_or_nonreciprocal_momentum_source
+2025,2025-11-28,Texas A&M,Texas,texasaandm,texas,missing_or_nonreciprocal_momentum_source
+2025,2025-11-28,Texas A&M Aggies,Texas Longhorns,texasaandm,texas,missing_or_nonreciprocal_momentum_source
+2025,2025-11-29,Cincinnati,TCU,cincinnati,texaschristian,missing_or_nonreciprocal_momentum_source
+2025,2025-11-29,SMU,California,southernmethodist,california,missing_or_nonreciprocal_momentum_source
+2025,2025-11-29,UCF,BYU,centralflorida,brighamyoung,missing_or_nonreciprocal_momentum_source
+2025,2025-12-06,BYU,Texas Tech,brighamyoung,texastech,missing_or_nonreciprocal_momentum_source
+2025,2025-12-20,Miami,Texas A&M,miami,texasaandm,missing_or_nonreciprocal_momentum_source
+2025,2025-12-20,Ole Miss,Tulane,mississippi,tulane,missing_or_nonreciprocal_momentum_source
+2025,2026-01-01,Ole Miss,Georgia,mississippi,georgia,missing_or_nonreciprocal_momentum_source
+2025,2026-01-08,Miami,Ole Miss,miami,mississippi,missing_or_nonreciprocal_momentum_source

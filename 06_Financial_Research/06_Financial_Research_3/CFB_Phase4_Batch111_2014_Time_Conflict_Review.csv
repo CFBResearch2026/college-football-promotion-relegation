@@ -1,0 +1,7 @@
+﻿batch,game_date,team_1,team_2,reported_scheduled_time_et,existing_kickoff_et,existing_time_values
+Week14,2014-11-28,NIU,Western Michigan,11:00am,11:00 PM,kickoff_et=11:00 PM
+Bowl,2014-12-24,Rice,Fresno State,8:00pm,9:00 PM,kickoff_et=9:00 PM
+Bowl,2014-12-27,Arizona State,Duke,2:10pm,2:00 PM,kickoff_et=2:00 PM
+Bowl,2014-12-30,Georgia,Louisville,6:45pm,6:30 PM,kickoff_et=6:30 PM
+Bowl,2015-01-01,Ohio State,Alabama,9:00pm,8:30 PM,kickoff_et=8:30 PM
+Bowl,2015-01-03,Florida,East Carolina,12:00pm,1:00 PM,kickoff_et=1:00 PM

@@ -1,0 +1,12 @@
+﻿metric,value,interpretation
+pilot_games,822,Phase 5C source rows
+distinct_teams,137,Distinct school IDs
+distinct_dates,13,Saturday dates with games
+distinct_windows,10,Provisional ET kickoff windows
+weekly_window_cells,130,Date-window combinations
+max_games_same_date_window,9,"Simultaneous competition, not channel capacity"
+modeled_overflow,0,Only against provisional slot caps
+verified_network_assignments,0,No actual network rights confirmed
+verified_venues,0,Venue availability not verified
+historical_tv_games_with_viewership,3762,Reference only; cannot transfer to unassigned 2027 games
+2027_game_audience_predictions,0,Not produced; requires distribution assumptions and team crosswalk

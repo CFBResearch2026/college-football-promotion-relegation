@@ -1,0 +1,7 @@
+﻿historical_timeslot,sample_games,median_viewers,mean_viewers,caution
+afternoon,847,2120000,3132469,"Descriptive, selected televised games; not causal, not network-adjusted"
+late,349,966000,1435751,"Descriptive, selected televised games; not causal, not network-adjusted"
+morning,23,1623000,1828087,"Descriptive, selected televised games; not causal, not network-adjusted"
+noon_early,773,2030000,2573749,"Descriptive, selected televised games; not causal, not network-adjusted"
+primetime,1183,1399000,2738345,"Descriptive, selected televised games; not causal, not network-adjusted"
+unknown,587,770000,2146875,"Descriptive, selected televised games; not causal, not network-adjusted"

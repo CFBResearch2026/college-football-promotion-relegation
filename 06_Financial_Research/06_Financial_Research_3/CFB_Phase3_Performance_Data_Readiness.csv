@@ -1,0 +1,7 @@
+﻿data_element,status,source,phase3_use
+Game-level audience,available provisional,Current master,Dependent variable
+Network and scheduled kickoff,available with unresolved gaps,Current master,Broadcast controls
+Historical team-season wins and losses,not standardized in current master,External historical standings required,Year-over-year improvement
+Historical strength of schedule,not standardized in current master,External ratings required,Opponent and schedule quality
+Historical weekly rankings,not standardized in current master,Historical polls required,"Pre-game quality, avoid end-season leakage"
+GitHub model rules,not accessible in connected GitHub account,Repository URL or connection needed,Promotion/relegation scenarios

@@ -1,0 +1,1135 @@
+﻿season,audience_date,unmatched_team_raw,normalized_team,opponent,reason,nearest_result_date,days_offset,network
+2014,2014-12-20,UL-Lafayette,ullafayette,Nevada,team_not_found_in_results,,,ESPN
+2015,2015-09-05,Louisiana-Lafayette,louisianalafayette,Kentucky,team_not_found_in_results,,,ESPNU
+2015,2015-09-12,San Jose State,san jose state,Air Force,team_not_found_in_results,,,ESPNU
+2022,2022-11-25,Florida,florida,Florida State,date_discrepancy_1_day,2022-11-26,1,ABC
+2022,2022-11-25,Florida State,florida state,Florida,date_discrepancy_1_day,2022-11-26,1,ABC
+2022,2022-11-26,Notre Dame,notre dame,USC,date_discrepancy_1_day,2022-11-27,1,ABC
+2022,2022-11-26,USC,usc,Notre Dame,date_discrepancy_1_day,2022-11-27,1,ABC
+2022,2022-12-31,Georgia,georgia,Ohio State,date_discrepancy_1_day,2023-01-01,1,
+2022,2022-12-31,Ohio State,ohio state,Georgia,date_discrepancy_1_day,2023-01-01,1,
+2022,2023-01-09,Georgia,georgia,TCU,date_discrepancy_1_day,2023-01-10,1,
+2022,2023-01-09,TCU,texas christian,Georgia,date_discrepancy_1_day,2023-01-10,1,
+2023,2023-12-29,Missouri,missouri,Ohio State,date_discrepancy_1_day,2023-12-30,1,ESPN
+2023,2023-12-29,Ohio State,ohio state,Missouri,date_discrepancy_1_day,2023-12-30,1,ESPN
+2023,2024-01-01,Texas,texas,Washington,date_discrepancy_1_day,2024-01-02,1,ESPN
+2023,2024-01-01,Washington,washington,Texas,date_discrepancy_1_day,2024-01-02,1,ESPN
+2023,2024-01-08,Michigan,michigan,Washington,date_discrepancy_1_day,2024-01-09,1,ESPN
+2023,2024-01-08,Washington,washington,Michigan,date_discrepancy_1_day,2024-01-09,1,ESPN
+2024,2024-09-20,Illinois,illinois,Nebraska,date_discrepancy_1_day,2024-09-21,1,FOX
+2024,2024-09-20,Nebraska,nebraska,Illinois,date_discrepancy_1_day,2024-09-21,1,FOX
+2024,2024-11-09,Alabama,alabama,LSU,date_discrepancy_1_day,2024-11-10,1,ABC
+2024,2024-11-09,LSU,louisiana state,Alabama,date_discrepancy_1_day,2024-11-10,1,ABC
+2024,2024-11-30,Texas,texas,Texas A&M,date_discrepancy_1_day,2024-12-01,1,
+2024,2024-11-30,Texas A&M,texas aandm,Texas,date_discrepancy_1_day,2024-12-01,1,
+2024,2024-12-07,Clemson,clemson,SMU,date_discrepancy_1_day,2024-12-08,1,ABC
+2024,2024-12-07,SMU,southern methodist,Clemson,date_discrepancy_1_day,2024-12-08,1,ABC
+2024,2024-12-07,Oregon,oregon,Penn State,date_discrepancy_1_day,2024-12-08,1,CBS
+2024,2024-12-07,Penn State,penn state,Oregon,date_discrepancy_1_day,2024-12-08,1,CBS
+2024,2024-12-20,Notre Dame,notre dame,Indiana,date_discrepancy_1_day,2024-12-21,1,
+2024,2024-12-20,Indiana,indiana,Notre Dame,date_discrepancy_1_day,2024-12-21,1,
+2024,2024-12-21,Ohio State,ohio state,Tennessee,date_discrepancy_1_day,2024-12-22,1,
+2024,2024-12-21,Tennessee,tennessee,Ohio State,date_discrepancy_1_day,2024-12-22,1,
+2024,2024-12-27,Texas Tech,texas tech,Arkansas,date_discrepancy_1_day,2024-12-28,1,ESPN
+2024,2024-12-27,Arkansas,arkansas,Texas Tech,date_discrepancy_1_day,2024-12-28,1,ESPN
+2024,2024-12-28,BYU,brigham young,Colorado,date_discrepancy_1_day,2024-12-29,1,ABC
+2024,2024-12-28,Colorado,colorado,BYU,date_discrepancy_1_day,2024-12-29,1,ABC
+2024,2024-12-31,Penn State,penn state,Boise State,date_discrepancy_1_day,2025-01-01,1,
+2024,2024-12-31,Boise State,boise state,Penn State,date_discrepancy_1_day,2025-01-01,1,
+2024,2025-01-09,Notre Dame,notre dame,Penn State,date_discrepancy_1_day,2025-01-10,1,
+2024,2025-01-09,Penn State,penn state,Notre Dame,date_discrepancy_1_day,2025-01-10,1,
+2024,2025-01-10,Ohio State,ohio state,Texas,date_discrepancy_1_day,2025-01-11,1,
+2024,2025-01-10,Texas,texas,Ohio State,date_discrepancy_1_day,2025-01-11,1,
+2024,2025-01-20,Ohio State,ohio state,Notre Dame,date_discrepancy_1_day,2025-01-21,1,
+2024,2025-01-20,Notre Dame,notre dame,Ohio State,date_discrepancy_1_day,2025-01-21,1,
+2025,2025-08-23,Iowa State Cyclones,iowa state cyclones,Kansas State Wildcats,team_not_found_in_results,,,ESPN
+2025,2025-08-23,Kansas State Wildcats,kansas state wildcats,Iowa State Cyclones,team_not_found_in_results,,,ESPN
+2025,2025-08-28,Nebraska Cornhuskers,nebraska cornhuskers,Cincinnati Bearcats,team_not_found_in_results,,,ESPN
+2025,2025-08-28,Cincinnati Bearcats,cincinnati bearcats,Nebraska Cornhuskers,team_not_found_in_results,,,ESPN
+2025,2025-08-29,Georgia Tech Yellow Jackets,georgia tech yellow jackets,Colorado Buffaloes,team_not_found_in_results,,,ESPN
+2025,2025-08-29,Colorado Buffaloes,colorado buffaloes,Georgia Tech Yellow Jackets,team_not_found_in_results,,,ESPN
+2025,2025-08-30,Alabama Crimson Tide,alabama crimson tide,Florida State Seminoles,team_not_found_in_results,,,ABC
+2025,2025-08-30,Florida State Seminoles,florida state seminoles,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-08-30,LSU Tigers,lsu tigers,Clemson Tigers,team_not_found_in_results,,,ABC
+2025,2025-08-30,Clemson Tigers,clemson tigers,LSU Tigers,team_not_found_in_results,,,ABC
+2025,2025-08-30,Marshall Thundering Herd,marshall thundering herd,Georgia Bulldogs,team_not_found_in_results,,,ESPN
+2025,2025-08-30,Georgia Bulldogs,georgia bulldogs,Marshall Thundering Herd,team_not_found_in_results,,,ESPN
+2025,2025-08-30,Missouri State Bears,missouri state bears,USC Trojans,team_not_found_in_results,,,BTN
+2025,2025-08-30,USC Trojans,usc trojans,Missouri State Bears,team_not_found_in_results,,,BTN
+2025,2025-08-30,Nevada Wolf Pack,nevada wolf pack,Penn State Nittany Lions,team_not_found_in_results,,,CBS
+2025,2025-08-30,Penn State Nittany Lions,penn state nittany lions,Nevada Wolf Pack,team_not_found_in_results,,,CBS
+2025,2025-08-30,New Mexico Lobos,new mexico lobos,Michigan Wolverines,team_not_found_in_results,,,NBC
+2025,2025-08-30,Michigan Wolverines,michigan wolverines,New Mexico Lobos,team_not_found_in_results,,,NBC
+2025,2025-08-30,Texas Longhorns,texas longhorns,Ohio State Buckeyes,team_not_found_in_results,,,FOX
+2025,2025-08-30,Ohio State Buckeyes,ohio state buckeyes,Texas Longhorns,team_not_found_in_results,,,FOX
+2025,2025-08-31,Notre Dame Fighting Irish,notre dame fighting irish,Miami Hurricanes,team_not_found_in_results,,,ABC
+2025,2025-08-31,Miami Hurricanes,miami hurricanes,Notre Dame Fighting Irish,team_not_found_in_results,,,ABC
+2025,2025-08-31,Virginia Tech Hokies,virginia tech hokies,South Carolina Gamecocks,team_not_found_in_results,,,ESPN
+2025,2025-08-31,South Carolina Gamecocks,south carolina gamecocks,Virginia Tech Hokies,team_not_found_in_results,,,ESPN
+2025,2025-09-01,TCU Horned Frogs,tcu horned frogs,North Carolina Tar Heels,team_not_found_in_results,,,ESPN
+2025,2025-09-01,North Carolina Tar Heels,north carolina tar heels,TCU Horned Frogs,team_not_found_in_results,,,ESPN
+2025,2025-09-05,James Madison Dukes,james madison dukes,Louisville Cardinals,team_not_found_in_results,,,ESPN
+2025,2025-09-05,Louisville Cardinals,louisville cardinals,James Madison Dukes,team_not_found_in_results,,,ESPN
+2025,2025-09-06,Delaware Blue Hens,delaware blue hens,Colorado Buffaloes,team_not_found_in_results,,,FOX
+2025,2025-09-06,Colorado Buffaloes,colorado buffaloes,Delaware Blue Hens,team_not_found_in_results,,,FOX
+2025,2025-09-06,Fresno State Bulldogs,fresno state bulldogs,Oregon State Beavers,team_not_found_in_results,,,The CW
+2025,2025-09-06,Oregon State Beavers,oregon state beavers,Fresno State Bulldogs,team_not_found_in_results,,,The CW
+2025,2025-09-06,Grambling Tigers,grambling tigers,Ohio State Buckeyes,team_not_found_in_results,,,BTN
+2025,2025-09-06,Ohio State Buckeyes,ohio state buckeyes,Grambling Tigers,team_not_found_in_results,,,BTN
+2025,2025-09-06,Illinois Fighting Illini,illinois fighting illini,Duke Blue Devils,team_not_found_in_results,,,ESPN
+2025,2025-09-06,Duke Blue Devils,duke blue devils,Illinois Fighting Illini,team_not_found_in_results,,,ESPN
+2025,2025-09-06,Iowa Hawkeyes,iowa hawkeyes,Iowa State Cyclones,team_not_found_in_results,,,FOX
+2025,2025-09-06,Iowa State Cyclones,iowa state cyclones,Iowa Hawkeyes,team_not_found_in_results,,,FOX
+2025,2025-09-06,James Madison,james madison,Louisville,date_discrepancy_1_day,2025-09-05,-1,ESPN
+2025,2025-09-06,Louisville,louisville,James Madison,date_discrepancy_1_day,2025-09-05,-1,ESPN
+2025,2025-09-06,Ole Miss Rebels,ole miss rebels,Kentucky Wildcats,team_not_found_in_results,,,ABC
+2025,2025-09-06,Kentucky Wildcats,kentucky wildcats,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2025,2025-09-06,San Diego State,san diego state,Washington State,date_discrepancy_1_day,2025-09-07,1,CW
+2025,2025-09-06,Washington State,washington state,San Diego State,date_discrepancy_1_day,2025-09-07,1,CW
+2025,2025-09-06,San Diego State Aztecs,san diego state aztecs,Washington State Cougars,team_not_found_in_results,,,The CW
+2025,2025-09-06,Washington State Cougars,washington state cougars,San Diego State Aztecs,team_not_found_in_results,,,The CW
+2025,2025-09-06,San Jose State,san jose state,Texas,team_not_found_in_results,,,ABC
+2025,2025-09-06,San José State Spartans,san jos state spartans,Texas Longhorns,team_not_found_in_results,,,ABC
+2025,2025-09-06,Texas Longhorns,texas longhorns,San José State Spartans,team_not_found_in_results,,,ABC
+2025,2025-09-13,Georgia Bulldogs,georgia bulldogs,Tennessee Volunteers,team_not_found_in_results,,,ABC
+2025,2025-09-13,Tennessee Volunteers,tennessee volunteers,Georgia Bulldogs,team_not_found_in_results,,,ABC
+2025,2025-09-13,South Florida Bulls,south florida bulls,Miami Hurricanes,team_not_found_in_results,,,The CW
+2025,2025-09-13,Miami Hurricanes,miami hurricanes,South Florida Bulls,team_not_found_in_results,,,The CW
+2025,2025-09-13,Texas A&M Aggies,texas aandm aggies,Notre Dame Fighting Irish,team_not_found_in_results,,,NBC · Peacock
+2025,2025-09-13,Notre Dame Fighting Irish,notre dame fighting irish,Texas A&M Aggies,team_not_found_in_results,,,NBC · Peacock
+2025,2025-09-20,Auburn Tigers,auburn tigers,Oklahoma Sooners,team_not_found_in_results,,,ABC
+2025,2025-09-20,Oklahoma Sooners,oklahoma sooners,Auburn Tigers,team_not_found_in_results,,,ABC
+2025,2025-09-20,Illinois Fighting Illini,illinois fighting illini,Indiana Hoosiers,team_not_found_in_results,,,NBC
+2025,2025-09-20,Indiana Hoosiers,indiana hoosiers,Illinois Fighting Illini,team_not_found_in_results,,,NBC
+2025,2025-09-20,Texas Tech Red Raiders,texas tech red raiders,Utah Utes,team_not_found_in_results,,,FOX
+2025,2025-09-20,Utah Utes,utah utes,Texas Tech Red Raiders,team_not_found_in_results,,,FOX
+2025,2025-09-27,Alabama Crimson Tide,alabama crimson tide,Georgia Bulldogs,team_not_found_in_results,,,ABC
+2025,2025-09-27,Georgia Bulldogs,georgia bulldogs,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-09-27,LSU Tigers,lsu tigers,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2025,2025-09-27,Ole Miss Rebels,ole miss rebels,LSU Tigers,team_not_found_in_results,,,ABC
+2025,2025-09-27,Oregon Ducks,oregon ducks,Penn State Nittany Lions,team_not_found_in_results,,,NBC · Peacock
+2025,2025-09-27,Penn State Nittany Lions,penn state nittany lions,Oregon Ducks,team_not_found_in_results,,,NBC · Peacock
+2025,2025-09-27,USC Trojans,usc trojans,Illinois Fighting Illini,team_not_found_in_results,,,FOX
+2025,2025-09-27,Illinois Fighting Illini,illinois fighting illini,USC Trojans,team_not_found_in_results,,,FOX
+2025,2025-10-04,Clemson Tigers,clemson tigers,North Carolina Tar Heels,team_not_found_in_results,,,ESPN
+2025,2025-10-04,North Carolina Tar Heels,north carolina tar heels,Clemson Tigers,team_not_found_in_results,,,ESPN
+2025,2025-10-04,Duke,duke,California,date_discrepancy_1_day,2025-10-05,1,ESPN
+2025,2025-10-04,California,california,Duke,date_discrepancy_1_day,2025-10-05,1,ESPN
+2025,2025-10-04,Miami Hurricanes,miami hurricanes,Florida State Seminoles,team_not_found_in_results,,,ABC
+2025,2025-10-04,Florida State Seminoles,florida state seminoles,Miami Hurricanes,team_not_found_in_results,,,ABC
+2025,2025-10-04,Texas State Bobcats,texas state bobcats,Arkansas State Red Wolves,team_not_found_in_results,,,ESPNU
+2025,2025-10-04,Arkansas State Red Wolves,arkansas state red wolves,Texas State Bobcats,team_not_found_in_results,,,ESPNU
+2025,2025-10-04,Vanderbilt Commodores,vanderbilt commodores,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-10-04,Alabama Crimson Tide,alabama crimson tide,Vanderbilt Commodores,team_not_found_in_results,,,ABC
+2025,2025-10-04,Wisconsin Badgers,wisconsin badgers,Michigan Wolverines,team_not_found_in_results,,,FOX
+2025,2025-10-04,Michigan Wolverines,michigan wolverines,Wisconsin Badgers,team_not_found_in_results,,,FOX
+2025,2025-10-11,Alabama Crimson Tide,alabama crimson tide,Missouri Tigers,team_not_found_in_results,,,ABC
+2025,2025-10-11,Missouri Tigers,missouri tigers,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-10-11,Indiana Hoosiers,indiana hoosiers,Oregon Ducks,team_not_found_in_results,,,CBS
+2025,2025-10-11,Oregon Ducks,oregon ducks,Indiana Hoosiers,team_not_found_in_results,,,CBS
+2025,2025-10-11,Michigan Wolverines,michigan wolverines,USC Trojans,team_not_found_in_results,,,NBC
+2025,2025-10-11,USC Trojans,usc trojans,Michigan Wolverines,team_not_found_in_results,,,NBC
+2025,2025-10-11,Ohio State Buckeyes,ohio state buckeyes,Illinois Fighting Illini,team_not_found_in_results,,,FOX
+2025,2025-10-11,Illinois Fighting Illini,illinois fighting illini,Ohio State Buckeyes,team_not_found_in_results,,,FOX
+2025,2025-10-11,Oklahoma Sooners,oklahoma sooners,Texas Longhorns,team_not_found_in_results,,,ABC
+2025,2025-10-11,Texas Longhorns,texas longhorns,Oklahoma Sooners,team_not_found_in_results,,,ABC
+2025,2025-10-18,Ole Miss Rebels,ole miss rebels,Georgia Bulldogs,team_not_found_in_results,,,ABC
+2025,2025-10-18,Georgia Bulldogs,georgia bulldogs,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2025,2025-10-18,Tennessee Volunteers,tennessee volunteers,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-10-18,Alabama Crimson Tide,alabama crimson tide,Tennessee Volunteers,team_not_found_in_results,,,ABC
+2025,2025-10-18,USC Trojans,usc trojans,Notre Dame Fighting Irish,team_not_found_in_results,,,NBC
+2025,2025-10-18,Notre Dame Fighting Irish,notre dame fighting irish,USC Trojans,team_not_found_in_results,,,NBC
+2025,2025-10-25,Alabama Crimson Tide,alabama crimson tide,South Carolina Gamecocks,team_not_found_in_results,,,ABC
+2025,2025-10-25,South Carolina Gamecocks,south carolina gamecocks,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-10-25,Ole Miss Rebels,ole miss rebels,Oklahoma Sooners,team_not_found_in_results,,,ABC
+2025,2025-10-25,Oklahoma Sooners,oklahoma sooners,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2025,2025-10-25,Texas A&M Aggies,texas aandm aggies,LSU Tigers,team_not_found_in_results,,,ABC
+2025,2025-10-25,LSU Tigers,lsu tigers,Texas A&M Aggies,team_not_found_in_results,,,ABC
+2025,2025-11-08,LSU,louisiana state,Alabama,date_discrepancy_1_day,2025-11-09,1,ABC
+2025,2025-11-08,Alabama,alabama,LSU,date_discrepancy_1_day,2025-11-09,1,ABC
+2025,2025-11-15,Oklahoma Sooners,oklahoma sooners,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-11-15,Alabama Crimson Tide,alabama crimson tide,Oklahoma Sooners,team_not_found_in_results,,,ABC
+2025,2025-11-15,Texas Longhorns,texas longhorns,Georgia Bulldogs,team_not_found_in_results,,,ABC
+2025,2025-11-15,Georgia Bulldogs,georgia bulldogs,Texas Longhorns,team_not_found_in_results,,,ABC
+2025,2025-11-22,Arkansas Razorbacks,arkansas razorbacks,Texas Longhorns,team_not_found_in_results,,,ABC
+2025,2025-11-22,Texas Longhorns,texas longhorns,Arkansas Razorbacks,team_not_found_in_results,,,ABC
+2025,2025-11-22,USC Trojans,usc trojans,Oregon Ducks,team_not_found_in_results,,,CBS
+2025,2025-11-22,Oregon Ducks,oregon ducks,USC Trojans,team_not_found_in_results,,,CBS
+2025,2025-11-28,Texas A&M Aggies,texas aandm aggies,Texas Longhorns,team_not_found_in_results,,,ABC
+2025,2025-11-28,Texas Longhorns,texas longhorns,Texas A&M Aggies,team_not_found_in_results,,,ABC
+2025,2025-11-29,Alabama Crimson Tide,alabama crimson tide,Auburn Tigers,team_not_found_in_results,,,ABC
+2025,2025-11-29,Auburn Tigers,auburn tigers,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2025,2025-11-29,Ohio State Buckeyes,ohio state buckeyes,Michigan Wolverines,team_not_found_in_results,,,FOX
+2025,2025-11-29,Michigan Wolverines,michigan wolverines,Ohio State Buckeyes,team_not_found_in_results,,,FOX
+2025,2025-12-06,Indiana,indiana,Ohio State,date_discrepancy_1_day,2025-12-07,1,FOX
+2025,2025-12-06,Ohio State,ohio state,Indiana,date_discrepancy_1_day,2025-12-07,1,FOX
+2025,2025-12-19,Alabama,alabama,Oklahoma,date_discrepancy_1_day,2025-12-20,1,
+2025,2025-12-19,Oklahoma,oklahoma,Alabama,date_discrepancy_1_day,2025-12-20,1,
+2025,2025-12-20,Oregon,oregon,JMU,date_discrepancy_1_day,2025-12-21,1,
+2025,2025-12-20,JMU,jmu,Oregon,team_not_found_in_results,,,
+2025,2025-12-31,Miami,miami,Ohio State,date_discrepancy_1_day,2026-01-01,1,
+2025,2025-12-31,Ohio State,ohio state,Miami,date_discrepancy_1_day,2026-01-01,1,
+2025,2026-01-01,Ole Miss,mississippi,Georgia,date_discrepancy_1_day,2026-01-02,1,
+2025,2026-01-01,Georgia,georgia,Ole Miss,date_discrepancy_1_day,2026-01-02,1,
+2025,2026-01-08,Miami,miami,Ole Miss,date_discrepancy_1_day,2026-01-09,1,
+2025,2026-01-08,Ole Miss,mississippi,Miami,date_discrepancy_1_day,2026-01-09,1,
+2025,2026-01-09,Indiana,indiana,Oregon,date_discrepancy_1_day,2026-01-10,1,
+2025,2026-01-09,Oregon,oregon,Indiana,date_discrepancy_1_day,2026-01-10,1,
+2025,2026-01-19,Indiana,indiana,Miami,date_discrepancy_1_day,2026-01-20,1,
+2025,2026-01-19,Miami,miami,Indiana,date_discrepancy_1_day,2026-01-20,1,
+2026,2026-09-19,Florida State Seminoles,florida state seminoles,Alabama Crimson Tide,team_not_found_in_results,,,ABC; ESPN2
+2026,2026-09-19,Alabama Crimson Tide,alabama crimson tide,Florida State Seminoles,team_not_found_in_results,,,ABC; ESPN2
+2026,2026-09-19,Kentucky Wildcats,kentucky wildcats,Texas A&M Aggies,team_not_found_in_results,,,ESPN
+2026,2026-09-19,Texas A&M Aggies,texas aandm aggies,Kentucky Wildcats,team_not_found_in_results,,,ESPN
+2026,2026-09-19,LSU Tigers,lsu tigers,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2026,2026-09-19,Ole Miss Rebels,ole miss rebels,LSU Tigers,team_not_found_in_results,,,ABC
+2026,2026-09-26,Ole Miss Rebels,ole miss rebels,Florida Gators,team_not_found_in_results,,,ABC
+2026,2026-09-26,Florida Gators,florida gators,Ole Miss Rebels,team_not_found_in_results,,,ABC
+2026,2026-09-26,Texas A&M Aggies,texas aandm aggies,LSU Tigers,team_not_found_in_results,,,ABC
+2026,2026-09-26,LSU Tigers,lsu tigers,Texas A&M Aggies,team_not_found_in_results,,,ABC
+2026,2026-09-26,Texas Longhorns,texas longhorns,Tennessee Volunteers,team_not_found_in_results,,,ABC
+2026,2026-09-26,Tennessee Volunteers,tennessee volunteers,Texas Longhorns,team_not_found_in_results,,,ABC
+2026,2026-10-03,Ohio State Buckeyes,ohio state buckeyes,Iowa Hawkeyes,team_not_found_in_results,,,CBS
+2026,2026-10-03,Iowa Hawkeyes,iowa hawkeyes,Ohio State Buckeyes,team_not_found_in_results,,,CBS
+2026,2026-10-10,Georgia Bulldogs,georgia bulldogs,Alabama Crimson Tide,team_not_found_in_results,,,ABC
+2026,2026-10-10,Alabama Crimson Tide,alabama crimson tide,Georgia Bulldogs,team_not_found_in_results,,,ABC
+2026,2026-10-10,Indiana Hoosiers,indiana hoosiers,Nebraska Cornhuskers,team_not_found_in_results,,,FOX
+2026,2026-10-10,Nebraska Cornhuskers,nebraska cornhuskers,Indiana Hoosiers,team_not_found_in_results,,,FOX
+2026,2026-10-10,Texas Longhorns,texas longhorns,Oklahoma Sooners,team_not_found_in_results,,,ABC
+2026,2026-10-10,Oklahoma Sooners,oklahoma sooners,Texas Longhorns,team_not_found_in_results,,,ABC
+2020,2020-10-10,Louisiana-Monroe,louisianamonroe,Liberty,team_not_found_in_results,,,ESPN2
+2020,2020-10-17,UMass,umass,Georgia Southern,team_not_found_in_results,,,ESPN2
+2020,2020-10-24,San Jose State,san jose state,Air Force,team_not_found_in_results,,,FS1
+2014,2014-08-28,UL-Monroe,ulmonroe,Wake Forest,team_not_found_in_results,,,ESPNU
+2014,2014-09-06,San Jose State,san jose state,Auburn,team_not_found_in_results,,,ESPN2
+2014,2014-09-06,McNeese State,mcneese state,Nebraska,team_not_found_in_results,,,ESPNU
+2014,2014-09-13,UL-Monroe,ulmonroe,LSU,team_not_found_in_results,,,ESPNU
+2014,2014-09-18,Arkansas Pine Bluff,arkansas pine bluff,Alabama State,team_not_found_in_results,,,ESPNU
+2014,2014-10-14,UL-Lafayette,ullafayette,Texas State,team_not_found_in_results,,,ESPN2
+2014,2014-10-21,UL-Lafayette,ullafayette,Arkansas State,team_not_found_in_results,,,ESPN2
+2014,2014-11-12,UMass,umass,Ball State,team_not_found_in_results,,,ESPNU
+2014,2014-11-21,San Jose State,san jose state,Utah State,team_not_found_in_results,,,ESPN2
+2015,2015-09-26,UMass,umass,Notre Dame,team_not_found_in_results,,,NBC
+2015,2015-10-17,Connecticut,connecticut,South Florida,team_not_found_in_results,,,ESPNU
+2015,2015-10-17,San Jose State,san jose state,San Diego State,team_not_found_in_results,,,ESPNU
+2015,2015-10-30,Connecticut,connecticut,East Carolina,team_not_found_in_results,,,ESPNU
+2015,2015-11-28,Connecticut,connecticut,Temple,team_not_found_in_results,,,ESPNU
+2015,2015-12-26,Connecticut,connecticut,Marshall,team_not_found_in_results,,,ESPN
+2016,2016-09-03,Miami Ohio,miami ohio,Iowa,team_not_found_in_results,,,ESPNU
+2016,2016-10-01,FAU,fau,FIU,team_not_found_in_results,,,beIN
+2016,2016-11-26,FAU,fau,Middle Tennessee,team_not_found_in_results,,,beIN
+2016,2016-10-21,San Jose State,san jose state,San Diego State,team_not_found_in_results,,,ESPNU
+2016,2016-12-16,Mary Hardin-Baylor,mary hardinbaylor,Wisconsin-Oshkosh,team_not_found_in_results,,,ESPNU
+2016,2016-12-16,Wisconsin-Oshkosh,wisconsinoshkosh,Mary Hardin-Baylor,team_not_found_in_results,,,ESPNU
+2016,2016-12-17,Grambling State,grambling state,North Carolina Central,team_not_found_in_results,,,ABC
+2016,2016-12-17,Northwest Missouri State,northwest missouri state,North Alabama,team_not_found_in_results,,,ESPN2
+2016,2016-12-17,North Alabama,north alabama,Northwest Missouri State,team_not_found_in_results,,,ESPN2
+2017,2017-09-09,Nicholls State,nicholls state,Texas A&M,team_not_found_in_results,,,ESPNU
+2017,2017-09-07,Sam Houston State,sam houston state,Prairie View A&M,team_not_found_in_results,,,ESPNU
+2017,2017-10-14,Texas State,texas state,Louisiana,date_not_in_results,2017-10-12,-2,ESPNU
+2017,2017-10-14,Louisiana,louisiana,Texas State,date_not_in_results,2017-10-12,-2,ESPNU
+2017,2017-11-04,Bowling Green,bowling green,Kent State,date_not_in_results,2017-11-07,3,ESPNU
+2017,2017-11-04,Kent State,kent state,Bowling Green,date_not_in_results,2017-11-08,4,ESPNU
+2017,2017-12-02,FAU,fau,North Texas,team_not_found_in_results,,,ESPN2
+2018,2018-09-08,Southeastern Louisiana,southeastern louisiana,LSU,team_not_found_in_results,,,ESPN2
+2019,2019-11-30,San Jose State,san jose state,Fresno State,team_not_found_in_results,,,ESPN2
+2020,2020-11-05,Buffalo,buffalo,Northern Illinois,date_discrepancy_1_day,2020-11-04,-1,ESPN2
+2020,2020-11-05,Northern Illinois,northern illinois,Buffalo,date_discrepancy_1_day,2020-11-04,-1,ESPN2
+2020,2020-11-14,Oregon State,oregon state,Washington,date_discrepancy_1_day,2020-11-15,1,FS1
+2020,2020-11-14,Washington,washington,Oregon State,date_discrepancy_1_day,2020-11-15,1,FS1
+2020,2020-11-14,San Jose State,san jose state,UNLV,team_not_found_in_results,,,FS2
+2020,2020-12-19,San Jose State,san jose state,Boise State,team_not_found_in_results,,,FOX
+2021,2021-09-02,ECU,ecu,Appalachian State,team_not_found_in_results,,,ESPNU
+2021,2021-09-03,San Diego State,san diego state,Colorado,date_discrepancy_1_day,2021-09-04,1,FS1
+2021,2021-09-11,ECU,ecu,South Carolina,team_not_found_in_results,,,ESPN2
+2021,2021-09-18,UCF,central florida,Louisville,date_discrepancy_1_day,2021-09-17,-1,ESPN
+2021,2021-09-18,Louisville,louisville,UCF,date_discrepancy_1_day,2021-09-17,-1,ESPN
+2021,2021-09-18,San Jose State,san jose state,Hawaii,team_not_found_in_results,,,FS1
+2021,2021-09-18,Hawaii,hawaii,San Jose State,date_discrepancy_1_day,2021-09-19,1,FS1
+2021,2021-09-25,BC,bc,Missouri,team_not_found_in_results,,,ESPN2
+2021,2021-10-02,UNC,unc,Duke,team_not_found_in_results,,,ESPN2
+2021,2021-10-09,Stanford,stanford,Arizona State,date_discrepancy_1_day,2021-10-08,-1,ESPN
+2021,2021-10-09,Arizona State,arizona state,Stanford,date_discrepancy_1_day,2021-10-08,-1,ESPN
+2021,2021-10-09,UNC,unc,Florida State,team_not_found_in_results,,,ESPN
+2021,2021-10-28,ECU,ecu,USF,team_not_found_in_results,,,ESPN
+2021,2021-10-30,UNC,unc,Notre Dame,team_not_found_in_results,,,NBC
+2021,2021-10-30,FSU,fsu,Clemson,team_not_found_in_results,,,ESPN
+2021,2021-11-06,UNC,unc,Wake Forest,team_not_found_in_results,,,ABC
+2021,2021-11-10,Western Michigan,western michigan,Ohio,date_discrepancy_1_day,2021-11-09,-1,ESPN2
+2021,2021-11-10,Ohio,ohio,Western Michigan,date_discrepancy_1_day,2021-11-09,-1,ESPN2
+2021,2021-11-11,UNC,unc,Pittsburgh,team_not_found_in_results,,,ESPN
+2021,2021-11-12,Kansas State,kansas state,West Virginia,date_discrepancy_1_day,2021-11-13,1,FS1
+2021,2021-11-12,West Virginia,west virginia,Kansas State,date_discrepancy_1_day,2021-11-13,1,FS1
+2021,2021-11-13,San Jose State,san jose state,Utah State,team_not_found_in_results,,,FS1
+2021,2021-11-20,Southern Alabama,southern alabama,Tennessee,team_not_found_in_results,,,ESPNU
+2021,2021-11-26,UNC,unc,NC State,team_not_found_in_results,,,ESPN
+2021,2021-11-26,ECU,ecu,Cincinnati,team_not_found_in_results,,,ABC
+2021,2021-11-26,Oregon State,oregon state,Oregon,date_discrepancy_1_day,2021-11-27,1,ESPN
+2021,2021-11-26,Oregon,oregon,Oregon State,date_discrepancy_1_day,2021-11-27,1,ESPN
+2021,2021-11-27,Colorado,colorado,Utah,date_discrepancy_1_day,2021-11-26,-1,FOX
+2021,2021-11-27,Utah,utah,Colorado,date_discrepancy_1_day,2021-11-26,-1,FOX
+2021,2021-11-25,San Jose State,san jose state,Fresno State,team_not_found_in_results,,,FS1
+2021,2021-11-27,Utah State,utah state,New Mexico,date_discrepancy_1_day,2021-11-26,-1,FS1
+2021,2021-11-27,New Mexico,new mexico,Utah State,date_discrepancy_1_day,2021-11-26,-1,FS1
+2022,2022-09-17,Miami,miami,Texas A&M,date_discrepancy_1_day,2022-09-18,1,ESPN
+2022,2022-09-17,Texas A&M,texas aandm,Miami,date_discrepancy_1_day,2022-09-18,1,ESPN
+2022,2022-09-17,Fresno State,fresno state,USC,date_discrepancy_1_day,2022-09-18,1,FOX
+2022,2022-09-17,USC,usc,Fresno State,date_discrepancy_1_day,2022-09-18,1,FOX
+2022,2022-09-24,Kansas State,kansas state,Oklahoma,date_discrepancy_1_day,2022-09-25,1,FOX
+2022,2022-09-24,Oklahoma,oklahoma,Kansas State,date_discrepancy_1_day,2022-09-25,1,FOX
+2022,2022-10-01,Arizona State,arizona state,USC,date_discrepancy_1_day,2022-10-02,1,ESPN
+2022,2022-10-01,USC,usc,Arizona State,date_discrepancy_1_day,2022-10-02,1,ESPN
+2022,2022-10-08,Texas A&M,texas aandm,Alabama,date_discrepancy_1_day,2022-10-09,1,CBS
+2022,2022-10-08,Alabama,alabama,Texas A&M,date_discrepancy_1_day,2022-10-09,1,CBS
+2022,2022-10-15,USC,usc,Utah,date_discrepancy_1_day,2022-10-16,1,FOX
+2022,2022-10-15,Utah,utah,USC,date_discrepancy_1_day,2022-10-16,1,FOX
+2022,2022-10-22,Kansas State,kansas state,TCU,date_discrepancy_1_day,2022-10-23,1,FS1
+2022,2022-10-22,TCU,texas christian,Kansas State,date_discrepancy_1_day,2022-10-23,1,FS1
+2022,2022-10-22,Washington,washington,California,date_discrepancy_1_day,2022-10-23,1,ESPN
+2022,2022-10-22,California,california,Washington,date_discrepancy_1_day,2022-10-23,1,ESPN
+2022,2022-11-12,TCU,texas christian,Texas,date_discrepancy_1_day,2022-11-13,1,ABC
+2022,2022-11-12,Texas,texas,TCU,date_discrepancy_1_day,2022-11-13,1,ABC
+2022,2022-11-12,Washington,washington,Oregon,date_discrepancy_1_day,2022-11-13,1,FOX
+2022,2022-11-12,Oregon,oregon,Washington,date_discrepancy_1_day,2022-11-13,1,FOX
+2022,2022-11-12,Georgia,georgia,Mississippi State,date_discrepancy_1_day,2022-11-13,1,ESPN
+2022,2022-11-12,Mississippi State,mississippi state,Georgia,date_discrepancy_1_day,2022-11-13,1,ESPN
+2022,2022-11-19,Tennessee,tennessee,South Carolina,date_discrepancy_1_day,2022-11-20,1,ESPN
+2022,2022-11-19,South Carolina,south carolina,Tennessee,date_discrepancy_1_day,2022-11-20,1,ESPN
+2022,2022-11-19,USC,usc,UCLA,date_discrepancy_1_day,2022-11-20,1,FOX
+2022,2022-11-19,UCLA,ucla,USC,date_discrepancy_1_day,2022-11-20,1,FOX
+2022,2022-11-19,Oklahoma State,oklahoma state,Oklahoma,date_discrepancy_1_day,2022-11-20,1,ABC
+2022,2022-11-19,Oklahoma,oklahoma,Oklahoma State,date_discrepancy_1_day,2022-11-20,1,ABC
+2022,2022-11-19,Utah,utah,Oregon,date_discrepancy_1_day,2022-11-20,1,ESPN
+2022,2022-11-19,Oregon,oregon,Utah,date_discrepancy_1_day,2022-11-20,1,ESPN
+2022,2022-11-26,LSU,louisiana state,Texas A&M,date_discrepancy_1_day,2022-11-27,1,ESPN
+2022,2022-11-26,Texas A&M,texas aandm,LSU,date_discrepancy_1_day,2022-11-27,1,ESPN
+2022,2022-12-03,Michigan,michigan,Purdue,date_discrepancy_1_day,2022-12-04,1,FOX
+2022,2022-12-03,Purdue,purdue,Michigan,date_discrepancy_1_day,2022-12-04,1,FOX
+2022,2022-12-02,Utah,utah,USC,date_discrepancy_1_day,2022-12-03,1,FOX
+2022,2022-12-02,USC,usc,Utah,date_discrepancy_1_day,2022-12-03,1,FOX
+2022,2022-12-03,Clemson,clemson,North Carolina,date_discrepancy_1_day,2022-12-04,1,ABC
+2022,2022-12-03,North Carolina,north carolina,Clemson,date_discrepancy_1_day,2022-12-04,1,ABC
+2022,2022-12-30,Tennessee,tennessee,Clemson,date_discrepancy_1_day,2022-12-31,1,ESPN
+2022,2022-12-30,Clemson,clemson,Tennessee,date_discrepancy_1_day,2022-12-31,1,ESPN
+2022,2022-12-29,Notre Dame,notre dame,South Carolina,date_discrepancy_1_day,2022-12-30,1,ESPN
+2022,2022-12-29,South Carolina,south carolina,Notre Dame,date_discrepancy_1_day,2022-12-30,1,ESPN
+2022,2022-12-29,Washington,washington,Texas,date_discrepancy_1_day,2022-12-30,1,ESPN
+2022,2022-12-29,Texas,texas,Washington,date_discrepancy_1_day,2022-12-30,1,ESPN
+2022,2022-12-28,Oregon,oregon,North Carolina,date_discrepancy_1_day,2022-12-29,1,FOX
+2022,2022-12-28,North Carolina,north carolina,Oregon,date_discrepancy_1_day,2022-12-29,1,FOX
+2022,2022-12-23,Maryland,maryland,NC State,date_not_in_results,2022-12-30,7,ESPN
+2022,2022-12-23,NC State,nc state,Maryland,date_not_in_results,2022-12-30,7,ESPN
+2022,2022-12-28,Texas Tech,texas tech,Ole Miss,date_discrepancy_1_day,2022-12-29,1,ESPN
+2022,2022-12-28,Ole Miss,mississippi,Texas Tech,date_discrepancy_1_day,2022-12-29,1,ESPN
+2022,2022-12-27,Wisconsin,wisconsin,Oklahoma State,date_discrepancy_1_day,2022-12-28,1,ESPN
+2022,2022-12-27,Oklahoma State,oklahoma state,Wisconsin,date_discrepancy_1_day,2022-12-28,1,ESPN
+2022,2022-12-17,NC Central,nc central,Jackson State,team_not_found_in_results,,,ABC
+2022,2022-12-17,BYU,brigham young,SMU,date_discrepancy_1_day,2022-12-18,1,ABC
+2022,2022-12-17,SMU,southern methodist,BYU,date_discrepancy_1_day,2022-12-18,1,ABC
+2022,2022-12-22,Air Force,air force,Baylor,date_discrepancy_1_day,2022-12-23,1,ESPN
+2022,2022-12-22,Baylor,baylor,Air Force,date_discrepancy_1_day,2022-12-23,1,ESPN
+2022,2022-12-20,Toledo,toledo,Liberty,date_discrepancy_1_day,2022-12-21,1,ESPN
+2022,2022-12-20,Liberty,liberty,Toledo,date_discrepancy_1_day,2022-12-21,1,ESPN
+2022,2022-12-21,WKU,western kentucky,South Alabama,date_discrepancy_1_day,2022-12-22,1,ESPN
+2022,2022-12-21,South Alabama,south alabama,WKU,date_discrepancy_1_day,2022-12-22,1,ESPN
+2022,2022-12-24,Middle Tennessee,middle tennessee,San Diego State,date_discrepancy_1_day,2022-12-25,1,ESPN
+2022,2022-12-24,San Diego State,san diego state,Middle Tennessee,date_discrepancy_1_day,2022-12-25,1,ESPN
+2022,2022-12-20,San Jose State,san jose state,Eastern Michigan,team_not_found_in_results,,,ESPN
+2022,2022-12-16,North Dakota State,north dakota state,Incarnate Word,date_discrepancy_1_day,2022-12-17,1,ESPN2
+2022,2022-12-16,Incarnate Word,incarnate word,North Dakota State,date_discrepancy_1_day,2022-12-17,1,ESPN2
+2022,2022-12-17,Boise State,boise state,North Texas,date_discrepancy_1_day,2022-12-18,1,ESPN
+2022,2022-12-17,North Texas,north texas,Boise State,date_discrepancy_1_day,2022-12-18,1,ESPN
+2022,2022-09-05,Clemson,clemson,Georgia Tech,date_discrepancy_1_day,2022-09-06,1,ESPN
+2022,2022-09-05,Georgia Tech,georgia tech,Clemson,date_discrepancy_1_day,2022-09-06,1,ESPN
+2022,2022-09-01,Penn State,penn state,Purdue,date_discrepancy_1_day,2022-09-02,1,FOX
+2022,2022-09-01,Purdue,purdue,Penn State,date_discrepancy_1_day,2022-09-02,1,FOX
+2022,2022-09-03,Boise State,boise state,Oregon State,date_discrepancy_1_day,2022-09-04,1,ESPN
+2022,2022-09-03,Oregon State,oregon state,Boise State,date_discrepancy_1_day,2022-09-04,1,ESPN
+2022,2022-09-02,TCU,texas christian,Colorado,date_discrepancy_1_day,2022-09-03,1,ESPN
+2022,2022-09-02,Colorado,colorado,TCU,date_discrepancy_1_day,2022-09-03,1,ESPN
+2022,2022-09-02,Illinois,illinois,Indiana,date_discrepancy_1_day,2022-09-03,1,FS1
+2022,2022-09-02,Indiana,indiana,Illinois,date_discrepancy_1_day,2022-09-03,1,FS1
+2022,2022-09-03,Kent State,kent state,Washington,date_discrepancy_1_day,2022-09-04,1,FS1
+2022,2022-09-03,Washington,washington,Kent State,date_discrepancy_1_day,2022-09-04,1,FS1
+2022,2022-08-27,Nevada,nevada,New Mexico State,date_discrepancy_1_day,2022-08-28,1,ESPN2
+2022,2022-08-27,New Mexico State,new mexico state,Nevada,date_discrepancy_1_day,2022-08-28,1,ESPN2
+2022,2022-09-01,New Mexico State,new mexico state,Minnesota,date_discrepancy_1_day,2022-09-02,1,BTN
+2022,2022-09-01,Minnesota,minnesota,New Mexico State,date_discrepancy_1_day,2022-09-02,1,BTN
+2022,2022-09-04,Central State,central state,Winston-Salem State,team_not_found_in_results,,,NFLN
+2022,2022-09-04,Winston-Salem State,winstonsalem state,Central State,team_not_found_in_results,,,NFLN
+2022,2022-09-01,Cal Poly,cal poly,Fresno State,date_discrepancy_1_day,2022-09-02,1,FS1
+2022,2022-09-01,Fresno State,fresno state,Cal Poly,date_discrepancy_1_day,2022-09-02,1,FS1
+2022,2022-09-01,Louisiana Tech,louisiana tech,Missouri,date_discrepancy_1_day,2022-09-02,1,ESPNU
+2022,2022-09-01,Missouri,missouri,Louisiana Tech,date_discrepancy_1_day,2022-09-02,1,ESPNU
+2022,2022-09-10,Baylor,baylor,BYU,date_discrepancy_1_day,2022-09-11,1,ESPN
+2022,2022-09-10,BYU,brigham young,Baylor,date_discrepancy_1_day,2022-09-11,1,ESPN
+2022,2022-09-10,Mississippi State,mississippi state,Arizona,date_discrepancy_1_day,2022-09-11,1,FS1
+2022,2022-09-10,Arizona,arizona,Mississippi State,date_discrepancy_1_day,2022-09-11,1,FS1
+2022,2022-09-10,San Jose State,san jose state,Auburn,team_not_found_in_results,,,ESPNU
+2023,2023-11-18,Washington,washington,Oregon State,date_discrepancy_1_day,2023-11-19,1,ABC
+2023,2023-11-18,Oregon State,oregon state,Washington,date_discrepancy_1_day,2023-11-19,1,ABC
+2023,2023-11-18,Texas,texas,Iowa State,date_discrepancy_1_day,2023-11-19,1,FOX
+2023,2023-11-18,Iowa State,iowa state,Texas,date_discrepancy_1_day,2023-11-19,1,FOX
+2023,2023-11-18,Nebraska,nebraska,Wisconsin,date_discrepancy_1_day,2023-11-19,1,NBC
+2023,2023-11-18,Wisconsin,wisconsin,Nebraska,date_discrepancy_1_day,2023-11-19,1,NBC
+2023,2023-11-18,Florida,florida,Missouri,date_discrepancy_1_day,2023-11-19,1,ESPN
+2023,2023-11-18,Missouri,missouri,Florida,date_discrepancy_1_day,2023-11-19,1,ESPN
+2023,2023-11-16,Boston College,boston college,Pittsburgh,date_discrepancy_1_day,2023-11-17,1,ESPN
+2023,2023-11-16,Pittsburgh,pittsburgh,Boston College,date_discrepancy_1_day,2023-11-17,1,ESPN
+2023,2023-11-18,Kansas State,kansas state,Kansas,date_discrepancy_1_day,2023-11-19,1,FS1
+2023,2023-11-18,Kansas,kansas,Kansas State,date_discrepancy_1_day,2023-11-19,1,FS1
+2023,2023-11-18,Georgia State,georgia state,LSU,date_discrepancy_1_day,2023-11-19,1,ESPN2
+2023,2023-11-18,LSU,louisiana state,Georgia State,date_discrepancy_1_day,2023-11-19,1,ESPN2
+2023,2023-11-17,Colorado,colorado,Washington State,date_discrepancy_1_day,2023-11-18,1,FS1
+2023,2023-11-17,Washington State,washington state,Colorado,date_discrepancy_1_day,2023-11-18,1,FS1
+2023,2023-11-17,USF,south florida,UTSA,date_discrepancy_1_day,2023-11-18,1,ESPN2
+2023,2023-11-17,UTSA,texas san antonio,USF,date_discrepancy_1_day,2023-11-18,1,ESPN2
+2023,2023-11-14,Toledo,toledo,Bowling Green,date_discrepancy_1_day,2023-11-15,1,ESPN2
+2023,2023-11-14,Bowling Green,bowling green,Toledo,date_discrepancy_1_day,2023-11-15,1,ESPN2
+2023,2023-11-15,Buffalo,buffalo,Miami (OH),date_discrepancy_1_day,2023-11-16,1,ESPN2
+2023,2023-11-15,Miami (OH),miami oh,Buffalo,date_discrepancy_1_day,2023-11-16,1,ESPN2
+2023,2023-11-18,New Mexico,new mexico,Fresno State,date_discrepancy_1_day,2023-11-19,1,FS1
+2023,2023-11-18,Fresno State,fresno state,New Mexico,date_discrepancy_1_day,2023-11-19,1,FS1
+2023,2023-11-18,FIU,florida international,Arkansas,date_discrepancy_1_day,2023-11-19,1,ESPNU
+2023,2023-11-18,Arkansas,arkansas,FIU,date_discrepancy_1_day,2023-11-19,1,ESPNU
+2023,2023-11-15,Central Michigan,central michigan,Ohio,date_discrepancy_1_day,2023-11-16,1,ESPNU
+2023,2023-11-15,Ohio,ohio,Central Michigan,date_discrepancy_1_day,2023-11-16,1,ESPNU
+2023,2023-11-14,Western Michigan,western michigan,Northern Illinois,date_discrepancy_1_day,2023-11-15,1,ESPNU
+2023,2023-11-14,Northern Illinois,northern illinois,Western Michigan,date_discrepancy_1_day,2023-11-15,1,ESPNU
+2023,2023-11-25,Georgia,georgia,Georgia Tech,date_discrepancy_1_day,2023-11-26,1,ABC
+2023,2023-11-25,Georgia Tech,georgia tech,Georgia,date_discrepancy_1_day,2023-11-26,1,ABC
+2023,2023-11-25,Florida State,florida state,Florida,date_discrepancy_1_day,2023-11-26,1,ESPN
+2023,2023-11-25,Florida,florida,Florida State,date_discrepancy_1_day,2023-11-26,1,ESPN
+2023,2023-11-24,Oregon State,oregon state,Oregon,date_discrepancy_1_day,2023-11-25,1,FOX
+2023,2023-11-24,Oregon,oregon,Oregon State,date_discrepancy_1_day,2023-11-25,1,FOX
+2023,2023-11-24,Texas Tech,texas tech,Texas,date_discrepancy_1_day,2023-11-25,1,ABC
+2023,2023-11-24,Texas,texas,Texas Tech,date_discrepancy_1_day,2023-11-25,1,ABC
+2023,2023-11-24,Penn State,penn state,Michigan State,date_discrepancy_1_day,2023-11-25,1,NBC
+2023,2023-11-24,Michigan State,michigan state,Penn State,date_discrepancy_1_day,2023-11-25,1,NBC
+2023,2023-11-25,Iowa State,iowa state,Kansas State,date_discrepancy_1_day,2023-11-26,1,FOX
+2023,2023-11-25,Kansas State,kansas state,Iowa State,date_discrepancy_1_day,2023-11-26,1,FOX
+2023,2023-11-23,Mississippi,mississippi,Mississippi State,date_discrepancy_1_day,2023-11-24,1,ESPN
+2023,2023-11-23,Mississippi State,mississippi state,Mississippi,date_discrepancy_1_day,2023-11-24,1,ESPN
+2023,2023-11-25,California,california,UCLA,date_discrepancy_1_day,2023-11-26,1,ESPN
+2023,2023-11-25,UCLA,ucla,California,date_discrepancy_1_day,2023-11-26,1,ESPN
+2023,2023-11-25,West Virginia,west virginia,Baylor,date_discrepancy_1_day,2023-11-26,1,FS1
+2023,2023-11-25,Baylor,baylor,West Virginia,date_discrepancy_1_day,2023-11-26,1,FS1
+2023,2023-11-25,Grambling State,grambling state,Southern,team_not_found_in_results,,,NBC
+2023,2023-11-21,Eastern Michigan,eastern michigan,Buffalo,date_discrepancy_1_day,2023-11-22,1,ESPN2
+2023,2023-11-21,Buffalo,buffalo,Eastern Michigan,date_discrepancy_1_day,2023-11-22,1,ESPN2
+2023,2023-11-25,Kansas,kansas,Cincinnati,date_discrepancy_1_day,2023-11-26,1,ESPN2
+2023,2023-11-25,Cincinnati,cincinnati,Kansas,date_discrepancy_1_day,2023-11-26,1,ESPN2
+2023,2023-11-25,Fresno State,fresno state,San Diego State,date_discrepancy_1_day,2023-11-26,1,FS1
+2023,2023-11-25,San Diego State,san diego state,Fresno State,date_discrepancy_1_day,2023-11-26,1,FS1
+2023,2023-11-21,Bowling Green,bowling green,Western Michigan,date_discrepancy_1_day,2023-11-22,1,ESPNU
+2023,2023-11-21,Western Michigan,western michigan,Bowling Green,date_discrepancy_1_day,2023-11-22,1,ESPNU
+2023,2023-11-25,South Alabama,south alabama,Texas State,date_discrepancy_1_day,2023-11-26,1,NFLN
+2023,2023-11-25,Texas State,texas state,South Alabama,date_discrepancy_1_day,2023-11-26,1,NFLN
+2023,2023-11-25,Charlotte,charlotte,USF,date_discrepancy_1_day,2023-11-26,1,ESPNU
+2023,2023-11-25,USF,south florida,Charlotte,date_discrepancy_1_day,2023-11-26,1,ESPNU
+2023,2023-12-02,Michigan,michigan,Iowa,date_discrepancy_1_day,2023-12-03,1,FOX
+2023,2023-12-02,Iowa,iowa,Michigan,date_discrepancy_1_day,2023-12-03,1,FOX
+2023,2023-12-01,Washington,washington,Oregon,date_discrepancy_1_day,2023-12-02,1,ABC
+2023,2023-12-01,Oregon,oregon,Washington,date_discrepancy_1_day,2023-12-02,1,ABC
+2023,2023-12-02,Florida State,florida state,Louisville,date_discrepancy_1_day,2023-12-03,1,ABC
+2023,2023-12-02,Louisville,louisville,Florida State,date_discrepancy_1_day,2023-12-03,1,ABC
+2023,2023-12-02,Southern Illinois,southern illinois,Idaho,date_discrepancy_1_day,2023-12-03,1,ESPN2
+2023,2023-12-02,Idaho,idaho,Southern Illinois,date_discrepancy_1_day,2023-12-03,1,ESPN2
+2023,2023-12-08,Furman,furman,Montana,date_discrepancy_1_day,2023-12-09,1,ESPN2
+2023,2023-12-08,Montana,montana,Furman,date_discrepancy_1_day,2023-12-09,1,ESPN2
+2023,2023-12-16,UCLA,ucla,Boise State,date_discrepancy_1_day,2023-12-17,1,ABC
+2023,2023-12-16,Boise State,boise state,UCLA,date_discrepancy_1_day,2023-12-17,1,ABC
+2023,2023-12-16,Texas Tech,texas tech,California,date_discrepancy_1_day,2023-12-17,1,ESPN
+2023,2023-12-16,California,california,Texas Tech,date_discrepancy_1_day,2023-12-17,1,ESPN
+2023,2023-12-15,South Dakota State,south dakota state,Albany,date_discrepancy_1_day,2023-12-16,1,ESPN2
+2023,2023-12-15,Albany,albany,South Dakota State,team_not_found_in_results,,,ESPN2
+2023,2023-12-15,North Central,north central,Cortland,team_not_found_in_results,,,ESPNU
+2023,2023-12-15,Cortland,cortland,North Central,team_not_found_in_results,,,ESPNU
+2023,2023-12-16,Harding,harding,Colorado School of Mines,team_not_found_in_results,,,ESPNU
+2023,2023-12-16,Colorado School of Mines,colorado school of mines,Harding,team_not_found_in_results,,,ESPNU
+2023,2023-12-23,Northwestern,northwestern,Utah,date_discrepancy_1_day,2023-12-24,1,ABC
+2023,2023-12-23,Utah,utah,Northwestern,date_discrepancy_1_day,2023-12-24,1,ABC
+2023,2023-12-21,USF,south florida,Syracuse,date_discrepancy_1_day,2023-12-22,1,ESPN
+2023,2023-12-21,Syracuse,syracuse,USF,date_discrepancy_1_day,2023-12-22,1,ESPN
+2023,2023-12-19,UTSA,texas san antonio,Marshall,date_discrepancy_1_day,2023-12-20,1,ESPN
+2023,2023-12-19,Marshall,marshall,UTSA,date_discrepancy_1_day,2023-12-20,1,ESPN
+2023,2023-12-23,Coastal Carolina,coastal carolina,San Jose State,date_discrepancy_1_day,2023-12-24,1,ESPN
+2023,2023-12-23,San Jose State,san jose state,Coastal Carolina,team_not_found_in_results,,,ESPN
+2023,2023-12-23,South Alabama,south alabama,Eastern Michigan,date_discrepancy_1_day,2023-12-24,1,ESPN
+2023,2023-12-23,Eastern Michigan,eastern michigan,South Alabama,date_discrepancy_1_day,2023-12-24,1,ESPN
+2023,2023-12-28,Arizona,arizona,Oklahoma,date_discrepancy_1_day,2023-12-29,1,ESPN
+2023,2023-12-28,Oklahoma,oklahoma,Arizona,date_discrepancy_1_day,2023-12-29,1,ESPN
+2023,2023-12-27,USC,usc,Louisville,date_discrepancy_1_day,2023-12-28,1,FOX
+2023,2023-12-27,Louisville,louisville,USC,date_discrepancy_1_day,2023-12-28,1,FOX
+2023,2023-12-27,Oklahoma State,oklahoma state,Texas A&M,date_discrepancy_1_day,2023-12-28,1,ESPN
+2023,2023-12-27,Texas A&M,texas aandm,Oklahoma State,date_discrepancy_1_day,2023-12-28,1,ESPN
+2023,2023-12-26,Kansas,kansas,UNLV,date_discrepancy_1_day,2023-12-27,1,ESPN
+2023,2023-12-26,UNLV,unlv,Kansas,date_discrepancy_1_day,2023-12-27,1,ESPN
+2023,2023-08-26,SC State,sc state,Jackson State,team_not_found_in_results,,,ABC
+2023,2023-08-26,UMass,umass,New Mexico State,team_not_found_in_results,,,ESPN
+2023,2023-09-03,FSU,fsu,LSU,team_not_found_in_results,,,ABC
+2023,2023-09-04,Clemson,clemson,Duke,date_discrepancy_1_day,2023-09-05,1,ESPN
+2023,2023-09-04,Duke,duke,Clemson,date_discrepancy_1_day,2023-09-05,1,ESPN
+2023,2023-08-31,Nebraska,nebraska,Minnesota,date_discrepancy_1_day,2023-09-01,1,FOX
+2023,2023-08-31,Minnesota,minnesota,Nebraska,date_discrepancy_1_day,2023-09-01,1,FOX
+2023,2023-09-03,San Jose State,san jose state,Oregon State,team_not_found_in_results,,,CBS
+2023,2023-08-31,Florida,florida,Utah,date_discrepancy_1_day,2023-09-01,1,ESPN
+2023,2023-08-31,Utah,utah,Florida,date_discrepancy_1_day,2023-09-01,1,ESPN
+2023,2023-09-02,UMass,umass,Auburn,team_not_found_in_results,,,ESPN
+2023,2023-09-02,Coastal Carolina,coastal carolina,UCLA,date_discrepancy_1_day,2023-09-03,1,ESPN
+2023,2023-09-02,UCLA,ucla,Coastal Carolina,date_discrepancy_1_day,2023-09-03,1,ESPN
+2023,2023-09-02,Sam Houston,sam houston,BYU,date_discrepancy_1_day,2023-09-03,1,FS1
+2023,2023-09-02,BYU,brigham young,Sam Houston,date_discrepancy_1_day,2023-09-03,1,FS1
+2023,2023-09-03,FAMU,famu,Jackson State,team_not_found_in_results,,,ESPN
+2023,2023-09-03,Morehouse,morehouse,Virginia Union,team_not_found_in_results,,,NFLN
+2023,2023-09-03,Virginia Union,virginia union,Morehouse,team_not_found_in_results,,,NFLN
+2023,2023-09-02,UL-Monroe,ulmonroe,Army,team_not_found_in_results,,,NFLN
+2023,2023-09-02,Cal,cal,North Texas,team_not_found_in_results,,,ESPNU
+2023,2023-09-02,South Alabama,south alabama,Tulane,date_discrepancy_1_day,2023-09-03,1,ESPNU
+2023,2023-09-02,Tulane,tulane,South Alabama,date_discrepancy_1_day,2023-09-03,1,ESPNU
+2023,2023-09-03,Fort Valley State,fort valley state,Tuskegee,team_not_found_in_results,,,ESPNU
+2023,2023-09-03,Tuskegee,tuskegee,Fort Valley State,team_not_found_in_results,,,ESPNU
+2023,2023-09-09,Auburn,auburn,Cal,date_discrepancy_1_day,2023-09-10,1,ESPN
+2023,2023-09-09,Cal,cal,Auburn,team_not_found_in_results,,,ESPN
+2023,2023-09-09,Stanford,stanford,USC,date_discrepancy_1_day,2023-09-10,1,FOX
+2023,2023-09-09,USC,usc,Stanford,date_discrepancy_1_day,2023-09-10,1,FOX
+2023,2023-09-09,Oklahoma State,oklahoma state,Arizona State,date_discrepancy_1_day,2023-09-10,1,FS1
+2023,2023-09-09,Arizona State,arizona state,Oklahoma State,date_discrepancy_1_day,2023-09-10,1,FS1
+2023,2023-09-09,ECU,ecu,Marshall,team_not_found_in_results,,,ESPNU
+2023,2023-09-16,Colorado State,colorado state,Colorado,date_discrepancy_1_day,2023-09-17,1,ESPN
+2023,2023-09-16,Colorado,colorado,Colorado State,date_discrepancy_1_day,2023-09-17,1,ESPN
+2023,2023-09-16,FSU,fsu,Boston College,team_not_found_in_results,,,ABC
+2023,2023-09-16,TCU,texas christian,Houston,date_discrepancy_1_day,2023-09-17,1,FOX
+2023,2023-09-16,Houston,houston,TCU,date_discrepancy_1_day,2023-09-17,1,FOX
+2023,2023-09-16,Fresno State,fresno state,Arizona State,date_discrepancy_1_day,2023-09-17,1,FS1
+2023,2023-09-16,Arizona State,arizona state,Fresno State,date_discrepancy_1_day,2023-09-17,1,FS1
+2023,2023-09-16,Morehouse,morehouse,Albany State,team_not_found_in_results,,,CNBC
+2023,2023-09-16,Albany State,albany state,Morehouse,team_not_found_in_results,,,CNBC
+2023,2023-09-23,FSU,fsu,Clemson,team_not_found_in_results,,,ABC
+2023,2023-09-23,USC,usc,Arizona State,date_discrepancy_1_day,2023-09-24,1,FOX
+2023,2023-09-23,Arizona State,arizona state,USC,date_discrepancy_1_day,2023-09-24,1,FOX
+2023,2023-09-23,Cal,cal,Washington,team_not_found_in_results,,,ESPN
+2023,2023-09-23,Washington,washington,Cal,date_discrepancy_1_day,2023-09-24,1,ESPN
+2023,2023-09-23,UCF,central florida,Kansas State,date_discrepancy_1_day,2023-09-24,1,FS1
+2023,2023-09-23,Kansas State,kansas state,UCF,date_discrepancy_1_day,2023-09-24,1,FS1
+2023,2023-09-22,Air Force,air force,San Jose State,date_discrepancy_1_day,2023-09-23,1,FS1
+2023,2023-09-22,San Jose State,san jose state,Air Force,team_not_found_in_results,,,FS1
+2023,2023-09-21,Arkansas Pine-Bluff,arkansas pinebluff,Alabama A&M,team_not_found_in_results,,,ESPNU
+2023,2023-09-30,Alabama,alabama,Mississippi State,date_discrepancy_1_day,2023-10-01,1,ESPN
+2023,2023-09-30,Mississippi State,mississippi state,Alabama,date_discrepancy_1_day,2023-10-01,1,ESPN
+2023,2023-09-29,Utah,utah,Oregon State,date_discrepancy_1_day,2023-09-30,1,FS1
+2023,2023-09-29,Oregon State,oregon state,Utah,date_discrepancy_1_day,2023-09-30,1,FS1
+2023,2023-09-29,Cincinnati,cincinnati,BYU,date_discrepancy_1_day,2023-09-30,1,ESPN
+2023,2023-09-29,BYU,brigham young,Cincinnati,date_discrepancy_1_day,2023-09-30,1,ESPN
+2023,2023-09-30,West Virginia,west virginia,TCU,date_discrepancy_1_day,2023-10-01,1,ESPN2
+2023,2023-09-30,TCU,texas christian,West Virginia,date_discrepancy_1_day,2023-10-01,1,ESPN2
+2023,2023-09-30,Nevada,nevada,Fresno State,date_discrepancy_1_day,2023-10-01,1,FS1
+2023,2023-09-30,Fresno State,fresno state,Nevada,date_discrepancy_1_day,2023-10-01,1,FS1
+2023,2023-09-28,Jacksonville State,jacksonville state,Sam Houston,date_discrepancy_1_day,2023-09-29,1,ESPNU
+2023,2023-09-28,Sam Houston,sam houston,Jacksonville State,date_discrepancy_1_day,2023-09-29,1,ESPNU
+2023,2023-10-07,FSU,fsu,Virginia Tech,team_not_found_in_results,,,ABC
+2023,2023-10-07,Arizona,arizona,USC,date_discrepancy_1_day,2023-10-08,1,ESPN
+2023,2023-10-07,USC,usc,Arizona,date_discrepancy_1_day,2023-10-08,1,ESPN
+2023,2023-10-06,Nebraska,nebraska,Illinois,date_discrepancy_1_day,2023-10-07,1,FS1
+2023,2023-10-06,Illinois,illinois,Nebraska,date_discrepancy_1_day,2023-10-07,1,FS1
+2023,2023-10-07,Fresno State,fresno state,Wyoming,date_discrepancy_1_day,2023-10-08,1,FOX
+2023,2023-10-07,Wyoming,wyoming,Fresno State,date_discrepancy_1_day,2023-10-08,1,FOX
+2023,2023-10-05,WKU,western kentucky,Louisiana Tech,date_discrepancy_1_day,2023-10-06,1,ESPN
+2023,2023-10-05,Louisiana Tech,louisiana tech,WKU,date_discrepancy_1_day,2023-10-06,1,ESPN
+2023,2023-10-07,Texas Tech,texas tech,Baylor,date_discrepancy_1_day,2023-10-08,1,ESPN2
+2023,2023-10-07,Baylor,baylor,Texas Tech,date_discrepancy_1_day,2023-10-08,1,ESPN2
+2023,2023-10-07,TCU,texas christian,Iowa State,date_discrepancy_1_day,2023-10-08,1,FS1
+2023,2023-10-07,Iowa State,iowa state,TCU,date_discrepancy_1_day,2023-10-08,1,FS1
+2023,2023-10-04,Jacksonville State,jacksonville state,Middle Tennessee,date_discrepancy_1_day,2023-10-05,1,ESPNU
+2023,2023-10-04,Middle Tennessee,middle tennessee,Jacksonville State,date_discrepancy_1_day,2023-10-05,1,ESPNU
+2023,2023-10-07,FAMU,famu,Southern,team_not_found_in_results,,,ESPNU
+2023,2023-10-07,UMass,umass,Toledo,team_not_found_in_results,,,ESPNU
+2023,2023-10-13,Stanford,stanford,Colorado,date_discrepancy_1_day,2023-10-14,1,ESPN
+2023,2023-10-13,Colorado,colorado,Stanford,date_discrepancy_1_day,2023-10-14,1,ESPN
+2023,2023-10-14,FSU,fsu,Syracuse,team_not_found_in_results,,,ABC
+2023,2023-10-14,UCLA,ucla,Oregon State,date_discrepancy_1_day,2023-10-15,1,FOX
+2023,2023-10-14,Oregon State,oregon state,UCLA,date_discrepancy_1_day,2023-10-15,1,FOX
+2023,2023-10-14,UMass,umass,Penn State,team_not_found_in_results,,,BTN
+2023,2023-10-14,Boise State,boise state,Colorado State,date_discrepancy_1_day,2023-10-15,1,FS1
+2023,2023-10-14,Colorado State,colorado state,Boise State,date_discrepancy_1_day,2023-10-15,1,FS1
+2023,2023-10-12,ECU,ecu,SMU,team_not_found_in_results,,,ESPN
+2023,2023-10-14,Montana,montana,Idaho,date_discrepancy_1_day,2023-10-15,1,ESPN2
+2023,2023-10-14,Idaho,idaho,Montana,date_discrepancy_1_day,2023-10-15,1,ESPN2
+2023,2023-10-12,Fort Valley State,fort valley state,Benedict,team_not_found_in_results,,,ESPN2
+2023,2023-10-12,Benedict,benedict,Fort Valley State,team_not_found_in_results,,,ESPN2
+2023,2023-10-14,FAU,fau,USF,team_not_found_in_results,,,ESPN2
+2023,2023-10-14,UAB,uab,UTSA,date_discrepancy_1_day,2023-10-15,1,ESPNU
+2023,2023-10-14,UTSA,texas san antonio,UAB,date_discrepancy_1_day,2023-10-15,1,ESPNU
+2023,2023-10-21,FSU,fsu,Duke,team_not_found_in_results,,,ABC
+2023,2023-10-21,Utah,utah,USC,date_discrepancy_1_day,2023-10-22,1,FOX
+2023,2023-10-21,USC,usc,Utah,date_discrepancy_1_day,2023-10-22,1,FOX
+2023,2023-10-21,Arizona State,arizona state,Washington,date_discrepancy_1_day,2023-10-22,1,FS1
+2023,2023-10-21,Washington,washington,Arizona State,date_discrepancy_1_day,2023-10-22,1,FS1
+2023,2023-10-21,UCLA,ucla,Stanford,date_discrepancy_1_day,2023-10-22,1,ESPN
+2023,2023-10-21,Stanford,stanford,UCLA,date_discrepancy_1_day,2023-10-22,1,ESPN
+2023,2023-10-18,New Mexico State,new mexico state,UTEP,date_discrepancy_1_day,2023-10-19,1,ESPN2
+2023,2023-10-18,UTEP,texas el paso,New Mexico State,date_discrepancy_1_day,2023-10-19,1,ESPN2
+2023,2023-10-21,Montana State,montana state,Sacramento State,date_discrepancy_1_day,2023-10-22,1,ESPN2
+2023,2023-10-21,Sacramento State,sacramento state,Montana State,date_discrepancy_1_day,2023-10-22,1,ESPN2
+2023,2023-10-21,Nevada,nevada,San Diego State,date_discrepancy_1_day,2023-10-22,1,FS2
+2023,2023-10-21,San Diego State,san diego state,Nevada,date_discrepancy_1_day,2023-10-22,1,FS2
+2023,2023-10-21,Miami (Ohio),miami ohio,Toledo,team_not_found_in_results,,,ESPNU
+2023,2023-10-19,NC Central,nc central,Morgan State,team_not_found_in_results,,,ESPNU
+2023,2023-10-21,Georgia State,georgia state,Louisiana,date_discrepancy_1_day,2023-10-22,1,ESPNU
+2023,2023-10-21,Louisiana,louisiana,Georgia State,date_discrepancy_1_day,2023-10-22,1,ESPNU
+2023,2023-10-28,FSU,fsu,Wake Forest,team_not_found_in_results,,,ABC
+2023,2023-10-28,Oregon State,oregon state,Arizona,date_discrepancy_1_day,2023-10-29,1,ESPN
+2023,2023-10-28,Arizona,arizona,Oregon State,date_discrepancy_1_day,2023-10-29,1,ESPN
+2023,2023-10-28,Cincinnati,cincinnati,Oklahoma State,date_discrepancy_1_day,2023-10-29,1,ESPN2
+2023,2023-10-28,Oklahoma State,oklahoma state,Cincinnati,date_discrepancy_1_day,2023-10-29,1,ESPN2
+2023,2023-10-25,UTEP,texas el paso,Sam Houston,date_discrepancy_1_day,2023-10-26,1,ESPN2
+2023,2023-10-25,Sam Houston,sam houston,UTEP,date_discrepancy_1_day,2023-10-26,1,ESPN2
+2023,2023-10-27,FAU,fau,Charlotte,team_not_found_in_results,,,ESPN2
+2023,2023-10-28,UNLV,unlv,Fresno State,date_discrepancy_1_day,2023-10-29,1,FS1
+2023,2023-10-28,Fresno State,fresno state,UNLV,date_discrepancy_1_day,2023-10-29,1,FS1
+2023,2023-10-27,Penn,penn,Brown,team_not_found_in_results,,,ESPNU
+2023,2023-10-28,Old Dominion,old dominion,James Madison,date_discrepancy_1_day,2023-10-29,1,ESPNU
+2023,2023-10-28,James Madison,james madison,Old Dominion,date_discrepancy_1_day,2023-10-29,1,ESPNU
+2023,2023-10-28,FAMU,famu,Prairie View A&M,team_not_found_in_results,,,ESPNU
+2023,2023-10-26,SC State,sc state,NC Central,team_not_found_in_results,,,ESPNU
+2023,2023-10-26,NC Central,nc central,SC State,team_not_found_in_results,,,ESPNU
+2023,2023-11-04,Oregon State,oregon state,Colorado,date_discrepancy_1_day,2023-11-05,1,ESPN
+2023,2023-11-04,Colorado,colorado,Oregon State,date_discrepancy_1_day,2023-11-05,1,ESPN
+2023,2023-11-04,FSU,fsu,Pittsburgh,team_not_found_in_results,,,ESPN
+2023,2023-11-04,UCLA,ucla,Arizona,date_discrepancy_1_day,2023-11-05,1,FS1
+2023,2023-11-04,Arizona,arizona,UCLA,date_discrepancy_1_day,2023-11-05,1,FS1
+2023,2023-11-04,ECU,ecu,Tulane,team_not_found_in_results,,,ESPNU
+2023,2023-11-02,Miss Valley State,miss valley state,Bethune-Cookman,team_not_found_in_results,,,ESPNU
+2023,2023-11-11,Mississippi,mississippi,Georgia,date_discrepancy_1_day,2023-11-12,1,ESPN
+2023,2023-11-11,Georgia,georgia,Mississippi,date_discrepancy_1_day,2023-11-12,1,ESPN
+2023,2023-11-11,FSU,fsu,Miami,team_not_found_in_results,,,ABC
+2023,2023-11-11,Michigan State,michigan state,Ohio State,date_discrepancy_1_day,2023-11-12,1,NBC
+2023,2023-11-11,Ohio State,ohio state,Michigan State,date_discrepancy_1_day,2023-11-12,1,NBC
+2023,2023-11-11,USC,usc,Oregon,date_discrepancy_1_day,2023-11-12,1,FOX
+2023,2023-11-11,Oregon,oregon,USC,date_discrepancy_1_day,2023-11-12,1,FOX
+2023,2023-11-11,Texas,texas,TCU,date_discrepancy_1_day,2023-11-12,1,ABC
+2023,2023-11-11,TCU,texas christian,Texas,date_discrepancy_1_day,2023-11-12,1,ABC
+2023,2023-11-11,West Virginia,west virginia,Oklahoma,date_discrepancy_1_day,2023-11-12,1,FOX
+2023,2023-11-11,Oklahoma,oklahoma,West Virginia,date_discrepancy_1_day,2023-11-12,1,FOX
+2023,2023-11-09,Virginia,virginia,Louisville,date_discrepancy_1_day,2023-11-10,1,ESPN
+2023,2023-11-09,Louisville,louisville,Virginia,date_discrepancy_1_day,2023-11-10,1,ESPN
+2023,2023-11-11,Iowa State,iowa state,BYU,date_discrepancy_1_day,2023-11-12,1,ESPN
+2023,2023-11-11,BYU,brigham young,Iowa State,date_discrepancy_1_day,2023-11-12,1,ESPN
+2023,2023-11-10,North Texas,north texas,SMU,date_discrepancy_1_day,2023-11-11,1,ESPN2
+2023,2023-11-10,SMU,southern methodist,North Texas,date_discrepancy_1_day,2023-11-11,1,ESPN2
+2023,2023-11-11,Mississippi State,mississippi state,Texas A&M,date_discrepancy_1_day,2023-11-12,1,ESPN2
+2023,2023-11-11,Texas A&M,texas aandm,Mississippi State,date_discrepancy_1_day,2023-11-12,1,ESPN2
+2023,2023-11-07,Ohio,ohio,Buffalo,date_discrepancy_1_day,2023-11-08,1,ESPN2
+2023,2023-11-07,Buffalo,buffalo,Ohio,date_discrepancy_1_day,2023-11-08,1,ESPN2
+2023,2023-11-11,Cal,cal,Washington State,team_not_found_in_results,,,ESPN2
+2023,2023-11-08,Eastern Michigan,eastern michigan,Toledo,date_discrepancy_1_day,2023-11-09,1,ESPN2
+2023,2023-11-08,Toledo,toledo,Eastern Michigan,date_discrepancy_1_day,2023-11-09,1,ESPN2
+2023,2023-11-10,Wyoming,wyoming,UNLV,date_discrepancy_1_day,2023-11-11,1,FS1
+2023,2023-11-10,UNLV,unlv,Wyoming,date_discrepancy_1_day,2023-11-11,1,FS1
+2023,2023-11-11,Cincinnati,cincinnati,Houston,date_discrepancy_1_day,2023-11-12,1,FS1
+2023,2023-11-11,Houston,houston,Cincinnati,date_discrepancy_1_day,2023-11-12,1,FS1
+2023,2023-11-11,New Mexico,new mexico,Boise State,date_discrepancy_1_day,2023-11-12,1,FS1
+2023,2023-11-11,Boise State,boise state,New Mexico,date_discrepancy_1_day,2023-11-12,1,FS1
+2023,2023-11-07,Central Michigan,central michigan,Western Michigan,date_discrepancy_1_day,2023-11-08,1,ESPNU
+2023,2023-11-07,Western Michigan,western michigan,Central Michigan,date_discrepancy_1_day,2023-11-08,1,ESPNU
+2023,2023-11-11,Georgia Southern,georgia southern,Marshall,date_discrepancy_1_day,2023-11-12,1,NFLN
+2023,2023-11-11,Marshall,marshall,Georgia Southern,date_discrepancy_1_day,2023-11-12,1,NFLN
+2023,2023-11-09,Southern Miss,southern mississippi,Louisiana,date_discrepancy_1_day,2023-11-10,1,ESPNU
+2023,2023-11-09,Louisiana,louisiana,Southern Miss,date_discrepancy_1_day,2023-11-10,1,ESPNU
+2023,2023-11-08,Akron,akron,Miami (Ohio),date_discrepancy_1_day,2023-11-09,1,ESPNU
+2023,2023-11-08,Miami (Ohio),miami ohio,Akron,team_not_found_in_results,,,ESPNU
+2023,2023-11-10,Grambling,grambling,Arkansas Pine-Bluff,date_discrepancy_1_day,2023-11-11,1,ESPNU
+2023,2023-11-10,Arkansas Pine-Bluff,arkansas pinebluff,Grambling,team_not_found_in_results,,,ESPNU
+2023,2023-11-11,NC Central,nc central,Howard,team_not_found_in_results,,,ESPNU
+2023,2023-11-11,Rice,rice,UTSA,date_discrepancy_1_day,2023-11-12,1,ESPNU
+2023,2023-11-11,UTSA,texas san antonio,Rice,date_discrepancy_1_day,2023-11-12,1,ESPNU
+2024,2025-01-03,Minnesota,minnesota,Virginia Tech,date_discrepancy_1_day,2025-01-04,1,ESPN
+2024,2025-01-03,Virginia Tech,virginia tech,Minnesota,date_discrepancy_1_day,2025-01-04,1,ESPN
+2024,2024-12-27,Syracuse,syracuse,Washington State,date_discrepancy_1_day,2024-12-28,1,FOX
+2024,2024-12-27,Washington State,washington state,Syracuse,date_discrepancy_1_day,2024-12-28,1,FOX
+2024,2024-12-27,USC,usc,Texas A&M,date_discrepancy_1_day,2024-12-28,1,ESPN
+2024,2024-12-27,Texas A&M,texas aandm,USC,date_discrepancy_1_day,2024-12-28,1,ESPN
+2024,2024-12-24,USF,south florida,San Jose State,date_discrepancy_1_day,2024-12-25,1,ESPN
+2024,2024-12-24,San Jose State,san jose state,USF,team_not_found_in_results,,,ESPN
+2024,2024-12-26,Arkansas State,arkansas state,Bowling Green,date_discrepancy_1_day,2024-12-27,1,ESPN
+2024,2024-12-26,Bowling Green,bowling green,Arkansas State,date_discrepancy_1_day,2024-12-27,1,ESPN
+2024,2024-12-28,Army,army,Louisiana Tech,date_discrepancy_1_day,2024-12-29,1,ESPN
+2024,2024-12-28,Louisiana Tech,louisiana tech,Army,date_discrepancy_1_day,2024-12-29,1,ESPN
+2024,2024-12-28,ECU,ecu,NC State,team_not_found_in_results,,,ESPN
+2024,2024-12-28,Miami (Ohio),miami ohio,Colorado State,team_not_found_in_results,,,CW
+2024,2024-12-18,Cal,cal,UNLV,team_not_found_in_results,,,ESPN
+2024,2024-12-18,UNLV,unlv,Cal,date_discrepancy_1_day,2024-12-19,1,ESPN
+2024,2024-12-17,Memphis,memphis,West Virginia,date_discrepancy_1_day,2024-12-18,1,ESPN
+2024,2024-12-17,West Virginia,west virginia,Memphis,date_discrepancy_1_day,2024-12-18,1,ESPN
+2024,2024-12-19,Georgia Southern,georgia southern,Sam Houston,date_discrepancy_1_day,2024-12-20,1,ESPN
+2024,2024-12-19,Sam Houston,sam houston,Georgia Southern,date_discrepancy_1_day,2024-12-20,1,ESPN
+2024,2024-12-06,Boise State,boise state,UNLV,date_discrepancy_1_day,2024-12-07,1,FOX
+2024,2024-12-06,UNLV,unlv,Boise State,date_discrepancy_1_day,2024-12-07,1,FOX
+2024,2024-12-06,Army,army,Tulane,date_discrepancy_1_day,2024-12-07,1,ABC
+2024,2024-12-06,Tulane,tulane,Army,date_discrepancy_1_day,2024-12-07,1,ABC
+2024,2024-12-07,Miami (Ohio),miami ohio,Ohio,team_not_found_in_results,,,ESPN
+2024,2024-12-07,Marshall,marshall,Louisiana,date_discrepancy_1_day,2024-12-08,1,ESPN
+2024,2024-12-07,Louisiana,louisiana,Marshall,date_discrepancy_1_day,2024-12-08,1,ESPN
+2024,2024-11-29,Georgia Tech,georgia tech,Georgia,date_discrepancy_1_day,2024-11-30,1,ABC
+2024,2024-11-29,Georgia,georgia,Georgia Tech,date_discrepancy_1_day,2024-11-30,1,ABC
+2024,2024-11-29,Nebraska,nebraska,Iowa,date_discrepancy_1_day,2024-11-30,1,NBC
+2024,2024-11-29,Iowa,iowa,Nebraska,date_discrepancy_1_day,2024-11-30,1,NBC
+2024,2024-11-30,Washington,washington,Oregon,date_discrepancy_1_day,2024-12-01,1,NBC
+2024,2024-11-30,Oregon,oregon,Washington,date_discrepancy_1_day,2024-12-01,1,NBC
+2024,2024-11-30,Oklahoma,oklahoma,LSU,date_discrepancy_1_day,2024-12-01,1,ESPN
+2024,2024-11-30,LSU,louisiana state,Oklahoma,date_discrepancy_1_day,2024-12-01,1,ESPN
+2024,2024-11-30,Kansas State,kansas state,Iowa State,date_discrepancy_1_day,2024-12-01,1,FOX
+2024,2024-11-30,Iowa State,iowa state,Kansas State,date_discrepancy_1_day,2024-12-01,1,FOX
+2024,2024-11-30,Houston,houston,BYU,date_discrepancy_1_day,2024-12-01,1,ESPN
+2024,2024-11-30,BYU,brigham young,Houston,date_discrepancy_1_day,2024-12-01,1,ESPN
+2024,2024-11-30,Florida,florida,Florida State,date_discrepancy_1_day,2024-12-01,1,ESPN2
+2024,2024-11-30,Florida State,florida state,Florida,date_discrepancy_1_day,2024-12-01,1,ESPN2
+2024,2024-11-29,Utah,utah,UCF,date_discrepancy_1_day,2024-11-30,1,FOX
+2024,2024-11-29,UCF,central florida,Utah,date_discrepancy_1_day,2024-11-30,1,FOX
+2024,2024-11-30,Purdue,purdue,Indiana,date_discrepancy_1_day,2024-12-01,1,FS1
+2024,2024-11-30,Indiana,indiana,Purdue,date_discrepancy_1_day,2024-12-01,1,FS1
+2024,2024-11-28,Memphis,memphis,Tulane,date_discrepancy_1_day,2024-11-29,1,ESPN
+2024,2024-11-28,Tulane,tulane,Memphis,date_discrepancy_1_day,2024-11-29,1,ESPN
+2024,2024-11-29,ECU,ecu,Navy,team_not_found_in_results,,,ESPN
+2024,2024-11-26,Toledo,toledo,Akron,date_discrepancy_1_day,2024-11-27,1,ESPN2
+2024,2024-11-26,Akron,akron,Toledo,date_discrepancy_1_day,2024-11-27,1,ESPN2
+2024,2024-11-30,Tennessee State,tennessee state,Montana,date_discrepancy_1_day,2024-12-01,1,ESPN2
+2024,2024-11-30,Montana,montana,Tennessee State,date_discrepancy_1_day,2024-12-01,1,ESPN2
+2024,2024-11-30,Cal,cal,SMU,team_not_found_in_results,,,ESPN2
+2024,2024-11-30,Air Force,air force,San Diego State,date_discrepancy_1_day,2024-12-01,1,FS1
+2024,2024-11-30,San Diego State,san diego state,Air Force,date_discrepancy_1_day,2024-12-01,1,FS1
+2024,2024-11-29,Miami (Ohio),miami ohio,Bowling Green,team_not_found_in_results,,,ESPNU
+2024,2024-11-30,Marshall,marshall,James Madison,date_discrepancy_1_day,2024-12-01,1,ESPNU
+2024,2024-11-30,James Madison,james madison,Marshall,date_discrepancy_1_day,2024-12-01,1,ESPNU
+2024,2024-11-30,UL-Monroe,ulmonroe,Louisiana,team_not_found_in_results,,,ESPNU
+2024,2024-11-23,Alabama,alabama,Oklahoma,date_discrepancy_1_day,2024-11-24,1,ABC
+2024,2024-11-23,Oklahoma,oklahoma,Alabama,date_discrepancy_1_day,2024-11-24,1,ABC
+2024,2024-11-23,Army,army,Notre Dame,date_discrepancy_1_day,2024-11-24,1,NBC
+2024,2024-11-23,Notre Dame,notre dame,Army,date_discrepancy_1_day,2024-11-24,1,NBC
+2024,2024-11-23,Texas A&M,texas aandm,Auburn,date_discrepancy_1_day,2024-11-24,1,ESPN
+2024,2024-11-23,Auburn,auburn,Texas A&M,date_discrepancy_1_day,2024-11-24,1,ESPN
+2024,2024-11-23,USC,usc,UCLA,date_discrepancy_1_day,2024-11-24,1,NBC
+2024,2024-11-23,UCLA,ucla,USC,date_discrepancy_1_day,2024-11-24,1,NBC
+2024,2024-11-23,Iowa State,iowa state,Utah,date_discrepancy_1_day,2024-11-24,1,FOX
+2024,2024-11-23,Utah,utah,Iowa State,date_discrepancy_1_day,2024-11-24,1,FOX
+2024,2024-11-22,Purdue,purdue,Michigan State,date_discrepancy_1_day,2024-11-23,1,FOX
+2024,2024-11-22,Michigan State,michigan state,Purdue,date_discrepancy_1_day,2024-11-23,1,FOX
+2024,2024-11-21,NC State,nc state,Georgia Tech,date_discrepancy_1_day,2024-11-22,1,ESPN
+2024,2024-11-21,Georgia Tech,georgia tech,NC State,date_discrepancy_1_day,2024-11-22,1,ESPN
+2024,2024-11-23,Washington State,washington state,Oregon State,date_discrepancy_1_day,2024-11-24,1,CW
+2024,2024-11-23,Oregon State,oregon state,Washington State,date_discrepancy_1_day,2024-11-24,1,CW
+2024,2024-11-22,Temple,temple,UTSA,date_discrepancy_1_day,2024-11-23,1,ESPN2
+2024,2024-11-22,UTSA,texas san antonio,Temple,date_discrepancy_1_day,2024-11-23,1,ESPN2
+2024,2024-11-19,Northern Illinois,northern illinois,Miami (Ohio),date_discrepancy_1_day,2024-11-20,1,ESPN
+2024,2024-11-19,Miami (Ohio),miami ohio,Northern Illinois,team_not_found_in_results,,,ESPN
+2024,2024-11-20,Ohio,ohio,Toledo,date_discrepancy_1_day,2024-11-21,1,ESPN2
+2024,2024-11-20,Toledo,toledo,Ohio,date_discrepancy_1_day,2024-11-21,1,ESPN2
+2024,2024-11-23,Cincinnati,cincinnati,Kansas State,date_discrepancy_1_day,2024-11-24,1,ESPN2
+2024,2024-11-23,Kansas State,kansas state,Cincinnati,date_discrepancy_1_day,2024-11-24,1,ESPN2
+2024,2024-11-19,Western Michigan,western michigan,Central Michigan,date_discrepancy_1_day,2024-11-20,1,ESPN2
+2024,2024-11-19,Central Michigan,central michigan,Western Michigan,date_discrepancy_1_day,2024-11-20,1,ESPN2
+2024,2024-11-23,Baylor,baylor,Houston,date_discrepancy_1_day,2024-11-24,1,FS1
+2024,2024-11-23,Houston,houston,Baylor,date_discrepancy_1_day,2024-11-24,1,FS1
+2024,2024-11-23,Air Force,air force,Nevada,date_discrepancy_1_day,2024-11-24,1,FS1
+2024,2024-11-23,Nevada,nevada,Air Force,date_discrepancy_1_day,2024-11-24,1,FS1
+2024,2024-11-20,Buffalo,buffalo,Eastern Michigan,date_discrepancy_1_day,2024-11-21,1,ESPNU
+2024,2024-11-20,Eastern Michigan,eastern michigan,Buffalo,date_discrepancy_1_day,2024-11-21,1,ESPNU
+2024,2024-11-23,Marshall,marshall,Old Dominion,date_discrepancy_1_day,2024-11-24,1,ESPNU
+2024,2024-11-23,Old Dominion,old dominion,Marshall,date_discrepancy_1_day,2024-11-24,1,ESPNU
+2024,2024-11-16,Tennessee,tennessee,Georgia,date_discrepancy_1_day,2024-11-17,1,"ABC, ESPNU"
+2024,2024-11-16,Georgia,georgia,Tennessee,date_discrepancy_1_day,2024-11-17,1,"ABC, ESPNU"
+2024,2024-11-16,Oregon,oregon,Wisconsin,date_discrepancy_1_day,2024-11-17,1,NBC
+2024,2024-11-16,Wisconsin,wisconsin,Oregon,date_discrepancy_1_day,2024-11-17,1,NBC
+2024,2024-11-16,Kansas,kansas,BYU,date_discrepancy_1_day,2024-11-17,1,ESPN
+2024,2024-11-16,BYU,brigham young,Kansas,date_discrepancy_1_day,2024-11-17,1,ESPN
+2024,2024-11-15,UCLA,ucla,Washington,date_discrepancy_1_day,2024-11-16,1,FOX
+2024,2024-11-15,Washington,washington,UCLA,date_discrepancy_1_day,2024-11-16,1,FOX
+2024,2024-11-16,Cincinnati,cincinnati,Iowa State,date_discrepancy_1_day,2024-11-17,1,FOX
+2024,2024-11-16,Iowa State,iowa state,Cincinnati,date_discrepancy_1_day,2024-11-17,1,FOX
+2024,2024-11-16,Arizona State,arizona state,Kansas State,date_discrepancy_1_day,2024-11-17,1,ESPN
+2024,2024-11-16,Kansas State,kansas state,Arizona State,date_discrepancy_1_day,2024-11-17,1,ESPN
+2024,2024-11-14,ECU,ecu,Tulsa,team_not_found_in_results,,,ESPN
+2024,2024-11-14,Tulsa,tulsa,ECU,date_discrepancy_1_day,2024-11-15,1,ESPN
+2024,2024-11-13,Eastern Michigan,eastern michigan,Ohio,date_discrepancy_1_day,2024-11-14,1,ESPN2
+2024,2024-11-13,Ohio,ohio,Eastern Michigan,date_discrepancy_1_day,2024-11-14,1,ESPN2
+2024,2024-11-15,North Texas,north texas,UTSA,date_discrepancy_1_day,2024-11-16,1,ESPN2
+2024,2024-11-15,UTSA,texas san antonio,North Texas,date_discrepancy_1_day,2024-11-16,1,ESPN2
+2024,2024-11-16,Cal,cal,Syracuse,team_not_found_in_results,,,CW
+2024,2024-11-12,Western Michigan,western michigan,Bowling Green,date_discrepancy_1_day,2024-11-13,1,ESPN2
+2024,2024-11-12,Bowling Green,bowling green,Western Michigan,date_discrepancy_1_day,2024-11-13,1,ESPN2
+2024,2024-11-16,Washington State,washington state,New Mexico,date_discrepancy_1_day,2024-11-17,1,FS1
+2024,2024-11-16,New Mexico,new mexico,Washington State,date_discrepancy_1_day,2024-11-17,1,FS1
+2024,2024-11-16,UAB,uab,Memphis,date_discrepancy_1_day,2024-11-17,1,ESPN2
+2024,2024-11-16,Memphis,memphis,UAB,date_discrepancy_1_day,2024-11-17,1,ESPN2
+2024,2024-11-13,Kent State,kent state,Miami (Ohio),date_discrepancy_1_day,2024-11-14,1,ESPNU
+2024,2024-11-13,Miami (Ohio),miami ohio,Kent State,team_not_found_in_results,,,ESPNU
+2024,2024-11-12,Central Michigan,central michigan,Toledo,date_discrepancy_1_day,2024-11-13,1,ESPNU
+2024,2024-11-12,Toledo,toledo,Central Michigan,date_discrepancy_1_day,2024-11-13,1,ESPNU
+2024,2024-11-09,FSU,fsu,Notre Dame,team_not_found_in_results,,,NBC
+2024,2024-11-09,Notre Dame,notre dame,FSU,date_discrepancy_1_day,2024-11-10,1,NBC
+2024,2024-11-09,BYU,brigham young,Utah,date_discrepancy_1_day,2024-11-10,1,ESPN
+2024,2024-11-09,Utah,utah,BYU,date_discrepancy_1_day,2024-11-10,1,ESPN
+2024,2024-11-08,Iowa,iowa,UCLA,date_discrepancy_1_day,2024-11-09,1,FOX
+2024,2024-11-08,UCLA,ucla,Iowa,date_discrepancy_1_day,2024-11-09,1,FOX
+2024,2024-11-09,Miss State,miss state,Tennessee,team_not_found_in_results,,,ESPN
+2024,2024-11-09,Tennessee,tennessee,Miss State,date_discrepancy_1_day,2024-11-10,1,ESPN
+2024,2024-11-09,Nevada,nevada,Boise State,date_discrepancy_1_day,2024-11-10,1,FOX
+2024,2024-11-09,Boise State,boise state,Nevada,date_discrepancy_1_day,2024-11-10,1,FOX
+2024,2024-11-09,Maryland,maryland,Oregon,date_discrepancy_1_day,2024-11-10,1,BTN
+2024,2024-11-09,Oregon,oregon,Maryland,date_discrepancy_1_day,2024-11-10,1,BTN
+2024,2024-11-06,Northern Illinois,northern illinois,W Michigan,date_discrepancy_1_day,2024-11-07,1,ESPN2
+2024,2024-11-06,W Michigan,w michigan,Northern Illinois,team_not_found_in_results,,,ESPN2
+2024,2024-11-07,App State,appalachian state,Coastal Carolina,date_discrepancy_1_day,2024-11-08,1,ESPN
+2024,2024-11-07,Coastal Carolina,coastal carolina,App State,date_discrepancy_1_day,2024-11-08,1,ESPN
+2024,2024-11-08,Rice,rice,Memphis,date_discrepancy_1_day,2024-11-09,1,ESPN2
+2024,2024-11-08,Memphis,memphis,Rice,date_discrepancy_1_day,2024-11-09,1,ESPN2
+2024,2024-11-09,UCF,central florida,Arizona State,date_discrepancy_1_day,2024-11-10,1,ESPN2
+2024,2024-11-09,Arizona State,arizona state,UCF,date_discrepancy_1_day,2024-11-10,1,ESPN2
+2024,2024-11-05,Miami (Ohio),miami ohio,Ball State,team_not_found_in_results,,,ESPN
+2024,2024-11-05,Ball State,ball state,Miami (Ohio),date_discrepancy_1_day,2024-11-06,1,ESPN
+2024,2024-11-09,Utah State,utah state,Washington St.,date_discrepancy_1_day,2024-11-10,1,CW
+2024,2024-11-09,Washington St.,washington st,Utah State,team_not_found_in_results,,,CW
+2024,2024-11-09,Oklahoma State,oklahoma state,TCU,date_discrepancy_1_day,2024-11-10,1,FS1
+2024,2024-11-09,TCU,texas christian,Oklahoma State,date_discrepancy_1_day,2024-11-10,1,FS1
+2024,2024-11-05,Bowling Green,bowling green,Central Michigan,date_discrepancy_1_day,2024-11-06,1,ESPN2
+2024,2024-11-05,Central Michigan,central michigan,Bowling Green,date_discrepancy_1_day,2024-11-06,1,ESPN2
+2024,2024-11-07,FAU,fau,ECU,team_not_found_in_results,,,ESPN2
+2024,2024-11-07,ECU,ecu,FAU,team_not_found_in_results,,,ESPN2
+2024,2024-11-06,Ohio,ohio,Kent State,date_discrepancy_1_day,2024-11-07,1,ESPNU
+2024,2024-11-06,Kent State,kent state,Ohio,date_discrepancy_1_day,2024-11-07,1,ESPNU
+2024,2024-11-09,UL-Monroe,ulmonroe,Texas State,team_not_found_in_results,,,ESPNU
+2024,2024-11-02,K-State,kstate,Houston,team_not_found_in_results,,,FOX
+2024,2024-11-01,San Diego State,san diego state,Boise State,date_discrepancy_1_day,2024-11-02,1,FS1
+2024,2024-11-01,Boise State,boise state,San Diego State,date_discrepancy_1_day,2024-11-02,1,FS1
+2024,2024-11-01,FAU,fau,USF,team_not_found_in_results,,,ESPN2
+2024,2024-11-02,TCU,texas christian,Baylor,date_discrepancy_1_day,2024-11-03,1,ESPN2
+2024,2024-11-02,Baylor,baylor,TCU,date_discrepancy_1_day,2024-11-03,1,ESPN2
+2024,2024-10-31,NC Central,nc central,SC State,team_not_found_in_results,,,ESPNU
+2024,2024-10-31,SC State,sc state,NC Central,team_not_found_in_results,,,ESPNU
+2024,2024-10-29,Louisiana Tech,louisiana tech,Sam Houston,date_discrepancy_1_day,2024-10-30,1,ESPNU
+2024,2024-10-29,Sam Houston,sam houston,Louisiana Tech,date_discrepancy_1_day,2024-10-30,1,ESPNU
+2024,2024-11-02,EMU,emu,Toledo,team_not_found_in_results,,,ESPNU
+2024,2024-11-02,Ga. Southern,ga southern,South Alabama,team_not_found_in_results,,,ESPNU
+2024,2024-10-26,Cincinnati,cincinnati,Colorado,date_discrepancy_1_day,2024-10-27,1,ESPN
+2024,2024-10-26,Colorado,colorado,Cincinnati,date_discrepancy_1_day,2024-10-27,1,ESPN
+2024,2024-10-25,Rutgers,rutgers,USC,date_discrepancy_1_day,2024-10-26,1,FOX
+2024,2024-10-25,USC,usc,Rutgers,date_discrepancy_1_day,2024-10-26,1,FOX
+2024,2024-10-26,FSU,fsu,Miami,team_not_found_in_results,,,ESPN
+2024,2024-10-26,Kansas,kansas,Kansas State,date_discrepancy_1_day,2024-10-27,1,ESPN2
+2024,2024-10-26,Kansas State,kansas state,Kansas,date_discrepancy_1_day,2024-10-27,1,ESPN2
+2024,2024-10-23,MTSU,mtsu,Jacksonville St.,team_not_found_in_results,,,ESPN2
+2024,2024-10-23,Jacksonville St.,jacksonville st,MTSU,team_not_found_in_results,,,ESPN2
+2024,2024-10-26,Cal,cal,Oregon State,team_not_found_in_results,,,ESPN2
+2024,2024-10-25,Penn,penn,Yale,team_not_found_in_results,,,ESPNU
+2024,2024-10-26,South Dakota St.,south dakota st,South Dakota,team_not_found_in_results,,,ESPNU
+2024,2024-10-26,San Jose State,san jose state,Fresno State,team_not_found_in_results,,,truTV
+2024,2024-10-26,Fresno State,fresno state,San Jose State,date_discrepancy_1_day,2024-10-27,1,truTV
+2024,2024-10-18,Oregon,oregon,Purdue,date_discrepancy_1_day,2024-10-19,1,FOX
+2024,2024-10-18,Purdue,purdue,Oregon,date_discrepancy_1_day,2024-10-19,1,FOX
+2024,2024-10-18,Oklahoma State,oklahoma state,BYU,date_discrepancy_1_day,2024-10-19,1,ESPN
+2024,2024-10-18,BYU,brigham young,Oklahoma State,date_discrepancy_1_day,2024-10-19,1,ESPN
+2024,2024-10-18,FSU,fsu,Duke,team_not_found_in_results,,,ESPN
+2024,2024-10-19,TCU,texas christian,Utah,date_discrepancy_1_day,2024-10-20,1,ESPN
+2024,2024-10-19,Utah,utah,TCU,date_discrepancy_1_day,2024-10-20,1,ESPN
+2024,2024-10-19,UNLV,unlv,Oregon State,date_discrepancy_1_day,2024-10-20,1,CW
+2024,2024-10-19,Oregon State,oregon state,UNLV,date_discrepancy_1_day,2024-10-20,1,CW
+2024,2024-10-19,ECU,ecu,Army,team_not_found_in_results,,,ESPN2
+2024,2024-10-19,Washington St.,washington st,Hawaii,team_not_found_in_results,,,CW
+2024,2024-10-19,South Dakota St.,south dakota st,North Dakota St.,team_not_found_in_results,,,ESPN2
+2024,2024-10-19,North Dakota St.,north dakota st,South Dakota St.,team_not_found_in_results,,,ESPN2
+2024,2024-10-15,Louisiana Tech,louisiana tech,New Mexico St.,date_discrepancy_1_day,2024-10-16,1,ESPNU
+2024,2024-10-15,New Mexico St.,new mexico st,Louisiana Tech,team_not_found_in_results,,,ESPNU
+2024,2024-10-12,Kansas State,kansas state,Colorado,date_discrepancy_1_day,2024-10-13,1,ESPN
+2024,2024-10-12,Colorado,colorado,Kansas State,date_discrepancy_1_day,2024-10-13,1,ESPN
+2024,2024-10-11,Utah,utah,Arizona State,date_discrepancy_1_day,2024-10-12,1,ESPN
+2024,2024-10-11,Arizona State,arizona state,Utah,date_discrepancy_1_day,2024-10-12,1,ESPN
+2024,2024-10-12,Iowa State,iowa state,West Virginia,date_discrepancy_1_day,2024-10-13,1,FOX
+2024,2024-10-12,West Virginia,west virginia,Iowa State,date_discrepancy_1_day,2024-10-13,1,FOX
+2024,2024-10-12,Cal,cal,Pitt,team_not_found_in_results,,,ESPN
+2024,2024-10-11,Northwestern,northwestern,Maryland,date_discrepancy_1_day,2024-10-12,1,FS1
+2024,2024-10-11,Maryland,maryland,Northwestern,date_discrepancy_1_day,2024-10-12,1,FS1
+2024,2024-10-12,Minnesota,minnesota,UCLA,date_discrepancy_1_day,2024-10-13,1,BTN
+2024,2024-10-12,UCLA,ucla,Minnesota,date_discrepancy_1_day,2024-10-13,1,BTN
+2024,2024-10-09,NM State,nm state,Jacksonville St.,team_not_found_in_results,,,ESPN2
+2024,2024-10-09,Jacksonville St.,jacksonville st,NM State,team_not_found_in_results,,,ESPN2
+2024,2024-10-12,UMass,umass,Missouri,team_not_found_in_results,,,ESPN2
+2024,2024-10-12,Washington St.,washington st,Fresno State,team_not_found_in_results,,,FS1
+2024,2024-10-11,PV A&M,pv aandm,Ark. Pine-Bluff,team_not_found_in_results,,,ESPN2
+2024,2024-10-11,Ark. Pine-Bluff,ark pinebluff,PV A&M,team_not_found_in_results,,,ESPN2
+2024,2024-10-12,FAU,fau,North Texas,team_not_found_in_results,,,ESPN2
+2024,2024-10-10,UTEP,texas el paso,W. Kentucky,date_discrepancy_1_day,2024-10-11,1,ESPNU
+2024,2024-10-10,W. Kentucky,w kentucky,UTEP,team_not_found_in_results,,,ESPNU
+2024,2024-10-12,San Jose State,san jose state,Colorado State,team_not_found_in_results,,,truTV
+2024,2024-10-12,Idaho,idaho,Montana State,date_discrepancy_1_day,2024-10-13,1,ESPN2
+2024,2024-10-12,Montana State,montana state,Idaho,date_discrepancy_1_day,2024-10-13,1,ESPN2
+2024,2024-10-12,Marshall,marshall,Georgia Southern,date_discrepancy_1_day,2024-10-13,1,ESPNU
+2024,2024-10-12,Georgia Southern,georgia southern,Marshall,date_discrepancy_1_day,2024-10-13,1,ESPNU
+2024,2024-10-04,Michigan State,michigan state,Oregon,date_discrepancy_1_day,2024-10-05,1,FOX
+2024,2024-10-04,Oregon,oregon,Michigan State,date_discrepancy_1_day,2024-10-05,1,FOX
+2024,2024-10-05,Miami,miami,Cal,date_discrepancy_1_day,2024-10-06,1,ESPN
+2024,2024-10-05,Cal,cal,Miami,team_not_found_in_results,,,ESPN
+2024,2024-10-05,FSU,fsu,Clemson,team_not_found_in_results,,,ESPN
+2024,2024-10-05,Texas Tech,texas tech,Arizona,date_discrepancy_1_day,2024-10-06,1,FOX
+2024,2024-10-05,Arizona,arizona,Texas Tech,date_discrepancy_1_day,2024-10-06,1,FOX
+2024,2024-10-04,Syracuse,syracuse,UNLV,date_discrepancy_1_day,2024-10-05,1,FS1
+2024,2024-10-04,UNLV,unlv,Syracuse,date_discrepancy_1_day,2024-10-05,1,FS1
+2024,2024-10-05,Kansas,kansas,Arizona State,date_discrepancy_1_day,2024-10-06,1,ESPN2
+2024,2024-10-05,Arizona State,arizona state,Kansas,date_discrepancy_1_day,2024-10-06,1,ESPN2
+2024,2024-10-05,UL-Monroe,ulmonroe,James Madison,team_not_found_in_results,,,ESPNU
+2024,2024-10-05,ECU,ecu,Charlotte,team_not_found_in_results,,,ESPNU
+2024,2024-10-05,San Jose State,san jose state,Nevada,team_not_found_in_results,,,truTV
+2024,2024-09-27,Washington,washington,Rutgers,date_discrepancy_1_day,2024-09-28,1,FOX
+2024,2024-09-27,Rutgers,rutgers,Washington,date_discrepancy_1_day,2024-09-28,1,FOX
+2024,2024-09-28,Oregon,oregon,UCLA,date_discrepancy_1_day,2024-09-29,1,FOX
+2024,2024-09-28,UCLA,ucla,Oregon,date_discrepancy_1_day,2024-09-29,1,FOX
+2024,2024-09-28,Arizona,arizona,Utah,date_discrepancy_1_day,2024-09-29,1,ESPN
+2024,2024-09-28,Utah,utah,Arizona,date_discrepancy_1_day,2024-09-29,1,ESPN
+2024,2024-09-28,Washington St.,washington st,Boise State,team_not_found_in_results,,,FS1
+2024,2024-09-28,Boise State,boise state,Washington St.,date_discrepancy_1_day,2024-09-29,1,FS1
+2024,2024-09-28,Cincinnati,cincinnati,Texas Tech,date_discrepancy_1_day,2024-09-29,1,ESPN2
+2024,2024-09-28,Texas Tech,texas tech,Cincinnati,date_discrepancy_1_day,2024-09-29,1,ESPN2
+2024,2024-09-28,MTSU,mtsu,Memphis,team_not_found_in_results,,,ESPNU
+2024,2024-09-28,Ga. Southern,ga southern,Georgia State,team_not_found_in_results,,,ESPNU
+2024,2024-09-21,Baylor,baylor,Colorado,date_discrepancy_1_day,2024-09-22,1,FOX
+2024,2024-09-21,Colorado,colorado,Baylor,date_discrepancy_1_day,2024-09-22,1,FOX
+2024,2024-09-21,Mississippi St.,mississippi st,Florida,team_not_found_in_results,,,ESPN
+2024,2024-09-21,Miami (Ohio),miami ohio,Notre Dame,team_not_found_in_results,,,NBC
+2024,2024-09-21,Kansas State,kansas state,BYU,date_discrepancy_1_day,2024-09-22,1,ESPN
+2024,2024-09-21,BYU,brigham young,Kansas State,date_discrepancy_1_day,2024-09-22,1,ESPN
+2024,2024-09-21,Cal,cal,FSU,team_not_found_in_results,,,ESPN2
+2024,2024-09-21,FSU,fsu,Cal,team_not_found_in_results,,,ESPN2
+2024,2024-09-20,San Jose State,san jose state,Washington St.,team_not_found_in_results,,,CW
+2024,2024-09-20,Washington St.,washington st,San Jose State,team_not_found_in_results,,,CW
+2024,2024-09-21,Purdue,purdue,Oregon State,date_discrepancy_1_day,2024-09-22,1,CW
+2024,2024-09-21,Oregon State,oregon state,Purdue,date_discrepancy_1_day,2024-09-22,1,CW
+2024,2024-09-21,Portland State,portland state,Boise State,date_discrepancy_1_day,2024-09-22,1,FS1
+2024,2024-09-21,Boise State,boise state,Portland State,date_discrepancy_1_day,2024-09-22,1,FS1
+2024,2024-09-21,Fresno State,fresno state,New Mexico,date_discrepancy_1_day,2024-09-22,1,truTV
+2024,2024-09-21,New Mexico,new mexico,Fresno State,date_discrepancy_1_day,2024-09-22,1,truTV
+2024,2024-09-21,MTSU,mtsu,Duke,team_not_found_in_results,,,ESPNU
+2024,2024-09-13,Arizona,arizona,Kansas State,date_discrepancy_1_day,2024-09-14,1,FOX
+2024,2024-09-13,Kansas State,kansas state,Arizona,date_discrepancy_1_day,2024-09-14,1,FOX
+2024,2024-09-14,FSU,fsu,Memphis,team_not_found_in_results,,,ESPN
+2024,2024-09-14,San Diego State,san diego state,Cal,date_discrepancy_1_day,2024-09-15,1,ESPN
+2024,2024-09-14,Cal,cal,San Diego State,team_not_found_in_results,,,ESPN
+2024,2024-09-14,ECU,ecu,App State,team_not_found_in_results,,,ESPNU
+2024,2024-09-14,Mississippi St.,mississippi st,Toledo,team_not_found_in_results,,,ESPNU
+2024,2024-09-14,New Mexico St.,new mexico st,Fresno State,team_not_found_in_results,,,truTV
+2024,2024-09-14,Fresno State,fresno state,New Mexico St.,date_discrepancy_1_day,2024-09-15,1,truTV
+2024,2024-09-14,Miami (Ohio),miami ohio,Cincinnati,team_not_found_in_results,,,ESPNU
+2024,2024-09-14,San Jose State,san jose state,Kennesaw State,team_not_found_in_results,,,truTV
+2024,2024-09-07,Texas Tech,texas tech,Washington St.,date_discrepancy_1_day,2024-09-08,1,FOX
+2024,2024-09-07,Washington St.,washington st,Texas Tech,team_not_found_in_results,,,FOX
+2024,2024-09-07,Cal,cal,Auburn,team_not_found_in_results,,,ESPN2
+2024,2024-09-07,Mississippi St.,mississippi st,Arizona State,team_not_found_in_results,,,ESPN
+2024,2024-09-07,Arizona State,arizona state,Mississippi St.,date_discrepancy_1_day,2024-09-08,1,ESPN
+2024,2024-09-07,Utah State,utah state,USC,date_discrepancy_1_day,2024-09-08,1,BTN
+2024,2024-09-07,USC,usc,Utah State,date_discrepancy_1_day,2024-09-08,1,BTN
+2024,2024-09-06,Duke,duke,Northwestern,date_discrepancy_1_day,2024-09-07,1,FS1
+2024,2024-09-06,Northwestern,northwestern,Duke,date_discrepancy_1_day,2024-09-07,1,FS1
+2024,2024-09-07,Liberty,liberty,New Mexico St.,date_discrepancy_1_day,2024-09-08,1,ESPN2
+2024,2024-09-07,New Mexico St.,new mexico st,Liberty,team_not_found_in_results,,,ESPN2
+2024,2024-08-29,NDSU,ndsu,Colorado,team_not_found_in_results,,,ESPN
+2024,2024-08-29,Colorado,colorado,NDSU,date_discrepancy_1_day,2024-08-30,1,ESPN
+2024,2024-09-02,FSU,fsu,Boston College,team_not_found_in_results,,,ESPN
+2024,2024-08-29,North Carolina,north carolina,Minnesota,date_discrepancy_1_day,2024-08-30,1,FOX
+2024,2024-08-29,Minnesota,minnesota,North Carolina,date_discrepancy_1_day,2024-08-30,1,FOX
+2024,2024-08-30,TCU,texas christian,Stanford,date_discrepancy_1_day,2024-08-31,1,ESPN
+2024,2024-08-30,Stanford,stanford,TCU,date_discrepancy_1_day,2024-08-31,1,ESPN
+2024,2024-08-24,FAMU,famu,Norfolk State,team_not_found_in_results,,,ABC
+2024,2024-08-30,W. Michigan,w michigan,Wisconsin,team_not_found_in_results,,,FS1
+2024,2024-08-30,Wisconsin,wisconsin,W. Michigan,date_discrepancy_1_day,2024-08-31,1,FS1
+2024,2024-08-31,New Mexico,new mexico,Arizona,date_discrepancy_1_day,2024-09-01,1,ESPN
+2024,2024-08-31,Arizona,arizona,New Mexico,date_discrepancy_1_day,2024-09-01,1,ESPN
+2024,2024-08-30,FAU,fau,Michigan State,team_not_found_in_results,,,BTN
+2024,2024-09-01,NC Central,nc central,Alabama State,team_not_found_in_results,,,ESPN
+2024,2024-08-24,SEMO,semo,North Alabama,team_not_found_in_results,,,ESPN
+2024,2024-08-31,Weber State,weber state,Washington,date_discrepancy_1_day,2024-09-01,1,BTN
+2024,2024-08-31,Washington,washington,Weber State,date_discrepancy_1_day,2024-09-01,1,BTN
+2024,2024-08-31,Wyoming,wyoming,Arizona State,date_discrepancy_1_day,2024-09-01,1,FS1
+2024,2024-08-31,Arizona State,arizona state,Wyoming,date_discrepancy_1_day,2024-09-01,1,FS1
+2024,2024-08-31,Washington St.,washington st,Portland State,team_not_found_in_results,,,CW
+2024,2024-08-29,Ark. Pine-Bluff,ark pinebluff,Arkansas,team_not_found_in_results,,,ESPNU
+2024,2024-08-29,Eastern Illinois,eastern illinois,Illinois,date_discrepancy_1_day,2024-08-30,1,BTN
+2024,2024-08-29,Illinois,illinois,Eastern Illinois,date_discrepancy_1_day,2024-08-30,1,BTN
+2024,2024-08-29,Sacramento St.,sacramento st,San Jose State,team_not_found_in_results,,,truTV
+2024,2024-08-29,San Jose State,san jose state,Sacramento St.,team_not_found_in_results,,,truTV
+2024,2024-08-31,Texas A&M-CC,texas aandmcc,San Diego State,team_not_found_in_results,,,truTV
+2024,2024-08-31,San Diego State,san diego state,Texas A&M-CC,date_discrepancy_1_day,2024-09-01,1,truTV
+2024,2024-08-31,James Madison,james madison,Charlotte,date_discrepancy_1_day,2024-09-01,1,ESPNU
+2024,2024-08-31,Charlotte,charlotte,James Madison,date_discrepancy_1_day,2024-09-01,1,ESPNU
+2024,2024-09-01,Tuskegee,tuskegee,Johnson C. Smith,team_not_found_in_results,,,ESPNU
+2024,2024-09-01,Johnson C. Smith,johnson c smith,Tuskegee,team_not_found_in_results,,,ESPNU
+2024,2024-08-31,SC State,sc state,FAMU,team_not_found_in_results,,,ESPNU
+2024,2024-08-31,FAMU,famu,SC State,team_not_found_in_results,,,ESPNU
+2025,2025-09-01,TCU,texas christian,North Carolina,date_discrepancy_1_day,2025-09-02,1,ESPN
+2025,2025-09-01,North Carolina,north carolina,TCU,date_discrepancy_1_day,2025-09-02,1,ESPN
+2025,2025-08-29,Georgia Tech,georgia tech,Colorado,date_discrepancy_1_day,2025-08-30,1,ESPN
+2025,2025-08-29,Colorado,colorado,Georgia Tech,date_discrepancy_1_day,2025-08-30,1,ESPN
+2025,2025-08-28,Nebraska,nebraska,Cincinnati,date_discrepancy_1_day,2025-08-29,1,ESPN
+2025,2025-08-28,Cincinnati,cincinnati,Nebraska,date_discrepancy_1_day,2025-08-29,1,ESPN
+2025,2025-08-30,California,california,Oregon State,date_discrepancy_1_day,2025-08-31,1,ESPN
+2025,2025-08-30,Oregon State,oregon state,California,date_discrepancy_1_day,2025-08-31,1,ESPN
+2025,2025-09-06,Stanford,stanford,BYU,date_discrepancy_1_day,2025-09-07,1,ESPN
+2025,2025-09-06,BYU,brigham young,Stanford,date_discrepancy_1_day,2025-09-07,1,ESPN
+2025,2025-09-13,Minnesota,minnesota,California,date_discrepancy_1_day,2025-09-14,1,ESPN
+2025,2025-09-13,California,california,Minnesota,date_discrepancy_1_day,2025-09-14,1,ESPN
+2025,2025-09-13,Duke,duke,Tulane,date_discrepancy_1_day,2025-09-14,1,ESPN2
+2025,2025-09-13,Tulane,tulane,Duke,date_discrepancy_1_day,2025-09-14,1,ESPN2
+2025,2025-09-19,Iowa,iowa,Rutgers,date_discrepancy_1_day,2025-09-20,1,FOX
+2025,2025-09-19,Rutgers,rutgers,Iowa,date_discrepancy_1_day,2025-09-20,1,FOX
+2025,2025-09-20,Wyoming,wyoming,Colorado,date_discrepancy_1_day,2025-09-21,1,ESPN
+2025,2025-09-20,Colorado,colorado,Wyoming,date_discrepancy_1_day,2025-09-21,1,ESPN
+2025,2025-09-27,BYU,brigham young,Colorado,date_discrepancy_1_day,2025-09-28,1,ESPN
+2025,2025-09-27,Colorado,colorado,BYU,date_discrepancy_1_day,2025-09-28,1,ESPN
+2025,2025-09-26,Houston,houston,Oregon State,date_discrepancy_1_day,2025-09-27,1,ESPN
+2025,2025-09-26,Oregon State,oregon state,Houston,date_discrepancy_1_day,2025-09-27,1,ESPN
+2025,2025-10-03,West Virginia,west virginia,BYU,date_discrepancy_1_day,2025-10-04,1,ESPN
+2025,2025-10-03,BYU,brigham young,West Virginia,date_discrepancy_1_day,2025-10-04,1,ESPN
+2025,2025-10-04,Tulsa,tulsa,Memphis,date_discrepancy_1_day,2025-10-05,1,ESPNU
+2025,2025-10-04,Memphis,memphis,Tulsa,date_discrepancy_1_day,2025-10-05,1,ESPNU
+2025,2025-10-11,Arizona State,arizona state,Utah,date_discrepancy_1_day,2025-10-12,1,ESPN
+2025,2025-10-11,Utah,utah,Arizona State,date_discrepancy_1_day,2025-10-12,1,ESPN
+2025,2025-10-11,BYU,brigham young,Arizona,date_discrepancy_1_day,2025-10-12,1,ESPN2
+2025,2025-10-11,Arizona,arizona,BYU,date_discrepancy_1_day,2025-10-12,1,ESPN2
+2025,2025-10-09,Georgia Southern,georgia southern,Southern Miss,date_discrepancy_1_day,2025-10-10,1,ESPN2
+2025,2025-10-09,Southern Miss,southern mississippi,Georgia Southern,date_discrepancy_1_day,2025-10-10,1,ESPN2
+2025,2025-10-17,Nebraska,nebraska,Minnesota,date_discrepancy_1_day,2025-10-18,1,FOX
+2025,2025-10-17,Minnesota,minnesota,Nebraska,date_discrepancy_1_day,2025-10-18,1,FOX
+2025,2025-10-18,BYU,brigham young,Utah,date_discrepancy_1_day,2025-10-19,1,FOX
+2025,2025-10-18,Utah,utah,BYU,date_discrepancy_1_day,2025-10-19,1,FOX
+2025,2025-10-17,North Carolina,north carolina,California,date_discrepancy_1_day,2025-10-18,1,ESPN
+2025,2025-10-17,California,california,North Carolina,date_discrepancy_1_day,2025-10-18,1,ESPN
+2025,2025-10-18,Florida State,florida state,Stanford,date_discrepancy_1_day,2025-10-19,1,ESPN
+2025,2025-10-18,Stanford,stanford,Florida State,date_discrepancy_1_day,2025-10-19,1,ESPN
+2025,2025-10-18,Cincinnati,cincinnati,Oklahoma State,date_discrepancy_1_day,2025-10-19,1,ESPN2
+2025,2025-10-18,Oklahoma State,oklahoma state,Cincinnati,date_discrepancy_1_day,2025-10-19,1,ESPN2
+2025,2025-10-18,Lafayette,lafayette,Oregon State,date_discrepancy_1_day,2025-10-19,1,CW
+2025,2025-10-18,Oregon State,oregon state,Lafayette,date_discrepancy_1_day,2025-10-19,1,CW
+2025,2025-10-14,FIU,florida international,Western Kentucky,date_discrepancy_1_day,2025-10-15,1,ESPNU
+2025,2025-10-14,Western Kentucky,western kentucky,FIU,date_discrepancy_1_day,2025-10-15,1,ESPNU
+2025,2025-10-25,Utah,utah,Colorado,date_discrepancy_1_day,2025-10-26,1,ESPN
+2025,2025-10-25,Colorado,colorado,Utah,date_discrepancy_1_day,2025-10-26,1,ESPN
+2025,2025-10-25,Houston,houston,Arizona State,date_discrepancy_1_day,2025-10-26,1,ESPN2
+2025,2025-10-25,Arizona State,arizona state,Houston,date_discrepancy_1_day,2025-10-26,1,ESPN2
+2025,2025-10-25,North Dakota State,north dakota state,South Dakota State,date_discrepancy_1_day,2025-10-26,1,ESPNU
+2025,2025-10-25,South Dakota State,south dakota state,North Dakota State,date_discrepancy_1_day,2025-10-26,1,ESPNU
+2025,2025-11-01,Cincinnati,cincinnati,Utah,date_discrepancy_1_day,2025-11-02,1,ESPN
+2025,2025-11-01,Utah,utah,Cincinnati,date_discrepancy_1_day,2025-11-02,1,ESPN
+2025,2025-10-28,James Madison,james madison,Texas State,date_discrepancy_1_day,2025-10-29,1,ESPN2
+2025,2025-10-28,Texas State,texas state,James Madison,date_discrepancy_1_day,2025-10-29,1,ESPN2
+2025,2025-10-28,UTEP,texas el paso,Kennesaw State,date_discrepancy_1_day,2025-10-29,1,ESPNU
+2025,2025-10-28,Kennesaw State,kennesaw state,UTEP,date_discrepancy_1_day,2025-10-29,1,ESPNU
+2025,2025-11-01,Arkansas State,arkansas state,Troy,date_discrepancy_1_day,2025-11-02,1,ESPNU
+2025,2025-11-01,Troy,troy,Arkansas State,date_discrepancy_1_day,2025-11-02,1,ESPNU
+2025,2025-11-08,Navy,navy,Notre Dame,date_discrepancy_1_day,2025-11-09,1,NBC
+2025,2025-11-08,Notre Dame,notre dame,Navy,date_discrepancy_1_day,2025-11-09,1,NBC
+2025,2025-11-08,Nebraska,nebraska,UCLA,date_discrepancy_1_day,2025-11-09,1,FOX
+2025,2025-11-08,UCLA,ucla,Nebraska,date_discrepancy_1_day,2025-11-09,1,FOX
+2025,2025-11-07,Northwestern,northwestern,USC,date_discrepancy_1_day,2025-11-08,1,FOX
+2025,2025-11-07,USC,usc,Northwestern,date_discrepancy_1_day,2025-11-08,1,FOX
+2025,2025-11-07,Tulane,tulane,Memphis,date_discrepancy_1_day,2025-11-08,1,ESPN
+2025,2025-11-07,Memphis,memphis,Tulane,date_discrepancy_1_day,2025-11-08,1,ESPN
+2025,2025-11-08,Wake Forest,wake forest,Virginia,date_discrepancy_1_day,2025-11-09,1,ESPN
+2025,2025-11-08,Virginia,virginia,Wake Forest,date_discrepancy_1_day,2025-11-09,1,ESPN
+2025,2025-11-07,Houston,houston,UCF,date_discrepancy_1_day,2025-11-08,1,FS1
+2025,2025-11-07,UCF,central florida,Houston,date_discrepancy_1_day,2025-11-08,1,FS1
+2025,2025-11-06,UTSA,texas san antonio,South Florida,date_discrepancy_1_day,2025-11-07,1,ESPN
+2025,2025-11-06,South Florida,south florida,UTSA,date_discrepancy_1_day,2025-11-07,1,ESPN
+2025,2025-11-04,Miami (Ohio),miami ohio,Ohio,team_not_found_in_results,,,ESPN2
+2025,2025-11-04,Ohio,ohio,Miami (Ohio),date_discrepancy_1_day,2025-11-05,1,ESPN2
+2025,2025-11-08,California,california,Louisville,date_discrepancy_1_day,2025-11-09,1,ESPN2
+2025,2025-11-08,Louisville,louisville,California,date_discrepancy_1_day,2025-11-09,1,ESPN2
+2025,2025-11-05,Northern Illinois,northern illinois,Toledo,date_discrepancy_1_day,2025-11-06,1,ESPN2
+2025,2025-11-05,Toledo,toledo,Northern Illinois,date_discrepancy_1_day,2025-11-06,1,ESPN2
+2025,2025-11-08,Sam Houston,sam houston,Oregon State,date_discrepancy_1_day,2025-11-09,1,CW
+2025,2025-11-08,Oregon State,oregon state,Sam Houston,date_discrepancy_1_day,2025-11-09,1,CW
+2025,2025-11-06,Georgia Southern,georgia southern,Appalachian State,date_discrepancy_1_day,2025-11-07,1,ESPN2
+2025,2025-11-06,Appalachian State,appalachian state,Georgia Southern,date_discrepancy_1_day,2025-11-07,1,ESPN2
+2025,2025-11-08,San Jose State,san jose state,Air Force,team_not_found_in_results,,,FS1
+2025,2025-11-05,Kent State,kent state,Ball State,date_discrepancy_1_day,2025-11-06,1,ESPNU
+2025,2025-11-05,Ball State,ball state,Kent State,date_discrepancy_1_day,2025-11-06,1,ESPNU
+2025,2025-11-15,Texas,texas,Georgia,date_discrepancy_1_day,2025-11-16,1,ABC
+2025,2025-11-15,Georgia,georgia,Texas,date_discrepancy_1_day,2025-11-16,1,ABC
+2025,2025-11-15,UCLA,ucla,Ohio State,date_discrepancy_1_day,2025-11-16,1,NBC
+2025,2025-11-15,Ohio State,ohio state,UCLA,date_discrepancy_1_day,2025-11-16,1,NBC
+2025,2025-11-14,Clemson,clemson,Louisville,date_discrepancy_1_day,2025-11-15,1,ESPN
+2025,2025-11-14,Louisville,louisville,Clemson,date_discrepancy_1_day,2025-11-15,1,ESPN
+2025,2025-11-15,Florida,florida,Ole Miss,date_discrepancy_1_day,2025-11-16,1,ESPN
+2025,2025-11-15,Ole Miss,mississippi,Florida,date_discrepancy_1_day,2025-11-16,1,ESPN
+2025,2025-11-14,Minnesota,minnesota,Oregon,date_discrepancy_1_day,2025-11-15,1,FOX
+2025,2025-11-14,Oregon,oregon,Minnesota,date_discrepancy_1_day,2025-11-15,1,FOX
+2025,2025-11-15,TCU,texas christian,BYU,date_discrepancy_1_day,2025-11-16,1,ESPN
+2025,2025-11-15,BYU,brigham young,TCU,date_discrepancy_1_day,2025-11-16,1,ESPN
+2025,2025-11-13,Troy,troy,Old Dominion,date_discrepancy_1_day,2025-11-14,1,ESPN
+2025,2025-11-13,Old Dominion,old dominion,Troy,date_discrepancy_1_day,2025-11-14,1,ESPN
+2025,2025-11-15,Purdue,purdue,Washington,date_discrepancy_1_day,2025-11-16,1,FS1
+2025,2025-11-15,Washington,washington,Purdue,date_discrepancy_1_day,2025-11-16,1,FS1
+2025,2025-11-15,Utah,utah,Baylor,date_discrepancy_1_day,2025-11-16,1,ESPN2
+2025,2025-11-15,Baylor,baylor,Utah,date_discrepancy_1_day,2025-11-16,1,ESPN2
+2025,2025-11-12,Toledo,toledo,Miami (Ohio),date_discrepancy_1_day,2025-11-13,1,ESPN2
+2025,2025-11-12,Miami (Ohio),miami ohio,Toledo,team_not_found_in_results,,,ESPN2
+2025,2025-11-11,Ohio,ohio,Western Michigan,date_discrepancy_1_day,2025-11-12,1,ESPN2
+2025,2025-11-11,Western Michigan,western michigan,Ohio,date_discrepancy_1_day,2025-11-12,1,ESPN2
+2025,2025-11-15,Louisiana Tech,louisiana tech,Washington State,date_discrepancy_1_day,2025-11-16,1,CW
+2025,2025-11-15,Washington State,washington state,Louisiana Tech,date_discrepancy_1_day,2025-11-16,1,CW
+2025,2025-11-11,Kent State,kent state,Akron,date_discrepancy_1_day,2025-11-12,1,ESPNU
+2025,2025-11-11,Akron,akron,Kent State,date_discrepancy_1_day,2025-11-12,1,ESPNU
+2025,2025-11-12,Northern Illinois,northern illinois,Massachusetts,date_discrepancy_1_day,2025-11-13,1,ESPNU
+2025,2025-11-12,Massachusetts,massachusetts,Northern Illinois,date_discrepancy_1_day,2025-11-13,1,ESPNU
+2025,2025-11-15,Kennesaw State,kennesaw state,Jacksonville State,date_discrepancy_1_day,2025-11-16,1,ESPNU
+2025,2025-11-15,Jacksonville State,jacksonville state,Kennesaw State,date_discrepancy_1_day,2025-11-16,1,ESPNU
+2025,2025-11-22,Tennessee,tennessee,Florida,date_discrepancy_1_day,2025-11-23,1,ABC
+2025,2025-11-22,Florida,florida,Tennessee,date_discrepancy_1_day,2025-11-23,1,ABC
+2025,2025-11-22,Nebraska,nebraska,Penn State,date_discrepancy_1_day,2025-11-23,1,NBC
+2025,2025-11-22,Penn State,penn state,Nebraska,date_discrepancy_1_day,2025-11-23,1,NBC
+2025,2025-11-22,BYU,brigham young,Cincinnati,date_discrepancy_1_day,2025-11-23,1,FOX
+2025,2025-11-22,Cincinnati,cincinnati,BYU,date_discrepancy_1_day,2025-11-23,1,FOX
+2025,2025-11-21,Florida State,florida state,NC State,date_discrepancy_1_day,2025-11-22,1,ESPN
+2025,2025-11-21,NC State,nc state,Florida State,date_discrepancy_1_day,2025-11-22,1,ESPN
+2025,2025-11-22,Pittsburgh,pittsburgh,Georgia Tech,date_discrepancy_1_day,2025-11-23,1,ESPN
+2025,2025-11-22,Georgia Tech,georgia tech,Pittsburgh,date_discrepancy_1_day,2025-11-23,1,ESPN
+2025,2025-11-22,Washington,washington,UCLA,date_discrepancy_1_day,2025-11-23,1,NBC
+2025,2025-11-22,UCLA,ucla,Washington,date_discrepancy_1_day,2025-11-23,1,NBC
+2025,2025-11-22,Arizona State,arizona state,Colorado,date_discrepancy_1_day,2025-11-23,1,ESPN2
+2025,2025-11-22,Colorado,colorado,Arizona State,date_discrepancy_1_day,2025-11-23,1,ESPN2
+2025,2025-11-22,Illinois,illinois,Wisconsin,date_discrepancy_1_day,2025-11-23,1,BTN
+2025,2025-11-22,Wisconsin,wisconsin,Illinois,date_discrepancy_1_day,2025-11-23,1,BTN
+2025,2025-11-20,Louisiana,louisiana,Arkansas State,date_discrepancy_1_day,2025-11-21,1,ESPN
+2025,2025-11-20,Arkansas State,arkansas state,Louisiana,date_discrepancy_1_day,2025-11-21,1,ESPN
+2025,2025-11-19,Miami (Ohio),miami ohio,Buffalo,team_not_found_in_results,,,ESPN2
+2025,2025-11-19,Buffalo,buffalo,Miami (Ohio),date_discrepancy_1_day,2025-11-20,1,ESPN2
+2025,2025-11-18,Western Michigan,western michigan,Northern Illinois,date_discrepancy_1_day,2025-11-19,1,ESPN2
+2025,2025-11-18,Northern Illinois,northern illinois,Western Michigan,date_discrepancy_1_day,2025-11-19,1,ESPN2
+2025,2025-11-19,Central Michigan,central michigan,Kent State,date_discrepancy_1_day,2025-11-20,1,ESPNU
+2025,2025-11-19,Kent State,kent state,Central Michigan,date_discrepancy_1_day,2025-11-20,1,ESPNU
+2025,2025-11-18,Akron,akron,Bowling Green,date_discrepancy_1_day,2025-11-19,1,ESPNU
+2025,2025-11-18,Bowling Green,bowling green,Akron,date_discrepancy_1_day,2025-11-19,1,ESPNU
+2025,2025-11-22,North Texas,north texas,Rice,date_discrepancy_1_day,2025-11-23,1,ESPNU
+2025,2025-11-22,Rice,rice,North Texas,date_discrepancy_1_day,2025-11-23,1,ESPNU
+2025,2025-11-28,Texas A&M,texas aandm,Texas,date_discrepancy_1_day,2025-11-29,1,ABC
+2025,2025-11-28,Texas,texas,Texas A&M,date_discrepancy_1_day,2025-11-29,1,ABC
+2025,2025-11-29,Alabama,alabama,Auburn,date_discrepancy_1_day,2025-11-30,1,ABC
+2025,2025-11-29,Auburn,auburn,Alabama,date_discrepancy_1_day,2025-11-30,1,ABC
+2025,2025-11-29,UCLA,ucla,USC,date_discrepancy_1_day,2025-11-30,1,NBC & PEACOCK
+2025,2025-11-29,USC,usc,UCLA,date_discrepancy_1_day,2025-11-30,1,NBC & PEACOCK
+2025,2025-11-28,Arizona,arizona,Arizona State,date_discrepancy_1_day,2025-11-29,1,FOX
+2025,2025-11-28,Arizona State,arizona state,Arizona,date_discrepancy_1_day,2025-11-29,1,FOX
+2025,2025-11-29,Northwestern,northwestern,Illinois,date_discrepancy_1_day,2025-11-30,1,FOX
+2025,2025-11-29,Illinois,illinois,Northwestern,date_discrepancy_1_day,2025-11-30,1,FOX
+2025,2025-11-29,Notre Dame,notre dame,Stanford,date_discrepancy_1_day,2025-11-30,1,ESPN
+2025,2025-11-29,Stanford,stanford,Notre Dame,date_discrepancy_1_day,2025-11-30,1,ESPN
+2025,2025-11-29,Virginia Tech,virginia tech,Virginia,date_discrepancy_1_day,2025-11-30,1,ESPN
+2025,2025-11-29,Virginia,virginia,Virginia Tech,date_discrepancy_1_day,2025-11-30,1,ESPN
+2025,2025-11-29,Utah,utah,Kansas,date_discrepancy_1_day,2025-11-28,-1,ESPN
+2025,2025-11-29,Kansas,kansas,Utah,date_discrepancy_1_day,2025-11-28,-1,ESPN
+2025,2025-11-27,Navy,navy,Memphis,date_discrepancy_1_day,2025-11-28,1,ESPN
+2025,2025-11-27,Memphis,memphis,Navy,date_discrepancy_1_day,2025-11-28,1,ESPN
+2025,2025-11-29,Maryland,maryland,Michigan State,date_discrepancy_1_day,2025-11-30,1,FS1
+2025,2025-11-29,Michigan State,michigan state,Maryland,date_discrepancy_1_day,2025-11-30,1,FS1
+2025,2025-11-29,SMU,southern methodist,California,date_discrepancy_1_day,2025-11-30,1,ESPN2
+2025,2025-11-29,California,california,SMU,date_discrepancy_1_day,2025-11-30,1,ESPN2
+2025,2025-11-25,Western Michigan,western michigan,Eastern Michigan,date_discrepancy_1_day,2025-11-26,1,ESPN2
+2025,2025-11-25,Eastern Michigan,eastern michigan,Western Michigan,date_discrepancy_1_day,2025-11-26,1,ESPN2
+2025,2025-11-29,Charlotte,charlotte,Tulane,date_discrepancy_1_day,2025-11-30,1,ESPNU
+2025,2025-11-29,Tulane,tulane,Charlotte,date_discrepancy_1_day,2025-11-30,1,ESPNU

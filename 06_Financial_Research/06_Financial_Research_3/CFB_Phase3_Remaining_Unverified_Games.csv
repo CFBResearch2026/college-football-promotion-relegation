@@ -1,0 +1,206 @@
+﻿season,game_date,team_1_raw,team_2_raw,network,average_viewers,team_1_normalized,team_2_normalized,team_1_pregame_w,team_1_pregame_l,team_1_pregame_t,team_2_pregame_w,team_2_pregame_l,team_2_pregame_t,match_status,verified_result_date,date_offset_days,verified_game_score,verification_status
+2015,2015-09-11,Miami (FL),Florida Atlantic,FS1,666000.0,miami,florida atlantic,1,0,0,0,1,0,both,,,,not_verified
+2024,2024-08-31,Miami (FL),Florida,ABC,6700000.0,miami,florida,0,0,0,0,0,0,both,,,,not_verified
+2024,2024-12-28,Iowa State,Miami (FL),ABC,6800000.0,iowa state,miami,10,3,0,10,2,0,both,,,,not_verified
+2025,2025-08-23,Iowa State Cyclones,Kansas State Wildcats,ESPN,4010000.0,iowa state cyclones,kansas state wildcats,,,,,,,none,,,,not_verified
+2025,2025-08-28,Nebraska Cornhuskers,Cincinnati Bearcats,ESPN,3330000.0,nebraska cornhuskers,cincinnati bearcats,,,,,,,none,,,,not_verified
+2025,2025-08-29,Georgia Tech Yellow Jackets,Colorado Buffaloes,ESPN,3700000.0,georgia tech yellow jackets,colorado buffaloes,,,,,,,none,,,,not_verified
+2025,2025-08-30,Alabama Crimson Tide,Florida State Seminoles,ABC,10660000.0,alabama crimson tide,florida state seminoles,,,,,,,none,,,,not_verified
+2025,2025-08-30,LSU Tigers,Clemson Tigers,ABC,10400000.0,lsu tigers,clemson tigers,,,,,,,none,,,,not_verified
+2025,2025-08-30,Marshall Thundering Herd,Georgia Bulldogs,ESPN,1670000.0,marshall thundering herd,georgia bulldogs,,,,,,,none,,,,not_verified
+2025,2025-08-30,Missouri State Bears,USC Trojans,BTN,235000.0,missouri state bears,usc trojans,,,,,,,none,,,,not_verified
+2025,2025-08-30,Nevada Wolf Pack,Penn State Nittany Lions,CBS,2240000.0,nevada wolf pack,penn state nittany lions,,,,,,,none,,,,not_verified
+2025,2025-08-30,New Mexico Lobos,Michigan Wolverines,NBC,2060000.0,new mexico lobos,michigan wolverines,,,,,,,none,,,,not_verified
+2025,2025-08-30,Texas Longhorns,Ohio State Buckeyes,FOX,16600000.0,texas longhorns,ohio state buckeyes,,,,,,,none,,,,not_verified
+2025,2025-08-31,Notre Dame Fighting Irish,Miami Hurricanes,ABC,10800000.0,notre dame fighting irish,miami hurricanes,,,,,,,none,,,,not_verified
+2025,2025-08-31,Virginia Tech Hokies,South Carolina Gamecocks,ESPN,5400000.0,virginia tech hokies,south carolina gamecocks,,,,,,,none,,,,not_verified
+2025,2025-09-01,TCU Horned Frogs,North Carolina Tar Heels,ESPN,6070000.0,tcu horned frogs,north carolina tar heels,,,,,,,none,,,,not_verified
+2025,2025-09-05,James Madison Dukes,Louisville Cardinals,ESPN,818000.0,james madison dukes,louisville cardinals,,,,,,,none,,,,not_verified
+2025,2025-09-06,Delaware Blue Hens,Colorado Buffaloes,FOX,2685000.0,delaware blue hens,colorado buffaloes,,,,,,,none,,,,not_verified
+2025,2025-09-06,Fresno State Bulldogs,Oregon State Beavers,The CW,565000.0,fresno state bulldogs,oregon state beavers,,,,,,,none,,,,not_verified
+2025,2025-09-06,Grambling Tigers,Ohio State Buckeyes,BTN,1800000.0,grambling tigers,ohio state buckeyes,,,,,,,none,,,,not_verified
+2025,2025-09-06,Illinois Fighting Illini,Duke Blue Devils,ESPN,2200000.0,illinois fighting illini,duke blue devils,,,,,,,none,,,,not_verified
+2025,2025-09-06,Iowa Hawkeyes,Iowa State Cyclones,FOX,4278000.0,iowa hawkeyes,iowa state cyclones,,,,,,,none,,,,not_verified
+2025,2025-09-06,Ole Miss Rebels,Kentucky Wildcats,ABC,4800000.0,ole miss rebels,kentucky wildcats,,,,,,,none,,,,not_verified
+2025,2025-09-06,San Diego State Aztecs,Washington State Cougars,The CW,540000.0,san diego state aztecs,washington state cougars,,,,,,,none,,,,not_verified
+2025,2025-09-06,San José State Spartans,Texas Longhorns,ABC,3700000.0,san jos state spartans,texas longhorns,,,,,,,none,,,,not_verified
+2025,2025-09-13,Georgia Bulldogs,Tennessee Volunteers,ABC,12580000.0,georgia bulldogs,tennessee volunteers,,,,,,,none,,,,not_verified
+2025,2025-09-13,South Florida Bulls,Miami Hurricanes,The CW,720000.0,south florida bulls,miami hurricanes,,,,,,,none,,,,not_verified
+2025,2025-09-13,Texas A&M Aggies,Notre Dame Fighting Irish,NBC · Peacock,6200000.0,texas aandm aggies,notre dame fighting irish,,,,,,,none,,,,not_verified
+2025,2025-09-20,Auburn Tigers,Oklahoma Sooners,ABC,6100000.0,auburn tigers,oklahoma sooners,,,,,,,none,,,,not_verified
+2025,2025-09-20,Illinois Fighting Illini,Indiana Hoosiers,NBC,2500000.0,illinois fighting illini,indiana hoosiers,,,,,,,none,,,,not_verified
+2025,2025-09-20,Texas Tech Red Raiders,Utah Utes,FOX,4039000.0,texas tech red raiders,utah utes,,,,,,,none,,,,not_verified
+2025,2025-09-27,Alabama Crimson Tide,Georgia Bulldogs,ABC,10400000.0,alabama crimson tide,georgia bulldogs,,,,,,,none,,,,not_verified
+2025,2025-09-27,LSU Tigers,Ole Miss Rebels,ABC,6700000.0,lsu tigers,ole miss rebels,,,,,,,none,,,,not_verified
+2025,2025-09-27,Oregon Ducks,Penn State Nittany Lions,NBC · Peacock,8500000.0,oregon ducks,penn state nittany lions,,,,,,,none,,,,not_verified
+2025,2025-09-27,USC Trojans,Illinois Fighting Illini,FOX,4116000.0,usc trojans,illinois fighting illini,,,,,,,none,,,,not_verified
+2025,2025-10-04,Clemson Tigers,North Carolina Tar Heels,ESPN,1870000.0,clemson tigers,north carolina tar heels,,,,,,,none,,,,not_verified
+2025,2025-10-04,Miami Hurricanes,Florida State Seminoles,ABC,6000000.0,miami hurricanes,florida state seminoles,,,,,,,none,,,,not_verified
+2025,2025-10-04,Texas State Bobcats,Arkansas State Red Wolves,ESPNU,22000.0,texas state bobcats,arkansas state red wolves,,,,,,,none,,,,not_verified
+2025,2025-10-04,Vanderbilt Commodores,Alabama Crimson Tide,ABC,6400000.0,vanderbilt commodores,alabama crimson tide,,,,,,,none,,,,not_verified
+2025,2025-10-04,Wisconsin Badgers,Michigan Wolverines,FOX,4627000.0,wisconsin badgers,michigan wolverines,,,,,,,none,,,,not_verified
+2025,2025-10-11,Alabama Crimson Tide,Missouri Tigers,ABC,6993000.0,alabama crimson tide,missouri tigers,,,,,,,none,,,,not_verified
+2025,2025-10-11,Indiana Hoosiers,Oregon Ducks,CBS,5590000.0,indiana hoosiers,oregon ducks,,,,,,,none,,,,not_verified
+2025,2025-10-11,Michigan Wolverines,USC Trojans,NBC,4290000.0,michigan wolverines,usc trojans,,,,,,,none,,,,not_verified
+2025,2025-10-11,Ohio State Buckeyes,Illinois Fighting Illini,FOX,5871000.0,ohio state buckeyes,illinois fighting illini,,,,,,,none,,,,not_verified
+2025,2025-10-11,Oklahoma Sooners,Texas Longhorns,ABC,8732000.0,oklahoma sooners,texas longhorns,,,,,,,none,,,,not_verified
+2025,2025-10-18,Ole Miss Rebels,Georgia Bulldogs,ABC,9787000.0,ole miss rebels,georgia bulldogs,,,,,,,none,,,,not_verified
+2025,2025-10-18,Tennessee Volunteers,Alabama Crimson Tide,ABC,8011000.0,tennessee volunteers,alabama crimson tide,,,,,,,none,,,,not_verified
+2025,2025-10-18,USC Trojans,Notre Dame Fighting Irish,NBC,4600000.0,usc trojans,notre dame fighting irish,,,,,,,none,,,,not_verified
+2025,2025-10-25,Alabama Crimson Tide,South Carolina Gamecocks,ABC,7842000.0,alabama crimson tide,south carolina gamecocks,,,,,,,none,,,,not_verified
+2025,2025-10-25,Ole Miss Rebels,Oklahoma Sooners,ABC,6554000.0,ole miss rebels,oklahoma sooners,,,,,,,none,,,,not_verified
+2025,2025-10-25,Texas A&M Aggies,LSU Tigers,ABC,6759800.0,texas aandm aggies,lsu tigers,,,,,,,none,,,,not_verified
+2025,2025-11-15,Oklahoma Sooners,Alabama Crimson Tide,ABC,10480000.0,oklahoma sooners,alabama crimson tide,,,,,,,none,,,,not_verified
+2025,2025-11-15,Texas Longhorns,Georgia Bulldogs,ABC,10430000.0,texas longhorns,georgia bulldogs,,,,,,,none,,,,not_verified
+2025,2025-11-22,Arkansas Razorbacks,Texas Longhorns,ABC,5610000.0,arkansas razorbacks,texas longhorns,,,,,,,none,,,,not_verified
+2025,2025-11-22,USC Trojans,Oregon Ducks,CBS,5428000.0,usc trojans,oregon ducks,,,,,,,none,,,,not_verified
+2025,2025-11-28,Texas A&M Aggies,Texas Longhorns,ABC,13040000.0,texas aandm aggies,texas longhorns,,,,,,,none,,,,not_verified
+2025,2025-11-29,Alabama Crimson Tide,Auburn Tigers,ABC,11310000.0,alabama crimson tide,auburn tigers,,,,,,,none,,,,not_verified
+2025,2025-11-29,Ohio State Buckeyes,Michigan Wolverines,FOX,18420000.0,ohio state buckeyes,michigan wolverines,,,,,,,none,,,,not_verified
+2025,2025-12-20,Oregon,JMU,,4357914.0,oregon,jmu,,,,,,,none,,,,not_verified
+2026,2026-09-19,Florida State Seminoles,Alabama Crimson Tide,ABC; ESPN2,7000000.0,florida state seminoles,alabama crimson tide,,,,,,,none,,,,not_verified
+2026,2026-09-19,Kentucky Wildcats,Texas A&M Aggies,ESPN,5400000.0,kentucky wildcats,texas aandm aggies,,,,,,,none,,,,not_verified
+2026,2026-09-19,LSU Tigers,Ole Miss Rebels,ABC,10900000.0,lsu tigers,ole miss rebels,,,,,,,none,,,,not_verified
+2026,2026-09-26,Ole Miss Rebels,Florida Gators,ABC,8290000.0,ole miss rebels,florida gators,,,,,,,none,,,,not_verified
+2026,2026-09-26,Texas A&M Aggies,LSU Tigers,ABC,5700000.0,texas aandm aggies,lsu tigers,,,,,,,none,,,,not_verified
+2026,2026-09-26,Texas Longhorns,Tennessee Volunteers,ABC,9750000.0,texas longhorns,tennessee volunteers,,,,,,,none,,,,not_verified
+2026,2026-10-03,Ohio State Buckeyes,Iowa Hawkeyes,CBS,5970000.0,ohio state buckeyes,iowa hawkeyes,,,,,,,none,,,,not_verified
+2026,2026-10-10,Georgia Bulldogs,Alabama Crimson Tide,ABC,12240000.0,georgia bulldogs,alabama crimson tide,,,,,,,none,,,,not_verified
+2026,2026-10-10,Indiana Hoosiers,Nebraska Cornhuskers,FOX,6730000.0,indiana hoosiers,nebraska cornhuskers,,,,,,,none,,,,not_verified
+2026,2026-10-10,Texas Longhorns,Oklahoma Sooners,ABC,9820000.0,texas longhorns,oklahoma sooners,,,,,,,none,,,,not_verified
+2020,2020-09-19,Miami (FL),Louisville,ABC,3800000.0,miami,louisville,1,0,0,1,0,0,both,,,,not_verified
+2020,2020-09-26,Florida State,Miami (FL),ABC,2950000.0,florida state,miami,0,1,0,2,0,0,both,,,,not_verified
+2020,2020-10-10,Louisiana-Monroe,Liberty,ESPN2,133000.0,louisianamonroe,liberty,,,,3,0,0,one,,,,not_verified
+2014,2014-09-06,McNeese State,Nebraska,ESPNU,959000.0,mcneese state,nebraska,,,,1,0,0,one,,,,not_verified
+2015,2015-11-19,Louisiana Monroe,Texas State,ESPNU,84000.0,louisiana monroe,texas state,1,9,0,2,7,0,both,,,,not_verified
+2015,2015-12-05,Southern Mississippi,Western Kentucky,ESPN2,488000.0,southern mississippi,western kentucky,9,3,0,10,2,0,both,,,,not_verified
+2015,2015-12-26,Washington,Southern Mississippi,ESPN,2617000.0,washington,southern mississippi,6,6,0,9,4,0,both,,,,not_verified
+2016,2016-09-03,Southern Mississippi,Kentucky,ESPNU,409000.0,southern mississippi,kentucky,0,0,0,0,0,0,both,,,,not_verified
+2016,2016-09-17,Troy,Southern Mississippi,beIN,23000.0,troy,southern mississippi,1,1,0,2,0,0,both,,,,not_verified
+2016,2016-12-16,Mary Hardin-Baylor,Wisconsin-Oshkosh,ESPNU,340000.0,mary hardinbaylor,wisconsinoshkosh,,,,,,,none,,,,not_verified
+2016,2016-12-17,Grambling State,North Carolina Central,ABC,2711000.0,grambling state,north carolina central,,,,9,2,0,one,,,,not_verified
+2016,2016-12-17,Northwest Missouri State,North Alabama,ESPN2,790000.0,northwest missouri state,north alabama,,,,,,,none,,,,not_verified
+2016,2016-12-28,Miami (FL),West Virginia,ESPN,4252000.0,miami,west virginia,8,4,0,10,2,0,both,,,,not_verified
+2017,2017-09-09,Nicholls State,Texas A&M,ESPNU,353000.0,nicholls state,texas aandm,,,,0,1,0,one,,,,not_verified
+2017,2017-09-07,Sam Houston State,Prairie View A&M,ESPNU,120000.0,sam houston state,prairie view aandm,,,,0,0,0,one,,,,not_verified
+2017,2017-10-14,Texas State,Louisiana,ESPNU,153000.0,texas state,louisiana,,,,,,,none,,,,not_verified
+2017,2017-11-04,Bowling Green,Kent State,ESPNU,70000.0,bowling green,kent state,,,,,,,none,,,,not_verified
+2018,2018-09-08,Southeastern Louisiana,LSU,ESPN2,858000.0,southeastern louisiana,louisiana state,,,,1,0,0,one,,,,not_verified
+2018,2018-12-27,Wisconsin,Miami (FL),ESPN,3790000.0,wisconsin,miami,7,5,0,7,5,0,both,,,,not_verified
+2021,2021-09-02,ECU,Appalachian State,ESPNU,245000.0,ecu,appalachian state,,,,0,0,0,one,,,,not_verified
+2021,2021-09-03,San Diego State,Colorado,FS1,199000.0,san diego state,colorado,,,,0,0,0,one,,,,not_verified
+2021,2021-09-11,South Carolina,ECU,ESPN2,585000.0,south carolina,ecu,1,0,0,,,,one,,,,not_verified
+2021,2021-09-25,Missouri,BC,ESPN2,404000.0,missouri,bc,2,1,0,,,,one,,,,not_verified
+2021,2021-10-28,USF,ECU,ESPN,395000.0,south florida,ecu,2,5,0,,,,one,,,,not_verified
+2021,2021-10-30,FSU,Clemson,ESPN,1883000.0,fsu,clemson,,,,4,3,0,one,,,,not_verified
+2021,2021-11-10,Western Michigan,Ohio,ESPN2,294000.0,western michigan,ohio,,,,,,,none,,,,not_verified
+2021,2021-11-20,ULM,LSU,ESPN2,598000.0,louisiana monroe,louisiana state,4,6,0,4,6,0,both,,,,not_verified
+2021,2021-11-20,Southern Alabama,Tennessee,ESPNU,307000.0,southern alabama,tennessee,,,,5,5,0,one,,,,not_verified
+2021,2021-11-26,Cincinnati,ECU,ABC,2392000.0,cincinnati,ecu,11,0,0,,,,one,,,,not_verified
+2022,2022-12-23,Maryland,NC State,ESPN,2680000.0,maryland,nc state,,,,,,,none,,,,not_verified
+2022,2022-12-17,NC Central,Jackson State,ABC,2420000.0,nc central,jackson state,,,,12,0,0,one,,,,not_verified
+2022,2022-12-21,WKU,South Alabama,ESPN,1200000.0,western kentucky,south alabama,,,,,,,none,,,,not_verified
+2022,2022-09-04,Central State,Winston-Salem State,NFLN,200000.0,central state,winstonsalem state,,,,,,,none,,,,not_verified
+2023,2023-11-25,Southern,Grambling State,NBC,685000.0,southern,grambling state,5,5,0,,,,one,,,,not_verified
+2023,2023-12-15,South Dakota State,Albany,ESPN2,476000.0,south dakota state,albany,,,,,,,none,,,,not_verified
+2023,2023-12-15,North Central,Cortland,ESPNU,222000.0,north central,cortland,,,,,,,none,,,,not_verified
+2023,2023-12-16,Harding,Colorado School of Mines,ESPNU,191000.0,harding,colorado school of mines,,,,,,,none,,,,not_verified
+2023,2023-08-26,SC State,Jackson State,ABC,922000.0,sc state,jackson state,,,,0,0,0,one,,,,not_verified
+2023,2023-09-03,FSU,LSU,ABC,9170000.0,fsu,louisiana state,,,,0,0,0,one,,,,not_verified
+2023,2023-09-03,FAMU,Jackson State,ESPN,438000.0,famu,jackson state,,,,1,0,0,one,,,,not_verified
+2023,2023-09-03,Morehouse,Virginia Union,NFLN,168000.0,morehouse,virginia union,,,,,,,none,,,,not_verified
+2023,2023-09-02,Cal,North Texas,ESPNU,88000.0,cal,north texas,,,,0,0,0,one,,,,not_verified
+2023,2023-09-03,Fort Valley State,Tuskegee,ESPNU,67000.0,fort valley state,tuskegee,,,,,,,none,,,,not_verified
+2023,2023-09-09,Auburn,Cal,ESPN,2230000.0,auburn,cal,,,,,,,none,,,,not_verified
+2023,2023-09-09,Marshall,ECU,ESPNU,90000.0,marshall,ecu,1,0,0,,,,one,,,,not_verified
+2023,2023-09-16,FSU,Boston College,ABC,3480000.0,fsu,boston college,,,,1,1,0,one,,,,not_verified
+2023,2023-09-16,WKU,Ohio State,FOX,2820000.0,western kentucky,ohio state,2,0,0,2,0,0,both,,,,not_verified
+2023,2023-09-16,Morehouse,Albany State,CNBC,20000.0,morehouse,albany state,,,,,,,none,,,,not_verified
+2023,2023-09-23,FSU,Clemson,ABC,6710000.0,fsu,clemson,,,,2,1,0,one,,,,not_verified
+2023,2023-09-23,Cal,Washington,ESPN,1160000.0,cal,washington,,,,,,,none,,,,not_verified
+2023,2023-09-23,WKU,Troy,ESPNU,29000.0,western kentucky,troy,2,1,0,1,2,0,both,,,,not_verified
+2023,2023-10-07,Virginia Tech,FSU,ABC,3020000.0,virginia tech,fsu,2,3,0,,,,one,,,,not_verified
+2023,2023-10-05,WKU,Louisiana Tech,ESPN,567000.0,western kentucky,louisiana tech,,,,,,,none,,,,not_verified
+2023,2023-10-07,FAMU,Southern,ESPNU,40000.0,famu,southern,,,,2,2,0,one,,,,not_verified
+2023,2023-10-14,Syracuse,FSU,ABC,2090000.0,syracuse,fsu,4,2,0,,,,one,,,,not_verified
+2023,2023-10-12,SMU,ECU,ESPN,467000.0,southern methodist,ecu,3,2,0,,,,one,,,,not_verified
+2023,2023-10-12,Fort Valley State,Benedict,ESPN2,98000.0,fort valley state,benedict,,,,,,,none,,,,not_verified
+2023,2023-10-21,Duke,FSU,ABC,4080000.0,duke,fsu,5,1,0,,,,one,,,,not_verified
+2023,2023-10-17,WKU,Jacksonville State,ESPNU,110000.0,western kentucky,jacksonville state,4,2,0,5,2,0,both,,,,not_verified
+2023,2023-10-19,NC Central,Morgan State,ESPNU,27000.0,nc central,morgan state,,,,1,4,0,one,,,,not_verified
+2023,2023-10-28,FSU,Wake Forest,ABC,2090000.0,fsu,wake forest,,,,4,3,0,one,,,,not_verified
+2023,2023-10-24,Liberty,WKU,ESPNU,136000.0,liberty,western kentucky,7,0,0,4,3,0,both,,,,not_verified
+2023,2023-10-27,Brown,Penn,ESPNU,73000.0,brown,penn,3,3,0,,,,one,,,,not_verified
+2023,2023-10-28,Prairie View A&M,FAMU,ESPNU,28000.0,prairie view aandm,famu,3,4,0,,,,one,,,,not_verified
+2023,2023-10-26,SC State,NC Central,ESPNU,25000.0,sc state,nc central,,,,,,,none,,,,not_verified
+2023,2023-11-04,FSU,Pittsburgh,ESPN,1760000.0,fsu,pittsburgh,,,,2,6,0,one,,,,not_verified
+2023,2023-11-04,Tulane,ECU,ESPNU,76000.0,tulane,ecu,7,1,0,,,,one,,,,not_verified
+2023,2023-11-02,Miss Valley State,Bethune-Cookman,ESPNU,17000.0,miss valley state,bethunecookman,,,,1,7,0,one,,,,not_verified
+2023,2023-11-11,Miami,FSU,ABC,4140000.0,miami,fsu,6,3,0,,,,one,,,,not_verified
+2023,2023-11-11,Washington State,Cal,ESPN2,263000.0,washington state,cal,4,5,0,,,,one,,,,not_verified
+2023,2023-11-11,NC Central,Howard,ESPNU,26000.0,nc central,howard,,,,4,5,0,one,,,,not_verified
+2024,2024-12-28,ECU,NC State,ESPN,886000.0,ecu,nc state,,,,6,6,0,one,,,,not_verified
+2024,2024-12-18,Cal,UNLV,ESPN,1480000.0,cal,unlv,,,,,,,none,,,,not_verified
+2024,2024-11-29,Navy,ECU,ESPN,626000.0,navy,ecu,7,3,0,,,,one,,,,not_verified
+2024,2024-11-30,Cal,SMU,ESPN2,228000.0,cal,southern methodist,,,,10,1,0,one,,,,not_verified
+2024,2024-11-30,Jacksonville State,WKU,ESPNU,20000.0,jacksonville state,western kentucky,8,3,0,7,4,0,both,,,,not_verified
+2024,2024-11-14,ECU,Tulsa,ESPN,563000.0,ecu,tulsa,,,,,,,none,,,,not_verified
+2024,2024-11-16,Syracuse,Cal,CW,298000.0,syracuse,cal,6,3,0,,,,one,,,,not_verified
+2024,2024-11-09,FSU,Notre Dame,NBC,2190000.0,fsu,notre dame,,,,,,,none,,,,not_verified
+2024,2024-11-09,Miss State,Tennessee,ESPN,1600000.0,miss state,tennessee,,,,,,,none,,,,not_verified
+2024,2024-11-06,Northern Illinois,W Michigan,ESPN2,442000.0,northern illinois,w michigan,,,,,,,none,,,,not_verified
+2024,2024-11-09,Utah State,Washington St.,CW,371000.0,utah state,washington st,,,,,,,none,,,,not_verified
+2024,2024-11-07,FAU,ECU,ESPN2,196000.0,fau,ecu,,,,,,,none,,,,not_verified
+2024,2024-11-02,K-State,Houston,FOX,1510000.0,kstate,houston,,,,3,5,0,one,,,,not_verified
+2024,2024-10-30,Kennesaw State,WKU,ESPN2,182000.0,kennesaw state,western kentucky,1,6,0,5,2,0,both,,,,not_verified
+2024,2024-10-31,NC Central,SC State,ESPNU,114000.0,nc central,sc state,,,,,,,none,,,,not_verified
+2024,2024-11-02,Toledo,EMU,ESPNU,27000.0,toledo,emu,5,3,0,,,,one,,,,not_verified
+2024,2024-11-02,Ga. Southern,South Alabama,ESPNU,18000.0,ga southern,south alabama,,,,4,4,0,one,,,,not_verified
+2024,2024-10-26,FSU,Miami,ESPN,1530000.0,fsu,miami,,,,7,0,0,one,,,,not_verified
+2024,2024-10-23,MTSU,Jacksonville St.,ESPN2,434000.0,mtsu,jacksonville st,,,,,,,none,,,,not_verified
+2024,2024-10-26,Oregon State,Cal,ESPN2,183000.0,oregon state,cal,4,3,0,,,,one,,,,not_verified
+2024,2024-10-25,Yale,Penn,ESPNU,51000.0,yale,penn,3,2,0,,,,one,,,,not_verified
+2024,2024-10-26,South Dakota,South Dakota St.,ESPNU,38000.0,south dakota,south dakota st,6,1,0,,,,one,,,,not_verified
+2024,2024-10-18,FSU,Duke,ESPN,1260000.0,fsu,duke,,,,5,1,0,one,,,,not_verified
+2024,2024-10-16,WKU,Sam Houston,ESPN2,403000.0,western kentucky,sam houston,4,2,0,5,1,0,both,,,,not_verified
+2024,2024-10-19,ECU,Army,ESPN2,323000.0,ecu,army,,,,6,0,0,one,,,,not_verified
+2024,2024-10-19,Hawaii,Washington St.,CW,258000.0,hawaii,washington st,2,4,0,,,,one,,,,not_verified
+2024,2024-10-19,South Dakota St.,North Dakota St.,ESPN2,174000.0,south dakota st,north dakota st,,,,,,,none,,,,not_verified
+2024,2024-10-15,Louisiana Tech,New Mexico St.,ESPNU,64000.0,louisiana tech,new mexico st,,,,,,,none,,,,not_verified
+2024,2024-10-12,Cal,Pitt,ESPN,741000.0,cal,pittsburgh,,,,5,0,0,one,,,,not_verified
+2024,2024-10-09,NM State,Jacksonville St.,ESPN2,310000.0,nm state,jacksonville st,,,,,,,none,,,,not_verified
+2024,2024-10-12,Washington St.,Fresno State,FS1,246000.0,washington st,fresno state,,,,3,2,0,one,,,,not_verified
+2024,2024-10-11,PV A&M,Ark. Pine-Bluff,ESPN2,147000.0,pv aandm,ark pinebluff,,,,,,,none,,,,not_verified
+2024,2024-10-10,UTEP,W. Kentucky,ESPNU,81000.0,texas el paso,w kentucky,,,,,,,none,,,,not_verified
+2024,2024-10-05,Miami,Cal,ESPN,1920000.0,miami,cal,,,,,,,none,,,,not_verified
+2024,2024-10-05,Clemson,FSU,ESPN,1410000.0,clemson,fsu,3,1,0,,,,one,,,,not_verified
+2024,2024-10-05,ECU,Charlotte,ESPNU,28000.0,ecu,charlotte,,,,2,3,0,one,,,,not_verified
+2024,2024-09-28,Washington St.,Boise State,FS1,535000.0,washington st,boise state,,,,,,,none,,,,not_verified
+2024,2024-09-28,MTSU,Memphis,ESPNU,39000.0,mtsu,memphis,,,,3,1,0,one,,,,not_verified
+2024,2024-09-28,Ga. Southern,Georgia State,ESPNU,29000.0,ga southern,georgia state,,,,2,1,0,one,,,,not_verified
+2024,2024-09-21,Florida,Mississippi St.,ESPN,2640000.0,florida,mississippi st,1,2,0,,,,one,,,,not_verified
+2024,2024-09-21,Cal,FSU,ESPN2,887000.0,cal,fsu,,,,,,,none,,,,not_verified
+2024,2024-09-20,San Jose State,Washington St.,CW,542000.0,san jose state,washington st,,,,,,,none,,,,not_verified
+2024,2024-09-21,Duke,MTSU,ESPNU,53000.0,duke,mtsu,3,0,0,,,,one,,,,not_verified
+2024,2024-09-14,Memphis,FSU,ESPN,1590000.0,memphis,fsu,2,0,0,,,,one,,,,not_verified
+2024,2024-09-14,San Diego State,Cal,ESPN,938000.0,san diego state,cal,,,,,,,none,,,,not_verified
+2024,2024-09-14,App State,ECU,ESPNU,81000.0,appalachian state,ecu,1,1,0,,,,one,,,,not_verified
+2024,2024-09-14,Toledo,Mississippi St.,ESPNU,69000.0,toledo,mississippi st,2,0,0,,,,one,,,,not_verified
+2024,2024-09-14,New Mexico St.,Fresno State,truTV,64000.0,new mexico st,fresno state,,,,,,,none,,,,not_verified
+2024,2024-09-07,Texas Tech,Washington St.,FOX,1160000.0,texas tech,washington st,,,,,,,none,,,,not_verified
+2024,2024-09-07,Cal,Auburn,ESPN2,1120000.0,cal,auburn,,,,1,0,0,one,,,,not_verified
+2024,2024-09-07,Mississippi St.,Arizona State,ESPN,954000.0,mississippi st,arizona state,,,,,,,none,,,,not_verified
+2024,2024-09-07,Liberty,New Mexico St.,ESPN2,160000.0,liberty,new mexico st,,,,,,,none,,,,not_verified
+2024,2024-08-29,NDSU,Colorado,ESPN,4760000.0,ndsu,colorado,,,,,,,none,,,,not_verified
+2024,2024-09-02,Boston College,FSU,ESPN,4440000.0,boston college,fsu,0,0,0,,,,one,,,,not_verified
+2024,2024-08-31,WKU,Alabama,ESPN,1850000.0,western kentucky,alabama,0,0,0,0,0,0,both,,,,not_verified
+2024,2024-08-24,FAMU,Norfolk State,ABC,1290000.0,famu,norfolk state,,,,0,0,0,one,,,,not_verified
+2024,2024-08-30,W. Michigan,Wisconsin,FS1,963000.0,w michigan,wisconsin,,,,,,,none,,,,not_verified
+2024,2024-09-01,NC Central,Alabama State,ESPN,686000.0,nc central,alabama state,,,,0,0,0,one,,,,not_verified
+2024,2024-08-24,North Alabama,SEMO,ESPN,672000.0,north alabama,semo,0,0,0,,,,one,,,,not_verified
+2024,2024-08-31,Portland State,Washington St.,CW,223000.0,portland state,washington st,0,0,0,,,,one,,,,not_verified
+2024,2024-08-29,Ark. Pine-Bluff,Arkansas,ESPNU,129000.0,ark pinebluff,arkansas,,,,0,0,0,one,,,,not_verified
+2024,2024-08-29,Sacramento St.,San Jose State,truTV,69000.0,sacramento st,san jose state,,,,,,,none,,,,not_verified
+2024,2024-08-31,Texas A&M-CC,San Diego State,truTV,66000.0,texas aandmcc,san diego state,,,,,,,none,,,,not_verified
+2024,2024-09-01,Tuskegee,Johnson C. Smith,ESPNU,31000.0,tuskegee,johnson c smith,,,,,,,none,,,,not_verified
+2024,2024-08-31,SC State,FAMU,ESPNU,21000.0,sc state,famu,,,,,,,none,,,,not_verified

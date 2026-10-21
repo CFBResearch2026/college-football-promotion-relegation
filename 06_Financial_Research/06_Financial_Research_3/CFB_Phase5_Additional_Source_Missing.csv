@@ -1,0 +1,32 @@
+﻿season,date,team_1,team_2,source_id_1,source_id_2,reason
+2014,2014-08-29,BYU,UConn,brighamyoung,connecticut,no_score_verified_individual_rows
+2014,2014-08-31,Alabama A&M,North Carolina A&T,alabamaaandm,northcarolinaaandt,no_score_verified_individual_rows
+2014,2014-10-09,BYU,UCF,brighamyoung,centralflorida,no_score_verified_individual_rows
+2014,2014-10-11,Mississippi,Texas A&M,mississippi,texasaandm,no_score_verified_individual_rows
+2014,2014-11-22,SMU,UCF,southernmethodist,centralflorida,no_score_verified_individual_rows
+2014,2014-12-31,Mississippi,TCU,mississippi,texaschristian,no_score_verified_individual_rows
+2015,2015-10-02,UConn,BYU,connecticut,brighamyoung,no_score_verified_individual_rows
+2015,2015-10-10,UConn,UCF,connecticut,centralflorida,no_score_verified_individual_rows
+2015,2015-10-24,Texas A&M,Mississippi,texasaandm,mississippi,no_score_verified_individual_rows
+2016,2016-09-23,TCU,SMU,texaschristian,southernmethodist,no_score_verified_individual_rows
+2016,2016-11-19,UTSA,Texas A&M,texassanantonio,texasaandm,no_score_verified_individual_rows
+2018,2018-11-10,Ole Miss,Texas A&M,mississippi,texasaandm,no_score_verified_individual_rows
+2020,2020-10-10,UTSA,BYU,texassanantonio,brighamyoung,no_score_verified_individual_rows
+2021,2021-09-25,SMU,TCU,southernmethodist,texaschristian,no_score_verified_individual_rows
+2021,2021-11-06,UTSA,UTEP,texassanantonio,texaselpaso,no_score_verified_individual_rows
+2021,2021-11-13,Texas A&M,Ole Miss,texasaandm,mississippi,no_score_verified_individual_rows
+2022,2022-09-10,Appalachian State,Texas A&M,appalachianstate,texasaandm,no_score_verified_individual_rows
+2022,2022-12-17,BYU,SMU,brighamyoung,southernmethodist,no_score_verified_individual_rows
+2023,2023-09-23,SMU,TCU,southernmethodist,texaschristian,no_score_verified_individual_rows
+2023,2023-10-14,BYU,TCU,brighamyoung,texaschristian,no_score_verified_individual_rows
+2023,2023-11-04,Texas A&M,Mississippi,texasaandm,mississippi,no_score_verified_individual_rows
+2023,2023-12-02,Florida A&M,Prairie View A&M,floridaaandm,prairieviewaandm,no_score_verified_individual_rows
+2023,2023-12-16,Appalachian State,Miami (OH),appalachianstate,miamiohio,no_score_verified_individual_rows
+2024,2024-09-06,BYU,SMU,brighamyoung,southernmethodist,no_score_verified_individual_rows
+2024,2024-09-14,UCF,TCU,centralflorida,texaschristian,no_score_verified_individual_rows
+2024,2024-09-21,TCU,SMU,texaschristian,southernmethodist,no_score_verified_individual_rows
+2024,2024-10-26,BYU,UCF,brighamyoung,centralflorida,no_score_verified_individual_rows
+2025,2025-08-30,UTSA,Texas A&M,texassanantonio,texasaandm,no_score_verified_individual_rows
+2025,2025-09-20,SMU,TCU,southernmethodist,texaschristian,no_score_verified_individual_rows
+2025,2025-11-15,TCU,BYU,texaschristian,brighamyoung,no_score_verified_individual_rows
+2025,2025-11-29,UCF,BYU,centralflorida,brighamyoung,no_score_verified_individual_rows
