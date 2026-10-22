@@ -1,0 +1,8 @@
+fixture,expected,actual,status,notes,trace
+sole_ineligible_first,B|C,B|C,PASS,Sanctioned A first; B and C next,"[('ELIGIBILITY', ('A',), ()), (1, 'selection', ('B',), ('B',), 'outright record'), (2, 'selection', ('C',), ('C',), 'outright record')]"
+two_ineligible_first_second,C|D,C|D,PASS,Both A and B excluded,"[('ELIGIBILITY', ('A',), ()), (1, 'selection', ('C',), ('C',), 'outright record'), (2, 'selection', ('D',), ('D',), 'outright record')]"
+ineligible_second_only,A|C,A|C,PASS,B excluded from second,"[('ELIGIBILITY', ('A',), ('A',)), (1, 'selection', ('A',), ('A',), 'outright record'), (2, 'selection', ('C',), ('C',), 'outright record')]"
+all_eligible,A|B,A|B,PASS,Control,"[('ELIGIBILITY', ('A',), ('A',)), (1, 'selection', ('A',), ('A',), 'outright record'), (2, 'selection', ('B',), ('B',), 'outright record')]"
+only_one_eligible,D,D,PASS,One eligible cannot fill two berths,"[('ELIGIBILITY', ('A',), ()), (1, 'selection', ('D',), ('D',), 'outright record')]"
+ineligible_member_three_way_top,B|C,B|C,PASS,Remove A; B/C tied first and played head-to-head,"[('ELIGIBILITY', ('A', 'B', 'C'), ('B', 'C')), (1, 'selection', ('B', 'C'), ('B',), 'two-team H2H'), (2, 'selection', ('C',), ('C',), 'outright record')]"
+two_ineligible_three_way_top,C|D,C|D,PASS,Remove A and B from three-way first,"[('ELIGIBILITY', ('A', 'B', 'C'), ('C',)), (1, 'selection', ('C',), ('C',), 'outright record'), (2, 'selection', ('D',), ('D',), 'outright record')]"

@@ -1,0 +1,10 @@
+test,expected_first,actual_first,status,oracle_basis,engine_trace
+two_team_head_to_head,A,A,PASS,A beats B directly,"[(1, 'outright record', ('A',), 'A'), (2, 'outright record', ('B',), 'B')]"
+two_team_no_game_common,A,A,PASS,"A is 2-0 versus common C,D; B is 1-1","[(1, 'outright record', ('A',), 'A'), (2, 'two-team head-to-head', ('B', 'C'), 'C')]"
+three_team_complete_sweep,A,A,PASS,A beats B and C,"[(1, 'outright record', ('A',), 'A'), (2, 'outright record', ('B',), 'B')]"
+three_team_cycle_unresolved,UNRESOLVED,UNRESOLVED,PASS,No differentiated tiebreak metric or rating,"[(1, 'UNRESOLVED: rating or commissioner draw required', ('A', 'B', 'C'), None)]"
+four_team_complete_sweep,A,A,PASS,A beats every tied team,"[(1, 'outright record', ('A',), 'A'), (2, 'outright record', ('B',), 'B')]"
+three_team_incomplete_sweep,A,A,PASS,A beats both other tied top contenders,"[(1, 'outright record', ('A',), 'A'), (2, 'UNRESOLVED: rating or commissioner draw required', ('B', 'C'), None)]"
+two_team_missing_ratings,UNRESOLVED,UNRESOLVED,PASS,No common opponents and equal SOS; ratings absent,"[(1, 'UNRESOLVED: rating or commissioner draw required', ('A', 'B'), None)]"
+two_team_supplied_ratings,B,B,PASS,B has higher supplied rating,"[(1, 'SportSource rating (supplied)', ('A', 'B'), 'B'), (2, 'outright record', ('A',), 'A')]"
+eligibility_exclusion,B,B,PASS,A ineligible; B beats C,"[(1, 'outright record', ('B',), 'B'), (2, 'outright record', ('C',), 'C')]"

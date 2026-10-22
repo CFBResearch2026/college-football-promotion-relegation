@@ -1,0 +1,6 @@
+test_id,expected,actual,remaining,selected,status,source
+three_to_two_first,BOTH_TOP,SELECT_BOTH,A|B,A|B,PASS,2024 Big Ten procedure interpretation
+four_to_three,CONTINUE_NEXT_STEP,NEXT_STEP,A|B|C,,PASS,2024 Big Ten procedure interpretation
+four_to_two_second,H2H,SELECT_H2H,A|B,B,PASS,2024 Big Ten procedure interpretation
+three_unique,SELECT,SELECT,A,A,PASS,2024 Big Ten procedure interpretation
+three_all_equal,CONTINUE_NEXT_STEP,NEXT_STEP,A|B|C,,PASS,2024 Big Ten procedure interpretation

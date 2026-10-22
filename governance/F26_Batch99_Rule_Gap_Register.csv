@@ -1,0 +1,8 @@
+item,status,finding
+partial_elimination_restart,OPEN,"After reducing a multi-team tie to two, engine loops into head-to-head without explicitly restarting from two-team first rung; often equivalent but not proven for every partial elimination"
+common_opponent_standings_groups,OPEN,"Engine groups common opponents by exact (wins,games), not strictly by equal conference winning percentage; unequal schedule records with equal percentages can be split"
+first_place_two_team,PASS_SCOPE,Two-team tie at No.1 yields both finalists if both eligible; ordering may differ
+tied_for_second_two_team,PASS_SCOPE,Head-to-head used for second berth when available
+incomplete_round_robin,PASS_SCOPE,Only undefeated-against-all sweep is used when tied group did not all meet
+sportsource_fallback,PASS_SCOPE,Unresolved when ratings not supplied and prior criteria tied
+2025_governing_rules,OPEN,Complete binding 2025 procedure not authenticated

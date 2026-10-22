@@ -1,0 +1,5 @@
+issue,expected_interpretation,observed,status
+equal_pct_group_key,1-1 and 2-2 share 0.500 group,legacy separates; candidate combines,CONFIRMED_CODE_DIFFERENCE
+partial_elimination_restart,remaining contenders should restart at appropriate initial rung,legacy while-loop restarts from head-to-head for remaining set,NO_COUNTEREXAMPLE_ESTABLISHED
+multiway_first_berth,"after selection, remaining teams revert to initial tiebreak",legacy recomputes second berth from conference record,CASE_DEPENDENT_REVIEW
+official_2025_document,2025 governing text,2024 official document available; 2025 complete text not authenticated,OPEN

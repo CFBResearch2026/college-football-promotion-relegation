@@ -1,0 +1,16 @@
+test,status,detail
+import safe and two clear leaders,PASS,
+eligibility removes top team,PASS,
+two-team head to head,PASS,
+three-team circular unresolved without rating,PASS,
+three-team circular resolved with supplied rating,PASS,
+duplicate game rejected,PASS,
+incomplete round robin sweep,PASS,
+no arbitrary draw on all-tied case,PASS,
+official scenario 000,PASS,"['Michigan', 'Ohio State']"
+official scenario 001,PASS,"['Oregon', 'Michigan']"
+official scenario 010,PASS,"['Ohio State', 'Indiana']"
+official scenario 011,PASS,"['Ohio State', 'Indiana']"
+official scenario 100,PASS,"['Indiana', 'Michigan']"
+official scenario 101,PASS,"['Indiana', 'Oregon']"
+official scenario 111,PASS,"['Ohio State', 'Indiana']"

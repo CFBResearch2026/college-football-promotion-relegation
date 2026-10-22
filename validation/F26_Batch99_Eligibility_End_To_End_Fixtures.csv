@@ -1,0 +1,7 @@
+fixture,status,expected_finalists,actual_finalists,trace_excerpt,policy_flags
+two_tied_first_h2h,PASS,A|B,A|B,"[('ELIGIBILITY', ('A',), ('A',)), (1, 'selection', ('A',), ('A',), 'outright record')]",
+two_tied_first_no_h2h,PASS,A|B,A|B,"[('DIRECT_TWO_WAY_FIRST', ('A', 'B'), 'seeding unresolved')]",SEEDING_UNRESOLVED
+sole_ineligible_leader,PASS,B|C,B|C,"[('ELIGIBILITY', ('A',), ()), (1, 'selection', ('B',), ('B',), 'outright record')]",INELIGIBLE_LEADER_REMOVED
+ineligible_tied_first,PASS,B,B,"[('ELIGIBILITY', ('A', 'B'), ('B',)), (1, 'selection', ('B',), ('B',), 'outright record')]",INELIGIBLE_LEADER_REMOVED
+ineligible_second,PASS,A|C,A|C,"[('ELIGIBILITY', ('A',), ('A',)), (1, 'selection', ('A',), ('A',), 'outright record')]",
+eligible_outright,PASS,A|B,A|B,"[('ELIGIBILITY', ('A',), ('A',)), (1, 'selection', ('A',), ('A',), 'outright record')]",

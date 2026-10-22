@@ -1,0 +1,11 @@
+rule_id,rule,implementation_requirement,evidence_scope,status
+B1,Head-to-head within tied group,Compare tied-team winning percentages; account for incomplete round robin and team that defeated all other tied teams,2024 official full PDF; 2025 application not separately authenticated,DO_NOT_PROMOTE_WITHOUT_2025_RULE_CONFIRMATION
+B2,All common conference opponents,Compare win percentages vs opponents common to every surviving tied team,2024 official full PDF,SPEC_ONLY
+B3,Ranked common opponents,"Evaluate common opponents in conference-finish order, with tied-opponent-group handling",2024 official full PDF,SPEC_ONLY
+B4,Cumulative opponent conference win percentage,Sum all nine opponent conference wins / sum of opponent conference games; counterfactual dependent,2024 official full PDF; 2025 Nov 26 applied examples,CALCULATED_IN_BATCH85
+B5,SportSource Analytics,Requires archived season-end Rating Score; no fabricated ranking,2024 official full PDF,UNAVAILABLE
+B6,Random draw,Commissioner/designee draw; do not simulate as known result,2024 official full PDF,NONREPRODUCIBLE
+R1,Unique top after tiebreak,Select unique highest surviving contender; restart remaining contenders at applicable first step,2024 official full PDF,SPEC_ONLY
+R2,Two teams tied for first within multi-team tie,Select both for game; separately seed with two-team tiebreak,2024 official full PDF,SPEC_ONLY
+R3,Eliminated teams stay eliminated,Do not reintroduce teams excluded at earlier step,2024 official full PDF,SPEC_ONLY
+R4,Two-team tie for first,Both qualify; determine seeding independently,2024 official full PDF,SPEC_ONLY

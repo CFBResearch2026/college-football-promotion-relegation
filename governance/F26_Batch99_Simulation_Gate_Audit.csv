@@ -1,0 +1,8 @@
+gate,status,evidence
+schedule_coverage,BLOCKED,Only selected conference fixtures verified; cannot enumerate full scenario tree
+official_2025_tiebreak_rules,BLOCKED,2024 primary rule and secondary 2025 account do not establish complete governing 2025 text
+multiway_tiebreak,BLOCKED,"Requires full common-opponent matrix, reapplication rules and complete 18-team schedule"
+frozen_outcomes,PASS_FOR_SELECTED,No games on or after cutoff assigned known outcomes
+conference_standings,PASS_FOR_FIVE_CASES,Official dated weekly releases recovered in B70
+direct_clinch_Nov29,PASS_OFFICIAL,"Official November 26 seven-scenario matrix, not inferred by simulator"
+FOX_clean_leadin,BLOCKED,No independently measured nonoverlapping pregame-only audience

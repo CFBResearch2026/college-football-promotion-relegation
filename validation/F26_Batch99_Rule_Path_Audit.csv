@@ -1,0 +1,11 @@
+rule,condition,implementation,status,gap
+A.1,Two eligible teams tied No.1,direct selection,IMPLEMENTED,seeding may remain unresolved
+A.2,Two eligible teams tied No.2,head-to-head,IMPLEMENTED,verify fallthrough when no H2H
+A.3,All common opponents,fraction comparison,IMPLEMENTED,opponent exclusion semantics need review
+A.4,Ranked common opponents,grouping optional,AMBIGUOUS,equal winning percentages with unequal game totals
+A.5,Cumulative opponents winning pct,Fraction,IMPLEMENTED,unbalanced schedules and repeat games
+A.6,SportSource rating,supplied optional,CONDITIONAL,official rating feed not present
+A.7,Commissioner draw,none,NOT_IMPLEMENTED,must stay unresolved
+B,Multi-team transitions,state machine,PARTIAL,adversarial step-path independent oracle needed
+Eligibility,Ineligible No.1/No.2 teams,remove and select,PARTIAL,explicit No.2/No.3 displacement interpretation
+Provenance,2025 governing document,2024 source only,NOT_VERIFIED,2025 policy authentication required
