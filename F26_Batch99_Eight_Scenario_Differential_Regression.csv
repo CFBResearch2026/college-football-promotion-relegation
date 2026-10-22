@@ -1,0 +1,9 @@
+indiana_win,ohio_state_win,oregon_win,changed_games,legacy,candidate,same_qualifiers,legacy_resolved,candidate_resolved
+0,0,0,3,Michigan|Ohio State,Michigan|Ohio State,True,True,True
+0,0,1,3,Oregon|Michigan,Oregon|Michigan,True,True,True
+0,1,0,3,Ohio State|Indiana,Ohio State|Indiana,True,True,True
+0,1,1,3,Ohio State|Indiana,Ohio State|Indiana,True,True,True
+1,0,0,3,Indiana|Michigan,Indiana|Michigan,True,True,True
+1,0,1,3,Indiana|Oregon,Indiana|Oregon,True,True,True
+1,1,0,3,Ohio State|Indiana,Ohio State|Indiana,True,True,True
+1,1,1,3,Ohio State|Indiana,Ohio State|Indiana,True,True,True

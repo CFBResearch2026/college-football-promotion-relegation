@@ -1,0 +1,7 @@
+case,game_count,legacy_finalists,candidate_finalists,different,legacy_trace,candidate_trace
+counterexample_943,22,H|C,H,YES,"[(1, 'outright record', ('H',), 'H'), (2, 'ranked common opponents', ('C', 'G'), 'C')]","[(1, 'outright record', ('H',), 'H'), (2, 'UNRESOLVED: rating or commissioner draw required', ('C', 'G'), None)]"
+counterexample_1016,13,H|D,H,YES,"[(1, 'outright record', ('H',), 'H'), (2, 'ranked common opponents', ('D', 'F'), 'D')]","[(1, 'outright record', ('H',), 'H'), (2, 'UNRESOLVED: rating or commissioner draw required', ('D', 'F'), None)]"
+counterexample_1322,16,G|D,D|G,YES,"[(1, 'ranked common opponents', ('D', 'G'), 'G'), (2, 'outright record', ('D',), 'D')]","[(1, 'ranked common opponents', ('D', 'G'), 'D'), (2, 'outright record', ('G',), 'G')]"
+counterexample_2895,9,C|G,C|E,YES,"[(1, 'outright record', ('C',), 'C'), (2, 'ranked common opponents', ('E', 'G'), 'G')]","[(1, 'outright record', ('C',), 'C'), (2, 'opponent winning percentage', ('E', 'G'), 'E')]"
+counterexample_3041,15,G|C,G|F,YES,"[(1, 'outright record', ('G',), 'G'), (2, 'ranked common opponents', ('C', 'F'), 'C')]","[(1, 'outright record', ('G',), 'G'), (2, 'opponent winning percentage', ('C', 'F'), 'F')]"
+counterexample_3179,15,B|F,F|B,YES,"[(1, 'ranked common opponents', ('B', 'F'), 'B'), (2, 'outright record', ('F',), 'F')]","[(1, 'opponent winning percentage', ('B', 'F'), 'F'), (2, 'outright record', ('B',), 'B')]"

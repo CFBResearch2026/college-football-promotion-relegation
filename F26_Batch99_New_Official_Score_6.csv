@@ -1,0 +1,7 @@
+team,game_date,opponent,team_points,opponent_points,team_result,source_url,schedule_match_count,scope
+Penn State,2025-10-18,Iowa,24,25,L,https://hawkeyesports.com/news/2025/10/19/hawkeyes-down-penn-state-25-24,1,historical outcome; NEVER expose at or before game kickoff
+Iowa,2025-10-18,Penn State,25,24,W,https://hawkeyesports.com/news/2025/10/19/hawkeyes-down-penn-state-25-24,1,historical outcome; NEVER expose at or before game kickoff
+Nebraska,2025-11-08,UCLA,28,21,W,https://uclabruins.com/news/2025/11/08/ucla-football-falls-to-nebraska-28-21,1,historical outcome; NEVER expose at or before game kickoff
+UCLA,2025-11-08,Nebraska,21,28,L,https://uclabruins.com/news/2025/11/08/ucla-football-falls-to-nebraska-28-21,1,historical outcome; NEVER expose at or before game kickoff
+Iowa,2025-11-28,Nebraska,40,16,W,https://hawkeyesports.com/news/2025/11/28/hawkeyes-hoist-heroes-trophy,1,historical outcome; NEVER expose at or before game kickoff
+Nebraska,2025-11-28,Iowa,16,40,L,https://hawkeyesports.com/news/2025/11/28/hawkeyes-hoist-heroes-trophy,1,historical outcome; NEVER expose at or before game kickoff

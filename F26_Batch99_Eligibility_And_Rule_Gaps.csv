@@ -1,0 +1,8 @@
+id,issue,authority,engine_behavior,status,next_action
+INEL-01,Ineligible team tied for first,2024 section eligibility a/b,Current engine filters eligibility before slot selection,NOT_IMPLEMENTED,Require rank-aware displacement with preserved tie ranking
+INEL-02,Two or more tied with ineligible team,2024 eligibility b,Current engine removes ineligible from all pools,PARTIAL,Re-enter applicable tie-break among remaining teams
+TIE-01,Two tied for No.1,2024 section A.1,Current engine selects first team then second slot; state transition selects both only if step splits larger group,PARTIAL,Add explicit two-team-first-position berth selection and separate seeding
+TIE-02,Three-plus group partially eliminated,2024 section B general instructions,Current engine advances reduced tied group to next step,PARTIAL,Test group-specific no-reentry invariant
+SCHED-01,Unequal games conference record,2024 section A/B,Current engine uses winning percentage,PROVISIONAL,Validate 9-game conference normalization
+OPP-01,Equal percentage common opponents,2024 section A.4/B.3,Two competing interpretations retained,UNRESOLVED,Do not certify without source ruling
+SOURCE-01,Binding 2025 rule text,2025 official scenarios,Only 2024 full rule document authenticated,UNVERIFIED,Obtain 2025 full procedure

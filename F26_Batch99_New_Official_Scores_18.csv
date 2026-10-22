@@ -1,0 +1,19 @@
+team,game_date,opponent,team_points,opponent_points,team_result,source_url,schedule_match_count,scope
+Illinois,2025-09-20,Indiana,10,63,L,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-09-27,USC,34,32,W,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-10-04,Purdue,43,27,W,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-10-11,Ohio State,16,34,L,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-10-25,Washington,25,42,L,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-11-01,Rutgers,35,13,W,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-11-15,Maryland,24,6,W,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-11-22,Wisconsin,10,27,L,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Illinois,2025-11-29,Northwestern,20,13,W,https://fightingillini.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-09-20,Maryland,10,27,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-10-04,Michigan,10,24,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-10-11,Iowa,0,37,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-10-18,Ohio State,0,34,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-10-25,Oregon,7,21,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-11-08,Washington,13,10,W,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-11-15,Indiana,7,31,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-11-22,Illinois,27,10,W,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff
+Wisconsin,2025-11-29,Minnesota,7,17,L,https://uwbadgers.com/sports/football/stats/2025,1,historical outcome; NEVER expose at or before game kickoff

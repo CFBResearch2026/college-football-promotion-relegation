@@ -1,0 +1,19 @@
+indiana_win,ohio_state_win,oregon_win,team_a,team_b,wins_each,pairwise_winner,decisive_step,note
+1,1,1,Indiana,Ohio State,9,Ohio State,cumulative_opponent_win_pct,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,1,0,Indiana,Ohio State,9,Ohio State,cumulative_opponent_win_pct,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,1,0,Michigan,Oregon,7,Oregon,ranked_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,0,1,Ohio State,Michigan,8,Michigan,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,0,1,Ohio State,Oregon,8,Oregon,cumulative_opponent_win_pct,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,0,1,Michigan,Oregon,8,Oregon,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+1,0,0,Ohio State,Michigan,8,Michigan,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,1,1,Indiana,Oregon,8,Indiana,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,1,0,Michigan,Oregon,7,Oregon,ranked_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Indiana,Ohio State,8,Ohio State,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Indiana,Michigan,8,Michigan,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Indiana,Oregon,8,Indiana,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Ohio State,Michigan,8,Michigan,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Ohio State,Oregon,8,Oregon,cumulative_opponent_win_pct,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,1,Michigan,Oregon,8,Oregon,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,0,Indiana,Ohio State,8,Ohio State,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,0,Indiana,Michigan,8,Michigan,all_common_opponents,Pairwise diagnostic only; not a substitute for multi-team tiebreaker
+0,0,0,Ohio State,Michigan,8,Michigan,head_to_head,Pairwise diagnostic only; not a substitute for multi-team tiebreaker

@@ -1,0 +1,43 @@
+cutoff_date,latest_official_release,target_matchup,game_date,away,home,temporal_state,schedule_coverage,source_url
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-01,Penn State,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-01,Indiana,Maryland,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-01,Purdue,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-07,Northwestern,USC,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-08,Indiana,Penn State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-08,Ohio State,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-08,Oregon,Iowa,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-14,Minnesota,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-15,Michigan,Northwestern,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-15,Wisconsin,Indiana,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-15,UCLA,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-22,Rutgers,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-22,USC,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-22,Michigan,Maryland,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-28,Indiana,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-01,2025-10-29,Penn State at Ohio State,2025-11-29,Ohio State,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-08,Indiana,Penn State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-08,Ohio State,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-08,Oregon,Iowa,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-14,Minnesota,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-15,Michigan,Northwestern,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-15,Wisconsin,Indiana,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-15,UCLA,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-22,Rutgers,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-22,USC,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-22,Michigan,Maryland,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-28,Indiana,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-08,2025-11-05,Indiana at Penn State,2025-11-29,Ohio State,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-15,Michigan,Northwestern,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-15,Wisconsin,Indiana,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-15,UCLA,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-22,Rutgers,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-22,USC,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-22,Michigan,Maryland,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-28,Indiana,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-15,2025-11-12,Michigan at Northwestern,2025-11-29,Ohio State,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-22,2025-11-19,Rutgers at Ohio State,2025-11-22,Rutgers,Ohio State,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-22,2025-11-19,Rutgers at Ohio State,2025-11-22,USC,Oregon,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-22,2025-11-19,Rutgers at Ohio State,2025-11-22,Michigan,Maryland,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-22,2025-11-19,Rutgers at Ohio State,2025-11-28,Indiana,Purdue,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-22,2025-11-19,Rutgers at Ohio State,2025-11-29,Ohio State,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html
+2025-11-29,2025-11-26,Ohio State at Michigan,2025-11-29,Ohio State,Michigan,FUTURE_UNRESOLVED,PARTIAL_SEED,https://www.sports-reference.com/cfb/conferences/big-ten/2025-schedule.html

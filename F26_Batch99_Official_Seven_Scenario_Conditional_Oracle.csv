@@ -1,0 +1,8 @@
+scenario,indiana_win,ohio_state_win,oregon_win,official_berths,source,test_type,full_rule_simulation
+1,1,1,1,Ohio State–Indiana,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+2,1,0,1,Indiana–Oregon,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+3,1,0,0,Indiana–Michigan,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+4,0,1,1,Ohio State–Indiana,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+5,0,0,1,Oregon–Michigan,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+6,0,0,0,Michigan–Ohio State,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN
+7,0,1,0,Ohio State–Indiana,https://bigten.org/article/58996/,OFFICIAL_CONDITIONAL_ORACLE_ONLY,NOT_RUN

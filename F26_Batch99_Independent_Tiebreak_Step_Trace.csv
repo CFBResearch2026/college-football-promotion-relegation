@@ -1,0 +1,9 @@
+indiana_win,ohio_state_win,oregon_win,first_selection,second_selection
+0,0,0,1:Indiana;Michigan;Ohio State=>Michigan [head-to-head],2:Indiana;Ohio State=>Ohio State [common opponents]
+0,0,1,1:Indiana;Michigan;Ohio State;Oregon=>Oregon [opponent conference win percentage],2:Indiana;Michigan;Ohio State=>Michigan [head-to-head]
+0,1,0,1:Ohio State=>Ohio State [outright record],2:Indiana=>Indiana [outright record]
+0,1,1,1:Ohio State=>Ohio State [outright record],2:Indiana;Oregon=>Indiana [head-to-head]
+1,0,0,1:Indiana=>Indiana [outright record],2:Michigan;Ohio State=>Michigan [head-to-head]
+1,0,1,1:Indiana=>Indiana [outright record],2:Michigan;Ohio State;Oregon=>Oregon [opponent conference win percentage]
+1,1,0,1:Indiana;Ohio State=>Ohio State [opponent conference win percentage],2:Indiana=>Indiana [outright record]
+1,1,1,1:Indiana;Ohio State=>Ohio State [opponent conference win percentage],2:Indiana=>Indiana [outright record]

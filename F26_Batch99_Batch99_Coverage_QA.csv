@@ -1,0 +1,8 @@
+measure,value
+team_specific_schedule_confirmations,126
+distinct_schedule_games_verified,74
+team_specific_score_records,108
+distinct_games_with_official_scores,71
+date_frozen_score_rows,386
+schedule_exceptions,0
+reciprocal_score_conflicts,0

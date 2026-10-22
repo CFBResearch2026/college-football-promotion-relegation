@@ -1,0 +1,10 @@
+date,opponent,official_role,reconstructed_role,status,notes
+2025-09-20,USC,away,away,MATCH,
+2025-10-04,Nebraska,away,away,MATCH,
+2025-10-11,UCLA,home,home,MATCH,
+2025-10-18,Indiana,away,home,CONFLICT,
+2025-10-25,Michigan,home,home,MATCH,
+2025-11-01,Minnesota,away,away,MATCH,
+2025-11-15,Penn State,home,home,MATCH,
+2025-11-22,Iowa,away,away,MATCH,
+2025-11-29,Maryland,neutral,home,MATCH,"Official site marks neutral Ford Field, Detroit; retrospective schedule may assign nominal home team"

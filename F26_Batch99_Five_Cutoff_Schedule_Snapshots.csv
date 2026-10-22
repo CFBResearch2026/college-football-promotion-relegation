@@ -1,0 +1,118 @@
+cutoff_date,game_date,away,home,is_cutoff_date_game,result_available_at_cutoff,note
+2025-11-01,2025-11-01,Rutgers,Illinois,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-01,Indiana,Maryland,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-01,Purdue,Michigan,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-01,Michigan State,Minnesota,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-01,Penn State,Ohio State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-01,USC,Nebraska,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-07,Northwestern,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Indiana,Penn State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Nebraska,UCLA,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Ohio State,Purdue,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Oregon,Iowa,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Maryland,Rutgers,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-08,Washington,Wisconsin,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-14,Minnesota,Oregon,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Maryland,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Wisconsin,Indiana,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Michigan,Northwestern,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,UCLA,Ohio State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Penn State,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Iowa,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-15,Purdue,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Michigan State,Iowa,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Michigan,Maryland,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Minnesota,Northwestern,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Rutgers,Ohio State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,USC,Oregon,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Nebraska,Penn State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Washington,UCLA,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-22,Illinois,Wisconsin,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-28,Indiana,Purdue,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-28,Iowa,Nebraska,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Northwestern,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Maryland,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Wisconsin,Minnesota,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Ohio State,Michigan,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Oregon,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,Penn State,Rutgers,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-01,2025-11-29,UCLA,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Indiana,Penn State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Nebraska,UCLA,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Ohio State,Purdue,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Oregon,Iowa,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Maryland,Rutgers,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-08,Washington,Wisconsin,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-14,Minnesota,Oregon,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Maryland,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Wisconsin,Indiana,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Michigan,Northwestern,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,UCLA,Ohio State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Penn State,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Iowa,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-15,Purdue,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Michigan State,Iowa,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Michigan,Maryland,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Minnesota,Northwestern,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Rutgers,Ohio State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,USC,Oregon,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Nebraska,Penn State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Washington,UCLA,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-22,Illinois,Wisconsin,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-28,Indiana,Purdue,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-28,Iowa,Nebraska,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Northwestern,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Maryland,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Wisconsin,Minnesota,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Ohio State,Michigan,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Oregon,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,Penn State,Rutgers,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-08,2025-11-29,UCLA,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Maryland,Illinois,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Wisconsin,Indiana,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Michigan,Northwestern,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,UCLA,Ohio State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Penn State,Michigan State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Iowa,USC,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-15,Purdue,Washington,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Michigan State,Iowa,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Michigan,Maryland,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Minnesota,Northwestern,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Rutgers,Ohio State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,USC,Oregon,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Nebraska,Penn State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Washington,UCLA,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-22,Illinois,Wisconsin,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-28,Indiana,Purdue,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-28,Iowa,Nebraska,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Northwestern,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Maryland,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Wisconsin,Minnesota,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Ohio State,Michigan,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Oregon,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,Penn State,Rutgers,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-15,2025-11-29,UCLA,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Michigan State,Iowa,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Michigan,Maryland,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Minnesota,Northwestern,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Rutgers,Ohio State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,USC,Oregon,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Nebraska,Penn State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Washington,UCLA,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-22,Illinois,Wisconsin,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-28,Indiana,Purdue,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-28,Iowa,Nebraska,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Northwestern,Illinois,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Maryland,Michigan State,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Wisconsin,Minnesota,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Ohio State,Michigan,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Oregon,Washington,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,Penn State,Rutgers,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-22,2025-11-29,UCLA,USC,False,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Northwestern,Illinois,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Maryland,Michigan State,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Wisconsin,Minnesota,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Ohio State,Michigan,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Oregon,Washington,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,Penn State,Rutgers,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only
+2025-11-29,2025-11-29,UCLA,USC,True,False,Schedule-only snapshot; scores must be joined from games before cutoff only

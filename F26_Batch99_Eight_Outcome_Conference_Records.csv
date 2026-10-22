@@ -1,0 +1,9 @@
+indiana_win,ohio_state_win,oregon_win,official_finalists,official_oracle_present,direct_berths_above_cutoff,teams_tied_at_berth_cutoff,tie_requires_multiway,indiana_conference_wins,ohio_state_conference_wins,michigan_conference_wins,oregon_conference_wins,full_algorithm_validated
+1,1,1,Ohio State–Indiana,True,,Indiana;Ohio State,False,9,9,7,8,NO
+1,1,0,Ohio State–Indiana,False,,Indiana;Ohio State,False,9,9,7,7,NO
+1,0,1,Indiana–Oregon,True,Indiana,Ohio State;Michigan;Oregon,True,9,8,8,8,NO
+1,0,0,Indiana–Michigan,True,Indiana,Ohio State;Michigan,False,9,8,8,7,NO
+0,1,1,Ohio State–Indiana,True,Ohio State,Indiana;Oregon,False,8,9,7,8,NO
+0,1,0,Ohio State–Indiana,True,Ohio State,Indiana,False,8,9,7,7,NO
+0,0,1,Oregon–Michigan,True,,Indiana;Ohio State;Michigan;Oregon,True,8,8,8,8,NO
+0,0,0,Michigan–Ohio State,True,,Indiana;Ohio State;Michigan,True,8,8,8,7,NO

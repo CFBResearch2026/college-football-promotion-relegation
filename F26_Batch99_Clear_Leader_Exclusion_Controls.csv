@@ -1,0 +1,10 @@
+n,excluded,expected,actual,pass
+4,C,A|B,A|B,True
+4,D,A|B,A|B,True
+5,C,A|B,A|B,True
+5,D,A|B,A|B,True
+5,E,A|B,A|B,True
+6,C,A|B,A|B,True
+6,D,A|B,A|B,True
+6,E,A|B,A|B,True
+6,F,A|B,A|B,True

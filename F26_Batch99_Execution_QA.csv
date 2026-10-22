@@ -1,0 +1,7 @@
+check,result,status
+games_in_reconstruction,81,PASS
+distinct_teams,18,PASS
+each_team_nine_games,{},PASS
+target_games_unique,"{'indiana': 1, 'ohio_state': 1, 'oregon': 1}",PASS
+official_seven_scenarios,"Counter({'PASS': 7, 'NO_OFFICIAL_ORACLE': 1})",PASS
+multi_ineligible_fixtures,Counter({'PASS': 7}),PASS

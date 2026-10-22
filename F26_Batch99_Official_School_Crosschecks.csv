@@ -1,0 +1,140 @@
+team,game_date,opponent,team_role,official_source_url,verification_scope,status
+Ohio State,2025-09-27,Washington,away,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-10-04,Minnesota,home,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-10-11,Illinois,away,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-10-18,Wisconsin,away,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-11-01,Penn State,home,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-11-08,Purdue,away,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-11-15,UCLA,home,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-11-22,Rutgers,home,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Ohio State,2025-11-29,Michigan,away,https://ohiostatebuckeyes.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-09-20,Nebraska,away,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-10-04,Wisconsin,home,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-10-11,USC,away,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-10-18,Washington,home,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-10-25,Michigan State,away,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-11-01,Purdue,home,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-11-15,Northwestern,away,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-11-22,Maryland,away,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan,2025-11-29,Ohio State,home,https://mgoblue.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-09-27,Rutgers,home,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-10-04,Ohio State,away,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-10-11,Purdue,home,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-10-17,Nebraska,home,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-10-25,Iowa,away,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-11-01,Michigan State,home,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-11-14,Oregon,away,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-11-22,Northwestern,away,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Minnesota,2025-11-29,Wisconsin,home,https://gophersports.com/sports/football/stats/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-09-20,Illinois,home,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-09-27,Iowa,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-10-11,Oregon,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-10-18,Michigan State,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-10-25,UCLA,home,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-11-01,Maryland,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-11-08,Penn State,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-11-15,Wisconsin,home,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-11-28,Purdue,away,https://bigten.org/schedule.aspx?schedule=2148,official schedule page reviewed; individual fixture crosscheck pending,PENDING_ROW_LEVEL_QA
+Indiana,2025-09-20,Illinois,home,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-09-27,Iowa,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-10-11,Oregon,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-10-18,Michigan State,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-10-25,UCLA,home,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-11-01,Maryland,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-11-08,Penn State,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-11-15,Wisconsin,home,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Indiana,2025-11-28,Purdue,away,https://iuhoosiers.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-09-13,Purdue,away,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-09-20,Michigan State,home,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-09-27,Illinois,away,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-10-11,Michigan,home,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-11-01,Nebraska,away,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-11-07,Northwestern,home,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-11-15,Iowa,home,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-11-22,Oregon,away,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+USC,2025-11-29,UCLA,home,https://usctrojans.com/sports/football/schedule/text/2025,official schedule date opponent and home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-09-19,Iowa,home,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-09-27,Minnesota,away,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-10-10,Washington,away,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-10-18,Oregon,home,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-10-25,Purdue,away,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-11-01,Illinois,away,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-11-08,Maryland,home,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-11-22,Ohio State,away,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Rutgers,2025-11-29,Penn State,home,https://scarletknights.com/sports/football/schedule/text/2025,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-09-13,Northwestern,away,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-09-27,Penn State,away,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-10-11,Indiana,home,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-10-18,Rutgers,away,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-10-25,Wisconsin,home,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-11-08,Iowa,away,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-11-14,Minnesota,home,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-11-22,USC,home,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Oregon,2025-11-29,Washington,away,https://do2ufdrk7dzyk.cloudfront.net/sports/2020/4/2/oregon-football-stats-by-season,official date opponent home/away checked,CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-09-20,Indiana,away,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-09-27,USC,home,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-10-04,Purdue,away,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-10-11,Ohio State,home,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-10-25,Washington,away,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-11-01,Rutgers,home,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-11-15,Maryland,home,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-11-22,Wisconsin,away,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Illinois,2025-11-29,Northwestern,home,https://fightingillini.com/sports/football/schedule/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-09-20,Maryland,home,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-10-04,Michigan,away,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-10-11,Iowa,home,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-10-18,Ohio State,home,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-10-25,Oregon,away,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-11-08,Washington,home,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-11-15,Indiana,away,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-11-22,Illinois,home,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Wisconsin,2025-11-29,Minnesota,away,https://uwbadgers.com/sports/football/schedule/text/2025,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-09-19,Rutgers,away,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-09-27,Indiana,home,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-10-11,Wisconsin,away,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-10-18,Penn State,home,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-10-25,Minnesota,home,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-11-08,Oregon,home,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-11-15,USC,away,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-11-22,Michigan State,home,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Iowa,2025-11-28,Nebraska,away,https://hawkeyesports.com/news/2024/12/11/big-ten-announces-2025-football-schedule,"official schedule date, opponent and home/away checked",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-09-20,Wisconsin,away,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-10-04,Washington,home,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-10-11,Nebraska,home,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-10-18,UCLA,away,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-11-01,Indiana,home,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-11-08,Rutgers,away,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-11-15,Illinois,away,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-11-22,Michigan,home,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Maryland,2025-11-29,Michigan State,away,https://umterps.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-09-13,USC,home,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-10-04,Illinois,home,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-10-11,Minnesota,away,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-10-18,Northwestern,away,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-10-25,Rutgers,home,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-11-01,Michigan,away,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-11-08,Ohio State,home,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-11-15,Washington,away,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Purdue,2025-11-28,Indiana,home,https://purduesports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-09-13,Oregon,home,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-09-27,UCLA,home,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-10-11,Penn State,away,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-10-18,Purdue,home,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-10-25,Nebraska,away,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-11-07,USC,away,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-11-15,Michigan,home,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-11-22,Minnesota,home,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Northwestern,2025-11-29,Illinois,away,https://nusports.com/sports/football/schedule/season/2025,"official retrospective schedule date, opponent and venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-09-20,USC,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-04,Nebraska,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-11,UCLA,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-18,Indiana,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",ROLE_CONFLICT
+Michigan State,2025-10-25,Michigan,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-01,Minnesota,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-15,Penn State,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-22,Iowa,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-29,Maryland,neutral,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+UCLA,2025-10-04,Penn State,home,https://uclabruins.com/documents/download/2025/8/7/FB-25-Schedule.pdf,official schedule date opponent and role checked,CONFIRMED_DATE_OPPONENT_ROLE
+UCLA,2025-11-08,Nebraska,home,https://uclabruins.com/documents/download/2025/8/7/FB-25-Schedule.pdf,official schedule date opponent and role checked,CONFIRMED_DATE_OPPONENT_ROLE
+UCLA,2025-11-22,Washington,home,https://gohuskies.com/sports/football/stats/2025/ucla/boxscore/24433,official schedule date opponent and role checked,CONFIRMED_DATE_OPPONENT_ROLE
+Penn State,2025-11-22,Nebraska,home,https://gopsusports.com/sports/football/schedule/season/2025,official schedule date opponent and role checked,CONFIRMED_DATE_OPPONENT_ROLE

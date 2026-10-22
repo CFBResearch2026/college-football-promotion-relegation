@@ -1,0 +1,6 @@
+test,status,expected_first,actual_finalists,scope
+exclude_outight_leader,PASS,B,B|C,Eligibility exclusion only; does not validate special sanction displacement rules
+exclude_one_of_tied_leaders,PASS,B,B|C,Eligibility exclusion only; does not validate special sanction displacement rules
+only_one_eligible,PASS,B,B,Eligibility exclusion only; does not validate special sanction displacement rules
+no_eligible,PASS,,,Eligibility exclusion only; does not validate special sanction displacement rules
+ineligible_opponents_still_count,PASS,B,B|C,Eligibility exclusion only; does not validate special sanction displacement rules

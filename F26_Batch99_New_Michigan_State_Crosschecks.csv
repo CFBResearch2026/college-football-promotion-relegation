@@ -1,0 +1,10 @@
+team,game_date,opponent,team_role,official_source_url,verification_scope,status
+Michigan State,2025-09-20,USC,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-04,Nebraska,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-11,UCLA,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-10-18,Indiana,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",ROLE_CONFLICT
+Michigan State,2025-10-25,Michigan,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-01,Minnesota,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-15,Penn State,home,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-22,Iowa,away,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE
+Michigan State,2025-11-29,Maryland,neutral,https://msuspartans.com/sports/football/schedule/text/2025,"official retrospective schedule date, opponent, venue role",CONFIRMED_DATE_OPPONENT_ROLE

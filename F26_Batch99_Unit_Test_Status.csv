@@ -1,0 +1,3 @@
+test_suite,tests_run,tests_passed,tests_failed,scope,status
+synthetic head-to-head/common-opponent primitives,9,9,0,"isolated reference functions, not production prototype end-to-end",PASS
+production prototype multi-team full integration,0,0,0,requires refactoring source and dedicated fixture injection,HOLD

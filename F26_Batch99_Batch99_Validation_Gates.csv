@@ -1,0 +1,8 @@
+metric,value,expectation,passed
+reconstructed_games,81,expected_81,True
+score_resolved_games,81,expected_81,True
+score_conflicts_or_missing,0,expected_0,True
+unique_teams,18,expected_18,True
+seven_official_scenarios,7,expected_7,True
+scenario_binary_combinations,7,expected_7_of_8,True
+each_team_9_games,0,expected_0,True

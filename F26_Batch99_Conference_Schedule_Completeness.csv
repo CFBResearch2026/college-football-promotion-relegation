@@ -1,0 +1,8 @@
+measure,value,interpretation
+conference_teams,18,2025 Big Ten membership
+conference_games_per_team,9,2025 scheduling format; official Nebraska release
+expected_unique_regular_season_conference_games,81,18 x 9 / 2; excludes conference championship
+selected_seed_records,16,partial retrospective schedule; not full league coverage
+official_Nebraska_games_verified,9,"one complete team-specific schedule, not league-wide completion"
+league_wide_remaining_games_unverified,65,upper-level coverage gap vs selected seed; some official Nebraska games may not yet be merged
+sports_reference_page_label,83 Games,Do not equate page count with 81 regular-season fixtures; scope requires reconciliation

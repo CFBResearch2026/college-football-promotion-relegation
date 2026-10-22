@@ -1,0 +1,25 @@
+case,game_count,legacy_finalists,new_finalists,legacy_resolved,new_resolved,classification,legacy_error,new_error,adjudication
+178,11,,A|B,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+293,12,,A|D,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+339,6,,A|G,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+350,11,,A|C,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+352,9,,D|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+538,12,H|G,D|H,True,True,different_finalists,,,PENDING: synthetic graph not an official Big Ten decision
+555,10,,B|E,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+580,10,,B|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+626,15,,B|E,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+752,10,,E|G,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+763,10,,E|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+842,14,,E|G,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+925,12,E|D,B|E,True,True,different_finalists,,,PENDING: synthetic graph not an official Big Ten decision
+955,12,,A|C,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+964,9,,E|G,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1155,15,G|D,G|H,True,True,different_finalists,,,PENDING: synthetic graph not an official Big Ten decision
+1206,12,,C|D,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1242,6,,B|C,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1250,9,,A|F,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1295,9,,A|G,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1399,12,,A|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1428,8,,B|E,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1442,10,,B|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision
+1485,11,,F|H,False,True,resolution_difference,,,PENDING: synthetic graph not an official Big Ten decision

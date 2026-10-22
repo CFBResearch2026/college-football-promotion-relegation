@@ -1,0 +1,19 @@
+team,games,home_games,away_games,passes_nine_game_check
+Illinois,9,5,4,True
+Indiana,9,3,6,True
+Iowa,9,5,4,True
+Maryland,9,4,5,True
+Michigan,9,4,5,True
+Michigan State,9,5,4,True
+Minnesota,9,5,4,True
+Nebraska,9,5,4,True
+Northwestern,9,5,4,True
+Ohio State,9,4,5,True
+Oregon,9,4,5,True
+Penn State,9,4,5,True
+Purdue,9,5,4,True
+Rutgers,9,4,5,True
+UCLA,9,4,5,True
+USC,9,5,4,True
+Washington,9,5,4,True
+Wisconsin,9,5,4,True

@@ -1,0 +1,9 @@
+check,result,pass
+81 game baseline,81,True
+Official school team schedules sampled,4,True
+Row-level official school fixtures verified,27,True
+Independent unique fixtures covered,25,True
+Official scored team-games,27,True
+Official score schedule mismatches,0,True
+Full conference score join,BLOCKED,False
+2025-specific governing tiebreaker,NOT VERIFIED,False

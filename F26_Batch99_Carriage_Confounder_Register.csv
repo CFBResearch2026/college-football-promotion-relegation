@@ -1,0 +1,3 @@
+date,affected_networks,confounder,source,treatment,caution
+2025-11-01,ABC ESPN ESPN2 ACCN SEC Network,Disney/YouTube TV distribution blackout,https://www.on3.com/news/college-football-tv-ratings-top-10-most-watched-games-week-11/,FLAG_NETWORK_EXPOSURE_AND_DATE,Do not treat audience difference as stakes effect
+2025-11-08,ABC ESPN ESPN2 ACCN SEC Network,Disney/YouTube TV distribution blackout,https://www.on3.com/news/college-football-tv-ratings-top-10-most-watched-games-week-11/,FLAG_NETWORK_EXPOSURE_AND_DATE,Do not treat audience difference as stakes effect

@@ -1,0 +1,9 @@
+indiana_win,ohio_state_win,oregon_win,highest_wins,top_tied_teams,next_tier_teams,multi_team_tie_requiring_B,official_berths,implementation_status
+0,0,0,8,Indiana;Michigan;Ohio State,Indiana;Michigan;Ohio State,1,Michigan–Ohio State,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+0,0,1,8,Indiana;Michigan;Ohio State;Oregon,Indiana;Michigan;Ohio State;Oregon,1,Oregon–Michigan,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+0,1,0,9,Ohio State,Indiana,0,Ohio State–Indiana,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+0,1,1,9,Ohio State,Indiana;Oregon,0,Ohio State–Indiana,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+1,0,0,9,Indiana,Michigan;Ohio State,0,Indiana–Michigan,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+1,0,1,9,Indiana,Michigan;Ohio State;Oregon,1,Indiana–Oregon,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+1,1,0,9,Indiana;Ohio State,Indiana;Ohio State,0,NOT_PUBLISHED,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED
+1,1,1,9,Indiana;Ohio State,Indiana;Ohio State,0,Ohio State–Indiana,RULE_SPEC_ONLY_NOT_INDEPENDENTLY_SELECTED

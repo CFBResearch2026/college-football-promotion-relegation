@@ -1,0 +1,17 @@
+team,games_in_partial_seed,expected_games,remaining_unrepresented,note
+Indiana,4,9,5,Coverage count is not independently verified complete
+Iowa,2,9,7,Coverage count is not independently verified complete
+Maryland,3,9,6,Coverage count is not independently verified complete
+Michigan,5,9,4,Coverage count is not independently verified complete
+Michigan State,1,9,8,Coverage count is not independently verified complete
+Minnesota,2,9,7,Coverage count is not independently verified complete
+Nebraska,9,9,0,Coverage count is not independently verified complete
+Northwestern,3,9,6,Coverage count is not independently verified complete
+Ohio State,5,9,4,Coverage count is not independently verified complete
+Oregon,3,9,6,Coverage count is not independently verified complete
+Penn State,3,9,6,Coverage count is not independently verified complete
+Purdue,3,9,6,Coverage count is not independently verified complete
+Rutgers,1,9,8,Coverage count is not independently verified complete
+UCLA,2,9,7,Coverage count is not independently verified complete
+USC,3,9,6,Coverage count is not independently verified complete
+Wisconsin,1,9,8,Coverage count is not independently verified complete

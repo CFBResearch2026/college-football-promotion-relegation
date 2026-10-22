@@ -1,0 +1,6 @@
+check,value,status
+official scenario agreement,7/7,PASS
+all outcome combinations,8/8,PASS
+full 2025 governing text,not authenticated,HOLD
+SportSource and random draw,not needed in tested scenarios,NOT_TESTED
+generalized simulator approval,not granted,HOLD

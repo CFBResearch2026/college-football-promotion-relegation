@@ -1,0 +1,82 @@
+date,away,home,away_wins_actual,source_records
+2025-09-13,Oregon,Northwestern,1,2
+2025-09-13,USC,Purdue,1,2
+2025-09-19,Iowa,Rutgers,1,1
+2025-09-20,Illinois,Indiana,0,2
+2025-09-20,Maryland,Wisconsin,1,2
+2025-09-20,Michigan,Nebraska,1,1
+2025-09-20,Michigan State,USC,0,2
+2025-09-27,USC,Illinois,0,2
+2025-09-27,Indiana,Iowa,1,1
+2025-09-27,Rutgers,Minnesota,0,2
+2025-09-27,UCLA,Northwestern,0,1
+2025-09-27,Ohio State,Washington,1,1
+2025-09-27,Oregon,Penn State,1,1
+2025-10-04,Illinois,Purdue,1,2
+2025-10-04,Wisconsin,Michigan,0,2
+2025-10-04,Michigan State,Nebraska,0,1
+2025-10-04,Minnesota,Ohio State,0,2
+2025-10-04,Penn State,UCLA,0,1
+2025-10-04,Washington,Maryland,1,1
+2025-10-10,Rutgers,Washington,0,1
+2025-10-11,Indiana,Oregon,1,2
+2025-10-11,Iowa,Wisconsin,1,1
+2025-10-11,Purdue,Minnesota,0,2
+2025-10-11,Nebraska,Maryland,1,1
+2025-10-11,Northwestern,Penn State,1,1
+2025-10-11,Ohio State,Illinois,1,2
+2025-10-11,Michigan,USC,0,2
+2025-10-11,UCLA,Michigan State,1,1
+2025-10-17,Nebraska,Minnesota,0,1
+2025-10-18,Michigan State,Indiana,0,2
+2025-10-18,Penn State,Iowa,0,2
+2025-10-18,Washington,Michigan,0,1
+2025-10-18,Purdue,Northwestern,0,2
+2025-10-18,Ohio State,Wisconsin,1,2
+2025-10-18,Oregon,Rutgers,1,2
+2025-10-18,Maryland,UCLA,0,1
+2025-10-25,UCLA,Indiana,0,1
+2025-10-25,Minnesota,Iowa,0,1
+2025-10-25,Michigan,Michigan State,1,2
+2025-10-25,Northwestern,Nebraska,0,1
+2025-10-25,Wisconsin,Oregon,0,2
+2025-10-25,Rutgers,Purdue,1,2
+2025-10-25,Illinois,Washington,0,1
+2025-11-01,Rutgers,Illinois,0,2
+2025-11-01,Indiana,Maryland,1,2
+2025-11-01,Purdue,Michigan,0,2
+2025-11-01,Michigan State,Minnesota,0,2
+2025-11-01,Penn State,Ohio State,0,1
+2025-11-01,USC,Nebraska,1,1
+2025-11-07,Northwestern,USC,0,2
+2025-11-08,Indiana,Penn State,1,1
+2025-11-08,Nebraska,UCLA,1,2
+2025-11-08,Ohio State,Purdue,1,2
+2025-11-08,Oregon,Iowa,1,1
+2025-11-08,Maryland,Rutgers,0,2
+2025-11-08,Washington,Wisconsin,0,1
+2025-11-14,Minnesota,Oregon,0,2
+2025-11-15,Maryland,Illinois,0,2
+2025-11-15,Wisconsin,Indiana,0,2
+2025-11-15,Michigan,Northwestern,1,2
+2025-11-15,UCLA,Ohio State,0,1
+2025-11-15,Penn State,Michigan State,1,1
+2025-11-15,Iowa,USC,0,1
+2025-11-15,Purdue,Washington,0,1
+2025-11-22,Michigan State,Iowa,0,1
+2025-11-22,Michigan,Maryland,1,2
+2025-11-22,Minnesota,Northwestern,0,2
+2025-11-22,Rutgers,Ohio State,0,2
+2025-11-22,USC,Oregon,0,2
+2025-11-22,Nebraska,Penn State,0,1
+2025-11-22,Washington,UCLA,1,1
+2025-11-22,Illinois,Wisconsin,0,2
+2025-11-28,Indiana,Purdue,1,2
+2025-11-28,Iowa,Nebraska,1,2
+2025-11-29,Northwestern,Illinois,0,2
+2025-11-29,Maryland,Michigan State,0,2
+2025-11-29,Wisconsin,Minnesota,0,2
+2025-11-29,Ohio State,Michigan,1,2
+2025-11-29,Oregon,Washington,1,1
+2025-11-29,Penn State,Rutgers,1,1
+2025-11-29,UCLA,USC,0,1

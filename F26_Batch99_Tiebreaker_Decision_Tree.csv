@@ -1,0 +1,7 @@
+order,rule,operational_test,temporal_caveat
+1,Head-to-head,Tied teams head-to-head,2024 official published procedure; 2025 secondary confirmation
+2,Common opponents,Conference record against all common conference opponents,Do not infer outcomes for unplayed games
+3,Best common opponent,Compare performance against common opponents in final standings order,Final ordering cannot be known at earlier kickoff
+4,Opponent cumulative win percentage,Combined conference winning percentage of opponents,Depends on final opponent records
+5,SportSource Analytics,Rating score after regular season,Unavailable contemporaneously for future games
+6,Random draw,Commissioner/designee random draw,No deterministic winner when reached

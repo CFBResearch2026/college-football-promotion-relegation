@@ -1,0 +1,7 @@
+gate,status,reason
+81_game_counterfactual_standings,PASS,8 scenarios x 18 teams
+opponent_winning_percentages,PASS,Computed from nine conference opponents
+pairwise_diagnostics,PASS,Exploratory only
+2025_full_rule_authority,BLOCKED,Full governing 2025 rule not independently obtained
+seven_scenario_independent_reproduction,BLOCKED,No complete multiway selector
+causal_audience_premium,BLOCKED,Not estimated

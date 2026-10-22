@@ -1,0 +1,9 @@
+metric,value
+conference_games,81
+new_team_confirmations,18
+total_team_confirmations,72
+distinct_school_verified_games,54
+total_team_score_controls,63
+snapshot_rows,226
+schedule_mismatches,0
+opposite_team_score_conflicts,0
